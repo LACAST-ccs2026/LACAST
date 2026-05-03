@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "width_bucket_func_evaluator",
+    "right": "\"width_bucket( 7.5 , ARRAY[0, 5, 10, 15] )\""
+}

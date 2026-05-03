@@ -1,0 +1,6 @@
+{
+    "syntax_name": "get_bit",
+    "raw_syntax_name": "get_bit ( bits bit, n integer ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Bit String Functions and Operators"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "starts_with",
+    "raw_syntax_name": "starts_with ( string text, prefix text ) \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

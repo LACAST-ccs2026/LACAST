@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "double_AGG_evaluator",
+    "left": "STDDEV_double_evaluator",
+    "right": "\"STDDEV(\"integer_evaluator_without_agg \")\""
+}

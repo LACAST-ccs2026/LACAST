@@ -1,0 +1,7 @@
+{
+    "syntax_name": "CHAR",
+    "raw_syntax_name": "CHAR()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The CHAR() function returns the character for each integer passed. If multiple arguments are supplied, they are concatenated. Returns NULL if any argument is NULL."
+}

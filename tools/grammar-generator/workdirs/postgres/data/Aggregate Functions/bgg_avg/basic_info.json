@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_avg",
+    "raw_syntax_name": "avg ( smallint ) \u2192 numeric",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

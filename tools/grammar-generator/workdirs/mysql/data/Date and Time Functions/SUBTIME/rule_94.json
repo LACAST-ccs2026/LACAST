@@ -1,0 +1,6 @@
+{
+    "idx": 94,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "SUBTIME_text_evaluator",
+    "right": "\"SUBTIME(\"_var_text \",\" _var_text \")\""
+}

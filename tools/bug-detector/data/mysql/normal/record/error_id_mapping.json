@@ -1,0 +1,10 @@
+{
+    "1052 (23000): Column 'c1' in having clause is ambiguous": {
+        "id": "246ea4f9-e693-47ed-8cfd-24bd6de5291f",
+        "count": 1
+    },
+    "3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.": {
+        "id": "b7066cdf-e3ca-4aa7-883a-68517e952763",
+        "count": 3
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "agg_jsonb_group_object",
+    "raw_syntax_name": "jsonb_group_object(name, _value_)",
+    "is_agg": true,
+    "syntax_type": "JSON Functions"
+}

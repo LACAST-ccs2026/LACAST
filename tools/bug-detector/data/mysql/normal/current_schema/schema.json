@@ -1,0 +1,22 @@
+[
+  {
+    "key": "t1",
+    "fields": [
+      "c0"
+    ],
+    "types": [
+      "DOUBLE"
+    ]
+  },
+  {
+    "key": "t2",
+    "fields": [
+      "c0",
+      "c1"
+    ],
+    "types": [
+      "DOUBLE",
+      "DECIMAL"
+    ]
+  }
+]

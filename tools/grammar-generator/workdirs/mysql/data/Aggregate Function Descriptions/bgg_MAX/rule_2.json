@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "MAX_integer_evaluator",
+    "right": "\"MAX(\"integer_evaluator_without_agg \")\""
+}

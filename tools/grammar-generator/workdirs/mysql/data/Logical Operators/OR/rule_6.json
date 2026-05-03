@@ -1,0 +1,6 @@
+{
+    "idx": 6,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "OR_boolean_evaluator",
+    "right": "integer_evaluator_without_agg \"OR\" _var_integer"
+}

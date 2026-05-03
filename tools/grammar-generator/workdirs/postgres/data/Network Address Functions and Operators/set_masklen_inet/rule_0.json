@@ -1,0 +1,5 @@
+{
+    "type_eval": "inet_evaluator_without_agg",
+    "left": "set_masklen_inet_inet_evaluator",
+    "right": "\"set_masklen('192.168.1.0'::inet, 16)\""
+}

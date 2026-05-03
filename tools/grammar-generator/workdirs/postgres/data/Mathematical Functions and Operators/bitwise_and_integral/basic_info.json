@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bitwise_and_integral",
+    "raw_syntax_name": "integral_type & integral_type \u2192 integral_type",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

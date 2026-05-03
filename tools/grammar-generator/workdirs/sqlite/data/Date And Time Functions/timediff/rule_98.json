@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "agg_timediff_text_evaluator",
+    "right": "\"timediff(\"_var_numeric \",\" real_AGG_evaluator \")\""
+}

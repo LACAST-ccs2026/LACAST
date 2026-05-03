@@ -1,0 +1,6 @@
+{
+    "idx": 9,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "XOR_integer_evaluator",
+    "right": "_var_bit \"XOR\" bit_evaluator_without_agg"
+}

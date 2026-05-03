@@ -1,0 +1,6 @@
+{
+    "idx": 29,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "ROUND_double_evaluator",
+    "right": "\"ROUND(\"_var_timestamp \",\" ROUND_D \")\""
+}

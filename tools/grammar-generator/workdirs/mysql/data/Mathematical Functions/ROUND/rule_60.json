@@ -1,0 +1,6 @@
+{
+    "idx": 60,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "ROUND_double_evaluator",
+    "right": "\"ROUND(\"double_evaluator_without_agg \")\""
+}

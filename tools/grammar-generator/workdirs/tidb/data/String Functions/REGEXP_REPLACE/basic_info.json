@@ -1,0 +1,7 @@
+{
+    "syntax_name": "REGEXP_REPLACE",
+    "raw_syntax_name": "REGEXP_REPLACE()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The REGEXP_REPLACE(str, pattern, replacement) function replaces matches of pattern with replacement."
+}

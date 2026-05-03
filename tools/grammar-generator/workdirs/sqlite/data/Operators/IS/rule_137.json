@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_IS_integer_evaluator",
+    "right": "real_AGG_evaluator \"IS\" _var_text"
+}

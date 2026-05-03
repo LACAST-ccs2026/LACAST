@@ -1,0 +1,6 @@
+{
+    "idx": 13,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "or_integer_evaluator",
+    "right": "_var_double \"|\" double_evaluator_without_agg"
+}

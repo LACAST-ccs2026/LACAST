@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "localtimestamp_timestamp_evaluator",
+    "right": "\"localtimestamp(\"\"4\"\")\""
+}

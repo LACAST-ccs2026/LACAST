@@ -1,0 +1,6 @@
+{
+    "idx": 6,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_MICROSECOND_integer_evaluator",
+    "right": "\"MICROSECOND(\"time_AGG_evaluator \")\""
+}

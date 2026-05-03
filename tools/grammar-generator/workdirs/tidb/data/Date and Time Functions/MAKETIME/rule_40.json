@@ -1,0 +1,6 @@
+{
+    "idx": 40,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "agg_MAKETIME_time_evaluator",
+    "right": "\"MAKETIME(\"integer_evaluator_without_agg \",\" integer_AGG_evaluator \",\" double_evaluator_without_agg \")\""
+}

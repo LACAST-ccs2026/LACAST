@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "INET_ATON_integer_evaluator",
+    "right": "\"INET_ATON(\"blob_evaluator_without_agg \")\""
+}

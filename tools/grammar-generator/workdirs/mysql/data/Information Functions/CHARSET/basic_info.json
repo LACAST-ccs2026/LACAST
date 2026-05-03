@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CHARSET",
+    "raw_syntax_name": "CHARSET(str)",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "log_two_args_double_evaluator",
+    "right": "\"log(\"\"2\" \",\" \"8\"\")\""
+}

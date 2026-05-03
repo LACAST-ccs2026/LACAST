@@ -1,0 +1,5 @@
+{
+    "type_eval": "cidr_evaluator_without_agg",
+    "left": "LEAST_cidr_evaluator",
+    "right": "\"LEAST(\"cidr_evaluator_without_agg \",\" _var_cidr(\",\" _var_cidr)*\")\""
+}

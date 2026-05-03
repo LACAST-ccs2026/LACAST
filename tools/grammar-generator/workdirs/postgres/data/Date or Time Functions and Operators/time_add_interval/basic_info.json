@@ -1,0 +1,6 @@
+{
+    "syntax_name": "time_add_interval",
+    "raw_syntax_name": "time + interval \u2192 time",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "UNIX_TIMESTAMP_integer_evaluator",
+    "right": "\"UNIX_TIMESTAMP(\"datetime_evaluator_without_agg \")\""
+}

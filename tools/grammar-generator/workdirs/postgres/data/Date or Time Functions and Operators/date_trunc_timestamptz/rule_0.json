@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "date_trunc_timestamptz_timestamp_evaluator",
+    "right": "\"date_trunc(\"\"'day'\" \",\" \"'2024-01-01 12:00:00 UTC'::timestamp with time zone\"\")\""
+}

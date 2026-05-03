@@ -1,0 +1,6 @@
+{
+    "idx": 28,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_CRC32_integer_evaluator",
+    "right": "\"CRC32(\"blob_AGG_evaluator \")\""
+}

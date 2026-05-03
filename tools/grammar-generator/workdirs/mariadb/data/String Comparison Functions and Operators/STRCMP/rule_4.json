@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "STRCMP_integer_evaluator",
+    "right": "\"STRCMP(\"_var_text \",\" _var_char \")\""
+}

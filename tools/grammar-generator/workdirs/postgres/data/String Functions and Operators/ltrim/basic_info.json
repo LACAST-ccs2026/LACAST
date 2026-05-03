@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ltrim",
+    "raw_syntax_name": "ltrim ( string text [, characters text ] ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

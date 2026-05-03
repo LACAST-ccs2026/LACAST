@@ -1,0 +1,6 @@
+{
+    "idx": 6,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "not_boolean_evaluator",
+    "right": "\"!(\"boolean_evaluator_without_agg \")\""
+}

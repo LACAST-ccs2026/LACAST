@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_SECOND_integer_evaluator",
+    "right": "\"SECOND(\"text_AGG_evaluator \")\""
+}

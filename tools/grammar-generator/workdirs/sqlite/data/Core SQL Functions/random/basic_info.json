@@ -1,0 +1,6 @@
+{
+    "syntax_name": "random",
+    "raw_syntax_name": "random()",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

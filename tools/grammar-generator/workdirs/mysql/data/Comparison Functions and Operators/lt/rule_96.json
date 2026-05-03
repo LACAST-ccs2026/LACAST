@@ -1,0 +1,6 @@
+{
+    "idx": 96,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_lt_boolean_evaluator",
+    "right": "text_AGG_evaluator \"<\" text_AGG_evaluator"
+}

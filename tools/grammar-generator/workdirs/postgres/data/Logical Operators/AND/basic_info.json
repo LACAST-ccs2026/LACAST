@@ -1,0 +1,6 @@
+{
+    "syntax_name": "AND",
+    "raw_syntax_name": "boolean AND boolean \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "Logical Operators"
+}

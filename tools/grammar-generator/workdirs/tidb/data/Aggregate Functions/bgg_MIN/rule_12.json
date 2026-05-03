@@ -1,0 +1,6 @@
+{
+    "idx": 12,
+    "type_eval": "double_AGG_evaluator",
+    "left": "MIN_double_evaluator",
+    "right": "\"MIN(\"double_evaluator_without_agg \")\""
+}

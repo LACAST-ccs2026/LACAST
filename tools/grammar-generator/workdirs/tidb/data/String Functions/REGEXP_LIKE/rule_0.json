@@ -1,0 +1,1 @@
+{"idx": 0, "type_eval": "boolean_evaluator_without_agg", "left": "REGEXP_LIKE_boolean_evaluator", "right": "\"REGEXP_LIKE(\" _var_char \",\" _var_char \")\""}

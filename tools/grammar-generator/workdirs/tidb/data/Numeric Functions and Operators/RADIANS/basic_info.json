@@ -1,0 +1,6 @@
+{
+    "syntax_name": "RADIANS",
+    "raw_syntax_name": "RADIANS(X)",
+    "is_agg": false,
+    "syntax_type": "Numeric Functions and Operators"
+}

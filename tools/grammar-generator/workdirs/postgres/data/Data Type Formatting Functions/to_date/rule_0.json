@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_evaluator_without_agg",
+    "left": "to_date_date_evaluator",
+    "right": "\"to_date(\" \"'2024-01-01'\" \",\" \"'YYYY-MM-DD'\" \")\""
+}

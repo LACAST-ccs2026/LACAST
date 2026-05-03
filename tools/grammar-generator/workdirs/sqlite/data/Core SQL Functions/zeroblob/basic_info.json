@@ -1,0 +1,6 @@
+{
+    "syntax_name": "zeroblob",
+    "raw_syntax_name": "zeroblob(N)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

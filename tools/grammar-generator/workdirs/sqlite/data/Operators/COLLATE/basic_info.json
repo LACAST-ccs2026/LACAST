@@ -1,0 +1,6 @@
+{
+    "syntax_name": "COLLATE",
+    "raw_syntax_name": "expr COLLATE collation-name DESC ASC NULLS FIRST NULLS LAST",
+    "is_agg": false,
+    "syntax_type": "Operators"
+}

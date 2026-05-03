@@ -1,0 +1,6 @@
+{
+    "syntax_name": "position_bytea",
+    "raw_syntax_name": "position ( substring bytea IN bytes bytea ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

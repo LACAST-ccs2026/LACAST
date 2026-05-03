@@ -1,0 +1,6 @@
+{
+    "syntax_name": "localtime_with_precision",
+    "raw_syntax_name": "localtime ( integer ) \u2192 time",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

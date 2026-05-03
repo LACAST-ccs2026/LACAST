@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_BOUNDED_STALENESS",
+    "raw_syntax_name": "TIDB_BOUNDED_STALENESS",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "TIDB_BOUNDED_STALENESS(from, to) returns a time range for stale reads."
+}

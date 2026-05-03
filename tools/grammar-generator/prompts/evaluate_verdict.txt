@@ -1,0 +1,28 @@
+Analyze this SQL rule test result and determine whether the rule passed or failed.
+
+=== RULE VALIDATION CRITERIA ===
+A valid rule must:
+- type_eval is one of: `<datatype>_evaluator_without_agg` or `<datatype>_AGG_evaluator`
+- left follows the format: `<SHORT_NAME>_<datatype>_evaluator`
+- All SQL keywords, parens, commas in `right` are double-quoted
+- Grammar variables (_var_<type>, etc.) are NOT quoted
+
+=== EVALUATION LOGIC ===
+The test logs contain accuracy information and error messages.
+- If accuracy >= 0.95 and no critical errors: the rule PASSED
+- If accuracy < 0.95: the rule FAILED
+
+Determine the error_type from the failure:
+- "unsupported_datatype" — type_eval references a datatype not supported
+- "syntax_error" — right has malformed syntax or unquoted tokens
+- "missing_quote" — SQL tokens in right are not double-quoted
+- "execution_error" — SQL generated but execution failed
+- "aggregate_misuse" — aggregate function in invalid context
+- "missing_rule" — rule not found in rule map (invalid left/right format)
+- "unknown" — cannot determine
+
+Return JSON with:
+- status: "pass" if rule is valid and accurate enough, "fail" otherwise
+- accuracy: the accuracy score (float 0.0 to 1.0)
+- summary: brief explanation
+- error_type: the type of error if failed, or null if passed

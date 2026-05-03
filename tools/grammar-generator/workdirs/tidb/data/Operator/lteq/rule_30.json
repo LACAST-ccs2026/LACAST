@@ -1,0 +1,6 @@
+{
+    "idx": 30,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "lteq_boolean_evaluator",
+    "right": "time_evaluator_without_agg \"<=\" time_evaluator_without_agg"
+}

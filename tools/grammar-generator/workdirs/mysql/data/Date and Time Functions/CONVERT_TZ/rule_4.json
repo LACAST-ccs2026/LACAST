@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "CONVERT_TZ_datetime_evaluator",
+    "right": "\"CONVERT_TZ(\"_var_date \",\" CONVERT_TZ_from_tz \",\" CONVERT_TZ_to_tz \")\""
+}

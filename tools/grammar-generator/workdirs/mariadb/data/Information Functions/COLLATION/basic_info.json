@@ -1,0 +1,6 @@
+{
+    "syntax_name": "COLLATION",
+    "raw_syntax_name": "COLLATION(str)",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

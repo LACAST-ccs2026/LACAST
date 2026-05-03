@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "ln_double_evaluator",
+    "right": "\"ln(\"_var_double\")\""
+}

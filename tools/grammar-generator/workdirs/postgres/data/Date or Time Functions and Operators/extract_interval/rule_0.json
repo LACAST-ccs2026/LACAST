@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "extract_interval_double_evaluator",
+    "right": "\"EXTRACT(\"\"DAY FROM\" \"'1 day'::interval\"\")\""
+}

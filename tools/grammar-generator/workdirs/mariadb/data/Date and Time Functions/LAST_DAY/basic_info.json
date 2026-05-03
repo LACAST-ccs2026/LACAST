@@ -1,0 +1,6 @@
+{
+    "syntax_name": "LAST_DAY",
+    "raw_syntax_name": "LAST_DAY(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

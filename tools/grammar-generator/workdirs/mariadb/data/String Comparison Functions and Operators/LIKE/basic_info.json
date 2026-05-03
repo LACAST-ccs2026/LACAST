@@ -1,0 +1,6 @@
+{
+    "syntax_name": "LIKE",
+    "raw_syntax_name": "expr LIKE pat [ESCAPE 'escape_char']",
+    "is_agg": false,
+    "syntax_type": "String Comparison Functions and Operators"
+}

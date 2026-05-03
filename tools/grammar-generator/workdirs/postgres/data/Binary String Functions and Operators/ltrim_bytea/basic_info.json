@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ltrim_bytea",
+    "raw_syntax_name": "ltrim ( bytes bytea, bytesremoved bytea ) \u2192 bytea",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

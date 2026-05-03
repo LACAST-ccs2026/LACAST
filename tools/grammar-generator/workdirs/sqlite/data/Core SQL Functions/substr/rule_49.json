@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_substr_blob_evaluator",
+    "right": "\"substr(\"blob_evaluator_without_agg \",\" integer_AGG_evaluator \")\""
+}

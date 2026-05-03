@@ -1,0 +1,6 @@
+{
+    "syntax_name": "factorial",
+    "raw_syntax_name": "factorial ( bigint ) \u2192 numeric",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

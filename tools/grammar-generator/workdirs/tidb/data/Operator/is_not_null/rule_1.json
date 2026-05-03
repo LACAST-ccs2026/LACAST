@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "is_not_null_integer_evaluator",
+    "right": "_var_char \"IS NOT NULL\""
+}

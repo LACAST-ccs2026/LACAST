@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "SQRT_double_evaluator",
+    "right": "\"SQRT(\"double_evaluator_without_agg \")\""
+}

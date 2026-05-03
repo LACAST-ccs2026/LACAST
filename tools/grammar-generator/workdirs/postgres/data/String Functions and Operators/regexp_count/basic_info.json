@@ -1,0 +1,6 @@
+{
+    "syntax_name": "regexp_count",
+    "raw_syntax_name": "regexp_count ( string text, pattern text [, start integer [, flags text ] ] ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

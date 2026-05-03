@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_AGG_evaluator",
+    "left": "count_integer_evaluator",
+    "right": "\"count(\"time_evaluator_without_agg\")\""
+}

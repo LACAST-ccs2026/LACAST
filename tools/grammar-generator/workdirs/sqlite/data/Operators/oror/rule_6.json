@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "agg_oror_text_evaluator",
+    "right": "text_AGG_evaluator \"||\" text_evaluator_without_agg"
+}

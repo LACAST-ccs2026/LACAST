@@ -1,0 +1,6 @@
+{
+    "idx": 29,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_not_boolean_evaluator",
+    "right": "\"!(\"year_AGG_evaluator \")\""
+}

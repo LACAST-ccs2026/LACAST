@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_AGG_evaluator",
+    "left": "MAX_blob_evaluator",
+    "right": "\"MAX(\"blob_evaluator_without_agg \")\""
+}

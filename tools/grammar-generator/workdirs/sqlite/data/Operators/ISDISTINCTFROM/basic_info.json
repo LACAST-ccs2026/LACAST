@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ISDISTINCTFROM",
+    "raw_syntax_name": "IS DISTINCT FROM",
+    "is_agg": false,
+    "syntax_type": "Operators"
+}

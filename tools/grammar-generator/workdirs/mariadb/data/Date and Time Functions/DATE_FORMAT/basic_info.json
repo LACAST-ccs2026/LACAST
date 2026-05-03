@@ -1,0 +1,6 @@
+{
+    "syntax_name": "DATE_FORMAT",
+    "raw_syntax_name": "DATE_FORMAT(date,format)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

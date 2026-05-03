@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_stddev_pop",
+    "raw_syntax_name": "stddev_pop ( numeric_type ) \u2192 double precision for real or double precision, otherwise numeric",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

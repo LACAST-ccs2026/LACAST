@@ -1,0 +1,6 @@
+{
+    "idx": 13,
+    "type_eval": "text_AGG_evaluator",
+    "left": "GROUP_CONCAT_text_evaluator",
+    "right": "\"GROUP_CONCAT(\"year_evaluator_without_agg \")\""
+}

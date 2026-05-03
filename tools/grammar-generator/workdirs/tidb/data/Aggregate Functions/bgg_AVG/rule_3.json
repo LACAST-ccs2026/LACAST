@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "double_AGG_evaluator",
+    "left": "AVG_double_evaluator",
+    "right": "\"AVG(\"_var_boolean \")\""
+}

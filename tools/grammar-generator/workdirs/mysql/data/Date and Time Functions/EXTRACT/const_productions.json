@@ -1,0 +1,13 @@
+{
+    "EXTRACT_unit": [
+        "\"MICROSECOND\"",
+        "\"SECOND\"",
+        "\"MINUTE\"",
+        "\"HOUR\"",
+        "\"DAY\"",
+        "\"WEEK\"",
+        "\"MONTH\"",
+        "\"QUARTER\"",
+        "\"YEAR\""
+    ]
+}

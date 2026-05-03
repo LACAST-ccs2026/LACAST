@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_AGG_evaluator",
+    "left": "regr_count_integer_evaluator",
+    "right": "\"regr_count(\"_var_double \",\" _var_double\")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "to_date",
+    "raw_syntax_name": "to_date ( text, text ) \u2192 date",
+    "is_agg": false,
+    "syntax_type": "Data Type Formatting Functions"
+}

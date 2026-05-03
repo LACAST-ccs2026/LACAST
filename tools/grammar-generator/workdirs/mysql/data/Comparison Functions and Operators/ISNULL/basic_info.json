@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ISNULL",
+    "raw_syntax_name": "ISNULL(expr)",
+    "is_agg": false,
+    "syntax_type": "Comparison Functions and Operators"
+}

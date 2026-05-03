@@ -1,0 +1,863 @@
+function pg_is_other_temp_schema() does not exist
+LINE 1: ...60430247)::MONEY FROM ONLY t4 CROSS JOIN (SELECT (pg_is_othe...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type money to integer
+LINE 1: ...0201555 FROM ONLY t2 RIGHT OUTER JOIN (SELECT (- (CAST((0.18...
+                                                             ^
+
+cannot cast type double precision to boolean
+LINE 1: ...Y t3 WHERE NOT ((- (((-1027393111)^(1305578237))))::BOOLEAN)...
+                                                             ^
+
+invalid input syntax for type integer: "1.128.214.224"
+LINE 1: ...4range))))) FROM ONLY t2 LEFT OUTER JOIN (SELECT ('1.128.214...
+                                                             ^
+
+non-integer constant in GROUP BY
+LINE 1: ...721)'::int4range)::VARCHAR(574))||(4.228003E8))), '44.191.17...
+                                                             ^
+
+invalid input syntax for type integer: "117.26.59.236"
+LINE 1: ...ELECT t4.c1 FROM ONLY t4 FULL OUTER JOIN (SELECT ('117.26.59...
+                                                             ^
+
+cannot cast type numeric to boolean
+LINE 1: ...LY t0 ON (FALSE) IN (NOT ((TRUE) IS NOT UNKNOWN), CAST(-2.44...
+                                                             ^
+
+operator does not exist: bit >> bit
+LINE 1: ...0010001001')))>>(((B'101001100110101101100110001')>>(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+invalid input syntax for type integer: "191.172.158.69"
+LINE 1: SELECT ALL (COUNT(CAST('191.172.158.69' AS INT)))::BOOLEAN F...
+                               ^
+
+operator does not exist: bit << bit
+LINE 1: ...')))))||(CAST(((B'100111110000110001110011101011')<<(B'10100...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+non-integer constant in GROUP BY
+LINE 1: SELECT MAX('139.72.98.249') FROM t0* GROUP BY '0.163.27.255'...
+                                                      ^
+
+function to_hex(character varying) does not exist
+LINE 1: ...-(upper('[-206419424,867405727)'::int4range)))))/(to_hex((t0...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+result of range difference would not be contiguous
+
+operator does not exist: bit << bit
+LINE 1: ...01'))))) IN (((B'1111001110100101111001000000011')<<(((B'111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function rpad(integer, character varying) does not exist
+LINE 1: ...NT FROM ONLY t1, ONLY t2 FULL OUTER JOIN t5* ON ((rpad(((120...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit >> bit
+LINE 1: ...S sub0 ON (((((B'1000001111000001110011001111010')>>(B'10001...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+value "-9223372036854775808" is out of range for type integer
+LINE 1: ...RE (((((((('[1864516526,1867825933]'::int4range)*('[-9223372...
+                                                             ^
+
+invalid reference to FROM-clause entry for table "t0"
+LINE 1: ...57 FROM t0, ONLY t2 RIGHT OUTER JOIN ONLY t1 ON ((t0.c0)>=(t...
+                                                             ^
+DETAIL:  There is an entry for table "t0", but it cannot be referenced from this part of the query.
+
+cannot cast type money to boolean
+LINE 1: SELECT ALL BOOL_AND(CAST((0.700789)::MONEY AS BOOLEAN)) FROM...
+                            ^
+
+operator does not exist: bit varying >> bit
+LINE 1: ...1111111111111111011101100111100011010011001010')))>>(((B'100...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+invalid input syntax for type boolean: "67.88.136.9"
+LINE 1: ...vailable() LEFT OUTER JOIN ONLY t4 ON NOT (((CAST('67.88.136...
+                                                             ^
+
+operator does not exist: bit varying << bit varying
+LINE 1: ...00110001010')||(B'1000000001111000101111111000')))<<(((B'111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function min(boolean) does not exist
+LINE 1: SELECT ALL MIN(((t0.c0)=(t3.c0))), '248.164.197.106', ((B'11...
+                   ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit << bit
+LINE 1: ...NT(num_nulls(((((B'10101111100111000101110101100')<<(B'11101...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: int4range >& int4range
+LINE 1: ...ange)*('(-1840714364,922531267]'::int4range)))))))>&('(12649...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type numeric to int4range
+LINE 1: SELECT ((MAX((((((((0.5911831340207503)::int4range)-((('(-73...
+                                               ^
+
+function replace(unknown, unknown) does not exist
+LINE 1: SELECT ALL COUNT(to_hex(replace('', ''))) FROM t2 RIGHT OUTE...
+                                ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function atan2d(numeric) does not exist
+LINE 1: SELECT ALL SUM(atan2d(0.7545693024016705)) FROM ONLY t0;
+                       ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+invalid reference to FROM-clause entry for table "t3"
+LINE 1: ...IMILAR TO current_database())) BETWEEN SYMMETRIC (t3.c0) AND...
+                                                             ^
+DETAIL:  There is an entry for table "t3", but it cannot be referenced from this part of the query.
+
+FULL JOIN is only supported with merge-joinable or hash-joinable join conditions
+
+non-integer constant in GROUP BY
+LINE 1: ...996166589 OFFSET 6582204614046704329) AS sub1 GROUP BY TRUE;
+                                                                  ^
+
+cannot cast type int4range to boolean
+LINE 1: ...4range)+('[-1491309305,63713771)'::int4range))))))::BOOLEAN)...
+                                                             ^
+
+function rpad(integer, unknown) does not exist
+LINE 1: ...f8"))||(- (get_byte('', 2006106520)))))LIKE(btrim(rpad(79918...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function asin() does not exist
+LINE 1: ...OM v0, ONLY t3 RIGHT OUTER JOIN ONLY t2 ON ((CAST(asin() AS ...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type int4range to boolean
+LINE 1: ...ange)))-('[-1585500861,487788988]'::int4range)))))::BOOLEAN ...
+                                                             ^
+
+cannot cast type double precision to boolean
+LINE 1: ...48)^(1869240945)))*(((-692263900)-(1025020603)))))::BOOLEAN)...
+                                                             ^
+
+operator does not exist: int4range >& int4range
+LINE 1: ...ange)+('(-904768103,1509075716)'::int4range)))))))>&((((((('...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function pg_is_other_temp_schema() does not exist
+LINE 1: ...(abs(t0.c0))))) FROM t2, t0 LEFT OUTER JOIN t3 ON pg_is_othe...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+invalid reference to FROM-clause entry for table "t2"
+LINE 1: ...M t2, t3 LEFT OUTER JOIN ONLY t0 ON ((((((t0.c0)*(t2.c0)))+(...
+                                                             ^
+DETAIL:  There is an entry for table "t2", but it cannot be referenced from this part of the query.
+
+missing FROM-clause entry for table "t4"
+LINE 1: ... ONLY t3 JOIN t1 ON ((((((((TRUE)::VARCHAR(401)!~(t4.c0)::VA...
+                                                             ^
+
+invalid reference to FROM-clause entry for table "t5"
+LINE 1: ...RIGHT OUTER JOIN ONLY t2 ON lower_inf(((((t2.c0)*(t5.c0)))+(...
+                                                             ^
+DETAIL:  There is an entry for table "t5", but it cannot be referenced from this part of the query.
+
+function rpad(integer, unknown) does not exist
+LINE 1: ...77130372]'::int4range)))))))), translate('', CAST(rpad(-1581...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+invalid reference to FROM-clause entry for table "t1"
+LINE 1: ..., t0.c0 FROM t1*, t0* JOIN t2 ON ((((((t0.c0)>>(((t1.c0)&(t2...
+                                                             ^
+DETAIL:  There is an entry for table "t1", but it cannot be referenced from this part of the query.
+
+operator does not exist: bit << bit
+LINE 1: ...101110')))>>(((B'1001001111110100101000100110000')<<(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+non-integer constant in GROUP BY
+LINE 1: ...CHAR(683)))) GROUP BY CAST(-9.909287E8 AS MONEY), 0.16577654...
+                                                             ^
+
+cannot OR bit strings of different sizes
+
+function left(integer, unknown) does not exist
+LINE 1: ...47))), '10.112.112.25' FROM t1 GROUP BY (('')||(((left(37720...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit >> bit
+LINE 1: ...111111111111111110110000110010111110010011010000')>>(B'10101...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+integer out of range
+
+operator does not exist: bit varying >> bit varying
+LINE 1: ...HT OUTER JOIN ONLY t3 ON FALSE WHERE (((((((t0.c0)>>(t4.c0))...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+result of range union would not be contiguous
+
+operator does not exist: bit << bit
+LINE 1: ...111111111111111111111111001110101000101100001100')<<(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+"-" is not a valid binary digit
+LINE 1: SELECT MIN(((abs(- (723222158)))/(+ (get_bit('-97140182', 12...
+                                                     ^
+
+non-integer constant in GROUP BY
+LINE 1: SELECT 0.926885 FROM t2 GROUP BY 0.7343102097452245, 0.97239...
+                                         ^
+
+invalid reference to FROM-clause entry for table "t4"
+LINE 1: ...LY t4, ONLY t2 RIGHT OUTER JOIN ONLY t1 ON ((CAST(t4.c1 AS V...
+                                                             ^
+DETAIL:  There is an entry for table "t4", but it cannot be referenced from this part of the query.
+
+operator does not exist: bit >> bit
+LINE 1: ...111111111111111110000000110011100010010100010111')>>(B'10100...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function replace(unknown, unknown) does not exist
+LINE 1: ...) FROM ONLY t1, t0* LEFT OUTER JOIN ONLY v0 ON (((replace(''...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit << bit
+LINE 1: ...0110110')|(B'1000100111000001110101111000111')))))<<(((((B'1...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+invalid reference to FROM-clause entry for table "t1"
+LINE 1: ...N ONLY t3 ON ((((+ (t3.c0)) BETWEEN SYMMETRIC (+ (t1.c0)) AN...
+                                                             ^
+DETAIL:  There is an entry for table "t1", but it cannot be referenced from this part of the query.
+
+function pg_is_other_temp_schema() does not exist
+LINE 1: .../(pg_backend_pid())) FROM ONLY t1 JOIN ONLY t2 ON pg_is_othe...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function rpad(integer, character varying) does not exist
+LINE 1: ...10'))))))))) FROM ONLY t2 LEFT OUTER JOIN t0* ON (rpad(+ (-5...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type money to boolean
+LINE 1: ...||((0.65265644)::MONEY)))))OR(((0.8553675)::MONEY)::BOOLEAN)...
+                                                             ^
+
+function max(int4range) does not exist
+LINE 1: SELECT ALL ((MAX(((t0.c0)*(((((t0.c0)-(t0.c0)))*(t0.c0))))))...
+                     ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type numeric to bit
+LINE 1: ...11111111111110101011001100110111111110101100')))&(CAST(0.132...
+                                                             ^
+
+operator does not exist: bit >> bit
+LINE 1: ...t1 WHERE (((((((B'110110110011111001111000010101')>>(B'11101...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+result of range difference would not be contiguous
+
+invalid reference to FROM-clause entry for table "t0"
+LINE 1: ...IC (t3.c0) AND (t4.c0) LEFT OUTER JOIN v0* ON ((((t0.c0)||(h...
+                                                             ^
+DETAIL:  There is an entry for table "t0", but it cannot be referenced from this part of the query.
+
+cannot cast type integer to int4range
+LINE 1: ...[-45218480,143936083)'::int4range)))+((2036915983)::int4rang...
+                                                             ^
+
+collation mismatch between explicit collations "pg_c_utf8" and "C"
+LINE 1: ...LY t1 ON upper(('' COLLATE "pg_c_utf8"))~('iX(ܦL' COLLATE "C...
+                                                             ^
+
+invalid reference to FROM-clause entry for table "t3"
+LINE 1: ...1740417558407)) FULL OUTER JOIN ONLY t2 ON ((CAST(t3.c0 AS V...
+                                                             ^
+DETAIL:  There is an entry for table "t3", but it cannot be referenced from this part of the query.
+
+cannot cast type bit varying to int4range
+LINE 1: SELECT MAX(((CAST(((((B'1011101101001000011001001011101')|(B...
+                     ^
+
+cannot OR bit strings of different sizes
+
+invalid reference to FROM-clause entry for table "t3"
+LINE 1: ...T)))) FROM t3, ONLY t2 LEFT OUTER JOIN ONLY t1 ON t3.c0 ORDE...
+                                                             ^
+DETAIL:  There is an entry for table "t3", but it cannot be referenced from this part of the query.
+
+cannot cast type bit to int4range
+LINE 1: ...), '[-1106551061,-869418464)'::int4range))))-(((((CAST(B'111...
+                                                             ^
+
+invalid input syntax for type inet: "	%q"
+LINE 1: ...ATE "C.utf8") COLLATE "en_US.utf8"))))LIKE((CAST((' %q' COLL...
+                                                             ^
+
+function to_hex(unknown) is not unique
+LINE 1: ...)-('[-431227420,258874944)'::int4range)))))), - (((to_hex('d...
+                                                              ^
+HINT:  Could not choose a best candidate function. You might need to add explicit type casts.
+
+cannot cast type int4range to boolean
+LINE 1: ...ange)))))-('(-1752343817,929371962]'::int4range)))::BOOLEAN ...
+                                                             ^
+
+cannot cast type money to integer
+LINE 1: ...3 FULL OUTER JOIN (SELECT ALL 0.9351889161420781, CAST(CAST(...
+                                                             ^
+
+operator does not exist: bit >> bit
+LINE 1: ...101000101')|(B'1010110111010100001101101001100')))>>(((B'110...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+result of range difference would not be contiguous
+
+function max(int4range) does not exist
+LINE 1: SELECT ALL MAX((((((('[1050180621,1268786880]'::int4range)+(...
+                   ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type numeric to boolean
+LINE 1: ...))||('175.180.23.30')))) COLLATE "en_US.utf8"), ((CAST(0.324...
+                                                             ^
+
+cannot cast type int4range to boolean
+LINE 1: ...range)-('[-2044650653,1709205259]'::int4range)))))::BOOLEAN)...
+                                                             ^
+
+cannot cast type money to int4range
+LINE 1: ...68453571919595) GROUP BY ((((((0.47600374)::MONEY)::int4rang...
+                                                             ^
+
+result of range union would not be contiguous
+
+value "-9223372036854775808" is out of range for type integer
+LINE 1: ...*('(-1147517584,1454283982]'::int4range)))))*((((('[-9223372...
+                                                             ^
+
+operator does not exist: bit >> bit
+LINE 1: ...111111111111111110100101011001101101100000110001')>>(B'10000...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type money to boolean
+LINE 1: ..., 0.37408268 FROM t1*, t2* FULL OUTER JOIN t4* ON CAST((0.57...
+                                                             ^
+
+function replace(unknown, unknown) does not exist
+LINE 1: ...95907 OFFSET 795361058889815511) AS sub0 WHERE (((replace(''...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function min(boolean) does not exist
+LINE 1: SELECT ALL MIN((((((('-1317531962' COLLATE "en_US.utf8") COL...
+                   ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+invalid input syntax for type integer: "44.137.124.79"
+LINE 1: ...OIN (SELECT -2.0647793E9 FROM ONLY t3 WHERE (CAST('44.137.12...
+                                                             ^
+
+cannot cast type boolean to int4range
+LINE 1: ...)+('(-178565021,312766217]'::int4range)))-((FALSE)::int4rang...
+                                                             ^
+
+function max(int4range) does not exist
+LINE 1: SELECT ((MAX((((((((('(-302023260,1923217901)'::int4range)-(...
+                 ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+missing FROM-clause entry for table "t1"
+LINE 1: ...::VARCHAR(713) COLLATE "pg_c_utf8") COLLATE "C")~(t1.c0 COLL...
+                                                             ^
+
+"." is not a valid binary digit
+LINE 1: ...rt_from('a_?[', 'UTF8') COLLATE "C.utf8"))LIKE(((('0.8672482...
+                                                             ^
+
+cannot cast type money to integer
+LINE 1: ...15)'::int4range))))))), (CAST(0.4648666 AS MONEY))::INT FROM...
+                                                             ^
+
+operator is not unique: - unknown
+LINE 1: ...ND(((' s')LIKE((((('I')||((0.8422759)::MONEY)))||(- (NULL)))...
+                                                             ^
+HINT:  Could not choose a best candidate operator. You might need to add explicit type casts.
+
+cannot cast type numeric to boolean
+LINE 1: SELECT t0.c0 FROM t0 WHERE CAST(0.824273466408065 AS BOOLEAN...
+                                   ^
+
+operator does not exist: bit >> bit
+LINE 1: ...111111111111111111101110100100000111100001111101')>>(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function bit_or(double precision) does not exist
+LINE 1: SELECT ALL BIT_OR(((((- ((-1687837263)::INT))-(+ (- (7364428...
+                   ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+FULL JOIN is only supported with merge-joinable or hash-joinable join conditions
+
+collation mismatch between explicit collations "C" and "en_US.utf8"
+LINE 1: ...c0)) COLLATE "C"))LIKE(CAST((lower('䊩O3CL-6㶑>') COLLATE "e...
+                                                             ^
+
+operator does not exist: bit << bit
+LINE 1: ...111111111')#(B'1110101010000000001110001100101')))<<(((B'111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit >> bit
+LINE 1: ...111111111111111111011010011101001100001110101111')>>(B'11110...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function max(int4range) does not exist
+LINE 1: SELECT MAX((((((((('[-924554188,-33326410)'::int4range)*('[-...
+               ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type numeric to boolean
+LINE 1: ...OM t1, ONLY t2, ONLY t3 JOIN t0* ON (((0.46990064)::BOOLEAN)...
+                                                             ^
+
+operator does not exist: int4range >& int4range
+LINE 1: ...ange)-('(-1025078230,785366975)'::int4range)))))))>&((((((('...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit << bit
+LINE 1: ...11101')))<<(((((B'100111111111000001001001110000')<<(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type money to integer
+LINE 1: ...JOIN t4* ON ((FALSE)AND(((family('39.73.58.44'))<(CAST((0.99...
+                                                             ^
+
+non-integer constant in GROUP BY
+LINE 1: ....154.54'))!~*CAST(0.97691715 AS VARCHAR) GROUP BY '144.144.1...
+                                                             ^
+
+character number must be positive
+
+value "-9223372036854775808" is out of range for type integer
+LINE 1: ...range)))*((('(-545318916,424080927)'::int4range)-('(-9223372...
+                                                             ^
+
+cannot cast type numeric to int4range
+LINE 1: ...2,940173447]'::int4range)))))))&&((((((0.00666874)::int4rang...
+                                                             ^
+
+invalid input syntax for type boolean: "92.224.195.225"
+LINE 1: SELECT t2.c0 FROM t2* WHERE CAST('92.224.195.225' AS BOOLEAN...
+                                         ^
+
+non-integer constant in GROUP BY
+LINE 1: ...ub0 ON TRUE WHERE (t0.c0) NOT IN (t0.c0) GROUP BY 0.9171445;
+                                                             ^
+
+FULL JOIN is only supported with merge-joinable or hash-joinable join conditions
+
+cannot cast type numeric to boolean
+LINE 1: ...(t0.c1)) FROM v0, t1*, t3* LEFT OUTER JOIN t0* ON CAST(0.268...
+                                                             ^
+
+invalid reference to FROM-clause entry for table "t2"
+LINE 1: ...M t2, ONLY t0 INNER JOIN ONLY t1 ON (((t0.c0)LIKE(t2.c0))) I...
+                                                             ^
+DETAIL:  There is an entry for table "t2", but it cannot be referenced from this part of the query.
+
+cannot cast type int4range to boolean
+LINE 1: ...ange)-('(-1731490641,297502979]'::int4range)))))))::BOOLEAN;
+                                                             ^
+
+cannot cast type bit to boolean
+LINE 1: ...111111111111111111101110111000010101100100111011')::BOOLEAN)...
+                                                             ^
+
+function get_bit(text, integer) does not exist
+LINE 1: ... ONLY t1 WHERE ((((t1.c0) IN (1328401413))::INT)=(get_bit(((...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit >> bit
+LINE 1: ...100000')))||(((B'1011010110110001010101101101111')>>(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit << bit
+LINE 1: ...111111111111111111111100110000000001011011011000')<<(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+invalid input syntax for type boolean: "51.3.42.103"
+LINE 1: ...UNT(t1.c0)  as agg0 FROM ONLY t1 WHERE NOT (NOT (('51.3.42.1...
+                                                             ^
+
+operator does not exist: bit >> bit
+LINE 1: ...111111111111111111111001001001001110001100010000')>>(B'10001...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function min(boolean) does not exist
+LINE 1: SELECT ALL MIN((upper(('0.8739662232837178' COLLATE "C.utf8"...
+                   ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type money to integer
+LINE 1: ...e, '127.88.145.8', 0.2913932214590115))) BETWEEN (CAST(CAST(...
+                                                             ^
+
+invalid input syntax for type integer: ""
+LINE 1: ...1, ONLY v0, ONLY t0, ONLY t3) AS sub1 ON NOT ((((('')::INT):...
+                                                             ^
+
+invalid input syntax for type integer: ""
+
+function bit_or(double precision) does not exist
+LINE 1: SELECT BIT_OR(((upper((((('(-926595341,-620631441)'::int4ran...
+               ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+value "9223372036854775807" is out of range for type integer
+LINE 1: ...T (((((((('[-1886174732,2059907168]'::int4range)+('(-9169965...
+                                                             ^
+
+cannot cast type money to boolean
+LINE 1: ...846011E9)) FROM t0* FULL OUTER JOIN t5* ON (((((((CAST((-6.2...
+                                                             ^
+
+function substr(unknown, integer, bigint) does not exist
+LINE 1: ...Y t0 CROSS JOIN ONLY t5 WHERE upper(upper(''))~((((substr('b...
+                                                              ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+invalid input syntax for type boolean: "194.112.122.230"
+LINE 1: SELECT EVERY(CAST('194.112.122.230' AS BOOLEAN)) FROM t3*, t...
+                          ^
+
+function pg_is_other_temp_schema() does not exist
+LINE 1: ...0.132.158.221' AS VARCHAR) FROM t3*) AS sub0 ON ((pg_is_othe...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function pg_is_other_temp_schema() does not exist
+LINE 1: ....c1, t1.c1, t1.c0 FROM t3* LEFT OUTER JOIN t1* ON pg_is_othe...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit << bit
+LINE 1: ...1010001011')))#(((B'1000101000010010101001011000')<<(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+invalid reference to FROM-clause entry for table "t1"
+LINE 1: ...ER JOIN ONLY t0 ON ((t3.c0 COLLATE "C")) BETWEEN (t1.c1) AND...
+                                                             ^
+DETAIL:  There is an entry for table "t1", but it cannot be referenced from this part of the query.
+
+operator does not exist: bit << bit
+LINE 1: ... 'fl'~*CAST(((((B'111011110111011100110100011001')<<(B'11110...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+result of range union would not be contiguous
+
+cannot cast type money to boolean
+LINE 1: ...488309,1915997851)'::int4range)))))))) AS sub0 ON CAST(CAST(...
+                                                             ^
+
+cannot cast type numeric to boolean
+LINE 1: ...M t0*, ONLY t1, t4*, v0*, ONLY t2, t3 WHERE ((((((CAST(0.226...
+                                                             ^
+
+invalid reference to FROM-clause entry for table "t0"
+LINE 1: ...S BOOLEAN))::VARCHAR(85))) FULL OUTER JOIN t4 ON (t0.c0) BET...
+                                                             ^
+DETAIL:  There is an entry for table "t0", but it cannot be referenced from this part of the query.
+
+cannot cast type bit to int4range
+LINE 1: ...e)*('(1898810427,2003419776]'::int4range)))))))@>(CAST(((((B...
+                                                             ^
+
+cannot cast type money to boolean
+LINE 1: ...3503, '215.86.124.53' FROM ONLY t1, ONLY t3 WHERE CAST(CAST(...
+                                                             ^
+
+invalid input syntax for type double precision: "179.228.127.118"
+LINE 1: ...SELECT ALL + (num_nonnulls(0.9101369017456453)), ('179.228.1...
+                                                             ^
+
+function chr(bigint) does not exist
+LINE 1: ...24207076 AS VARCHAR(167))~reverse('')) WHERE NOT (chr(t2.c0)...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type numeric to boolean
+LINE 1: ...9.120') NOT IN ('120.201.71.9') WHERE (0.32990152)::BOOLEAN ...
+                                                             ^
+
+function pg_is_other_temp_schema() does not exist
+LINE 1: ...h(v0.c0)))) FROM ONLY t3 CROSS JOIN ONLY v0 WHERE pg_is_othe...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: int4range >& int4range
+LINE 1: ...ange)-('(-1516039885,994027372]'::int4range)))))))>&((((((('...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+invalid input syntax for type integer: "99.1.101.252"
+LINE 1: SELECT ALL SUM(('99.1.101.252')::INT), 6.9886904E8, 0.923646...
+                        ^
+
+result of range union would not be contiguous
+
+value "-9223372036854775808" is out of range for type integer
+LINE 1: ...range)-('[-379103271,555541326]'::int4range)))-((('[-9223372...
+                                                             ^
+
+invalid regular expression: brackets [] not balanced
+
+function min(int4range) does not exist
+LINE 1: SELECT - (num_nonnulls(MIN((((((((('[-1796121120,343610411)'...
+                               ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function max(bit varying) does not exist
+LINE 1: SELECT ALL t2.c0, '185.34.164.51', MAX(((B'11111111111111111...
+                                           ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+invalid input syntax for type boolean: "124.72.208.253"
+LINE 1: ...UNKNOWN) FROM ONLY t3 RIGHT OUTER JOIN t0 ON CAST('124.72.20...
+                                                             ^
+
+character number must be positive
+
+operator does not exist: bit << bit
+LINE 1: ...ALL MAX(((((((((B'101000000110110000101100010011')<<(B'11110...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type numeric to boolean
+LINE 1: ...4) AND (0.24704543398729994) WHERE (-1.00468755E9)::BOOLEAN ...
+                                                             ^
+
+cannot cast type numeric to bit
+LINE 1: SELECT ((MAX((((CAST(0.7836824860544275 AS BIT))>>(((((B'111...
+                        ^
+
+cannot cast type int4range to integer
+LINE 1: ... ONLY t2 ON pg_jit_available() CROSS JOIN (SELECT CAST((((((...
+                                                             ^
+
+operator does not exist: bit >> bit
+LINE 1: ...4頗K('))||(((((B'111010010000001100001110010101')>>(B'10110...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit >> bit varying
+LINE 1: ...1111111111111110100100000101100010100110011010')))>>(((B'110...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+result of range union would not be contiguous
+
+invalid regular expression: brackets [] not balanced
+
+value "-9223372036854775808" is out of range for type integer
+LINE 1: ...EY FROM ONLY t4, ONLY t0, ONLY t2, t1 WHERE (((((('(-9223372...
+                                                             ^
+
+cannot cast type int4range to integer
+LINE 1: ...2832 OFFSET 5107213591227049842) AS sub1 WHERE (((CAST(t0.c0...
+                                                             ^
+
+function left(integer, character varying) does not exist
+LINE 1: ...,-306584624)'::int4range)))))) AS VARCHAR(305)))~*left(- (-8...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type int4range to boolean
+LINE 1: ...AS sub0 JOIN (SELECT ALL 0.11120301 FROM t1 WHERE CAST(((((C...
+                                                             ^
+
+function min(bit) does not exist
+LINE 1: SELECT ALL ((((MIN(B'110010010110101000000000110'))<<(((((B'...
+                       ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit >> bit
+LINE 1: ...111111111111111110110010110100110101010101011010')>>(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function split_part(text, integer) does not exist
+LINE 1: ...||(1169334994)))||('149.237.174.145')) SIMILAR TO split_part...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: int4range >& int4range
+LINE 1: ...IN t5* ON (('[-2029910922,-145975417]'::int4range)>&((((((('...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+FULL JOIN is only supported with merge-joinable or hash-joinable join conditions
+
+invalid input syntax for type boolean: "0.3.116.200"
+LINE 1: ...ELECT t2.c0 FROM ONLY t0 FULL OUTER JOIN t2* ON (('0.3.116.2...
+                                                             ^
+
+operator is not unique: - unknown
+LINE 1: SELECT ALL AVG(- (((masklen('237.116.3.250'))%((- ('12310421...
+                                                        ^
+HINT:  Could not choose a best candidate operator. You might need to add explicit type casts.
+
+non-integer constant in GROUP BY
+LINE 1: ...2.c0)+(((t2.c0)+(((t2.c0)+(t2.c0)))))))) GROUP BY B'10011010...
+                                                             ^
+
+cannot cast type money to integer
+LINE 1: SELECT t0.c0 FROM t0 CROSS JOIN (SELECT ALL CAST(CAST(0.3126...
+                                                    ^
+
+cannot cast type money to boolean
+LINE 1: ... OUTER JOIN t0 ON NOT ((CAST(0.18376769 AS MONEY))::BOOLEAN)...
+                                                             ^
+
+FULL JOIN is only supported with merge-joinable or hash-joinable join conditions
+
+missing FROM-clause entry for table "t3"
+LINE 1: ...OM ONLY t2, ONLY t0 RIGHT OUTER JOIN ONLY v0 ON ((t3.c0)<((0...
+                                                             ^
+
+function pg_is_other_temp_schema() does not exist
+LINE 1: SELECT MAX(pg_is_other_temp_schema()) FROM t1;
+                   ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: bit << bit
+LINE 1: ...111011'))) IN (((B'10000001110101010110101100000')<<(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function to_char(unknown, unknown) is not unique
+LINE 1: ...OUTER JOIN (SELECT (current_schema() SIMILAR TO ((to_char('1...
+                                                             ^
+HINT:  Could not choose a best candidate function. You might need to add explicit type casts.
+
+cannot cast type numeric to boolean
+LINE 1: ... NOTNULL LEFT OUTER JOIN (SELECT ALL num_nonnulls(CAST(0.581...
+                                                             ^
+
+invalid regular expression: brackets [] not balanced
+
+missing FROM-clause entry for table "t1"
+LINE 1: ...ONLY t4 FULL OUTER JOIN ONLY t0 ON (((((((t4.c1)+(t1.c1)))-(...
+                                                             ^
+
+operator does not exist: bit >> bit
+LINE 1: ...111111111111111110000001111100110111011001101011')>>(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type numeric to boolean
+LINE 1: ...(((rtrim(''))LIKE((('-987716419')||(t4.c0)))))OR((CAST(0.494...
+                                                             ^
+
+invalid reference to FROM-clause entry for table "t0"
+LINE 1: ...t0*, ONLY t1 FULL OUTER JOIN ONLY v0 ON (to_char((t0.c0) NOT...
+                                                             ^
+DETAIL:  There is an entry for table "t0", but it cannot be referenced from this part of the query.
+
+FULL JOIN is only supported with merge-joinable or hash-joinable join conditions
+
+invalid reference to FROM-clause entry for table "t3"
+LINE 1: ...ALL t0.c0 FROM t3*, t0 FULL OUTER JOIN ONLY t4 ON t3.c0 CROS...
+                                                             ^
+DETAIL:  There is an entry for table "t3", but it cannot be referenced from this part of the query.
+
+cannot cast type inet to integer
+LINE 1: ...1792 AS VARCHAR(935)) COLLATE "C.utf8"))||((t3.c0)::INT))!~r...
+                                                             ^
+
+operator does not exist: bit >> bit
+LINE 1: ...111111111111111111000110111010101001111101001011')>>(B'11111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+column "t3.c0" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT ALL ((t3.c0)<(t3.c0)) FROM ONLY t0, ONLY t2 CROSS JOI...
+                     ^
+
+cannot cast type integer to int4range
+LINE 1: ... OUTER JOIN (SELECT 0.5182074028034723, TRUE, ((((CAST(num_n...
+                                                             ^
+
+cannot cast type int4range to integer
+LINE 1: ...nt4range)+('(1927306894,2087523495]'::int4range)))::INT AS B...
+                                                             ^
+
+result of range difference would not be contiguous
+
+operator does not exist: bit >> bit
+LINE 1: ...10111000000')|(B'10100000100110001011011011011')))>>(((B'111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+value out of range: overflow
+
+operator does not exist: bit >> bit
+LINE 1: ...ALL CAST(((((((B'1011011110001001000100000011010')>>(B'10111...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+cannot cast type boolean to money
+LINE 1: ...(t0.c0)))*(t0.c0))))) GROUP BY (((t3.c1)=(t4.c1)))::MONEY, (...
+                                                             ^
+
+value "4537487101801253664" is out of range for type integer
+LINE 1: ... t2*, t1*, ONLY t5 INNER JOIN t3 ON isempty((((((('[15574241...
+                                                             ^
+
+non-integer constant in GROUP BY
+LINE 1: ...0.16139319758853998') NOT IN (upper(',Y8%''')))), 0.59576875...
+                                                             ^
+

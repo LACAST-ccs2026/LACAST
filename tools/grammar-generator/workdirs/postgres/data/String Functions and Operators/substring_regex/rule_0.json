@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "substring_regex_evaluator",
+    "right": "\"substring( 'Thomas' from '...$' )\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 17,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "BIT_XOR_integer_evaluator",
+    "right": "\"BIT_XOR(\"_var_year \")\""
+}

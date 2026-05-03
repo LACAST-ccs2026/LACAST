@@ -1,0 +1,6 @@
+{
+    "idx": 102,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "gtgt_blob_evaluator",
+    "right": "_var_blob \">>\" _var_integer"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 34,
+    "type_eval": "year_evaluator_without_agg",
+    "left": "COALESCE_year_evaluator",
+    "right": "\"COALESCE(\"year_evaluator_without_agg \")\""
+}

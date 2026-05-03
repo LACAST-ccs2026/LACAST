@@ -1,0 +1,6 @@
+{
+    "idx": 30,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "XOR_integer_evaluator",
+    "right": "datetime_evaluator_without_agg \"XOR\" datetime_evaluator_without_agg"
+}

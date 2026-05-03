@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "date_evaluator_without_agg",
+    "left": "DATE_date_evaluator",
+    "right": "\"DATE(\"text_evaluator_without_agg \")\""
+}

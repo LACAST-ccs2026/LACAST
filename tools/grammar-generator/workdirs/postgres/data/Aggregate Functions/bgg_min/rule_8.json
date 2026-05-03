@@ -1,0 +1,5 @@
+{
+    "type_eval": "character_AGG_evaluator",
+    "left": "min_character_evaluator",
+    "right": "\"min(\"_var_character\")\""
+}

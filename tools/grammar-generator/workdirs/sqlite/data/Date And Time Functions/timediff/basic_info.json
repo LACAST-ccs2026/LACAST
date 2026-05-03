@@ -1,0 +1,6 @@
+{
+    "syntax_name": "timediff",
+    "raw_syntax_name": "timediff(_time-value, _time-value)",
+    "is_agg": false,
+    "syntax_type": "Date And Time Functions"
+}

@@ -1,0 +1,9 @@
+1038 (HY001): Out of sort memory, consider increasing server sort buffer size
+1052 (23000): Column 'c0' in HAVING is ambiguous
+1038 (HY001): Out of sort memory, consider increasing server sort buffer size
+1038 (HY001): Out of sort memory, consider increasing server sort buffer size
+1052 (23000): Column 'c0' in HAVING is ambiguous
+1139 (42000): Regex error 'quantifier does not follow a repeatable item at offset 0'
+1038 (HY001): Out of sort memory, consider increasing server sort buffer size
+1052 (23000): Column 'c0' in HAVING is ambiguous
+1052 (23000): Column 'c0' in HAVING is ambiguous

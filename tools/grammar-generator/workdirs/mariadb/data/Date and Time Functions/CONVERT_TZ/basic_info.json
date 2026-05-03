@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CONVERT_TZ",
+    "raw_syntax_name": "CONVERT_TZ(dt,from_tz,to_tz)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

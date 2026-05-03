@@ -1,0 +1,6 @@
+{
+    "idx": 31,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "LEAST_double_evaluator",
+    "right": "\"LEAST(\"integer_evaluator_without_agg \",\" double_evaluator_without_agg(\",\" double_evaluator_without_agg)* \")\""
+}

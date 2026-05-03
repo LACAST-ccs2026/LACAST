@@ -1,0 +1,6 @@
+{
+    "idx": 30,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_BINARY_blob_evaluator",
+    "right": "\"BINARY(\"bit_AGG_evaluator \")\""
+}

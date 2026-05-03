@@ -1,0 +1,6 @@
+{
+    "idx": 106,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_eq_boolean_evaluator",
+    "right": "double_evaluator_without_agg \"=\" char_AGG_evaluator"
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "isnull_func",
+    "raw_syntax_name": "ISNULL(expr)",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Tests whether a value is NULL. Returns 1 if the value is NULL, 0 if it is not NULL."
+}

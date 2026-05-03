@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_evaluator_without_agg",
+    "left": "agg_ADDDATE_date_evaluator",
+    "right": "\"ADDDATE(\"date_evaluator_without_agg \",\" integer_AGG_evaluator \")\""
+}

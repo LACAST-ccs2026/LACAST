@@ -1,0 +1,42 @@
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 392 near "tom3.id ) AS c5 FROM table1 AS tom3 WHERE MID( tom3.name , tom3.id , tom3.id ) ORDER BY c2 ASC LIMIT 1)IN ( SELECT DATE_ADD( DATE_ADD('1970-01-01 00:00:00', INTERVAL COUNT( tom6.c6 ) SECOND) , INTERVAL 42 MINUTE) AS c7 ,DATE_SUB( DATE_ADD('1970-01-01 00:00:00', INTERVAL COUNT( tom6.c6 ) SECOND) , INTERVAL 42 YEAR_MONTH) AS c8 ,MIN( IFNULL( '2025' , '2025' ) ) AS c
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 260 near "tom1.id ) LIMIT 1)IN ( SELECT TIDB_DECODE_PLAN( MAX( tom3.label ) ) AS c3 ,TIDB_BOUNDED_STALENESS() AS c4 FROM ( table2 AS tom2 , table2 AS tom3 ) WHERE SEC_TO_TIME( tom3.label ) GROUP BY tom3.status HAVING CAST( X'68656C6C6F' AS BINARY) ) GROUP BY tom0.note HAVING NULLIF( '2025' , '2025' ) LIMIT 42 ) AS tom4 WHERE ADDTIME( '14:30:00' , 'A' ) EXCEPT SELECT CONVERT
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 142 near ":= c0 LIMIT 42;" 
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 735 near "'A' ) ORDER BY c5 DESC , c4 LIMIT 42 ) AS tom6 RIGHT OUTER JOIN table2 AS tom7 ON SUBTIME( tom6.c4 , tom7.label ) ) WHERE TIDB_BOUNDED_STALENESS() GROUP BY tom6.c4 HAVING WEEKDAY( 'A' ) INTERSECT SELECT SUBDATE( tom9.updated_at , INTERVAL tom9.id MONTH) AS c7 FROM ( tom4 AS tom8 NATURAL JOIN table1 AS tom9 ) WHERE tom9.year LIMIT 42;" 
+1210 (HY000): Incorrect arguments to period_add
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 1334 near "3.14159 ) ORDER BY c8 DESC , c8 ASC LIMIT 1) ORDER BY c5 LIMIT 42 ) AS tom11 WHERE 42 <> 42 GROUP BY tom11.c5 HAVING ANY_VALUE( c10 ) LIMIT 42;" 
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1210 (HY000): Incorrect arguments to NAME_CONST
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 524 near ":= tom4.age / tom4.price ) ) AS c4 FROM table1 AS tom4 WHERE TIDB_BOUNDED_STALENESS() GROUP BY tom4.year HAVING TIDB_PARSE_TSO( 42 ) LIMIT 42 ) AS tom5 ) WHERE LOG( TAN( 42 ) ) EXCEPT SELECT IFNULL( tom8.c2 , tom8.c2 ) AS c7 FROM ( ( SELECT TIDB_DECODE_SQL_DIGESTS( tom6.last_login ) AS c6 FROM table1 AS tom6 WHERE BINARY tom6.duration ORDER BY c6 , c6 ASC LIMIT 42
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 1806 near ":= VARIANCE( tom16.active ) AS c13 FROM ( table2 AS tom16 INNER JOIN tom7 AS tom17 ON tom16.duration ) WHERE CONCAT( tom16.label , tom16.label )  ORDER BY c13 DESC LIMIT 42 ) AS tom18 WHERE NOT EXISTS ( 42 ) ) GROUP BY tom12.c8 , tom14.c9 HAVING CONVERT_TZ( tom14.c9 , 'A' , 'A' ) ORDER BY c6 DESC LIMIT 42;" 
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1210 (HY000): Incorrect arguments to NAME_CONST
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 789 near "tom5.active )  LIMIT 42 ) AS tom6 ON FOUND_ROWS() ) WHERE tom4.year LIMIT 42;" 
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 1043 near "'A' ) ORDER BY c8 ASC ) LIMIT 42 ) AS tom7 WHERE TO_BASE64( tom7.c3 ) UNION SELECT DATE( tom8.event_time ) AS c11 FROM ( table2 AS tom8 CROSS JOIN ( SELECT ~ b'101010' AS c10 FROM tom3 AS tom9 WHERE TIDB_PARSE_TSO( tom9.c0 ) GROUP BY tom9.c0 , tom9.c0 , tom9.c0 , tom9.c0 , tom9.c0 HAVING ANY_VALUE( c10 ) ORDER BY c10 DESC LIMIT 42 ) AS tom10 ) WHERE LOCALTIME() L
+1210 (HY000): Incorrect arguments to NAME_CONST
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 102 near "tom0.status ) AS c1 FROM table2 AS tom0 WHERE LOG( tom0.id ) LIMIT 42 ) AS tom1 WHERE SUBTIME( '2025-12-31 14:30:00' , 'A' ) GROUP BY tom1.c1 HAVING DATE_ADD( '2025-12-31 14:30:00' , INTERVAL 42 DAY) ORDER BY c2 , c2 LIMIT 42;" 
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 455 near "tom4.c0 )  LIMIT 42;" 
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1210 (HY000): Incorrect arguments to NAME_CONST
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 1168 near "3.14159 ) LIMIT 42;" 
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1210 (HY000): Incorrect arguments to NAME_CONST
+1426 (42000): Too-big precision 42 specified for 'curtime'. Maximum is 6.
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 630 near "tom6.name ) AS c5 FROM table1 AS tom6 WHERE tom6.name NOT BETWEEN tom6.duration AND tom6.duration EXCEPT SELECT 42 NOT IN ( 42 ) AS c8 FROM ( ( SELECT TIMEDIFF( tom7.duration , tom7.duration ) AS c6 FROM table2 AS tom7 WHERE DATE_SUB( tom7.start_date , INTERVAL tom7.status YEAR) ORDER BY c6 DESC , c6 DESC LIMIT 42 ) AS tom8 , ( SELECT MAKEDATE( tom9.id , tom9.coun
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 613 near "tom6.count ) ORDER BY c3 DESC , c3 DESC LIMIT 42;" 
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1210 (HY000): Incorrect arguments to NAME_CONST
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 305 near ":= 'A' AS c3 , FROM_DAYS( 42 ) AS c4 FROM ( SELECT CURRENT_RESOURCE_GROUP() AS c2 FROM ( tom2 AS tom3 CROSS JOIN table1 AS tom4 ) WHERE TIMEDIFF( tom4.created_at , tom4.duration ) LIMIT 42 ) AS tom5 WHERE IFNULL( '2025' , '2025' ) GROUP BY tom5.c2 HAVING BINARY b'101010' UNION SELECT MIN( FROM_UNIXTIME( 42 , 'A' ) ) AS c7 ,FROM_DAYS( b'101010' ) AS c8 FROM ( SELEC
+1582 (42000): Incorrect parameter count in the call to native function 'tidb_bounded_staleness'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 1478 near ":= tom13.is_active LIMIT 1)IN ( SELECT ANY_VALUE( b'101010' ) AS c15 FROM ( SELECT CONVERT( GROUP_CONCAT( tom15.image_data )  USING binary) AS c14 FROM ( tom2 AS tom14 RIGHT JOIN table2 AS tom15 ON tom15.event_time ) WHERE NULLIF( tom15.year , tom15.year )  LIMIT 42 ) AS tom16 WHERE b'101010' & b'101010'  ORDER BY c15 ASC ) LIMIT 42;" 

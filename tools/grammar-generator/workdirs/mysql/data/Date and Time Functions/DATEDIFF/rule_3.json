@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "DATEDIFF_integer_evaluator",
+    "right": "\"DATEDIFF(\"date_evaluator_without_agg \",\" date_evaluator_without_agg \")\""
+}

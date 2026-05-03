@@ -1,0 +1,6 @@
+{
+    "idx": 36,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "div_double_evaluator",
+    "right": "_var_boolean \"/\" _var_boolean"
+}

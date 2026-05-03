@@ -1,0 +1,7 @@
+{
+    "syntax_name": "EXPORT_SET",
+    "raw_syntax_name": "EXPORT_SET()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The EXPORT_SET() function returns a string with on/off values for each bit. Syntax: EXPORT_SET(bits, on, off [, separator [, number_of_bits]]). Returns NULL if any argument is NULL."
+}

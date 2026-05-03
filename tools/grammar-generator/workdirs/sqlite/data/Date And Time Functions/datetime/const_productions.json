@@ -1,0 +1,8 @@
+{
+    "datetime_modifier": [
+        "\"'unixepoch'\"",
+        "\"'auto'\"",
+        "\"'localtime'\"",
+        "\"'subsec'\""
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "ISNOTDISTINCTFROM_boolean_evaluator",
+    "right": "_var_inet \"IS NOT DISTINCT FROM\" inet_evaluator_without_agg"
+}

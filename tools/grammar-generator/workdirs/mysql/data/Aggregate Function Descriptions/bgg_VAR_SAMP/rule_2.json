@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "double_AGG_evaluator",
+    "left": "VAR_SAMP_double_evaluator",
+    "right": "\"VAR_SAMP(\"bit_evaluator_without_agg \")\""
+}

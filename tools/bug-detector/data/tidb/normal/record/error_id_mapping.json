@@ -1,0 +1,18 @@
+{
+    "1105 (HY000): Can't find column sqlcraft.t0.c0 in schema Column: [] Unique key: []": {
+        "id": "9400dce1-9972-4770-a2a3-4df1edf1eee7",
+        "count": 1
+    },
+    "1105 (HY000): Can't find column sqlcraft.t0.c1 in schema Column: [] Unique key: []": {
+        "id": "1c09d3de-228b-4701-93c9-7b8b0e23013a",
+        "count": 1
+    },
+    "1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your TiDB version for the right syntax to use line 1 column 3011 near \"| CHARACTER_LENGTH( tom28.c17 ) ) , MAKEDATE( TIMESTAMPDIFF( MONTH , tom28.c16 , '2025-12-31' ) , '2025' ) , FROM_DAYS( ASIN( COALESCE( '2025-12-31 14:30:00' <> '2025-12-31 14:30:00' ) ) ) , DATE_SUB( '2025-12-31' , INTERVAL 1 HOUR ) ) ) ) , LEAST( ADDTIME( tom28.c16 , tom28.c16 ) , tom28.c16 , tom28.c16 , tom28.c16 , tom28.c16 , tom28.c16 ) ) GROUP BY tom28.c16 ": {
+        "id": "dfc55a64-594c-44bc-b981-1bc896664875",
+        "count": 1
+    },
+    "1105 (HY000): Can't find column Column#12 in schema Column: [] Unique key: []": {
+        "id": "e5d15344-a57d-49a8-b411-de80adbebe53",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "HEX_char_evaluator",
+    "right": "\"HEX(\"_var_char \")\""
+}

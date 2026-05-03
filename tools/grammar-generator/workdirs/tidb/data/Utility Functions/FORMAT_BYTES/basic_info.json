@@ -1,0 +1,7 @@
+{
+    "syntax_name": "FORMAT_BYTES",
+    "raw_syntax_name": "FORMAT_BYTES()",
+    "is_agg": false,
+    "syntax_type": "Utility Functions",
+    "syntax_info": "The FORMAT_BYTES() function converts a number of bytes into a human-readable format."
+}

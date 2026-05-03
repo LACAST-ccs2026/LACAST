@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_JSON_ARRAYAGG",
+    "raw_syntax_name": "JSON_ARRAYAGG(col_or_expr) [over_clause]",
+    "is_agg": true,
+    "syntax_type": "Aggregate Function Descriptions"
+}

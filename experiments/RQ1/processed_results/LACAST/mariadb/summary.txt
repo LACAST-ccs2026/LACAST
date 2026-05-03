@@ -1,0 +1,2 @@
+Total queries: 627, Total length: 199710, Total unique (per query): 29214, Total unique (global): 189
+Avg query length: 318.52, Avg unique tokens: 46.59

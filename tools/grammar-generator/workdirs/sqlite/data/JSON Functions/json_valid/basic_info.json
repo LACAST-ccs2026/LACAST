@@ -1,0 +1,6 @@
+{
+    "syntax_name": "json_valid",
+    "raw_syntax_name": "json_valid(_json_)",
+    "is_agg": false,
+    "syntax_type": "JSON Functions"
+}

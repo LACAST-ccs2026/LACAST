@@ -1,0 +1,6 @@
+{
+    "idx": 7,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "agg_STR_TO_DATE_time_evaluator",
+    "right": "\"STR_TO_DATE(\"text_AGG_evaluator \",\" STR_TO_DATE_format \")\""
+}

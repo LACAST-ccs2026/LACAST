@@ -1,0 +1,6 @@
+{
+    "syntax_name": "DEGREES",
+    "raw_syntax_name": "DEGREES(X)",
+    "is_agg": false,
+    "syntax_type": "Numeric Functions and Operators"
+}

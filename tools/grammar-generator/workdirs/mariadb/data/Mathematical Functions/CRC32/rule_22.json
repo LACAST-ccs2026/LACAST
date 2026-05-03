@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_CRC32_integer_evaluator",
+    "right": "\"CRC32(\"boolean_AGG_evaluator \")\""
+}

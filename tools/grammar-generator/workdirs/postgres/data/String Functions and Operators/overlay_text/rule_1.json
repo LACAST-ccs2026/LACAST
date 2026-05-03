@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "overlay_text_evaluator",
+    "right": "\"overlay( 'Hello' placing 'XX' from 3 for 2 )\""
+}

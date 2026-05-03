@@ -1,0 +1,7 @@
+{
+    "syntax_name": "FIELD",
+    "raw_syntax_name": "FIELD()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The FIELD() function returns the index position of the first argument in the subsequent arguments. Returns 0 if not found, NULL if any argument is NULL."
+}

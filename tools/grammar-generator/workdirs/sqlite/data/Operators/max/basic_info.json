@@ -1,0 +1,6 @@
+{
+    "syntax_name": "max",
+    "raw_syntax_name": "max(X,Y,...)",
+    "is_agg": false,
+    "syntax_type": "Operators"
+}

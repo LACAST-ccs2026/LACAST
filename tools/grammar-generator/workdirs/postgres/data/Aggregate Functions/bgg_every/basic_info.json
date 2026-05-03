@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_every",
+    "raw_syntax_name": "every ( boolean ) \u2192 boolean",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

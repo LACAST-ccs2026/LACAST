@@ -1,0 +1,6 @@
+{
+    "syntax_name": "TO_SECONDS",
+    "raw_syntax_name": "TO_SECONDS(expr)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

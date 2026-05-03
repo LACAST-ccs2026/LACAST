@@ -1,0 +1,5 @@
+{
+    "type_eval": "inet_evaluator_without_agg",
+    "left": "inet_bit_not_evaluator",
+    "right": "\"~\" _var_inet"
+}

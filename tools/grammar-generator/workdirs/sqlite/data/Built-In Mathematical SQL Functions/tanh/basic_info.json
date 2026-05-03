@@ -1,0 +1,6 @@
+{
+    "syntax_name": "tanh",
+    "raw_syntax_name": "tanh(X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

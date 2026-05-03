@@ -1,0 +1,7 @@
+{
+    "syntax_name": "exists",
+    "raw_syntax_name": "EXISTS(query)",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Returns TRUE if a subquery returns any rows, FALSE otherwise. Syntax: EXISTS (subquery)."
+}

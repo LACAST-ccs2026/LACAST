@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "bit_evaluator_without_agg",
+    "left": "COALESCE_bit_evaluator",
+    "right": "\"COALESCE(\"bit_evaluator_without_agg \")\""
+}

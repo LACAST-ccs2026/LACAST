@@ -1,0 +1,6 @@
+{
+    "syntax_name": "SQRT",
+    "raw_syntax_name": "SQRT(X)",
+    "is_agg": false,
+    "syntax_type": "Numeric Functions and Operators"
+}

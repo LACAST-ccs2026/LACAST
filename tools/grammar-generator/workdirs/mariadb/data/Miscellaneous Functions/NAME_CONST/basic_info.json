@@ -1,0 +1,6 @@
+{
+    "syntax_name": "NAME_CONST",
+    "raw_syntax_name": "NAME_CONST(name,value)",
+    "is_agg": false,
+    "syntax_type": "Miscellaneous Functions"
+}

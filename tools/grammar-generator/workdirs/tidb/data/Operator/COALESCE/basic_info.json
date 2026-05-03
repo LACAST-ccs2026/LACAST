@@ -1,0 +1,6 @@
+{
+    "syntax_name": "COALESCE",
+    "raw_syntax_name": "COALESCE(value,...)",
+    "is_agg": false,
+    "syntax_type": "Operator"
+}

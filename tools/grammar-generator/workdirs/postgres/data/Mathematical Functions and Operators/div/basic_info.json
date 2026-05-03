@@ -1,0 +1,6 @@
+{
+    "syntax_name": "div",
+    "raw_syntax_name": "div ( y numeric, x numeric ) \u2192 numeric",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

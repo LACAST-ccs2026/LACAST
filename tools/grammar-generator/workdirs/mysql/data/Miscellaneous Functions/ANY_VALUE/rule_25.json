@@ -1,0 +1,6 @@
+{
+    "idx": 25,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "ANY_VALUE_blob_evaluator",
+    "right": "\"ANY_VALUE(\"blob_evaluator_without_agg \")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "regexp_like_evaluator",
+    "right": "\"regexp_like(\" _var_character \",\" _var_character \")\""
+}

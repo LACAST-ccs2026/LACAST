@@ -1,0 +1,6 @@
+{
+    "idx": 40,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "TIMESTAMP_datetime_evaluator",
+    "right": "\"TIMESTAMP(\"_var_text \",\" _var_char \")\""
+}

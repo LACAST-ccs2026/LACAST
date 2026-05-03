@@ -1,0 +1,5 @@
+{
+    "type_eval": "numeric_evaluator_without_agg",
+    "left": "agg_coalesce_numeric_evaluator",
+    "right": "\"coalesce(\"numeric_evaluator_without_agg \",\" numeric_AGG_evaluator(\",\" numeric_AGG_evaluator)* \")\""
+}

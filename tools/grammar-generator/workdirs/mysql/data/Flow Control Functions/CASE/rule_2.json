@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "CASE_char_evaluator",
+    "right": "\"CASE WHEN\" boolean_evaluator_without_agg \"THEN\" _var_char \"ELSE\" char_evaluator_without_agg \"END\""
+}

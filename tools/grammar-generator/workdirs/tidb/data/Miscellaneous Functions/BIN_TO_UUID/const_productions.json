@@ -1,0 +1,12 @@
+{
+    "BIN_TO_UUID_blob_val": [
+        "\"UNHEX('123e4567e89b12d3a456426614174000')\"",
+        "\"UNHEX('abcd1234abcd5678abcd9876abcd1234')\"",
+        "\"UNHEX('9a0c8b2c56d0436b98f2ab7c18e700d2')\"",
+        "\"UNHEX('8d4b02400cbb45d5b378e59d5e179b3c')\"",
+        "\"UNHEX('fdd42358c06f429a90bcbdca19d84076')\"",
+        "\"UNHEX('dc3a16c7de954736b19d471c3e4d40df')\"",
+        "\"UNHEX('4a5b221e409b42378c0f8b16820c6d2b')\"",
+        "\"UNHEX('fe17d84723d64a3b93142bb05b5fdf10')\""
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "ACOS_double_evaluator",
+    "right": "\"ACOS(\"_var_integer \")\""
+}

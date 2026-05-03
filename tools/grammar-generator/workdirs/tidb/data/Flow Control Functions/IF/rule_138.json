@@ -1,0 +1,6 @@
+{
+    "idx": 138,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "IF_char_evaluator",
+    "right": "\"IF(\"boolean_evaluator_without_agg \",\" _var_integer \",\" char_evaluator_without_agg \")\""
+}

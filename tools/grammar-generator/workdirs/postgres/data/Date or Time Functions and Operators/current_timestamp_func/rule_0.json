@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "current_timestamp_func_timestamp_evaluator",
+    "right": "\"current_timestamp(\"\"0\"\")\""
+}

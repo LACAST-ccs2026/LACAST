@@ -1,0 +1,6 @@
+{
+    "idx": 84,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "agg_LEAST_text_evaluator",
+    "right": "\"LEAST(\"text_AGG_evaluator \",\" text_evaluator_without_agg(\",\" text_evaluator_without_agg)* \")\""
+}

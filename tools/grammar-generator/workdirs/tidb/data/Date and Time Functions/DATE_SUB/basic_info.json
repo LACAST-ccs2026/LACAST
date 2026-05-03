@@ -1,0 +1,6 @@
+{
+    "syntax_name": "DATE_SUB",
+    "raw_syntax_name": "DATE_SUB(date,INTERVAL expr unit)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

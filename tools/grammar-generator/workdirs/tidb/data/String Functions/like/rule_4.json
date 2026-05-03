@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "like_integer_evaluator",
+    "right": "_var_char \"LIKE\" _var_char \"ESCAPE\" like_escape_char"
+}

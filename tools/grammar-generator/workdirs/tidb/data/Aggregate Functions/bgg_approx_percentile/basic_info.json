@@ -1,0 +1,7 @@
+{
+    "syntax_name": "bgg_approx_percentile",
+    "raw_syntax_name": "APPROX_PERCENTILE(expr, constant_integer_expr)",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions",
+    "syntax_info": "This function returns the percentile of expr. The constant_integer_expr argument indicates the percentage value which is a constant integer in the range of [1,100]. A percentile Pk (k represents percentage) indicates that there are at least k% values in the data set that are less than or equal to Pk. This function only supports the numeric type and the date and time type as the returned type of expr. For other returned types, APPROX_PERCENTILE only returns NULL."
+}

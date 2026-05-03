@@ -1,0 +1,6 @@
+{
+    "idx": 31,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "agg_TIMEDIFF_time_evaluator",
+    "right": "\"TIMEDIFF(\"_var_text \",\" text_AGG_evaluator \")\""
+}

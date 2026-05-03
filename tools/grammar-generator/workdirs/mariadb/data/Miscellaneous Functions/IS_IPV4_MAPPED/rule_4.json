@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_IS_IPV4_MAPPED_integer_evaluator",
+    "right": "\"IS_IPV4_MAPPED(\"blob_AGG_evaluator \")\""
+}

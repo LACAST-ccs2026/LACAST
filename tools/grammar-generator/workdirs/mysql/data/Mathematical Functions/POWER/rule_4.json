@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_POWER_double_evaluator",
+    "right": "\"POWER(\"boolean_evaluator_without_agg \",\" double_AGG_evaluator \")\""
+}

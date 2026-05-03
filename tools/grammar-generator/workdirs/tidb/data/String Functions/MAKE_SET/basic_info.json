@@ -1,0 +1,7 @@
+{
+    "syntax_name": "MAKE_SET",
+    "raw_syntax_name": "MAKE_SET()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The MAKE_SET(bits, str1, str2, ...) function returns a set of comma-separated strings based on bits."
+}

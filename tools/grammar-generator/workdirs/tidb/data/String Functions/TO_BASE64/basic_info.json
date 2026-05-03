@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TO_BASE64",
+    "raw_syntax_name": "TO_BASE64()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The TO_BASE64() function encodes a string to Base64 format."
+}

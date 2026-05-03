@@ -1,0 +1,6 @@
+{
+    "idx": 12,
+    "type_eval": "blob_AGG_evaluator",
+    "left": "MAX_blob_evaluator",
+    "right": "\"MAX(\"_var_blob \")\""
+}

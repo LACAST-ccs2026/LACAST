@@ -1,0 +1,6 @@
+{
+  "idx": 4,
+  "type_eval": "time_AGG_evaluator",
+  "left": "bgg_approx_percentile_time_evaluator",
+  "right": "\"APPROX_PERCENTILE(\" _var_time \",\" \"50\" \")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "instr_integer_evaluator",
+    "right": "\"instr(\"real_evaluator_without_agg \",\" _var_real \")\""
+}

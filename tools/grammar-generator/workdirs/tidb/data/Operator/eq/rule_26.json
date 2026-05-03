@@ -1,0 +1,6 @@
+{
+    "idx": 26,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "eq_boolean_evaluator",
+    "right": "time_evaluator_without_agg \"=\" _var_time"
+}

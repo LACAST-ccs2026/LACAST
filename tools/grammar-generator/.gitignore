@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+#.venv/
+*.egg
+
+# Environment
+.env
+
+# Project data
+#data/
+
+# JAR instances
+.jar_instances/
+
+# SQLite databases
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+.venv
+/uv.lock

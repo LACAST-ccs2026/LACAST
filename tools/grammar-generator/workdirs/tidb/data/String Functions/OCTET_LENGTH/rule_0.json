@@ -1,0 +1,1 @@
+{"idx": 0, "type_eval": "integer_evaluator_without_agg", "left": "OCTET_LENGTH_integer_evaluator", "right": "\"OCTET_LENGTH(\" _var_char \")\""}

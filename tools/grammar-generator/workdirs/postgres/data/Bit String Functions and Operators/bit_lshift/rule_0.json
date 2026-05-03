@@ -1,0 +1,5 @@
+{
+    "type_eval": "bit_evaluator_without_agg",
+    "left": "bit_lshift_bit_evaluator",
+    "right": "\"B'1011'\" \"<<\" \"2\""
+}

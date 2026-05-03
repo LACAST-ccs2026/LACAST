@@ -1,0 +1,5 @@
+{
+    "type_eval": "char_AGG_evaluator",
+    "left": "BIT_XOR_char_evaluator",
+    "right": "\"BIT_XOR(\"char_evaluator_without_agg \")\""
+}

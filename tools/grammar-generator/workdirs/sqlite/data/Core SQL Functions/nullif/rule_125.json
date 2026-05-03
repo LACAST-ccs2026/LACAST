@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_nullif_blob_evaluator",
+    "right": "\"nullif(\"_var_blob \",\" blob_AGG_evaluator \")\""
+}

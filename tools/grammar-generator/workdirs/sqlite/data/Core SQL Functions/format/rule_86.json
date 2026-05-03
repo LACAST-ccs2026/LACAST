@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "agg_format_text_evaluator",
+    "right": "\"format(\"text_AGG_evaluator \",\" numeric_evaluator_without_agg(\",\" numeric_evaluator_without_agg)* \")\""
+}

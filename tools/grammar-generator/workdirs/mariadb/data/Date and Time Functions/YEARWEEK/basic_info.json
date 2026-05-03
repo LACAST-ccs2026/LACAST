@@ -1,0 +1,6 @@
+{
+    "syntax_name": "YEARWEEK",
+    "raw_syntax_name": "YEARWEEK(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

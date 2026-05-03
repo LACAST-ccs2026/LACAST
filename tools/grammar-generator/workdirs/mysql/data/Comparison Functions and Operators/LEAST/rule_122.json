@@ -1,0 +1,6 @@
+{
+    "idx": 122,
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "LEAST_timestamp_evaluator",
+    "right": "\"LEAST(\"timestamp_evaluator_without_agg \",\" _var_timestamp(\",\" _var_timestamp)* \")\""
+}

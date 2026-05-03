@@ -1,0 +1,7 @@
+{
+    "syntax_name": "ilike",
+    "raw_syntax_name": "ILIKE",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Case-insensitive pattern matching. Similar to LIKE but performs case-insensitive comparison. Returns 1 or 0."
+}

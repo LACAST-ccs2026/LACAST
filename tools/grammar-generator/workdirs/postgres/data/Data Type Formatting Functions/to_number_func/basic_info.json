@@ -1,0 +1,6 @@
+{
+    "syntax_name": "to_number_func",
+    "raw_syntax_name": "to_number ( text, text ) \u2192 numeric",
+    "is_agg": false,
+    "syntax_type": "Data Type Formatting Functions"
+}

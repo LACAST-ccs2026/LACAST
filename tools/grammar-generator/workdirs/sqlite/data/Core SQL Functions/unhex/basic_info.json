@@ -1,0 +1,6 @@
+{
+    "syntax_name": "unhex",
+    "raw_syntax_name": "unhex(X)unhex(X,Y)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

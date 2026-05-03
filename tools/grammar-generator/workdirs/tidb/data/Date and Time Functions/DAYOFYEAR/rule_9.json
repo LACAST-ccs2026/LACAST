@@ -1,0 +1,6 @@
+{
+    "idx": 9,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_DAYOFYEAR_integer_evaluator",
+    "right": "\"DAYOFYEAR(\"char_AGG_evaluator \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 82,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_div_double_evaluator",
+    "right": "bit_AGG_evaluator \"/\" _var_bit"
+}

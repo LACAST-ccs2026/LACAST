@@ -1,0 +1,6 @@
+{
+    "syntax_name": "oror",
+    "raw_syntax_name": "text || anynonarray \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

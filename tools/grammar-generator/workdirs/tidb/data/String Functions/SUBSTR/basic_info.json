@@ -1,0 +1,7 @@
+{
+    "syntax_name": "SUBSTR",
+    "raw_syntax_name": "SUBSTR()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The SUBSTR(str, pos[, len]) function returns a substring starting at position pos with optional length len."
+}

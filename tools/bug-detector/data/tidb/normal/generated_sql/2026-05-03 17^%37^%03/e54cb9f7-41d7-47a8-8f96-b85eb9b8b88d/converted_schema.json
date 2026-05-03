@@ -1,0 +1,13 @@
+[
+    {
+        "key": "t0",
+        "fields": [
+            "c0",
+            "c1"
+        ],
+        "types": [
+            "boolean",
+            "double"
+        ]
+    }
+]

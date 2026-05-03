@@ -1,0 +1,51 @@
+[ {
+  "key" : "t0",
+  "fields" : [ "c0", "c1", "c2" ],
+  "types" : [ "INT", "REAL", "BOOLEAN" ],
+  "constraints" : [ "NONE", "NONE", "NONE" ]
+}, {
+  "key" : "t1",
+  "fields" : [ "c0" ],
+  "types" : [ "REAL" ],
+  "constraints" : [ "NOT_NULL" ]
+}, {
+  "key" : "t2",
+  "fields" : [ "c0" ],
+  "types" : [ "TEXT" ],
+  "constraints" : [ "NONE" ]
+}, {
+  "key" : "t3",
+  "fields" : [ "c0" ],
+  "types" : [ "BIT" ],
+  "constraints" : [ "NONE" ]
+}, {
+  "key" : "t4",
+  "fields" : [ "c0", "c1", "c2" ],
+  "types" : [ "INET", "INT", "INT" ],
+  "constraints" : [ "NONE", "NOT_NULL", "NOT_NULL" ]
+}, {
+  "key" : "t5",
+  "fields" : [ "c0", "c1", "c2" ],
+  "types" : [ "BOOLEAN", "BOOLEAN", "DECIMAL" ],
+  "constraints" : [ "NOT_NULL", "NONE", "NOT_NULL" ]
+}, {
+  "key" : "t6",
+  "fields" : [ "c0" ],
+  "types" : [ "INT" ],
+  "constraints" : [ "PRIMARY_KEY" ]
+}, {
+  "key" : "t7",
+  "fields" : [ "c0" ],
+  "types" : [ "TEXT" ],
+  "constraints" : [ "NONE" ]
+}, {
+  "key" : "t8",
+  "fields" : [ "c0" ],
+  "types" : [ "BOOLEAN" ],
+  "constraints" : [ "NOT_NULL" ]
+}, {
+  "key" : "t9",
+  "fields" : [ "c0" ],
+  "types" : [ "INET" ],
+  "constraints" : [ "NOT_NULL" ]
+} ]

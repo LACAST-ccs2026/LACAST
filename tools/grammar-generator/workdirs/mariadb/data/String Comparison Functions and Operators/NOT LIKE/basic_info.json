@@ -1,0 +1,6 @@
+{
+    "syntax_name": "NOT LIKE",
+    "raw_syntax_name": "expr NOT LIKE pat [ESCAPE 'escape_char']",
+    "is_agg": false,
+    "syntax_type": "String Comparison Functions and Operators"
+}

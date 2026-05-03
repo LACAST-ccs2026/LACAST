@@ -1,0 +1,6 @@
+{
+    "syntax_name": "OR",
+    "raw_syntax_name": "OR",
+    "is_agg": false,
+    "syntax_type": "Operator"
+}

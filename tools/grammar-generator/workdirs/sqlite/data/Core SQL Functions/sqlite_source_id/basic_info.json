@@ -1,0 +1,6 @@
+{
+    "syntax_name": "sqlite_source_id",
+    "raw_syntax_name": "sqlite_source_id()",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

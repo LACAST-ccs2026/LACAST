@@ -1,0 +1,6 @@
+{
+    "syntax_name": "position",
+    "raw_syntax_name": "position ( substring text IN string text ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

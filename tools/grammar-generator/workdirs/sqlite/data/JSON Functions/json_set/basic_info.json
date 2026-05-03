@@ -1,0 +1,6 @@
+{
+    "syntax_name": "json_set",
+    "raw_syntax_name": "json_set",
+    "is_agg": false,
+    "syntax_type": "JSON Functions"
+}

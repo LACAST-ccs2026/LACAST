@@ -1,0 +1,6 @@
+{
+    "syntax_name": "timeofday",
+    "raw_syntax_name": "timeofday ( ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "function"
+}

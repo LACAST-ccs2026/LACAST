@@ -1,0 +1,6 @@
+{
+    "syntax_name": "printf",
+    "raw_syntax_name": "printf(FORMAT,...)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

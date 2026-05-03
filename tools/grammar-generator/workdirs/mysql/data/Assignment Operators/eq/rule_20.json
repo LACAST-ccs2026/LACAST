@@ -1,0 +1,6 @@
+{
+    "idx": 20,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "eq_boolean_evaluator",
+    "right": "_var_boolean \"=\" boolean_evaluator_without_agg"
+}

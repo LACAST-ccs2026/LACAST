@@ -1,0 +1,6 @@
+{
+    "syntax_name": "UUID_TO_BIN",
+    "raw_syntax_name": "UUID_TO_BIN",
+    "is_agg": false,
+    "syntax_type": "Miscellaneous Functions"
+}

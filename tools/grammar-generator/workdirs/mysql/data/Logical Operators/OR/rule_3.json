@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "OR_boolean_evaluator",
+    "right": "bit_evaluator_without_agg \"OR\" bit_evaluator_without_agg"
+}

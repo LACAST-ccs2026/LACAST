@@ -1,0 +1,5 @@
+{
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "TIMESTAMPADD_datetime_evaluator",
+    "right": "\"TIMESTAMPADD(\"TIMESTAMPADD_unit \",\" _var_integer \",\" date_evaluator_without_agg \")\""
+}

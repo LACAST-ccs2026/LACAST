@@ -1,0 +1,6 @@
+{
+    "idx": 77,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_gteq_boolean_evaluator",
+    "right": "year_AGG_evaluator \">=\" year_AGG_evaluator"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "FLOOR_integer_evaluator",
+    "right": "\"FLOOR(\"integer_evaluator_without_agg \")\""
+}

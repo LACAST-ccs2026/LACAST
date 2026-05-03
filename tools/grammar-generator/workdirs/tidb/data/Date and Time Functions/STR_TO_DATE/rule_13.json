@@ -1,0 +1,6 @@
+{
+    "idx": 13,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "agg_STR_TO_DATE_datetime_evaluator",
+    "right": "\"STR_TO_DATE(\"blob_AGG_evaluator \",\" STR_TO_DATE_format \")\""
+}

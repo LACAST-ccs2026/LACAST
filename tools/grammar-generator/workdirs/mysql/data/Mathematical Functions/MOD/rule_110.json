@@ -1,0 +1,6 @@
+{
+    "idx": 110,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_MOD_double_evaluator",
+    "right": "\"MOD(\"double_evaluator_without_agg \",\" bit_AGG_evaluator \")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "text_concat_evaluator",
+    "right": "character_evaluator_without_agg \"||\" character_evaluator_without_agg"
+}

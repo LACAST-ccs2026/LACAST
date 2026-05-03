@@ -1,0 +1,6 @@
+{
+    "syntax_name": "format",
+    "raw_syntax_name": "format(FORMAT,...)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

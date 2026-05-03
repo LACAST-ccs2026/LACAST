@@ -1,0 +1,6 @@
+{
+    "syntax_name": "randomblob",
+    "raw_syntax_name": "randomblob(N)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

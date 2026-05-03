@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_AGG_evaluator",
+    "left": "min_double_evaluator",
+    "right": "\"min(\"_var_double\")\""
+}

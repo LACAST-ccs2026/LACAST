@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_ENCODE_SQL_DIGEST",
+    "raw_syntax_name": "TIDB_ENCODE_SQL_DIGEST",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The TIDB_ENCODE_SQL_DIGEST(digests) function encodes SQL digests."
+}

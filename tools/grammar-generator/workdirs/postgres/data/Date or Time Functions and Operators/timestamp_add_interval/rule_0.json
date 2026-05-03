@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "timestamp_add_interval_timestamp_evaluator",
+    "right": "timestamp_evaluator_without_agg \"+\" \"'1 day'::interval\""
+}

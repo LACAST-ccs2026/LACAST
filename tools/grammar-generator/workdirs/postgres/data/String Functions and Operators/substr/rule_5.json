@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "substr_text_evaluator",
+    "right": "\"substr( 'Testing' , 4 , 3 )\""
+}

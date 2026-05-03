@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bit_length_bytea",
+    "raw_syntax_name": "bit_length ( bytea ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

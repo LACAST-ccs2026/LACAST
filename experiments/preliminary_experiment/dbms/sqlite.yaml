@@ -1,0 +1,6 @@
+target_dbms: "sqlite"
+database_name: "lacast"
+schema_path: "schemas/sqlite/2.sql"
+max_connections: 1
+db_config:
+  db_path: "schemas/sqlite/sqlite.db"

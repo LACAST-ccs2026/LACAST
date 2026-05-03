@@ -1,0 +1,7 @@
+{
+    "syntax_name": "INSERT_str",
+    "raw_syntax_name": "INSERT()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The INSERT(str, pos, len, newstr) function replaces a substring starting at position pos with length len characters with newstr. Returns NULL if any argument is NULL."
+}

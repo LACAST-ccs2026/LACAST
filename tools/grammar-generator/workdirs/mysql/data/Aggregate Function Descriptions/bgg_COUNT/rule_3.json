@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "COUNT_integer_evaluator",
+    "right": "\"COUNT(\"double_evaluator_without_agg \")\""
+}

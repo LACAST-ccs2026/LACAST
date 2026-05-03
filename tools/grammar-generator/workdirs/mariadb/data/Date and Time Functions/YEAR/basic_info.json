@@ -1,0 +1,6 @@
+{
+    "syntax_name": "YEAR",
+    "raw_syntax_name": "YEAR(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

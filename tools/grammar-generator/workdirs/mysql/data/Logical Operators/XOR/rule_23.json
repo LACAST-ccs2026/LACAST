@@ -1,0 +1,6 @@
+{
+    "idx": 23,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "XOR_integer_evaluator",
+    "right": "_var_blob \"XOR\" blob_evaluator_without_agg"
+}

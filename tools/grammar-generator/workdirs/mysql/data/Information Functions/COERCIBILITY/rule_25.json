@@ -1,0 +1,6 @@
+{
+    "idx": 25,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_COERCIBILITY_integer_evaluator",
+    "right": "\"COERCIBILITY(\"text_AGG_evaluator \")\""
+}

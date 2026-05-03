@@ -1,0 +1,5 @@
+{
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_ltlt_char_evaluator",
+    "right": "char_evaluator_without_agg \"<<\" integer_AGG_evaluator"
+}

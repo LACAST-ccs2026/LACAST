@@ -1,0 +1,6 @@
+{
+    "syntax_name": "SYSDATE",
+    "raw_syntax_name": "SYSDATE([fsp])",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

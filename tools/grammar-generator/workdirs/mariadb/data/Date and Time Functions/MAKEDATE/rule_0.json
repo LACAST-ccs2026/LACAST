@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_evaluator_without_agg",
+    "left": "MAKEDATE_date_evaluator",
+    "right": "\"MAKEDATE(\"_var_integer \",\" _var_integer \")\""
+}

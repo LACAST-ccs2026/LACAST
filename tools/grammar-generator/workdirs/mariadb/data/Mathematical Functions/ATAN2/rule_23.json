@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "ATAN2_double_evaluator",
+    "right": "\"ATAN2(\"double_evaluator_without_agg \",\" double_evaluator_without_agg \")\""
+}

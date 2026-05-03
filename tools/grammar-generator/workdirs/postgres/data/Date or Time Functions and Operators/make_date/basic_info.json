@@ -1,0 +1,6 @@
+{
+    "syntax_name": "make_date",
+    "raw_syntax_name": "make_date ( year int, month int, day int ) \u2192 date",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

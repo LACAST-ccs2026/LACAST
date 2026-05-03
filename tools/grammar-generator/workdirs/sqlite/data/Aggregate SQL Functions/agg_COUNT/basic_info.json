@@ -1,0 +1,6 @@
+{
+    "syntax_name": "agg_COUNT",
+    "raw_syntax_name": "count(X)count(*)",
+    "is_agg": true,
+    "syntax_type": "Aggregate SQL Functions"
+}

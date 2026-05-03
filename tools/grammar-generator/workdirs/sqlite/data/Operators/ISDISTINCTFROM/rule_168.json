@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_ISDISTINCTFROM_integer_evaluator",
+    "right": "_var_text \"IS DISTINCT FROM\" numeric_AGG_evaluator"
+}

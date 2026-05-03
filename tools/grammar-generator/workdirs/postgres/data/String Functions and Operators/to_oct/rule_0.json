@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "to_oct_text_evaluator",
+    "right": "\"to_oct( 64 )\""
+}

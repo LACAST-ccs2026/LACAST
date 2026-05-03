@@ -1,0 +1,6 @@
+{
+    "syntax_name": "lpad",
+    "raw_syntax_name": "lpad ( string text, length integer [, fill text ] ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

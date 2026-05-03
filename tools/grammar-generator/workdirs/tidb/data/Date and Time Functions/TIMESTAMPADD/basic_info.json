@@ -1,0 +1,6 @@
+{
+    "syntax_name": "TIMESTAMPADD",
+    "raw_syntax_name": "TIMESTAMPADD(unit,interval,datetime_expr)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

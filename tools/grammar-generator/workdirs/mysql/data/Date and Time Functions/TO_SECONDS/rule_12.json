@@ -1,0 +1,6 @@
+{
+    "idx": 12,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_TO_SECONDS_integer_evaluator",
+    "right": "\"TO_SECONDS(\"integer_AGG_evaluator \")\""
+}

@@ -1,0 +1,7 @@
+ {
+     "types": ["integer", "real", "numeric", "text","blob"],
+     "compatibility": {
+       "integer": ["real", "text"],
+       "real": ["text"]
+     }
+ }

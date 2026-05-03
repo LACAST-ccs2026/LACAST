@@ -1,0 +1,10 @@
+{
+    "TIMESTAMPADD_unit": [
+        "\"MINUTE\"",
+        "\"DAY\"",
+        "\"WEEK\"",
+        "\"MONTH\"",
+        "\"SQL_TSI_MINUTE\"",
+        "\"SQL_TSI_MONTH\""
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "time_evaluator_without_agg",
+    "left": "localtime_func_time_evaluator",
+    "right": "\"localtime\""
+}

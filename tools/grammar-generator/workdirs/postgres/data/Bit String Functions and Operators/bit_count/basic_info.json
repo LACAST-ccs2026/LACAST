@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bit_count",
+    "raw_syntax_name": "bit_count ( bit ) \u2192 bigint",
+    "is_agg": false,
+    "syntax_type": "Bit String Functions and Operators"
+}

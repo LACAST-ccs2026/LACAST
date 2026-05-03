@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "oror_text_evaluator",
+    "right": "_var_text \"||\" inet_AGG_evaluator"
+}

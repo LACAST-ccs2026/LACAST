@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "INET_ATON_integer_evaluator",
+    "right": "\"INET_ATON(\"_var_text \")\""
+}

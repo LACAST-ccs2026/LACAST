@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "IFNULL_double_evaluator",
+    "right": "\"IFNULL(\"_var_double \",\" integer_evaluator_without_agg \")\""
+}

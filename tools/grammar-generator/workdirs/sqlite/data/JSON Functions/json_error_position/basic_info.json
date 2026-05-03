@@ -1,0 +1,6 @@
+{
+    "syntax_name": "json_error_position",
+    "raw_syntax_name": "json_error_position(X)",
+    "is_agg": false,
+    "syntax_type": "JSON Functions"
+}

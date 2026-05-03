@@ -1,0 +1,6 @@
+{
+    "idx": 73,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "pow_integer_evaluator",
+    "right": "year_evaluator_without_agg \"^\" year_evaluator_without_agg"
+}

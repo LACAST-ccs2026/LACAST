@@ -1,0 +1,6 @@
+{
+    "idx": 32,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "SUBTIME_datetime_evaluator",
+    "right": "\"SUBTIME(\"_var_datetime \",\" char_evaluator_without_agg \")\""
+}

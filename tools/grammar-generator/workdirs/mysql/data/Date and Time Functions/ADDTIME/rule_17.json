@@ -1,0 +1,6 @@
+{
+    "idx": 17,
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "agg_ADDTIME_timestamp_evaluator",
+    "right": "\"ADDTIME(\"timestamp_evaluator_without_agg \",\" time_AGG_evaluator \")\""
+}

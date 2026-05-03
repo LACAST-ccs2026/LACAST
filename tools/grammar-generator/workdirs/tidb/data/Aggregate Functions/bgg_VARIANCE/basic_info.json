@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_VARIANCE",
+    "raw_syntax_name": "VARIANCE(expr) [over_clause]",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

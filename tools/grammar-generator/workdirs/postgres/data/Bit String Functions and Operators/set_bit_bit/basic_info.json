@@ -1,0 +1,6 @@
+{
+    "syntax_name": "set_bit_bit",
+    "raw_syntax_name": "set_bit ( bits bit, n integer, newvalue integer ) \u2192 bit",
+    "is_agg": false,
+    "syntax_type": "Bit String Functions and Operators"
+}

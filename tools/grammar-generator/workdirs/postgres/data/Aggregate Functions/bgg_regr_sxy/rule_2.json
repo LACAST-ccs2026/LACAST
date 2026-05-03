@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_AGG_evaluator",
+    "left": "regr_sxy_double_evaluator",
+    "right": "\"regr_sxy(\"_var_double \",\" _var_double\")\""
+}

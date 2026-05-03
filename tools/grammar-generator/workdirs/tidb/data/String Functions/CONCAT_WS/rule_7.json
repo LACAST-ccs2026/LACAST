@@ -1,0 +1,6 @@
+{
+    "idx": 7,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "concat_ws_text_evaluator",
+    "right": "\"CONCAT_WS(\" text_evaluator_without_agg \",\" text_evaluator_without_agg \",\" text_evaluator_without_agg(\",\" text_evaluator_without_agg)* \")\""
+}

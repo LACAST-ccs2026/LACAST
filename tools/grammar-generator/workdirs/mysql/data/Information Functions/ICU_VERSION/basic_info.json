@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ICU_VERSION",
+    "raw_syntax_name": "ICU_VERSION()",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

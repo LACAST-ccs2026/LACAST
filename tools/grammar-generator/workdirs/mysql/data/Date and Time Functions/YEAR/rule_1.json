@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "YEAR_integer_evaluator",
+    "right": "\"YEAR(\"date_evaluator_without_agg \")\""
+}

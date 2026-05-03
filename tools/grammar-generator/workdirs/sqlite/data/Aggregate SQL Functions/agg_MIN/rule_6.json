@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_AGG_evaluator",
+    "left": "MIN_blob_evaluator",
+    "right": "\"MIN(\"_var_blob \")\""
+}

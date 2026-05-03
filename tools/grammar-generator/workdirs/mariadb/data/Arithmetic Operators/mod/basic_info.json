@@ -1,0 +1,6 @@
+{
+    "syntax_name": "mod",
+    "raw_syntax_name": "N % M",
+    "is_agg": false,
+    "syntax_type": "Arithmetic Operators"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ISNOTDISTINCTFROM",
+    "raw_syntax_name": "datatype IS NOT DISTINCT FROM datatype \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "Comparison Functions and Operators"
+}

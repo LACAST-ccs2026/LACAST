@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "FORMAT_NANO_TIME_text_evaluator",
+    "right": "\"FORMAT_NANO_TIME(\" _var_double \")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "width_bucket_array_integer_evaluator",
+    "right": "\"width_bucket(\"\"5\" \",\" \"ARRAY[1, 3, 5, 10]\"\")\""
+}

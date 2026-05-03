@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_AGG_evaluator",
+    "left": "json_group_object_text_evaluator",
+    "right": "\"json_group_object(\"_var_text \",\" numeric_evaluator_without_agg \")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "CONVERT_integer_evaluator",
+    "right": "\"CONVERT(\"_var_integer \",\" CONVERT_type \")\""
+}

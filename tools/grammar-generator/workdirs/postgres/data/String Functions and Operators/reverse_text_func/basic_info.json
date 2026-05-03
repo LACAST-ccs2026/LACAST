@@ -1,0 +1,6 @@
+{
+    "syntax_name": "reverse_text_func",
+    "raw_syntax_name": "reverse ( text ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

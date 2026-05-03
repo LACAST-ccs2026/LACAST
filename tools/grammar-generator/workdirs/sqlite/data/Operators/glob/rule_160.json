@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_glob_integer_evaluator",
+    "right": "\"glob(\"text_AGG_evaluator \",\" blob_AGG_evaluator \")\""
+}

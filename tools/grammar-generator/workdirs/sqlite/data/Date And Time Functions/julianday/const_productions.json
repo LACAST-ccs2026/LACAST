@@ -1,0 +1,28 @@
+{
+    "julianday_modifier": [
+        "\"'now'\"",
+        "\"'julianday'\"",
+        "\"'unixepoch'\"",
+        "\"'localtime'\"",
+        "\"'utc'\"",
+        "\"'start of year'\"",
+        "\"'start of month'\"",
+        "\"'start of day'\"",
+        "\"'start of hour'\"",
+        "\"'start of minute'\"",
+        "\"'start of second'\"",
+        "\"'weekday 0'\"",
+        "\"'weekday 1'\"",
+        "\"'weekday 2'\"",
+        "\"'weekday 3'\"",
+        "\"'weekday 4'\"",
+        "\"'weekday 5'\"",
+        "\"'weekday 6'\"",
+        "\"'+1 years'\"",
+        "\"'-2 months'\"",
+        "\"'+3 days'\"",
+        "\"'+4 hours'\"",
+        "\"'+5 minutes'\"",
+        "\"'+6 seconds'\""
+    ]
+}

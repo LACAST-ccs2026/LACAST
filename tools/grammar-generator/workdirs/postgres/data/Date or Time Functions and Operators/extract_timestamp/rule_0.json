@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "extract_timestamp_double_evaluator",
+    "right": "\"EXTRACT(\"\"DAY FROM\" _var_timestamp\")\""
+}

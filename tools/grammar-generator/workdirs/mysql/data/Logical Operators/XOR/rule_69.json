@@ -1,0 +1,6 @@
+{
+    "idx": 69,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_XOR_integer_evaluator",
+    "right": "text_AGG_evaluator \"XOR\" text_AGG_evaluator"
+}

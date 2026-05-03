@@ -1,0 +1,6 @@
+{
+    "syntax_name": "atand",
+    "raw_syntax_name": "atand ( double precision ) \u2192 double precision",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

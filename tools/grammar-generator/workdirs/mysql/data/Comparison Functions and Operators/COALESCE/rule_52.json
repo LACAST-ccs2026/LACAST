@@ -1,0 +1,6 @@
+{
+    "idx": 52,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "COALESCE_blob_evaluator",
+    "right": "\"COALESCE(\"blob_evaluator_without_agg \")\""
+}

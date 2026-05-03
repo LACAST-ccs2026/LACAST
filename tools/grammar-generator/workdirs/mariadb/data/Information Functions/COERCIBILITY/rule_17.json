@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "COERCIBILITY_integer_evaluator",
+    "right": "\"COERCIBILITY(\"text_evaluator_without_agg \")\""
+}

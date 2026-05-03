@@ -1,0 +1,6 @@
+{
+    "idx": 79,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_gtgt_char_evaluator",
+    "right": "_var_char \">>\" double_AGG_evaluator"
+}

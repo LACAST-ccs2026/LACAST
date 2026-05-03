@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_evaluator_without_agg",
+    "left": "DATE_SUB_date_evaluator",
+    "right": "\"DATE_SUB(\" _var_date \",\" \"INTERVAL 1\" DATE_SUB_unit\")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "reverse_bytea",
+    "raw_syntax_name": "reverse ( bytea ) \u2192 bytea",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

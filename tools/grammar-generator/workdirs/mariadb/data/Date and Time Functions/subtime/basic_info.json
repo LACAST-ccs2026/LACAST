@@ -1,0 +1,7 @@
+{
+  "syntax_name": "subtime",
+  "raw_syntax_name": "SUBTIME(expr1,expr2)",
+  "is_agg": false,
+  "syntax_type": "Date and Time Functions",
+  "syntax_info": "SUBTIME() returns expr1 − expr2 expressed as a value in the same format as expr1. expr1 is a time or datetime expression, and expr2 is a time expression. Resolution of this function's return type is performed as it is for the ADDTIME() function. This function returns NULL if expr1 or expr2 is NULL."
+}

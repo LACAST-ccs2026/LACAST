@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "agg_or_text_evaluator",
+    "right": "text_evaluator_without_agg \"|\" text_AGG_evaluator"
+}

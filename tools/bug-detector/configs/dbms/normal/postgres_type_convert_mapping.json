@@ -1,0 +1,10 @@
+{
+  "INT": "integer",
+  "BOOLEAN": "boolean",
+  "TEXT": "text",
+  "DECIMAL": "double precision",
+  "FLOAT": "double precision",
+  "REAL": "double precision",
+  "BIT": "bit",
+  "INET": "inet"
+}

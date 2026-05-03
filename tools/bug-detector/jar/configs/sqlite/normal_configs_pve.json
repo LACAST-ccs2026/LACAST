@@ -1,0 +1,16 @@
+{
+  "typesJsonPath": "./jar/configs/sqlite/datatypes/types.json",
+  "typesDir": "./jar/configs/sqlite/datatypes",
+  "grammarPath": "./jar/configs/sqlite/grammars/grammar.g4",
+  "recordRulePath": "./jar/configs/sqlite/grammars/recordRules.log",
+  "schemaPath": "./data/sqlite/normal/current_schema/converted_schema.json",
+  "startName": "query",
+  "depth": 4,
+  "GB_UNIFIED_RULE": 1,
+  "AGG_ONLY_IN_GB": 1,
+  "HAVING_USE_SELECT": 0,
+  "HAVING_USE_FROM": 1,
+  "HAVING_USE_GROUPBY": 1,
+  "orderByProjectionRule": 1,
+  "OUTER_REF_ENABLED": 0
+}

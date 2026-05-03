@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CASE",
+    "raw_syntax_name": "CASE value WHEN compare_value THEN result [WHEN compare_value THEN result ...] [ELSE result] END",
+    "is_agg": false,
+    "syntax_type": "Flow Control Functions"
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_DECODE_PLAN",
+    "raw_syntax_name": "TIDB_DECODE_PLAN",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The TIDB_DECODE_PLAN(plan) function decodes a TiDB execution plan."
+}

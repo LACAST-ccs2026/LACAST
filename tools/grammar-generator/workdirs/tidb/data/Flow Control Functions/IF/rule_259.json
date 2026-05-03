@@ -1,0 +1,6 @@
+{
+    "idx": 259,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "IF_datetime_evaluator",
+    "right": "\"IF(\"boolean_evaluator_without_agg \",\" _var_datetime \",\" datetime_evaluator_without_agg \")\""
+}

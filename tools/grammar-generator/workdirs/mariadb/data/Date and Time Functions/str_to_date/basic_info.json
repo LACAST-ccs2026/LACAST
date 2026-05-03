@@ -1,0 +1,7 @@
+{
+  "syntax_name": "str_to_date",
+  "raw_syntax_name": "STR_TO_DATE(str,format)",
+  "is_agg": false,
+  "syntax_type": "Date and Time Functions",
+  "syntax_info": "This is the inverse of the DATE_FORMAT() function. It takes a string str and a format string format. STR_TO_DATE() returns a DATETIME value if the format string contains both date and time parts, or a DATE or TIME value if the string contains only date or time parts. If str or format is NULL, the function returns NULL."
+}

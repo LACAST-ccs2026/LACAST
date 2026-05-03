@@ -1,0 +1,9 @@
+target_dbms: "postgres"
+database_name: "sqlcraft"
+schema_path: "./data/postgres/normal/current_schema/schema.sql"
+max_connections: 1
+db_config:
+  host: "127.0.0.1"
+  port: "15432"
+  username: "postgres"
+  password: "123456"

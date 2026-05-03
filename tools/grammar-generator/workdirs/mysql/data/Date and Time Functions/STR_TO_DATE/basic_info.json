@@ -1,0 +1,6 @@
+{
+    "syntax_name": "STR_TO_DATE",
+    "raw_syntax_name": "STR_TO_DATE(str,format)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

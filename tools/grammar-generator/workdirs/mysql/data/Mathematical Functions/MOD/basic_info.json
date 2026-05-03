@@ -1,0 +1,6 @@
+{
+    "syntax_name": "MOD",
+    "raw_syntax_name": "MOD(N,M)",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "MONTH",
+    "raw_syntax_name": "MONTH(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

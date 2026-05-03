@@ -1,0 +1,6 @@
+{
+    "syntax_name": "IF",
+    "raw_syntax_name": "IF()",
+    "is_agg": false,
+    "syntax_type": "Flow Control Functions"
+}

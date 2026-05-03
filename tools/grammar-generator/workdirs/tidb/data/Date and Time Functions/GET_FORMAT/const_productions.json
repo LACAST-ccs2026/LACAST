@@ -1,0 +1,16 @@
+{
+    "GET_FORMAT_date_or_time_type": [
+        "\"DATE\"",
+        "\"TIME\"",
+        "\"DATETIME\"",
+        "\"TIMESTAMP\""
+    ],
+    "GET_FORMAT_format": [
+        "\"'EUR'\"",
+        "\"'USA'\"",
+        "\"'JIS'\"",
+        "\"'ISO'\"",
+        "\"'INTERNAL'\"",
+        "\"NULL\""
+    ]
+}

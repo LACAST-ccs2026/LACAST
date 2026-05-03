@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_AGG_evaluator",
+    "left": "COUNT_integer_evaluator",
+    "right": "\"COUNT(\"date_evaluator_without_agg \")\""
+}

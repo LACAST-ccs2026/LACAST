@@ -1,0 +1,7 @@
+{
+    "syntax_name": "LPAD",
+    "raw_syntax_name": "LPAD()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The LPAD(str, len, padstr) function returns str left-padded with padstr to length len. Returns NULL if any argument is NULL."
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "LOCATE",
+    "raw_syntax_name": "LOCATE()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The LOCATE(substr, str[, pos]) function returns the position of the first occurrence of substr in str. Returns 0 if not found, NULL if any argument is NULL."
+}

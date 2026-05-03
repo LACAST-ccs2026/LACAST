@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "MOD_double_evaluator",
+    "right": "\"MOD(\"_var_boolean \",\" double_evaluator_without_agg \")\""
+}

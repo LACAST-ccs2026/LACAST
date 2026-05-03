@@ -1,0 +1,6 @@
+{
+    "idx": 21,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "ISNOTNULL_boolean_evaluator",
+    "right": "text_evaluator_without_agg \"IS NOT NULL\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "UPPER_text_evaluator",
+    "right": "\"UPPER(\"_var_integer \")\""
+}

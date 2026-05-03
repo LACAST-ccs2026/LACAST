@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "UTC_TIMESTAMP_double_evaluator",
+    "right": "\"UTC_TIMESTAMP(\" \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "unicode_assigned",
+    "raw_syntax_name": "unicode_assigned ( text ) \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

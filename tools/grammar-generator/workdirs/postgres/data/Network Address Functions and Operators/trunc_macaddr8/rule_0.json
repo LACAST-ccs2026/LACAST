@@ -1,0 +1,5 @@
+{
+    "type_eval": "macaddr8_evaluator_without_agg",
+    "left": "trunc_macaddr8_evaluator",
+    "right": "\"trunc(\" _var_macaddr8 \")\""
+}

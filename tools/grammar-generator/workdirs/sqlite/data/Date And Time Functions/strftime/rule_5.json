@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "strftime_text_evaluator",
+    "right": "\"strftime(\"strftime_format \",\" _var_real \",\" strftime_modifier(\",\" strftime_modifier)* \")\""
+}

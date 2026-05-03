@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "INET6_ATON_blob_evaluator",
+    "right": "\"INET6_ATON(\"_var_text \")\""
+}

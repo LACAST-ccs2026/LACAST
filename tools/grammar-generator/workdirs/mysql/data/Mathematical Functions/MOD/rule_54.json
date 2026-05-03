@@ -1,0 +1,6 @@
+{
+    "idx": 54,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_MOD_integer_evaluator",
+    "right": "\"MOD(\"integer_evaluator_without_agg \",\" boolean_AGG_evaluator \")\""
+}

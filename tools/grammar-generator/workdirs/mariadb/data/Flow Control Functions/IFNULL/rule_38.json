@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_evaluator_without_agg",
+    "left": "IFNULL_date_evaluator",
+    "right": "\"IFNULL(\"date_evaluator_without_agg \",\" _var_date \")\""
+}

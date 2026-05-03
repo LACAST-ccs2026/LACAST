@@ -1,0 +1,6 @@
+{
+    "syntax_name": "degrees",
+    "raw_syntax_name": "degrees(X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

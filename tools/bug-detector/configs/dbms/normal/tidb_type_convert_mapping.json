@@ -1,0 +1,10 @@
+{
+  "INT": "integer",
+  "TEXT": "text",
+  "BOOL": "boolean",
+  "FLOATING": "double",
+  "CHAR": "char",
+  "DECIMAL": "double",
+  "NUMERIC": "double",
+  "BLOB": "blob"
+}

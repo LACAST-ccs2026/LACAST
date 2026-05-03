@@ -1,0 +1,6 @@
+{
+    "idx": 114,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "IFNULL_datetime_evaluator",
+    "right": "\"IFNULL(\"_var_datetime \",\" datetime_evaluator_without_agg \")\""
+}

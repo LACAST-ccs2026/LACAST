@@ -1,0 +1,6 @@
+{
+    "idx": 59,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_IF_integer_evaluator",
+    "right": "\"IF(\"integer_AGG_evaluator \",\" integer_AGG_evaluator \",\" integer_AGG_evaluator \")\""
+}

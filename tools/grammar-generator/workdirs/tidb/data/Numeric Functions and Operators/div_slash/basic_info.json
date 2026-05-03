@@ -1,0 +1,7 @@
+{
+  "syntax_name": "div_slash",
+  "raw_syntax_name": "/",
+  "is_agg": false,
+  "syntax_type": "Numeric Functions and Operators",
+  "syntax_info": "Division operator. Returns the result of dividing one number by another."
+}

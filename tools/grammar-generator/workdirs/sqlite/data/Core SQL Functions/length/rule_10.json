@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_length_integer_evaluator",
+    "right": "\"length(\"text_AGG_evaluator \")\""
+}

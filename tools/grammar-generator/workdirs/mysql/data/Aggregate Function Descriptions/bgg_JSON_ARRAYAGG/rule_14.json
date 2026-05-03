@@ -1,0 +1,6 @@
+{
+    "idx": 14,
+    "type_eval": "text_AGG_evaluator",
+    "left": "JSON_ARRAYAGG_text_evaluator",
+    "right": "\"JSON_ARRAYAGG(\"_var_year \")\""
+}

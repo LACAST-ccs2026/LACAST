@@ -1,0 +1,6 @@
+{
+    "idx": 21,
+    "type_eval": "year_AGG_evaluator",
+    "left": "MIN_year_evaluator",
+    "right": "\"MIN(\"year_evaluator_without_agg \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "json_replace",
+    "raw_syntax_name": "json_replace(_json_, _path_, _value_, ...)",
+    "is_agg": false,
+    "syntax_type": "JSON Functions"
+}

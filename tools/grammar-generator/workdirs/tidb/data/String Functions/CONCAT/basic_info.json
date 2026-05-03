@@ -1,0 +1,7 @@
+{
+    "syntax_name": "concat",
+    "raw_syntax_name": "CONCAT()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The CONCAT() function concatenates one or more arguments into a single string. If any argument is NULL, returns NULL."
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "ceil_integer_evaluator",
+    "right": "\"ceil(\"integer_evaluator_without_agg \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "abbrev_inet",
+    "raw_syntax_name": "abbrev ( inet ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "Network Address Functions and Operators"
+}

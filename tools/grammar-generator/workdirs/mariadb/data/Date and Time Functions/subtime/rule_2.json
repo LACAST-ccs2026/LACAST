@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "subtime_time_evaluator",
+    "right": "\"SUBTIME(\"time_evaluator_without_agg \",\" _var_time \")\""
+}

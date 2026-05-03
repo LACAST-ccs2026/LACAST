@@ -1,0 +1,6 @@
+{
+    "syntax_name": "regex_match",
+    "raw_syntax_name": "text ~ text \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "Pattern Matching"
+}

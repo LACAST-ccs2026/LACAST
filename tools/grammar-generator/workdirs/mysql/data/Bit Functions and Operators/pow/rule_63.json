@@ -1,0 +1,6 @@
+{
+    "idx": 63,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "pow_integer_evaluator",
+    "right": "_var_datetime \"^\" datetime_evaluator_without_agg"
+}

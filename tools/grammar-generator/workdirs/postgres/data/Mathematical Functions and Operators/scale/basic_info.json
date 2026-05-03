@@ -1,0 +1,6 @@
+{
+    "syntax_name": "scale",
+    "raw_syntax_name": "scale ( numeric ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

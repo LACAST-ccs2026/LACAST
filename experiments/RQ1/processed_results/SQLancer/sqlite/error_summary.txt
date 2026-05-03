@@ -1,0 +1,79 @@
+Runtime error near line 1: 0.so: cannot open shared object file: No such file or directory
+Runtime error near line 1: 0.0.so: cannot open shared object file: No such file or directory
+Parse error near line 1: no such index: i61
+Runtime error near line 1: bad JSON path: '0'
+Runtime error near line 1: 0.so: cannot open shared object file: No such file or directory
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+  )OR(x'9879')))OR(v0.c0 COLLATE RTRIM))) ORDER BY -1509480305 COLLATE NOCASE CO
+                                      error here ---^
+Runtime error near line 1: malformed JSON
+Parse error near line 1: no such function: highlight
+  REAL), ((x'')!=(rt0.c2)), ((rt0.c3) NOT NULL)))>((highlight(rt0.c3, rt0.c3, rt
+                                      error here ---^
+Parse error near line 1: no such function: highlight
+  ) FROM (SELECT ALL ((CASE WHEN (NOT (t1.c0)) THEN highlight(t1.c0, t1.c0, t1.c
+                                      error here ---^
+Runtime error near line 1: integer overflow
+Runtime error near line 1: json_object() labels must be TEXT
+Parse error near line 1: no such index: i61
+Runtime error near line 1: bad JSON path: '2'
+Runtime error near line 1: malformed JSON
+Parse error near line 1: no query solution
+Runtime error near line 1: bad JSON path: '2'
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 2
+  EN vt1.c0 THEN vt1.c1 ELSE vt1.c0 END))) ORDER BY 0x5e93bde9 ASC  NULLS LAST;
+                                      error here ---^
+Runtime error near line 1: JSON cannot hold BLOB values
+Runtime error near line 1: JSON cannot hold BLOB values
+Runtime error near line 1: .so: cannot open shared object file: No such file or directory
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+Parse error near line 1: 3rd ORDER BY term out of range - should be between 1 and 1
+  0 THEN vt0.c0 WHEN vt0.c0 THEN vt0.c0 END)) DESC, 0x55a76e40;
+                                      error here ---^
+Runtime error near line 1: X[y].so: cannot open shared object file: No such file or directory
+Runtime error near line 1: 1.so: cannot open shared object file: No such file or directory
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 8
+Runtime error near line 1: bad JSON path: '#2{1sw~'
+Parse error near line 1: no such function: highlight
+  SELECT SUM(count) FROM (SELECT ((highlight((((rt0.c1, rt0.c2, rt0.c1))==((v0.c
+                     error here ---^
+Runtime error near line 1: bad JSON path: '0'
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+Runtime error near line 1: unable to open shared library []
+Parse error near line 1: ON clause references tables to its right
+Runtime error near line 1: bad JSON path: 'i '
+Parse error near line 1: no such index: i43
+Runtime error near line 1: bad JSON path: '0.0'
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+Runtime error near line 1: malformed JSON
+Runtime error near line 1: bad JSON path: '1210025328.0'
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+   IS TRUE)))) IS TRUE)  as count FROM rt0 ORDER BY 1774457266  NULLS FIRST);
+                                      error here ---^
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+Runtime error near line 1: 0.200692157801079.so: cannot open shared object file: No such file or directory
+Runtime error near line 1: 1166564913.0.so: cannot open shared object file: No such file or directory
+Runtime error near line 1: bad JSON path: '0'
+Runtime error near line 1: json_object() labels must be TEXT
+Runtime error near line 1: bad JSON path: '0'
+Runtime error near line 1: -237499356.so: cannot open shared object file: No such file or directory
+Runtime error near line 1: bad JSON path: '0.0'
+Runtime error near line 1: 252378884.so: cannot open shared object file: No such file or directory
+Runtime error near line 1: JSON cannot hold BLOB values
+Runtime error near line 1: json_object() labels must be TEXT
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+  .c0)))OR(NULL)))AND(t0.c0)))OR(t0.c0)))) ORDER BY 0X3bc20a31, load_extension((
+                                      error here ---^
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+   (CAST(((vt0.c0)/(vt0.c0)) AS INTEGER)) ORDER BY -436512440  NULLS LAST, ((((v
+                                      error here ---^
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+Runtime error near line 1: bad JSON path: '0'
+Parse error near line 1: no such function: highlight
+  JOIN vt0 ON (vt0.c1 COLLATE RTRIM IN ()) ORDER BY highlight(rt1.c1, vt0.c1, vt
+                                      error here ---^
+Runtime error near line 1: bad JSON path: '-9223372036854775808'
+Parse error near line 1: no such index: i32
+Parse error near line 1: 1st ORDER BY term out of range - should be between 1 and 1
+  T (t0.c0))))) IS TRUE)  as count FROM t0 ORDER BY 0x3ed89c4e  NULLS LAST);
+                                      error here ---^

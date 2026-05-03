@@ -1,0 +1,6 @@
+{
+  "idx": 6,
+  "type_eval": "year_AGG_evaluator",
+  "left": "bgg_approx_percentile_year_evaluator",
+  "right": "\"APPROX_PERCENTILE(\" _var_year \",\" \"50\" \")\""
+}

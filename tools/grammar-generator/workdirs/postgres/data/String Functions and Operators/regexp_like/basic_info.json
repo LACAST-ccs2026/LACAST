@@ -1,0 +1,6 @@
+{
+    "syntax_name": "regexp_like",
+    "raw_syntax_name": "regexp_like ( string text, pattern text [, flags text ] ) \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

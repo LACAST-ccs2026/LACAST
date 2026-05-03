@@ -1,0 +1,5 @@
+{
+    "type_eval": "time_evaluator_without_agg",
+    "left": "GREATEST_time_evaluator",
+    "right": "\"GREATEST(\"time_AGG_evaluator \",\" time_evaluator_without_agg(\",\" time_evaluator_without_agg)*\")\""
+}

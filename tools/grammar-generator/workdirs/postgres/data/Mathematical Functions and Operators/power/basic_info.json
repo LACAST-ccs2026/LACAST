@@ -1,0 +1,6 @@
+{
+    "syntax_name": "power",
+    "raw_syntax_name": "power ( a numeric, b numeric ) \u2192 numeric",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_AGG_evaluator",
+    "left": "MIN_integer_evaluator",
+    "right": "\"MIN(\"integer_evaluator_without_agg \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 88,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "agg_ltlt_text_evaluator",
+    "right": "text_evaluator_without_agg \"<<\" bit_AGG_evaluator"
+}

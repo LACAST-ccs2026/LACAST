@@ -1,0 +1,6 @@
+{
+    "idx": 12,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_DATE_FORMAT_char_evaluator",
+    "right": "\"DATE_FORMAT(\"char_AGG_evaluator \",\" DATE_FORMAT_format \")\""
+}

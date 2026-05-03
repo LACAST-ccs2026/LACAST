@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "SYSDATE_datetime_evaluator",
+    "right": "\"SYSDATE(\"SYSDATE_fsp\")\""
+}

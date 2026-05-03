@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "trunc_integer_evaluator",
+    "right": "\"trunc(\"_var_real \")\""
+}

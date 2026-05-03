@@ -1,0 +1,6 @@
+{
+    "syntax_name": "FROM_UNIXTIME",
+    "raw_syntax_name": "FROM_UNIXTIME(unix_timestamp[,format])",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

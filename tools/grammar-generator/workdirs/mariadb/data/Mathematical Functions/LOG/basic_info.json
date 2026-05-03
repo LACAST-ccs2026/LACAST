@@ -1,0 +1,6 @@
+{
+    "syntax_name": "LOG",
+    "raw_syntax_name": "LOG(X)",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "regexp",
+    "raw_syntax_name": "REGEXP",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "Pattern matching using regular expressions. Returns 1 (match) or 0 (no match)."
+}

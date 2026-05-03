@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "year_AGG_evaluator",
+    "left": "MAX_year_evaluator",
+    "right": "\"MAX(\"year_evaluator_without_agg \")\""
+}

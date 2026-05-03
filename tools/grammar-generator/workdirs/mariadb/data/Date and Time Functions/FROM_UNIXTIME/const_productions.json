@@ -1,0 +1,6 @@
+{
+    "FROM_UNIXTIME_format": [
+        "\"'%Y-%m-%d %H:%i:%s'\"",
+        "\"'%Y %D %M %h:%i:%s %x'\""
+    ]
+}

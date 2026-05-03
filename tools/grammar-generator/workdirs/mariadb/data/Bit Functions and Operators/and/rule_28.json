@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_and_integer_evaluator",
+    "right": "_var_integer \"&\" integer_AGG_evaluator"
+}

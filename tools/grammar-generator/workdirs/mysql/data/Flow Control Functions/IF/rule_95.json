@@ -1,0 +1,6 @@
+{
+    "idx": 95,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_IF_double_evaluator",
+    "right": "\"IF(\"_var_boolean \",\" double_evaluator_without_agg \",\" double_AGG_evaluator \")\""
+}

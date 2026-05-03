@@ -1,0 +1,6 @@
+{
+    "syntax_name": "make_time",
+    "raw_syntax_name": "make_time ( hour int, min int, sec double precision ) \u2192 time",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

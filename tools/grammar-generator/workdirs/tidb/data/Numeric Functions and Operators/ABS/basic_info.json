@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ABS",
+    "raw_syntax_name": "ABS(X)",
+    "is_agg": false,
+    "syntax_type": "Numeric Functions and Operators"
+}

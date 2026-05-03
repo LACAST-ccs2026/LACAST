@@ -1,0 +1,6 @@
+target_dbms: "sqlite"
+database_name: "sqlcraft"
+schema_path: "D:\\PythonProjects\\SQLCraft\\RuleGenerator2\\tools\\configs\\sqlcraft\\sqlite\\schema\\2.sql"
+max_connections: 1
+db_config:
+  db_path: "D:\\PythonProjects\\SQLCraft\\RuleGenerator2\\tools\\configs\\sqlcraft\\sqlite\\schema\\sqlite.db"

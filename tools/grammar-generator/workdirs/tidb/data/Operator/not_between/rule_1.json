@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "not_between_integer_evaluator",
+    "right": "_var_double \"NOT BETWEEN\" _var_double \"AND\" _var_double"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "STRCMP",
+    "raw_syntax_name": "STRCMP()",
+    "is_agg": false,
+    "syntax_type": "String Comparison Functions and Operators"
+}

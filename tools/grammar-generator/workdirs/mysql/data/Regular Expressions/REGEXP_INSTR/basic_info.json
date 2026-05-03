@@ -1,0 +1,6 @@
+{
+    "syntax_name": "REGEXP_INSTR",
+    "raw_syntax_name": "REGEXP_INSTR(expr, pat[, pos[, occurrence[, return_option[, match_type]]]])",
+    "is_agg": false,
+    "syntax_type": "Regular Expressions"
+}

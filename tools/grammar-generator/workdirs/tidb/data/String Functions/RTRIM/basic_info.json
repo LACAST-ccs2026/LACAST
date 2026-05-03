@@ -1,0 +1,7 @@
+{
+    "syntax_name": "RTRIM",
+    "raw_syntax_name": "RTRIM()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The RTRIM() function removes trailing spaces from a string."
+}

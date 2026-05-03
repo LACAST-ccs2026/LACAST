@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "AND_integer_evaluator",
+    "right": "_var_boolean \"AND\" boolean_evaluator_without_agg"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "HOUR",
+    "raw_syntax_name": "HOUR(time)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

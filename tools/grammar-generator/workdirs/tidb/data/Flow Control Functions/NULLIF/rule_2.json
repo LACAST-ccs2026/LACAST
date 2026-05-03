@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "NULLIF_integer_evaluator",
+    "right": "\"NULLIF(\"integer_evaluator_without_agg \",\" _var_integer \")\""
+}

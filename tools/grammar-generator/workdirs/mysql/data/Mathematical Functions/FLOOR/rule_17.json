@@ -1,0 +1,6 @@
+{
+    "idx": 17,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_FLOOR_double_evaluator",
+    "right": "\"FLOOR(\"text_AGG_evaluator \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "replace",
+    "raw_syntax_name": "replace(X,Y,Z)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

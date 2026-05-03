@@ -1,0 +1,6 @@
+{
+    "idx": 264,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "IF_blob_evaluator",
+    "right": "\"IF(\"_var_boolean \",\" blob_evaluator_without_agg \",\" _var_blob \")\""
+}

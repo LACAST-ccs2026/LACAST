@@ -1,0 +1,6 @@
+{
+    "syntax_name": "REGEXP_LIKE",
+    "raw_syntax_name": "REGEXP_LIKE(expr, pat[, match_type])",
+    "is_agg": false,
+    "syntax_type": "Regular Expressions"
+}

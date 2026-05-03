@@ -1,0 +1,7 @@
+{
+    "syntax_name": "UPPER",
+    "raw_syntax_name": "UPPER()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The UPPER(str) function converts all characters in str to uppercase."
+}

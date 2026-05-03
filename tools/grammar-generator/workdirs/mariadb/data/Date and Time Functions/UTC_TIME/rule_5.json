@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "UTC_TIME_double_evaluator",
+    "right": "\"UTC_TIME(\"UTC_TIME_fsp \")\""
+}

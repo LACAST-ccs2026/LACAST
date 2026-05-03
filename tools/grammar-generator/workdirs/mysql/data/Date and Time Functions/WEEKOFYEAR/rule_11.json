@@ -1,0 +1,6 @@
+{
+    "idx": 11,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_WEEKOFYEAR_integer_evaluator",
+    "right": "\"WEEKOFYEAR(\"text_AGG_evaluator \")\""
+}

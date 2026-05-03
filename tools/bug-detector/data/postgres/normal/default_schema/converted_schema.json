@@ -1,0 +1,76 @@
+[
+  {
+    "key": "pg_table_a",
+    "fields": [
+      "id",
+      "col_bit",
+      "col_bool",
+      "col_bytea",
+      "col_char",
+      "col_date",
+      "col_double",
+      "col_text",
+      "col_time",
+      "col_timestamp",
+      "col_cidr",
+      "col_inet",
+      "col_macaddr",
+      "col_macaddr8",
+      "col_uuid"
+    ],
+    "types": [
+      "integer",
+      "bit",
+      "boolean",
+      "bytea",
+      "character",
+      "date",
+      "double_precision",
+      "text",
+      "time",
+      "timestamp",
+      "cidr",
+      "inet",
+      "macaddr",
+      "macaddr8",
+      "uuid"
+    ]
+  },
+  {
+    "key": "pg_table_b",
+    "fields": [
+      "id",
+      "col_bit",
+      "col_bool",
+      "col_bytea",
+      "col_char",
+      "col_date",
+      "col_double",
+      "col_text",
+      "col_time",
+      "col_timestamp",
+      "col_cidr",
+      "col_inet",
+      "col_macaddr",
+      "col_macaddr8",
+      "col_uuid"
+    ],
+    "types": [
+      "integer",
+      "bit",
+      "boolean",
+      "bytea",
+      "character",
+      "date",
+      "double_precision",
+      "text",
+      "time",
+      "timestamp",
+      "cidr",
+      "inet",
+      "macaddr",
+      "macaddr8",
+      "uuid"
+    ]
+  }
+]

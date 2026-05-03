@@ -1,0 +1,6 @@
+{
+    "idx": 6,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "MONTH_integer_evaluator",
+    "right": "\"MONTH(\"text_evaluator_without_agg \")\""
+}

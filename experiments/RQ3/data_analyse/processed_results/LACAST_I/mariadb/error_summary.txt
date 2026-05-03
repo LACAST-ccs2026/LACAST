@@ -1,0 +1,29 @@
+1210 (HY000): Incorrect arguments to NAME_CONST
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom3.count ) ) AS c3 FROM table2 AS tom3 WHERE CONV( tom3.count , tom3.count ...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom8.active ) ) ) AS c8 FROM table1 AS tom8 WHERE RAND( tom8.active )  LIMIT ...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom0.id ) ) ORDER BY c0 DESC LIMIT 42' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom20.active ) AS c28 FROM table1 AS tom20 WHERE BINARY tom20.id LIMIT 42' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom5.id )  LIMIT 42' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom3.id ) GROUP BY tom3.cost HAVING ADDTIME( SUBTIME( '14:30:00' , '14:30:00'...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'QUARTER( tom7.created_at ) ^ IS_IPV4( tom7.name ) ) AS c4 FROM table1 AS tom7...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom8.age ) AS c21 ,tom8.active AS c22 ,tom8.is_active AS c23 FROM table1 AS t...' at line 1
+1426 (42000): Too big precision specified for 'curtime'. Maximum is 6
+1210 (HY000): Incorrect arguments to NAME_CONST
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom0.id ) ) AS c0 , YEAR( tom0.created_at ) AS c1 FROM table1 AS tom0 WHERE W...' at line 1
+1426 (42000): Too big precision specified for 'curtime'. Maximum is 6
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom3.id ) ) ) ) AS c6 FROM table1 AS tom3 WHERE ADDTIME( tom3.duration , tom3...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom12.status ) AS c8 FROM ( ( tom10 AS tom11 NATURAL JOIN table2 AS tom12 ) L...' at line 1
+1210 (HY000): Incorrect arguments to NAME_CONST
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom11.active )  LIMIT 1)IN ( SELECT ~ tom12.active AS c6 FROM table1 AS tom12...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'COUNT(DISTINCT tom2.status ) ) ) AS c1 , MAX( BIT_COUNT( tom2.status >> tom2....' at line 1
+1210 (HY000): Incorrect arguments to NAME_CONST
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom27.c18 ) AS c22 FROM ( ( ( SELECT MAX( SEC_TO_TIME( 42 ) ) AS c14 FROM tom...' at line 1
+1210 (HY000): Incorrect arguments to NAME_CONST
+1210 (HY000): Incorrect arguments to NAME_CONST
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom11.active ) ) ) WHERE CONVERT_TZ( tom11.last_login , INET_NTOA( tom9.age )...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom28.age ) AS c26 FROM table1 AS tom28 WHERE CAST( tom28.name AS BINARY) ORD...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BIT_AND( tom5.duration ) ) AS c3 , YEAR( DATE_ADD('1970-01-01 00:00:00', INTE...' at line 1
+1210 (HY000): Incorrect arguments to NAME_CONST
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom18.id ) ) ) AS c14 FROM table1 AS tom18 WHERE CAST( tom18.name AS TIME) GR...' at line 1
+1210 (HY000): Incorrect arguments to NAME_CONST
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tom4.count ) AS c2 FROM ( ( SELECT MAKETIME( INET_ATON( tom0.label ) & MOD( t...' at line 1

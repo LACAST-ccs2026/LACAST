@@ -1,0 +1,6 @@
+{
+    "syntax_name": "set_masklen_inet",
+    "raw_syntax_name": "set_masklen ( inet, integer ) \u2192 inet",
+    "is_agg": false,
+    "syntax_type": "Network Address Functions and Operators"
+}

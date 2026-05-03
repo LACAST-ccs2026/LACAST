@@ -1,0 +1,6 @@
+{
+    "idx": 10,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "CRC32_integer_evaluator",
+    "right": "\"CRC32(\"datetime_evaluator_without_agg \")\""
+}

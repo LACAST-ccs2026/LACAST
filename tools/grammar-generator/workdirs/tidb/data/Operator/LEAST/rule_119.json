@@ -1,0 +1,6 @@
+{
+    "idx": 119,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "LEAST_datetime_evaluator",
+    "right": "\"LEAST(\"datetime_evaluator_without_agg \",\" datetime_evaluator_without_agg(\",\" datetime_evaluator_without_agg)* \")\""
+}

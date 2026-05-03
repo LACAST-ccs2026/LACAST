@@ -1,0 +1,9 @@
+target_dbms: "mysql"
+database_name: "sqlcraft"
+schema_path: "./data/mysql/normal/current_schema/schema.sql"
+max_connections: 1
+db_config:
+  host: "127.0.0.1"
+  port: "3306"
+  username: "root"
+  password: "123456"

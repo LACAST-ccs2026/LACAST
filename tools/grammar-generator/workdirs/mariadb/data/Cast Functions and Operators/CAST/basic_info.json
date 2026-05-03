@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CAST",
+    "raw_syntax_name": "CAST(expr AS type [ARRAY])",
+    "is_agg": false,
+    "syntax_type": "Cast Functions and Operators"
+}

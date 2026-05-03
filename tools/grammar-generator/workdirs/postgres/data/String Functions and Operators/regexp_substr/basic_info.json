@@ -1,0 +1,6 @@
+{
+    "syntax_name": "regexp_substr",
+    "raw_syntax_name": "regexp_substr ( string text, pattern text [, start integer [, N integer [, flags text [, subexpr integer ] ] ] ] ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

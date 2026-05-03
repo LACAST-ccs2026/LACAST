@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "host_text_evaluator",
+    "right": "\"host(\" _var_inet \")\""
+}

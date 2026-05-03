@@ -1,0 +1,6 @@
+{
+    "idx": 117,
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "IFNULL_timestamp_evaluator",
+    "right": "\"IFNULL(\"_var_timestamp \",\" _var_timestamp \")\""
+}

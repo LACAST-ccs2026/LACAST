@@ -1,0 +1,6 @@
+{
+    "idx": 38,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_IFNULL_double_evaluator",
+    "right": "\"IFNULL(\"_var_double \",\" double_AGG_evaluator \")\""
+}

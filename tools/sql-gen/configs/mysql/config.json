@@ -1,0 +1,7 @@
+{
+  "typesJsonPath": "./configs/mysql/datatypes/types.json",
+  "typesDir": "./configs/mysql/datatypes",
+  "grammarPath": "./configs/mysql/grammars/grammar.g4",
+  "recordRulePath": "./configs/mysql/grammars/recordRules.log",
+  "schemaPath": "./configs/mysql/schema/1.json",
+"startName": "query", "depth": 2, "GB_UNIFIED_RULE": 1, "AGG_ONLY_IN_GB": 1, "HAVING_USE_SELECT": 1, "HAVING_USE_FROM": 0, "HAVING_USE_GROUPBY": 0, "orderByProjectionRule": 1, "OUTER_REF_ENABLED": 1}

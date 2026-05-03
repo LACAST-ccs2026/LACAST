@@ -1,0 +1,6 @@
+{
+    "syntax_name": "btrim",
+    "raw_syntax_name": "btrim ( string text [, characters text ] ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

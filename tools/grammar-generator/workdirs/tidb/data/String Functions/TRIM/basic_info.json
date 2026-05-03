@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TRIM",
+    "raw_syntax_name": "TRIM()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The TRIM() function removes leading and trailing spaces from a string."
+}

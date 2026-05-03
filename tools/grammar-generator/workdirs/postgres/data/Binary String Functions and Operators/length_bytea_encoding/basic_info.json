@@ -1,0 +1,6 @@
+{
+    "syntax_name": "length_bytea_encoding",
+    "raw_syntax_name": "length ( bytes bytea, encoding name ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

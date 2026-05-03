@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_bit_or",
+    "raw_syntax_name": "bit_or ( smallint ) \u2192 smallint",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

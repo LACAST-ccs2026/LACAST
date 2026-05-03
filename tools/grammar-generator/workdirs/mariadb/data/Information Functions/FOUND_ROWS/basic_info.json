@@ -1,0 +1,6 @@
+{
+    "syntax_name": "FOUND_ROWS",
+    "raw_syntax_name": "FOUND_ROWS()",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

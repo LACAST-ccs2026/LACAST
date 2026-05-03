@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CASE",
+    "raw_syntax_name": "CASE",
+    "is_agg": false,
+    "syntax_type": "Flow Control Functions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "min_scale_integer_evaluator",
+    "right": "\"min_scale(\"_var_integer\")\""
+}

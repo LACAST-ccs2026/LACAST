@@ -1,0 +1,5 @@
+{
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "not_between_symmetric_evaluator",
+    "right": "\"5 not between symmetric 8 and 2\""
+}

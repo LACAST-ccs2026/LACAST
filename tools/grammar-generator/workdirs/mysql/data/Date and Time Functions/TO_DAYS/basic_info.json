@@ -1,0 +1,6 @@
+{
+    "syntax_name": "TO_DAYS",
+    "raw_syntax_name": "TO_DAYS(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "PERIOD_DIFF_integer_evaluator",
+    "right": "\"PERIOD_DIFF(\"PERIOD_DIFF_period\",\"integer_evaluator_without_agg\")\""
+}

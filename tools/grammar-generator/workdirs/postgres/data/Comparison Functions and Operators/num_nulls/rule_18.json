@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "num_nulls_integer_evaluator",
+    "right": "\"num_nulls(\"_var_date(\",\" _var_date)*\")\""
+}

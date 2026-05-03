@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "not_like_integer_evaluator",
+    "right": "_var_char \"NOT LIKE\" _var_char \"ESCAPE\" like_escape_char"
+}

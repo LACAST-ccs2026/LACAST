@@ -1,0 +1,6 @@
+{
+    "syntax_name": "TAN",
+    "raw_syntax_name": "TAN(X)",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

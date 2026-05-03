@@ -1,0 +1,6 @@
+{
+    "syntax_name": "EXTRACT",
+    "raw_syntax_name": "EXTRACT(unit FROM date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

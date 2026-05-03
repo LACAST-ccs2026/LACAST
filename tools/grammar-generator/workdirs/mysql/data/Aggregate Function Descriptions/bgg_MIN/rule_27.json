@@ -1,0 +1,6 @@
+{
+    "idx": 27,
+    "type_eval": "text_AGG_evaluator",
+    "left": "MIN_text_evaluator",
+    "right": "\"MIN(\"_var_text \")\""
+}

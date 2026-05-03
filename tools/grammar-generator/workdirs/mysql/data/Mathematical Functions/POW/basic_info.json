@@ -1,0 +1,6 @@
+{
+    "syntax_name": "POW",
+    "raw_syntax_name": "POW(X,Y)",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

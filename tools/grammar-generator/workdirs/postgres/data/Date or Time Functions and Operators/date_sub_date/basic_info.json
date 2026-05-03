@@ -1,0 +1,6 @@
+{
+    "syntax_name": "date_sub_date",
+    "raw_syntax_name": "date - date \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

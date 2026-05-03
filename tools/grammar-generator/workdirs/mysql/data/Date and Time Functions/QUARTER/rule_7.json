@@ -1,0 +1,6 @@
+{
+    "idx": 7,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "QUARTER_integer_evaluator",
+    "right": "\"QUARTER(\"char_evaluator_without_agg \")\""
+}

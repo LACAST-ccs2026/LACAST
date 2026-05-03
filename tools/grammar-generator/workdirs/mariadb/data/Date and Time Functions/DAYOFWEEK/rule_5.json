@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "DAYOFWEEK_integer_evaluator",
+    "right": "\"DAYOFWEEK(\"_var_year \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "TAN_double_evaluator",
+    "right": "\"TAN(\"integer_evaluator_without_agg \")\""
+}

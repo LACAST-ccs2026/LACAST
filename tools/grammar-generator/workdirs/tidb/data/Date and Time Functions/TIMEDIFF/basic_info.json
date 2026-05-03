@@ -1,0 +1,6 @@
+{
+    "syntax_name": "TIMEDIFF",
+    "raw_syntax_name": "TIMEDIFF(expr1,expr2)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

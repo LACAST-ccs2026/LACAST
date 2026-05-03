@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "concat_ws_text_evaluator",
+    "right": "\"concat_ws(\"numeric_evaluator_without_agg \",\" _var_integer(\",\" _var_integer)* \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 20,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_ANY_VALUE_char_evaluator",
+    "right": "\"ANY_VALUE(\"char_AGG_evaluator \")\""
+}

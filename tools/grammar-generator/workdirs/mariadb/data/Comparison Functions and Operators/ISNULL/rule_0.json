@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "ISNULL_integer_evaluator",
+    "right": "\"ISNULL(\"_var_time \")\""
+}

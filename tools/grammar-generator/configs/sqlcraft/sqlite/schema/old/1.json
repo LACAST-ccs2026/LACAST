@@ -1,0 +1,12 @@
+[
+  {
+    "key": "class_members",
+    "fields": ["id", "name", "age", "gender", "class_name", "score", "salary", "profile_picture"],
+    "types": ["integer", "text", "integer", "text", "text", "real", "numeric", "blob"]
+  },
+  {
+    "key": "class_members1",
+    "fields": ["id", "name1", "age1", "gender1", "class_name1", "grade", "bonus", "image"],
+    "types": ["integer", "text", "integer", "text", "text", "real", "numeric", "blob"]
+  }
+]

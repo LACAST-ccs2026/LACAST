@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "asinh_double_evaluator",
+    "right": "\"asinh(\"double_evaluator_without_agg\")\""
+}

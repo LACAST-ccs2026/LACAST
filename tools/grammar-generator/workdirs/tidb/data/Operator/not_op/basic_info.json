@@ -1,0 +1,7 @@
+{
+    "syntax_name": "not_op",
+    "raw_syntax_name": "NOT",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Logical NOT operator. Negates a boolean expression. Returns 1 if the expression is 0, 0 if the expression is non-zero, NULL if the expression is NULL."
+}

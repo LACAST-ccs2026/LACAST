@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "json_quote_text_evaluator",
+    "right": "\"json_quote(\"_var_real \")\""
+}

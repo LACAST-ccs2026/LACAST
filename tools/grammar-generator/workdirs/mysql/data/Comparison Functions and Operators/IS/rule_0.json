@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "IS_boolean_evaluator",
+    "right": "_var_bit \"IS\" IS_boolean_value"
+}

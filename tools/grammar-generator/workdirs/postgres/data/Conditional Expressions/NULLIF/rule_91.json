@@ -1,0 +1,5 @@
+{
+    "type_eval": "inet_evaluator_without_agg",
+    "left": "NULLIF_inet_evaluator",
+    "right": "\"NULLIF(\"_var_inet \",\" inet_AGG_evaluator\")\""
+}

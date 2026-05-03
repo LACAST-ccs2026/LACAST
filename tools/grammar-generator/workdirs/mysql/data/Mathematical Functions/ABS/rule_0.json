@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "ABS_integer_evaluator",
+    "right": "\"ABS(\"_var_integer \")\""
+}

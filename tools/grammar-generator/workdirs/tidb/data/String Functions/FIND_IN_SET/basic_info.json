@@ -1,0 +1,7 @@
+{
+    "syntax_name": "FIND_IN_SET",
+    "raw_syntax_name": "FIND_IN_SET()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The FIND_IN_SET() function returns the index position of the first argument within the second argument (a comma-separated list). Returns 0 if not found, NULL if any argument is NULL."
+}

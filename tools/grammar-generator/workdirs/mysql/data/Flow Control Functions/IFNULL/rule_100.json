@@ -1,0 +1,6 @@
+{
+    "idx": 100,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "IFNULL_blob_evaluator",
+    "right": "\"IFNULL(\"_var_blob \",\" _var_blob \")\""
+}

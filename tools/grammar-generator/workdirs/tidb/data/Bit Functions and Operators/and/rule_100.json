@@ -1,0 +1,6 @@
+{
+    "idx": 100,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_and_integer_evaluator",
+    "right": "integer_evaluator_without_agg \"&\" char_AGG_evaluator"
+}

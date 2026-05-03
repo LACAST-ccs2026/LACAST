@@ -1,0 +1,6 @@
+{
+    "syntax_name": "REGEXP",
+    "raw_syntax_name": "expr REGEXP pat",
+    "is_agg": false,
+    "syntax_type": "Regular Expressions"
+}

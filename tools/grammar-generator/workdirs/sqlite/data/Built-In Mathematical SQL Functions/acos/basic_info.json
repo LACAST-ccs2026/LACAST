@@ -1,0 +1,6 @@
+{
+    "syntax_name": "acos",
+    "raw_syntax_name": "acos(X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_AGG_evaluator",
+    "left": "bit_or_integer_evaluator",
+    "right": "\"bit_or(\"_var_integer\")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "LEAST_integer_evaluator",
+    "right": "\"LEAST(\"_var_boolean \",\" _var_integer(\",\" _var_integer)* \")\""
+}

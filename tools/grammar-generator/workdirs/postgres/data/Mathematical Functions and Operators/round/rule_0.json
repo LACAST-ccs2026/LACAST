@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "round_double_integer_evaluator",
+    "right": "\"round(\" _var_double \")\""
+}

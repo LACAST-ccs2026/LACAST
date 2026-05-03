@@ -1,0 +1,24 @@
+{
+    "REGEXP_INSTR_pos": [
+        "\"1\"",
+        "\"2\"",
+        "\"3\""
+    ],
+    "REGEXP_INSTR_occurrence": [
+        "\"1\"",
+        "\"2\"",
+        "\"3\""
+    ],
+    "REGEXP_INSTR_return_option": [
+        "\"0\"",
+        "\"1\""
+    ],
+    "REGEXP_INSTR_match_type": [
+        "\"'c'\"",
+        "\"'i'\"",
+        "\"'m'\"",
+        "\"'n'\"",
+        "\"'u'\"",
+        "\"'x'\""
+    ]
+}

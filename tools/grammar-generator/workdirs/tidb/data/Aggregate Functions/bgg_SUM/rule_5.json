@@ -1,0 +1,6 @@
+{
+    "idx": 5,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "SUM_integer_evaluator",
+    "right": "\"SUM(\"boolean_evaluator_without_agg \")\""
+}

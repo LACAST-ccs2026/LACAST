@@ -1,0 +1,6 @@
+{
+    "idx": 84,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "gtgt_text_evaluator",
+    "right": "_var_text \">>\" _var_integer"
+}

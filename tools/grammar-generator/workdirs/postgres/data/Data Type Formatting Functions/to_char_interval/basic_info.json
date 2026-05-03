@@ -1,0 +1,6 @@
+{
+    "syntax_name": "to_char_interval",
+    "raw_syntax_name": "to_char ( interval, text ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "Data Type Formatting Functions"
+}

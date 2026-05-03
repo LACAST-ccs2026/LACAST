@@ -1,0 +1,6 @@
+{
+    "syntax_name": "localtimestamp_func",
+    "raw_syntax_name": "localtimestamp \u2192 timestamp",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

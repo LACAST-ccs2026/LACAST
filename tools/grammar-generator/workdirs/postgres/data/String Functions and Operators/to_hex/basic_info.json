@@ -1,0 +1,6 @@
+{
+    "syntax_name": "to_hex",
+    "raw_syntax_name": "to_hex ( integer ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

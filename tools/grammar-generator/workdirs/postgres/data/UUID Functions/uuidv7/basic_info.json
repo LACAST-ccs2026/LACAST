@@ -1,0 +1,6 @@
+{
+    "syntax_name": "uuidv7",
+    "raw_syntax_name": "uuidv7 ( [ shift interval ] ) \u2192 uuid",
+    "is_agg": false,
+    "syntax_type": "UUID Functions"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "min_scale",
+    "raw_syntax_name": "min_scale ( numeric ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

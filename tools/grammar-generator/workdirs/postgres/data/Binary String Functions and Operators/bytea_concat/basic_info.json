@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bytea_concat",
+    "raw_syntax_name": "bytea || bytea \u2192 bytea",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "nullif",
+    "raw_syntax_name": "nullif(X,Y)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

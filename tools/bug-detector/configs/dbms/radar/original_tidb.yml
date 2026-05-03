@@ -1,0 +1,9 @@
+target_dbms: "tidb"
+database_name: "sqlcraft_radar"
+schema_path: "./data/tidb/radar/current_schema/original_schema.sql"
+max_connections: 1
+db_config:
+  host: "localhost"
+  port: "4000"
+  username: "root"
+  password: "123456"

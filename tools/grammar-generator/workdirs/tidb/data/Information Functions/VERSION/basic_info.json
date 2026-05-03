@@ -1,0 +1,6 @@
+{
+    "syntax_name": "VERSION",
+    "raw_syntax_name": "VERSION()",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

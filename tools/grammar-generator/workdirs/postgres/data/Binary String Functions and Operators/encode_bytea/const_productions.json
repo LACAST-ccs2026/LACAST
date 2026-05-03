@@ -1,0 +1,7 @@
+{
+    "encode_format": [
+        "\"base64\"",
+        "\"hex\"",
+        "\"escape\""
+    ]
+}

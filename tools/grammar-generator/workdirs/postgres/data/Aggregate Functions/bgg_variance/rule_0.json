@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_AGG_evaluator",
+    "left": "variance_double_evaluator",
+    "right": "\"variance(\"double_evaluator_without_agg\")\""
+}

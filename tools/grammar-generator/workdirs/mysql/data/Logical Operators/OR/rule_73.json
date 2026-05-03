@@ -1,0 +1,6 @@
+{
+    "idx": 73,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_OR_boolean_evaluator",
+    "right": "_var_year \"OR\" year_AGG_evaluator"
+}

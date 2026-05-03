@@ -1,0 +1,6 @@
+{
+    "syntax_name": "make_timestamptz",
+    "raw_syntax_name": "make_timestamptz ( year int, month int, day int, hour int, min int, sec double precision [, timezone text ] ) \u2192 timestamp with time zone",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

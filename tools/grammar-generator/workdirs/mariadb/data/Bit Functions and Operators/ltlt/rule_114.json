@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_ltlt_integer_evaluator",
+    "right": "bit_evaluator_without_agg \"<<\" boolean_AGG_evaluator"
+}

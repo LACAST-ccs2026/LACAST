@@ -1,0 +1,6 @@
+{
+    "idx": 6,
+    "type_eval": "bit_evaluator_without_agg",
+    "left": "ABS_bit_evaluator",
+    "right": "\"ABS(\"_var_bit \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "substring_bytea",
+    "raw_syntax_name": "substring ( bytes bytea [ FROM start integer ] [ FOR count integer ] ) \u2192 bytea",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

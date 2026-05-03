@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CEIL",
+    "raw_syntax_name": "CEIL(X)",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

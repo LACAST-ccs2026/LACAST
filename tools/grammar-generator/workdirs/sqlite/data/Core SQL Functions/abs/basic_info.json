@@ -1,0 +1,6 @@
+{
+    "syntax_name": "abs",
+    "raw_syntax_name": "abs(X)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

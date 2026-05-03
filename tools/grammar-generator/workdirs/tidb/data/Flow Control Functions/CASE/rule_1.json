@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "CASE_integer_evaluator",
+    "right": "\"CASE WHEN\" boolean_evaluator_without_agg \"THEN\" _var_integer \"ELSE\" _var_integer \"END\""
+}

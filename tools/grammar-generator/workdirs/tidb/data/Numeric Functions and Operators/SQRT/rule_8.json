@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_SQRT_double_evaluator",
+    "right": "\"SQRT(\"double_AGG_evaluator \")\""
+}

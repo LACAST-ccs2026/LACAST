@@ -1,0 +1,5 @@
+{
+    "type_eval": "bit_evaluator_without_agg",
+    "left": "gtgt_bit_evaluator",
+    "right": "_var_bit \">>\" double_evaluator_without_agg"
+}

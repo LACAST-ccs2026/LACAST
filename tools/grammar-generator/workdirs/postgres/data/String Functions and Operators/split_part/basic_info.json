@@ -1,0 +1,6 @@
+{
+    "syntax_name": "split_part",
+    "raw_syntax_name": "split_part ( string text, delimiter text, n integer ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

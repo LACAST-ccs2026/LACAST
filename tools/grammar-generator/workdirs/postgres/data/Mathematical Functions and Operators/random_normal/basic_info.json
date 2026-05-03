@@ -1,0 +1,6 @@
+{
+    "syntax_name": "random_normal",
+    "raw_syntax_name": "random_normal ( [ mean double precision [, stddev double precision ]] ) \u2192 double precision",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

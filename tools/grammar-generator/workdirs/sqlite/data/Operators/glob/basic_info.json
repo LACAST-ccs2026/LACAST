@@ -1,0 +1,6 @@
+{
+    "syntax_name": "glob",
+    "raw_syntax_name": "glob(X,Y)",
+    "is_agg": false,
+    "syntax_type": "Operators"
+}

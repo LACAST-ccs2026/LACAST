@@ -1,0 +1,6 @@
+{
+    "syntax_name": "GET_FORMAT",
+    "raw_syntax_name": "GET_FORMAT({DATE|TIME|DATETIME}, {'EUR'|'USA'|'JIS'|'ISO'|'INTERNAL'})",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

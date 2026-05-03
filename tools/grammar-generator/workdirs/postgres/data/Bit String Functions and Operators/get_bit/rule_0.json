@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "get_bit_integer_evaluator",
+    "right": "\"get_bit(B'10101010', 3)\""
+}

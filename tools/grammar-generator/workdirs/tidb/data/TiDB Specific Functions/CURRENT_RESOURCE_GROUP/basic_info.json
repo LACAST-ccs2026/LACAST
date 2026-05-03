@@ -1,0 +1,7 @@
+{
+    "syntax_name": "CURRENT_RESOURCE_GROUP",
+    "raw_syntax_name": "CURRENT_RESOURCE_GROUP",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The CURRENT_RESOURCE_GROUP() function returns the current resource group name."
+}

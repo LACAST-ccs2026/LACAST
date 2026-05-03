@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "in_op_integer_evaluator",
+    "right": "_var_char \"IN\" \"(\" _var_char \",\" _var_char \")\""
+}

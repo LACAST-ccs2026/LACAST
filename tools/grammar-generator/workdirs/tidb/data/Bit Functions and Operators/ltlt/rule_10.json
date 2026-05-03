@@ -1,0 +1,6 @@
+{
+    "idx": 10,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "ltlt_blob_evaluator",
+    "right": "blob_evaluator_without_agg \"<<\" bit_evaluator_without_agg"
+}

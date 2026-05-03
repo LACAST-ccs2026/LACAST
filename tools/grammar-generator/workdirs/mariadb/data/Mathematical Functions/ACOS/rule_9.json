@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_ACOS_double_evaluator",
+    "right": "\"ACOS(\"bit_AGG_evaluator \")\""
+}

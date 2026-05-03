@@ -1,0 +1,6 @@
+{
+    "idx": 27,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "OR_boolean_evaluator",
+    "right": "timestamp_evaluator_without_agg \"OR\" timestamp_evaluator_without_agg"
+}

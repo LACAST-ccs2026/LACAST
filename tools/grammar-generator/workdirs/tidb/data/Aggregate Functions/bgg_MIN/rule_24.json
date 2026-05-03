@@ -1,0 +1,6 @@
+{
+    "idx": 24,
+    "type_eval": "char_AGG_evaluator",
+    "left": "MIN_char_evaluator",
+    "right": "\"MIN(\"char_evaluator_without_agg \")\""
+}

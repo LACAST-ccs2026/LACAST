@@ -1,0 +1,5 @@
+{
+    "type_eval": "time_evaluator_without_agg",
+    "left": "make_time_time_evaluator",
+    "right": "\"make_time(\"\"12\" \",\" \"30\" \",\" \"0.0\"\")\""
+}

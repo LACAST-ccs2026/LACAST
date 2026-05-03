@@ -1,0 +1,5 @@
+{
+    "type_eval": "time_evaluator_without_agg",
+    "left": "agg_MAKETIME_time_evaluator",
+    "right": "\"MAKETIME(\"_var_integer \",\" integer_AGG_evaluator \",\" double_AGG_evaluator \")\""
+}

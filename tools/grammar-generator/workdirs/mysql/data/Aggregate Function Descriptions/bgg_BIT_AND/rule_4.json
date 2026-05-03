@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "BIT_AND_integer_evaluator",
+    "right": "\"BIT_AND(\"_var_double \")\""
+}

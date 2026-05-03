@@ -1,0 +1,6 @@
+{
+    "idx": 20,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_ROUND_integer_evaluator",
+    "right": "\"ROUND(\"boolean_AGG_evaluator \",\" ROUND_D \")\""
+}

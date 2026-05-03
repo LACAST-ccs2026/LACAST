@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "COERCIBILITY_integer_evaluator",
+    "right": "\"COERCIBILITY(\"_var_double \")\""
+}

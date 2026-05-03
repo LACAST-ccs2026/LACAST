@@ -1,0 +1,7 @@
+{
+    "syntax_name": "FORMAT_NANO_TIME",
+    "raw_syntax_name": "FORMAT_NANO_TIME()",
+    "is_agg": false,
+    "syntax_type": "Utility Functions",
+    "syntax_info": "The FORMAT_NANO_TIME() function converts a number of nanoseconds into a human-readable time format."
+}

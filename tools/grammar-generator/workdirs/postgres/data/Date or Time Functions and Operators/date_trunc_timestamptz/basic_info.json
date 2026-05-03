@@ -1,0 +1,6 @@
+{
+    "syntax_name": "date_trunc_timestamptz",
+    "raw_syntax_name": "date_trunc ( text, timestamp with time zone, text ) \u2192 timestamp with time zone",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

@@ -1,0 +1,7 @@
+{
+  "mysql": 0.26,
+  "mariadb": 0.38,
+  "postgres": 0.03,
+  "sqlite": 0.22,
+  "tidb": 0.55
+}

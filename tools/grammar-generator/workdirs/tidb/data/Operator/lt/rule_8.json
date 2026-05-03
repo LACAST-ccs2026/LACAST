@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "lt_boolean_evaluator",
+    "right": "_var_integer \"<\" _var_double"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "date_subtract_timestamp_evaluator",
+    "right": "\"date_subtract(\" \"'2024-01-01 12:00:00'::timestamp with time zone\" \",\" \"'1 day'::interval\"\")\""
+}

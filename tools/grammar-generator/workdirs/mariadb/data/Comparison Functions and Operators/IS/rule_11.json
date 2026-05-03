@@ -1,0 +1,5 @@
+{
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "IS_boolean_evaluator",
+    "right": "char_evaluator_without_agg \"IS\" IS_boolean_value"
+}

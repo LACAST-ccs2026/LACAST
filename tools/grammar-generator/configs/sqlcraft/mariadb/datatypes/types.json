@@ -1,0 +1,15 @@
+{
+  "types": ["bit", "integer", "boolean", "double", "date", "datetime", "timestamp", "time", "year", "char", "text", "blob"],
+  "compatibility": {
+    "bit": ["integer", "text"],
+    "integer": ["double", "text"],
+    "boolean": ["int", "text"],
+    "double": ["text"],
+    "date": ["text", "datetime"],
+    "datetime": ["text", "date"],
+    "timestamp": ["text", "datetime", "date"],
+    "time": ["text", "datetime"],
+    "year": ["text", "int"],
+    "char": ["text"]
+  }
+}

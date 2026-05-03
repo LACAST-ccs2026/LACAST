@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_AGG_evaluator",
+    "left": "avg_double_evaluator",
+    "right": "\"avg(\"_var_double\")\""
+}

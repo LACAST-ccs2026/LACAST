@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "lteq_boolean_evaluator",
+    "right": "_var_bit \"<=\" _var_bit"
+}

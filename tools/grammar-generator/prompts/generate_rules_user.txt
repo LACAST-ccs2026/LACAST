@@ -1,0 +1,11 @@
+Feature: {raw_syntax_name}
+Syntax type: {syntax_type}
+Description: {syntax_info}
+Is aggregate: {is_agg}
+Syntax name: {syntax_name}
+
+Supported datatypes: [{datatypes}]
+Existing aggregate evaluators: [{agg_evaluators}]
+{WARNING}
+
+Generate grammar rules for this feature following all constraints above.

@@ -1,0 +1,6 @@
+{
+    "idx": 29,
+    "type_eval": "blob_AGG_evaluator",
+    "left": "MIN_blob_evaluator",
+    "right": "\"MIN(\"blob_evaluator_without_agg \")\""
+}

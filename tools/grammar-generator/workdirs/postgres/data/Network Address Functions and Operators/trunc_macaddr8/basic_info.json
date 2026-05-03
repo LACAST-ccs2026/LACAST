@@ -1,0 +1,6 @@
+{
+    "syntax_name": "trunc_macaddr8",
+    "raw_syntax_name": "trunc ( macaddr8 ) \u2192 macaddr8",
+    "is_agg": false,
+    "syntax_type": "Network Address Functions and Operators"
+}

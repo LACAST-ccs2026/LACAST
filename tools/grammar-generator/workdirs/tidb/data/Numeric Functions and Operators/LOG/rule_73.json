@@ -1,0 +1,6 @@
+{
+    "idx": 73,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_LOG_double_evaluator",
+    "right": "\"LOG(\"_var_boolean \",\" boolean_AGG_evaluator \")\""
+}

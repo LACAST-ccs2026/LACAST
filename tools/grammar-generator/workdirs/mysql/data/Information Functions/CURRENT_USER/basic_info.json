@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CURRENT_USER",
+    "raw_syntax_name": "CURRENT_USER",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 175,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_add_double_evaluator",
+    "right": "_var_char \"+\" text_AGG_evaluator"
+}

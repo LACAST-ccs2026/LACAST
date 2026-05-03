@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "CHAR_LENGTH_integer_evaluator",
+    "right": "\"CHAR_LENGTH(\" text_evaluator_without_agg \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 37,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "XOR_integer_evaluator",
+    "right": "_var_year \"XOR\" year_evaluator_without_agg"
+}

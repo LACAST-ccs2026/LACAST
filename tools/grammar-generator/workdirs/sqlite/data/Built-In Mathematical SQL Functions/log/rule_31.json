@@ -1,0 +1,5 @@
+{
+    "type_eval": "real_evaluator_without_agg",
+    "left": "log_real_evaluator",
+    "right": "\"log(\"numeric_evaluator_without_agg \",\" real_evaluator_without_agg \")\""
+}

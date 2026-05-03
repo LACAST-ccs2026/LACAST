@@ -1,0 +1,6 @@
+{
+    "idx": 14,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_SIN_double_evaluator",
+    "right": "\"SIN(\"boolean_AGG_evaluator \")\""
+}

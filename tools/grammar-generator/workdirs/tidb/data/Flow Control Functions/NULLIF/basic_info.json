@@ -1,0 +1,6 @@
+{
+    "syntax_name": "NULLIF",
+    "raw_syntax_name": "NULLIF()",
+    "is_agg": false,
+    "syntax_type": "Flow Control Functions"
+}

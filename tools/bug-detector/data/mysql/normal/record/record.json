@@ -1,0 +1,12 @@
+{
+    "total_sql_num": 100,
+    "error_sql_num": 4,
+    "error_type_num": 2,
+    "crash_num": 0,
+    "generated_sql_num_per_epoch": 0,
+    "accuracy": 0.9574468085106383,
+    "radar_sql_num": 0,
+    "running_history": [],
+    "cur_start_time": 1777800981.5156286,
+    "cur_end_time": 1777800998.1428957
+}

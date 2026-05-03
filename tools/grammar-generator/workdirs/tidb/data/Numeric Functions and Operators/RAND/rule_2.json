@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_RAND_double_evaluator",
+    "right": "\"RAND(\"integer_AGG_evaluator \")\""
+}

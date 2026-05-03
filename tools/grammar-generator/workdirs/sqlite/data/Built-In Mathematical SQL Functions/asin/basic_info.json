@@ -1,0 +1,6 @@
+{
+    "syntax_name": "asin",
+    "raw_syntax_name": "asin(X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

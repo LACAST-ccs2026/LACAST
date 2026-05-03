@@ -1,0 +1,6 @@
+{
+    "syntax_name": "width_bucket_func",
+    "raw_syntax_name": "width_bucket ( operand anycompatible, thresholds anycompatiblearray ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

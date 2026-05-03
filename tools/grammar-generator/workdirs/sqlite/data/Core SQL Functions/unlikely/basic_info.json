@@ -1,0 +1,6 @@
+{
+    "syntax_name": "unlikely",
+    "raw_syntax_name": "unlikely(X)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "SECOND",
+    "raw_syntax_name": "SECOND(time)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

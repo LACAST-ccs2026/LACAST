@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_XOR_integer_evaluator",
+    "right": "_var_text \"XOR\" text_AGG_evaluator"
+}

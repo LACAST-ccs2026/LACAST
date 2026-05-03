@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "now_timestamp_evaluator",
+    "right": "\"now(\"\")\""
+}

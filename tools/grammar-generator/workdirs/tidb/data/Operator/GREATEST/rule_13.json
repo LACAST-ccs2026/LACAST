@@ -1,0 +1,6 @@
+{
+    "idx": 13,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_GREATEST_double_evaluator",
+    "right": "\"GREATEST(\"double_AGG_evaluator \",\" _var_integer(\",\" _var_integer)* \")\""
+}

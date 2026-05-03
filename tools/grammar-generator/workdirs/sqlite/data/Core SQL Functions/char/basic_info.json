@@ -1,0 +1,6 @@
+{
+    "syntax_name": "char",
+    "raw_syntax_name": "char(X1,X2,...,XN)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

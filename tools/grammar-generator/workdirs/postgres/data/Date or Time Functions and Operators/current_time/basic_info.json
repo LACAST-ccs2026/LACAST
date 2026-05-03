@@ -1,0 +1,6 @@
+{
+    "syntax_name": "current_time",
+    "raw_syntax_name": "current_time ( integer ) \u2192 time with time zone",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

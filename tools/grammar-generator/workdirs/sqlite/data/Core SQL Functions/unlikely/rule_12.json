@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "unlikely_text_evaluator",
+    "right": "\"unlikely(\"_var_text \")\""
+}

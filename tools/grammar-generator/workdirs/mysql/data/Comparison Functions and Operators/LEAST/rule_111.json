@@ -1,0 +1,6 @@
+{
+    "idx": 111,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_LEAST_blob_evaluator",
+    "right": "\"LEAST(\"blob_AGG_evaluator \",\" integer_AGG_evaluator(\",\" integer_AGG_evaluator)* \")\""
+}

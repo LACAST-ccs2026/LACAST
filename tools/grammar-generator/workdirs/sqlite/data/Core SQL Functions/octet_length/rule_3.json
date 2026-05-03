@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "octet_length_integer_evaluator",
+    "right": "\"octet_length(\"blob_evaluator_without_agg \")\""
+}

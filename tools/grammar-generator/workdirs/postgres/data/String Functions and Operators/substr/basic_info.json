@@ -1,0 +1,6 @@
+{
+    "syntax_name": "substr",
+    "raw_syntax_name": "substr ( string text, start integer [, count integer ] ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

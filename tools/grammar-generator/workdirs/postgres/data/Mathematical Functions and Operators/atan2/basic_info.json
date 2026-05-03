@@ -1,0 +1,6 @@
+{
+    "syntax_name": "atan2",
+    "raw_syntax_name": "atan2 ( y double precision, x double precision ) \u2192 double precision",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "time_text_evaluator",
+    "right": "\"time(\"_var_integer \",\" time_modifier(\",\" time_modifier)* \")\""
+}

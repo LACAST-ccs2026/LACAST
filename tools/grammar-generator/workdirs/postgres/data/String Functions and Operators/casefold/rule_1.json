@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "casefold_text_evaluator",
+    "right": "\"casefold(\" character_evaluator_without_agg \")\""
+}

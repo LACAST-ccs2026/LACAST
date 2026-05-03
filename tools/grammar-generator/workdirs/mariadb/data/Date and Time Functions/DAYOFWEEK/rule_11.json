@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_DAYOFWEEK_integer_evaluator",
+    "right": "\"DAYOFWEEK(\"char_AGG_evaluator \")\""
+}

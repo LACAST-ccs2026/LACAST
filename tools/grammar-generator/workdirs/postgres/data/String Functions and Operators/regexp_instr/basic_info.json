@@ -1,0 +1,6 @@
+{
+    "syntax_name": "regexp_instr",
+    "raw_syntax_name": "regexp_instr ( string text, pattern text [, start integer [, N integer [, endoption integer [, flags text [, subexpr integer ] ] ] ] ] ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

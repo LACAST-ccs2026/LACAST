@@ -1,0 +1,6 @@
+{
+    "syntax_name": "cos",
+    "raw_syntax_name": "cos(X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

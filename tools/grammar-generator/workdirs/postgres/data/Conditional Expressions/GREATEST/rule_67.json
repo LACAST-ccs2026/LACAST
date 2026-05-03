@@ -1,0 +1,5 @@
+{
+    "type_eval": "macaddr_evaluator_without_agg",
+    "left": "GREATEST_macaddr_evaluator",
+    "right": "\"GREATEST(\"_var_macaddr \",\" _var_macaddr(\",\" _var_macaddr)*\")\""
+}

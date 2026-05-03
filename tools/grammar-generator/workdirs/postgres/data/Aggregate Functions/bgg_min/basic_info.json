@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_min",
+    "raw_syntax_name": "min ( see text ) \u2192 same as input type",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

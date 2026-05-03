@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_DIV_integer_evaluator",
+    "right": "double_evaluator_without_agg \"DIV\" double_AGG_evaluator"
+}

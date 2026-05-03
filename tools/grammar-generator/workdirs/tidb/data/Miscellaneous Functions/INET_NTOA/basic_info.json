@@ -1,0 +1,6 @@
+{
+    "syntax_name": "INET_NTOA",
+    "raw_syntax_name": "INET_NTOA()",
+    "is_agg": false,
+    "syntax_type": "Miscellaneous Functions"
+}

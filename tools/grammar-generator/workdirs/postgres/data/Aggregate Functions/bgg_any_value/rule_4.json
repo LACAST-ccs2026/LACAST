@@ -1,0 +1,5 @@
+{
+    "type_eval": "time_AGG_evaluator",
+    "left": "any_value_time_evaluator",
+    "right": "\"any_value((\"time_evaluator_without_agg\")::time)\""
+}

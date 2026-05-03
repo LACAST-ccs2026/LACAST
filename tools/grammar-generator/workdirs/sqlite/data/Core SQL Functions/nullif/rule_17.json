@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "nullif_integer_evaluator",
+    "right": "\"nullif(\"integer_evaluator_without_agg \",\" real_evaluator_without_agg \")\""
+}

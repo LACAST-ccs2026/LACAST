@@ -1,0 +1,6 @@
+{
+    "idx": 10,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "NULLIF_double_evaluator",
+    "right": "\"NULLIF(\"_var_double \",\" double_evaluator_without_agg \")\""
+}

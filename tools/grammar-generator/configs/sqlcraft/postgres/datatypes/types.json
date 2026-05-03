@@ -1,0 +1,6 @@
+{
+    "types": ["integer", "bit", "boolean", "bytea", "character", "date", "double", "text", "time", "timestamp", "cidr", "inet", "macaddr", "macaddr8", "uuid"],
+    "compatibility": {
+
+    }
+ }

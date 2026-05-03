@@ -1,0 +1,5 @@
+{
+    "type_eval": "inet_evaluator_without_agg",
+    "left": "inet_sub_bigint_evaluator",
+    "right": "\"inet '10.0.0.100' - 10\""
+}

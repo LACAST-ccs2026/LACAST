@@ -1,0 +1,6 @@
+{
+    "syntax_name": "DATE",
+    "raw_syntax_name": "DATE(expr)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

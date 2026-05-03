@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "date_bin_timestamp_evaluator",
+    "right": "\"date_bin(\"\"'00:15:00'\" \",\" timestamp_AGG_evaluator \",\" timestamp_evaluator_without_agg\")\""
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "not_exists",
+    "raw_syntax_name": "NOT EXISTS(query)",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Returns TRUE if a subquery returns no rows, FALSE otherwise. Syntax: NOT EXISTS (subquery)."
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "sha512",
+    "raw_syntax_name": "sha512 ( bytea ) \u2192 bytea",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_IS_DDL_OWNER",
+    "raw_syntax_name": "TIDB_IS_DDL_OWNER",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The TIDB_IS_DDL_OWNER() function returns whether the current instance is DDL owner."
+}

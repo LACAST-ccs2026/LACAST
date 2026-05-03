@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_STDDEV_SAMP",
+    "raw_syntax_name": "STDDEV_SAMP(expr) [over_clause]",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

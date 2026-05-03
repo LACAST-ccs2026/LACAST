@@ -1,0 +1,6 @@
+{
+    "syntax_name": "length_text",
+    "raw_syntax_name": "length ( text ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

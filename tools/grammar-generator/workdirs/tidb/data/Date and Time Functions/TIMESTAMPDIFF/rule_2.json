@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "TIMESTAMPDIFF_integer_evaluator",
+    "right": "\"TIMESTAMPDIFF(\"TIMESTAMPDIFF_unit\",\"_var_datetime\",\"_var_date\")\""
+}

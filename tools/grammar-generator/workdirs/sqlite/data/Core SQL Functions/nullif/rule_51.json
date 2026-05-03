@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "nullif_text_evaluator",
+    "right": "\"nullif(\"_var_text \",\" _var_numeric \")\""
+}

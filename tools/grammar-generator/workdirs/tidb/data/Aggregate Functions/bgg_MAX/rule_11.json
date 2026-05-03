@@ -1,0 +1,6 @@
+{
+    "idx": 11,
+    "type_eval": "text_AGG_evaluator",
+    "left": "MAX_text_evaluator",
+    "right": "\"MAX(\"text_evaluator_without_agg \")\""
+}

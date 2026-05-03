@@ -1,0 +1,6 @@
+{
+    "syntax_name": "casefold",
+    "raw_syntax_name": "casefold ( text ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

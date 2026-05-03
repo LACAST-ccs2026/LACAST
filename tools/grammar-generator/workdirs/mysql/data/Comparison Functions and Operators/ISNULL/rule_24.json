@@ -1,0 +1,6 @@
+{
+    "idx": 24,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_ISNULL_integer_evaluator",
+    "right": "\"ISNULL(\"time_AGG_evaluator \")\""
+}

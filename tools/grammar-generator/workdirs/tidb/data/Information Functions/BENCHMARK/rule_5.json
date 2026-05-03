@@ -1,0 +1,6 @@
+{
+    "idx": 5,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_BENCHMARK_integer_evaluator",
+    "right": "\"BENCHMARK(\" integer_AGG_evaluator \",\" _var_integer \")\""
+}

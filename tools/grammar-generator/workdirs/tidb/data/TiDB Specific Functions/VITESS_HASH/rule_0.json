@@ -1,0 +1,1 @@
+{"idx": 0, "type_eval": "integer_evaluator_without_agg", "left": "VITESS_HASH_integer_evaluator", "right": "\"VITESS_HASH(\" _var_integer \")\""}

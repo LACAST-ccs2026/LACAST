@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_IF_double_evaluator",
+    "right": "\"IF(\"_var_boolean \",\" double_AGG_evaluator \",\" _var_double \")\""
+}

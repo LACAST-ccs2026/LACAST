@@ -1,0 +1,6 @@
+{
+    "syntax_name": "md5_bytea",
+    "raw_syntax_name": "md5 ( bytea ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

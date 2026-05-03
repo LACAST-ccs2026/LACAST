@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "ilike_integer_evaluator",
+    "right": "_var_text \"ILIKE\" _var_text"
+}

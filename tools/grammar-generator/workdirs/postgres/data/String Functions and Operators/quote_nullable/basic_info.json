@@ -1,0 +1,6 @@
+{
+    "syntax_name": "quote_nullable",
+    "raw_syntax_name": "quote_nullable ( anyelement ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

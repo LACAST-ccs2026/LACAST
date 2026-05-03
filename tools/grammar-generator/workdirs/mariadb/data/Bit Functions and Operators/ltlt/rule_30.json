@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_ltlt_blob_evaluator",
+    "right": "blob_evaluator_without_agg \"<<\" boolean_AGG_evaluator"
+}

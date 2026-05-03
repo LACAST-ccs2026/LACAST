@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CONNECTION_ID",
+    "raw_syntax_name": "CONNECTION_ID()",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

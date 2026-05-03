@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CONV",
+    "raw_syntax_name": "CONV(N,from_base,to_base)",
+    "is_agg": false,
+    "syntax_type": "Numeric Functions and Operators"
+}

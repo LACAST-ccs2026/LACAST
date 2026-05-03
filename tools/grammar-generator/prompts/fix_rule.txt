@@ -1,0 +1,116 @@
+Fix this SQL grammar rule. The rule failed testing.
+
+=== CORE CONCEPTS (Evaluators) ===
+Evaluators are non-terminal symbols that represent expression result categories.
+
+There are exactly TWO evaluator types:
+1. `<datatype>_evaluator_without_agg` — for non-aggregate expressions
+2. `<datatype>_AGG_evaluator` — for aggregate expressions
+
+Each rule connects an evaluator to its definition:
+  <type_eval> : <left>   — the rule belongs to this evaluator
+  <left> : <right>       — the rule definition
+
+=== CORRECT RULE EXAMPLES (Study these — JSON format) ===
+
+Non-aggregate function, no agg params:
+  {{"type_eval": "integer_evaluator_without_agg", "left": "ABS_integer_evaluator",
+   "right": "\"ABS(\" _var_integer \")\""}}
+
+Non-aggregate function, with agg params (left gets agg_ prefix):
+  {{"type_eval": "integer_evaluator_without_agg", "left": "agg_ABS_integer_evaluator",
+   "right": "\"ABS(\" integer_AGG_evaluator "\""}}
+
+Aggregate function:
+  {{"type_eval": "integer_AGG_evaluator", "left": "CNT_integer_evaluator",
+   "right": "\"COUNT(\" _var_integer \")\""}}
+
+With const_productions (string literals):
+  {{"type_eval": "text_evaluator_without_agg", "left": "DATE_text_evaluator",
+   "right": "\"DATE(\" _var_text \",\" date_modifier \")\"",
+   "const_productions": {{"date_modifier": ["\"'now'\"", "\"'unixepoch'\""]}}}}
+
+With const_productions (numeric literals — must be quoted in grammar):
+  {{"type_eval": "integer_AGG_evaluator", "left": "PCT_integer_evaluator",
+   "right": "\"APPROX_PERCENTILE(\" _var_integer \",\" pct_constant \")\"",
+   "const_productions": {{"pct_constant": ["\"0.5\"", "\"0.9\"", "\"0.95\"", "\"0.99\""]}}}}
+
+IMPORTANT about JSON escaping:
+  In these examples, `\"` in the JSON string produces a raw `"` character.
+  Do NOT write `\\\"` — that would produce a literal backslash before the quote.
+  After JSON.parse: "\"ABS(\" _var_integer \")\"" → "ABS(" _var_integer ")"
+  
+IMPORTANT about datatypes:
+  Use ONLY datatypes from the SUPPORTED DATATYPES list below.
+  Do NOT invent datatypes like `real` if the list doesn't contain it.
+  If the list has `double` but not `real`, use `double` for float-returning functions.
+
+=== KEY RULES ===
+- Non-agg functions ALWAYS have type_eval=<datatype>_evaluator_without_agg
+- If a non-agg function's rule references AGG evaluators in its parameters,
+  left MUST use agg_ prefix: agg_<SHORT_NAME>_<datatype>_evaluator
+- Each right contains EXACTLY ONE alternative (no |)
+- Do NOT reference evaluators from OTHER features (e.g., do not use agg_ROUND_*
+  when fixing a rule for a different function)
+- **const_productions values MUST be wrapped in double quotes in the grammar.**
+  Numbers like `0.5` in the grammar must be `"0.5"` (quoted), NOT `0.5` (unquoted).
+  Strings like `'now'` in the grammar must be `"'now'"` (quoted).
+
+=== DECISION LOGIC ===
+After analyzing the test result, choose ONE of:
+
+Case A — Rule is valid and passed:
+- Accuracy >= 0.95
+- Set status "fixed" only if you actually changed something
+
+Case B — Rule has issues but CAN be fixed:
+- Fix the MINIMAL part causing the error
+- Follow all rule generation constraints (type_eval format, left naming, quoting)
+- Do NOT rewrite the entire rule unless necessary
+- Ensure type_eval matches the function's return type (without_agg for non-agg)
+- Ensure left uses agg_ prefix if the rule references AGG evaluators
+- Ensure all SQL tokens are properly double-quoted
+- Ensure right contains only ONE alternative (no |)
+- If string literals are used, extract them to const_productions
+- Set status "fixed"
+
+Case C — Rule CANNOT be fixed:
+- The rule design is fundamentally broken
+- The error is NOT caused by this rule (e.g., missing dependency)
+- Multiple fix attempts have failed
+- Set status "cannot_fix"
+
+=== COMMON ERROR PATTERNS ===
+- invalid type_eval: e.g. `integer_evaluator` → should be `integer_evaluator_without_agg`
+  Fix: add `_without_agg` suffix, or change datatype to match return type
+- type_eval=AGG_evaluator on non-agg function: type_eval MUST be _without_agg
+  Fix: change type_eval back to <datatype>_evaluator_without_agg
+- missing quotes: SQL tokens not quoted
+  Fix: wrap function names, parens, commas in double quotes
+- wrong left naming: missing agg_ prefix when AGG evaluators are used in params
+  Fix: add agg_ prefix to left: agg_<SHORT_NAME>_<datatype>_evaluator
+- server closed: the grammar crashed the JAR
+  Fix: check for missing quotes around keywords, invalid characters
+- literal parameters: string values like 'unixepoch' hardcoded in right
+  Fix: extract to const_productions, use placeholder in right
+- **const_productions unquoted**: numbers like `0.5` written as unquoted in const_productions
+  Fix: wrap in double quotes: `"0.5"` → const_productions JSON value: `"\"0.5\""`
+- unsupported datatype: type_eval uses a datatype not in supported list
+  Fix: choose a datatype from the supported list
+- aggregate misuse: aggregate function used in invalid context
+  Fix: change type_eval or adjust the right structure
+- multiple alternatives in right: do NOT use | in right
+  Fix: only include the specific alternative that needs fixing
+
+=== SUPPORTED DATATYPES ===
+{supported_datatypes}
+
+=== JSON OUTPUT FORMAT ===
+Return JSON with:
+- type_eval: corrected evaluator type
+- left: corrected rule name
+- right: corrected rule definition (ONE alternative, properly quoted)
+- const_productions: dict of literal definitions (empty if none)
+- fix_actions: list of strings describing what was changed
+- fix_summary: one-sentence summary of the fix
+- status: "fixed" or "cannot_fix"

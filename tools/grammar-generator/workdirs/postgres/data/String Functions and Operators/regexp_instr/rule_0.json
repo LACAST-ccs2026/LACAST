@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "regexp_instr_evaluator",
+    "right": "\"regexp_instr( 'foobarbequebaz' , 'ba' )\""
+}

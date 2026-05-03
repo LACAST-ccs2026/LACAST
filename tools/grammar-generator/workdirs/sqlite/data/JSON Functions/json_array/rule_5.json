@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "json_array_text_evaluator",
+    "right": "\"json_array(\"real_evaluator_without_agg \")\""
+}

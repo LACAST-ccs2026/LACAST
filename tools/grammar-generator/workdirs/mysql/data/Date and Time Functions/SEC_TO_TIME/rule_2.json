@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "SEC_TO_TIME_time_evaluator",
+    "right": "\"SEC_TO_TIME(\"double_evaluator_without_agg \")\""
+}

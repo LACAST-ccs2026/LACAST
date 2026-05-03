@@ -1,0 +1,6 @@
+{
+    "syntax_name": "encode_bytea",
+    "raw_syntax_name": "encode ( bytes bytea, format text ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

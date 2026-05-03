@@ -1,0 +1,6 @@
+{
+    "idx": 46,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_LEAST_double_evaluator",
+    "right": "\"LEAST(\"_var_double \",\" integer_AGG_evaluator(\",\" integer_AGG_evaluator)* \")\""
+}

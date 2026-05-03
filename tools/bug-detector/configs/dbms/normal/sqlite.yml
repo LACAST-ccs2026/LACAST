@@ -1,0 +1,6 @@
+target_dbms: "sqlite"
+database_name: "sqlcraft"
+schema_path: "./data/sqlite/normal/current_schema/schema.sql"
+max_connections: 1
+db_config:
+  db_path: "./data/sqlite/normal/current_schema/sqlite.db"

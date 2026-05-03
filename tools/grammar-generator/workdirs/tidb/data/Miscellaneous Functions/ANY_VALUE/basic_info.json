@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ANY_VALUE",
+    "raw_syntax_name": "ANY_VALUE()",
+    "is_agg": false,
+    "syntax_type": "Miscellaneous Functions"
+}

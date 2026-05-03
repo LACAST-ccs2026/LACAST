@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_AGG_evaluator",
+    "left": "jsonb_group_array_blob_evaluator",
+    "right": "\"jsonb_group_array(\"_var_real \")\""
+}

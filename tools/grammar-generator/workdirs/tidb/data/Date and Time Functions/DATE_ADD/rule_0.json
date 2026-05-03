@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "date_evaluator_without_agg",
+    "left": "DATE_ADD_date_evaluator",
+    "right": "\"DATE_ADD(\" _var_date \",\" \"INTERVAL 1\" DATE_ADD_unit\")\""
+}

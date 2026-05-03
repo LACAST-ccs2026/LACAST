@@ -1,0 +1,6 @@
+{
+    "idx": 17,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "not_boolean_evaluator",
+    "right": "\"!(\"timestamp_evaluator_without_agg \")\""
+}

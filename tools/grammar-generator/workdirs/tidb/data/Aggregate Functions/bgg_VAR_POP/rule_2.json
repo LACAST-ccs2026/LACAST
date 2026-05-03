@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "double_AGG_evaluator",
+    "left": "VAR_POP_double_evaluator",
+    "right": "\"VAR_POP(\"bit_evaluator_without_agg \")\""
+}

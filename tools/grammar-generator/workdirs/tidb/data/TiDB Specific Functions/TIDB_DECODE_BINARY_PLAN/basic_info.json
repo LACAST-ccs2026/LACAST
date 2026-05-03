@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_DECODE_BINARY_PLAN",
+    "raw_syntax_name": "TIDB_DECODE_BINARY_PLAN",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The TIDB_DECODE_BINARY_PLAN(binary_plan) function decodes binary plans, like the ones in the BINARY_PLAN column of the STATEMENTS_SUMMARY table."
+}

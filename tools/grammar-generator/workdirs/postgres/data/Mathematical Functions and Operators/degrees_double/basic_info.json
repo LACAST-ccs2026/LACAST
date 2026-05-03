@@ -1,0 +1,6 @@
+{
+    "syntax_name": "degrees_double",
+    "raw_syntax_name": "degrees ( double precision ) \u2192 double precision",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

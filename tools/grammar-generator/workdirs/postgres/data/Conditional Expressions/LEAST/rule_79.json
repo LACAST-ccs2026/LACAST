@@ -1,0 +1,5 @@
+{
+    "type_eval": "macaddr_evaluator_without_agg",
+    "left": "LEAST_macaddr_evaluator",
+    "right": "\"LEAST(\"macaddr_evaluator_without_agg \",\" _var_macaddr(\",\" _var_macaddr)*\")\""
+}

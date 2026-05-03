@@ -1,0 +1,21 @@
+[project]
+name = "sql-rule-generator"
+version = "0.1.0"
+description = "SQL Rule Generator — LangGraph-based agentic workflow"
+requires-python = ">=3.12"
+dependencies = [
+    "langgraph>=1.1.0",
+    "langchain>=1.2.0",
+    "langchain-openai>=1.2.0",
+    "langgraph-checkpoint-sqlite>=3.0.0",
+    "python-dotenv>=1.2.0",
+    "pydantic>=2.0.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["nodes*", "services*", "utils*", "prompts*", "configs*"]
+exclude = ["workdirs", "test_workdirs"]
+
+[build-system]
+requires = ["setuptools>=75.0"]
+build-backend = "setuptools.build_meta"

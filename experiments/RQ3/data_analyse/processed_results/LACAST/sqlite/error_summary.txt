@@ -1,0 +1,7 @@
+malformed JSON
+malformed JSON
+JSON cannot hold BLOB values
+input to median() is not numeric
+JSON cannot hold BLOB values
+malformed JSON
+JSON cannot hold BLOB values

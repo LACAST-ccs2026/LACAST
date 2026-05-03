@@ -1,0 +1,5 @@
+{
+    "type_eval": "time_evaluator_without_agg",
+    "left": "current_time_time_evaluator",
+    "right": "\"current_time(\"\"1\"\")\""
+}

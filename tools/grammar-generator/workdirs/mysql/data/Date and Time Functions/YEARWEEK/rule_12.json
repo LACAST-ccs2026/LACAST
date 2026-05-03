@@ -1,0 +1,6 @@
+{
+    "idx": 12,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "YEARWEEK_integer_evaluator",
+    "right": "\"YEARWEEK(\"year_evaluator_without_agg \")\""
+}

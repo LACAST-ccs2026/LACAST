@@ -1,0 +1,8 @@
+{
+  "NULL": "integer",
+  "INT": "integer",
+  "TEXT": "text",
+  "REAL": "real",
+  "BOOLEAN": "integer",
+  "BINARY": "blob"
+}

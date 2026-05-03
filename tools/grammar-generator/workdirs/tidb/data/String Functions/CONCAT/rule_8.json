@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_concat_char_evaluator",
+    "right": "\"CONCAT(\" char_AGG_evaluator \",\" _var_char(\",\" _var_char)* \")\""
+}

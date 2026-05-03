@@ -1,0 +1,6 @@
+{
+    "syntax_name": "NOT",
+    "raw_syntax_name": "NOT",
+    "is_agg": false,
+    "syntax_type": "Logical Operators"
+}

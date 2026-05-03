@@ -1,0 +1,16 @@
+{
+  "typesJsonPath": "./datatypes/types.json",
+  "typesDir": "./datatypes",
+  "grammarPath": "./grammars/grammar.g4",
+  "recordRulePath": "./grammars/recordRules.log",
+  "schemaPath": "../../../data/mysql/radar/current_schema/converted_schema.json",
+  "startName": "query",
+  "depth": 2,
+  "GB_UNIFIED_RULE": 1,
+  "AGG_ONLY_IN_GB": 1,
+  "HAVING_USE_SELECT": 1,
+  "HAVING_USE_FROM": 0,
+  "HAVING_USE_GROUPBY": 0,
+  "orderByProjectionRule": 1,
+  "OUTER_REF_ENABLED": 1
+}

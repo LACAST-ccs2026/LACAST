@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "ANY_VALUE_integer_evaluator",
+    "right": "\"ANY_VALUE(\"integer_evaluator_without_agg \")\""
+}

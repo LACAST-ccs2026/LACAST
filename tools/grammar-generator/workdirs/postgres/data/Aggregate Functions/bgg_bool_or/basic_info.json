@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_bool_or",
+    "raw_syntax_name": "bool_or ( boolean ) \u2192 boolean",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "pow_double_evaluator",
+    "right": "double_evaluator_without_agg \"^\" double_evaluator_without_agg"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 108,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_IFNULL_blob_evaluator",
+    "right": "\"IFNULL(\"blob_AGG_evaluator \",\" blob_AGG_evaluator \")\""
+}

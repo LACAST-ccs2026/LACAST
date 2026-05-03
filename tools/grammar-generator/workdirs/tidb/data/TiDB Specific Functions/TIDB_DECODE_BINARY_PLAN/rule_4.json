@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "TIDB_DECODE_BINARY_PLAN_text_evaluator",
+    "right": "\"TIDB_DECODE_BINARY_PLAN(\" blob_evaluator_without_agg \")\""
+}

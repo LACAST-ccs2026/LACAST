@@ -1,0 +1,6 @@
+{
+    "syntax_name": "BIN_TO_UUID",
+    "raw_syntax_name": "BIN_TO_UUID(binary_uuid)",
+    "is_agg": false,
+    "syntax_type": "Miscellaneous Functions"
+}

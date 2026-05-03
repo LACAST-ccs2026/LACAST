@@ -1,0 +1,6 @@
+{
+    "syntax_name": "gen_random_uuid",
+    "raw_syntax_name": "gen_random_uuid ( ) \u2192 uuid",
+    "is_agg": false,
+    "syntax_type": "UUID Functions"
+}

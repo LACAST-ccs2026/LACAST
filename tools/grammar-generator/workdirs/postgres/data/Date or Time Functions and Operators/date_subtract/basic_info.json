@@ -1,0 +1,6 @@
+{
+    "syntax_name": "date_subtract",
+    "raw_syntax_name": "date_subtract ( timestamp with time zone, interval [, text ] ) \u2192 timestamp with time zone",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

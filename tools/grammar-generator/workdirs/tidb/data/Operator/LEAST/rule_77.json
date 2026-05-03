@@ -1,0 +1,6 @@
+{
+    "idx": 77,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "LEAST_text_evaluator",
+    "right": "\"LEAST(\"_var_text \",\" _var_integer(\",\" _var_integer)* \")\""
+}

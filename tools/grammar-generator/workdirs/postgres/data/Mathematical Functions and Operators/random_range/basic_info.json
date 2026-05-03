@@ -1,0 +1,6 @@
+{
+    "syntax_name": "random_range",
+    "raw_syntax_name": "random ( min integer, max integer ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

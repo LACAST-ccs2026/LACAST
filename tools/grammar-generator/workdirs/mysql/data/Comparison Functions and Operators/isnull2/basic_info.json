@@ -1,0 +1,7 @@
+{
+  "syntax_name": "isnull2",
+  "raw_syntax_name": "IS NULL",
+  "is_agg": false,
+  "syntax_type": "Comparison Functions and Operators",
+  "syntax_info": "Tests whether a value is NULL. Returns 1 if the value is NULL, 0 otherwise."
+}

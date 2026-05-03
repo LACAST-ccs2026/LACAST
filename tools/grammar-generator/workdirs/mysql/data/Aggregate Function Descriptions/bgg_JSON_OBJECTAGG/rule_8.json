@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "text_AGG_evaluator",
+    "left": "JSON_OBJECTAGG_text_evaluator",
+    "right": "\"JSON_OBJECTAGG(\"_var_datetime \",\" _var_datetime \")\""
+}

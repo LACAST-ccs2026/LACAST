@@ -1,0 +1,6 @@
+{
+    "syntax_name": "POWER",
+    "raw_syntax_name": "POWER(X,Y)",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

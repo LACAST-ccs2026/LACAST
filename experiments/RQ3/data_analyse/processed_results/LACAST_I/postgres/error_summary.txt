@@ -1,0 +1,213 @@
+operator does not exist: time without time zone - text
+LINE 1: SELECT tom0.col_time - tom0.col_text AS c0 , LOCALTIMESTAMP ...
+                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+column "tom0.col_bit" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: ...l_timestamp ) & 255), 2, '0') )::macaddr8 AS c3 , tom0.col_b...
+                                                             ^
+
+syntax error at or near "tom0"
+LINE 1: SELECT min( LOCALTIMESTAMP( tom0.id ) ) AS c0 FROM pg_table_...
+                                    ^
+
+column "tom2.col_bit" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: ...it) # bit_xor( tom2.col_bit ) AS c11 , SUBSTRING( tom2.col_b...
+                                                             ^
+
+function make_date(integer, bigint, bigint) does not exist
+LINE 1: SELECT MAKE_DATE( bit_or( LEAST( tom0.id , tom0.id ) ) , cou...
+               ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+column "tom2.col_bit" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT OVERLAY( tom2.col_bit | tom2.col_bit PLACING any_valu...
+                        ^
+
+operator does not exist: time without time zone + text
+LINE 1: ... (count( tom1.c0 ) % 86400) * interval '1 second' + TRANSLAT...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: date - text
+LINE 1: ...text , tom0.col_text ) AND TO_CHAR( tom0.col_date - tom0.col...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+unit "192.168.1.1/32" not recognized for type timestamp without time zone
+
+function date_trunc(unknown, unknown) is not unique
+LINE 1: ...llo, PostgreSQL' ESCAPE 'hello, PostgreSQL' ) AND DATE_TRUNC...
+                                                             ^
+HINT:  Could not choose a best candidate function. You might need to add explicit type casts.
+
+function make_timestamp(integer, numeric, bigint, integer, integer, double precision) does not exist
+LINE 1: ... '\xDEADBEEF' ) AS c4 , GEN_RANDOM_UUID() AS c5 , MAKE_TIMES...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "tom1"
+LINE 1: ...tea '\xDEADBEEF' ) AS c1 FROM ( SELECT LOCALTIME( tom1.id ) ...
+                                                             ^
+
+operator does not exist: timestamp without time zone - text
+LINE 1: ...101010' ) AS c5 , TIMESTAMP '2025-01-01 12:34:56' - any_valu...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "("
+LINE 1: ...e_b AS tom0 FULL JOIN ( SELECT EXTRACT( DATE_TRUNC( tom1.col...
+                                                             ^
+
+syntax error at or near "+"
+LINE 1: ...ULL ) FULL OUTER JOIN ( SELECT CURRENT_TIMESTAMP( + tom4.id ...
+                                                             ^
+
+operator does not exist: timestamp without time zone + integer
+LINE 1: ...count( tom0.col_uuid ) % 36525)* interval '1 day' + max( tom...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function div(numeric, double precision) does not exist
+LINE 1: ...m2.col_text , tom1.id ) , tom0.col_text ) ) WHERE DIV( EXP( ...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: date + date
+LINE 1: WITH tom1 AS ( SELECT tom0.col_date + tom0.col_date - tom0.c...
+                                            ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "FAMILY"
+LINE 1: ...estamp , tom0.col_timestamp ) AND LOCALTIMESTAMP( FAMILY( to...
+                                                             ^
+
+function pg_catalog.overlay(text, text, bigint, integer) does not exist
+LINE 1: ... tom0.id ISNULL GROUP BY tom0.col_macaddr8 HAVING OVERLAY( a...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "tom0"
+LINE 1: ..., 2, '0')  )::macaddr  AS c0 , min( CURRENT_TIME( tom0.id ) ...
+                                                             ^
+
+time field value out of range: 24:24:0.569528
+
+syntax error at or near "tom0"
+LINE 1: ...g_table_a AS tom0 WHERE ISFINITE( LOCALTIMESTAMP( tom0.id ) ...
+                                                             ^
+
+operator does not exist: time without time zone + text
+LINE 1: ...00:2b:01:02:03' AS c1 FROM ( SELECT tom0.col_time + tom0.col...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: date - bigint
+LINE 1: ...caddr  AS c1 , any_value(( tom2.col_date )::date) - count( t...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function width_bucket(numeric, text) does not exist
+LINE 1: ...( OVERLAY( tom0.col_bit PLACING tom0.col_bit FROM WIDTH_BUCK...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+malformed array literal: "hello, PostgreSQL"
+LINE 1: ...101010' AS c1 , WIDTH_BUCKET( 0.569527954956146 , 'hello, Po...
+                                                             ^
+DETAIL:  Array value must start with "{" or dimension information.
+
+function date_bin(text, timestamp without time zone, timestamp without time zone) does not exist
+LINE 1: SELECT tom2.col_macaddr AS c1 FROM ( ( ( SELECT DATE_BIN( co...
+                                                        ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: date + text
+LINE 1: ..., c3 ASC LIMIT 24 ) SELECT max( DATE '2026-01-01' + QUOTE_NU...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function width_bucket(numeric, text) does not exist
+LINE 1: ...l_bytea IN tom0.col_bytea ) NOT BETWEEN SYMMETRIC WIDTH_BUCK...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: timestamp without time zone + bigint
+LINE 1: ...t( tom0.col_macaddr8 ) % 36525)* interval '1 day' + count( t...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "tom1"
+LINE 1: ...m0 , ( SELECT tom1.col_time AS c0 , CURRENT_TIME( tom1.id ) ...
+                                                             ^
+
+function make_date(numeric, numeric, bigint) does not exist
+LINE 1: ...ue(( TIME '12:34:56' )::time) AS c3 FROM ( SELECT MAKE_DATE(...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: time without time zone - text
+LINE 1: ...m1.col_timestamp ) % 86400) * interval '1 second' - LTRIM( m...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+function make_date(integer, numeric, integer) does not exist
+LINE 1: ..._date ) & 255), 2, '0')  )::macaddr  AS c0 , min( MAKE_DATE(...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function abbrev(text) does not exist
+LINE 1: ....col_text , tom4.col_text ) NOT BETWEEN SYMMETRIC ABBREV( to...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "tom6"
+LINE 1: ...ble_a AS tom5 FULL OUTER JOIN ( SELECT LOCALTIME( tom6.id ) ...
+                                                             ^
+
+function isfinite(text) does not exist
+LINE 1: ...RE tom2.col_inet << tom2.col_inet ) AS tom3 WHERE ISFINITE( ...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function date_subtract(timestamp without time zone, text) does not exist
+LINE 1: ....id , tom0.id , tom0.id , 0.569527954956146 ) AND DATE_SUBTR...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: time without time zone + text
+LINE 1: WITH tom5 AS ( SELECT tom4.col_time + REPLACE( tom4.col_text...
+                                            ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+new bit must be 0 or 1
+
+function isfinite(text) does not exist
+LINE 1: ....1' << inet '192.168.1.1' GROUP BY tom2.c2 HAVING ISFINITE( ...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function pg_catalog.overlay(bit, bit, bigint) does not exist
+LINE 1: ...& 255), 2, '0') )::macaddr8 AS c2 FROM ( ( SELECT OVERLAY( B...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+invalid regular expression option: "h"
+
+function isfinite(text) does not exist
+LINE 1: ...tom4.col_inet ) AS tom5 ON 24 IS NOT NULL ) WHERE ISFINITE( ...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function isfinite(text) does not exist
+LINE 1: ...RE tom0.col_timestamp IS NOT NULL ) AS tom2 WHERE ISFINITE( ...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+unrecognized encoding: "hello, PostgreSQL"
+
+function isfinite(text) does not exist
+LINE 1: ...OTNULL ) AS tom1 INNER JOIN pg_table_b AS tom2 ON ISFINITE( ...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+

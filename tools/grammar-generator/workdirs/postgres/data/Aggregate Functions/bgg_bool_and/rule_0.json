@@ -1,0 +1,5 @@
+{
+    "type_eval": "boolean_AGG_evaluator",
+    "left": "bool_and_boolean_evaluator",
+    "right": "\"bool_and(\"boolean_evaluator_without_agg\")\""
+}

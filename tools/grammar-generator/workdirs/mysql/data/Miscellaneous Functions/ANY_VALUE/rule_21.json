@@ -1,0 +1,6 @@
+{
+    "idx": 21,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "ANY_VALUE_text_evaluator",
+    "right": "\"ANY_VALUE(\"_var_text \")\""
+}

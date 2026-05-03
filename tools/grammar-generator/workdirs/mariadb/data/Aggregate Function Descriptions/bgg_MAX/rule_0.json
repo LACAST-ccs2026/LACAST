@@ -1,0 +1,5 @@
+{
+    "type_eval": "bit_AGG_evaluator",
+    "left": "MAX_bit_evaluator",
+    "right": "\"MAX(\"_var_bit \")\""
+}

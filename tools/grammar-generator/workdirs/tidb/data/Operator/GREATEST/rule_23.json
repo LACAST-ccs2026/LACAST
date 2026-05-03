@@ -1,0 +1,6 @@
+{
+    "idx": 23,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "agg_GREATEST_text_evaluator",
+    "right": "\"GREATEST(\"text_evaluator_without_agg \",\" char_AGG_evaluator(\",\" char_AGG_evaluator)* \")\""
+}

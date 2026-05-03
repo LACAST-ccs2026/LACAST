@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_evaluator_without_agg",
+    "left": "UTC_DATE_date_evaluator",
+    "right": "\"UTC_DATE(\" \")\""
+}

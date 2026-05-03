@@ -1,0 +1,9 @@
+target_dbms: "tidb"
+database_name: "lacast"
+schema_path: "dbms/tidb/tidb.txt"
+max_connections: 1
+db_config:
+  host: "172.20.163.66"
+  port: "4000"
+  username: "root"
+  password: "123456"

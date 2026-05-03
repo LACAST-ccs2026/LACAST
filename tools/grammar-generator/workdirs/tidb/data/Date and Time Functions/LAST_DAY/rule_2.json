@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "date_evaluator_without_agg",
+    "left": "LAST_DAY_date_evaluator",
+    "right": "\"LAST_DAY(\"timestamp_evaluator_without_agg \")\""
+}

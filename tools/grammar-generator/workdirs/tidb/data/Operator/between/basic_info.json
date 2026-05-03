@@ -1,0 +1,7 @@
+{
+    "syntax_name": "between",
+    "raw_syntax_name": "expr BETWEEN min AND max",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Checks whether a value is within a range. Syntax: expr BETWEEN min AND max. Returns 1 if expr is between min and max (inclusive), 0 otherwise."
+}

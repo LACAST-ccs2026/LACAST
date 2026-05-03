@@ -1,0 +1,6 @@
+{
+    "syntax_name": "inet_plus_bigint",
+    "raw_syntax_name": "inet + bigint \u2192 inet",
+    "is_agg": false,
+    "syntax_type": "Network Address Functions and Operators"
+}

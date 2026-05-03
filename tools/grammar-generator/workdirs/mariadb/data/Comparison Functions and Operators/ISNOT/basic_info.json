@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ISNOT",
+    "raw_syntax_name": "IS NOT boolean_value",
+    "is_agg": false,
+    "syntax_type": "Comparison Functions and Operators"
+}

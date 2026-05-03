@@ -1,0 +1,6 @@
+{
+    "idx": 9,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "STR_TO_DATE_datetime_evaluator",
+    "right": "\"STR_TO_DATE(\"char_evaluator_without_agg \",\" STR_TO_DATE_format \")\""
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "MID",
+    "raw_syntax_name": "MID()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The MID(str, pos, len) function returns a substring starting at position pos with length len. Synonym for SUBSTRING."
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "atan_double_evaluator",
+    "right": "\"atan(\" double_evaluator_without_agg \")\""
+}

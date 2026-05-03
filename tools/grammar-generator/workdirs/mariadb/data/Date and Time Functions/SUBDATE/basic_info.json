@@ -1,0 +1,6 @@
+{
+    "syntax_name": "SUBDATE",
+    "raw_syntax_name": "SUBDATE(date,INTERVAL expr unit)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "numeric_AGG_evaluator",
+    "left": "SUM_numeric_evaluator",
+    "right": "\"SUM(\"_var_numeric \")\""
+}

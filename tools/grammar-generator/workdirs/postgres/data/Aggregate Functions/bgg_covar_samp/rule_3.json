@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_AGG_evaluator",
+    "left": "covar_samp_double_evaluator",
+    "right": "\"covar_samp(\"double_evaluator_without_agg \",\" double_evaluator_without_agg\")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "UUID_TO_BIN_blob_evaluator",
+    "right": "\"UUID_TO_BIN(\"UUID_TO_BIN_uuid_val \",\" UUID_TO_BIN_swap_flag \")\""
+}

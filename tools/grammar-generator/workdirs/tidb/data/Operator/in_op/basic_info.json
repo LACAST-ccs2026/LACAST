@@ -1,0 +1,7 @@
+{
+    "syntax_name": "in_op",
+    "raw_syntax_name": "expr IN (value,...)",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Checks whether a value is within a set of values. Returns 1 if the value is in the list, 0 otherwise. Syntax: expr IN (value1, value2, ...)"
+}

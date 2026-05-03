@@ -1,0 +1,5 @@
+{
+    "type_eval": "time_AGG_evaluator",
+    "left": "max_time_evaluator",
+    "right": "\"max(\"_var_time\")\""
+}

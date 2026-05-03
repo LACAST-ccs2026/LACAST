@@ -1,0 +1,6 @@
+{
+    "syntax_name": "TRUNCATE",
+    "raw_syntax_name": "TRUNCATE(X,D)",
+    "is_agg": false,
+    "syntax_type": "Numeric Functions and Operators"
+}

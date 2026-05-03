@@ -1,0 +1,6 @@
+{
+    "idx": 70,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "ltlt_text_evaluator",
+    "right": "text_evaluator_without_agg \"<<\" double_evaluator_without_agg"
+}

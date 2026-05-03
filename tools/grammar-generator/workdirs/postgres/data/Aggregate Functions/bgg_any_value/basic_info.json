@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_any_value",
+    "raw_syntax_name": "any_value ( anyelement ) \u2192 same as input type",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_evaluator_without_agg",
+    "left": "LEAST_date_evaluator",
+    "right": "\"LEAST(\"date_evaluator_without_agg \",\" date_evaluator_without_agg(\",\" date_evaluator_without_agg)* \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 18,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "ATAN2_double_evaluator",
+    "right": "\"ATAN2(\"integer_evaluator_without_agg \",\" _var_double \")\""
+}

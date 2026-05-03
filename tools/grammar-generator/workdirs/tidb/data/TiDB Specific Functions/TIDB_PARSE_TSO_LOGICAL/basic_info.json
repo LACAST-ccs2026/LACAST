@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_PARSE_TSO_LOGICAL",
+    "raw_syntax_name": "TIDB_PARSE_TSO_LOGICAL",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The TIDB_PARSE_TSO_LOGICAL(tso) function returns the logical part of a TSO timestamp."
+}

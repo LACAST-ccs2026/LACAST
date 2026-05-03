@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "cbrt_double_evaluator",
+    "right": "\"cbrt(\" _var_double \")\""
+}

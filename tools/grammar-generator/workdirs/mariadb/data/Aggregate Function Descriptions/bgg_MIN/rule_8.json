@@ -1,0 +1,5 @@
+{
+    "type_eval": "year_AGG_evaluator",
+    "left": "MIN_year_evaluator",
+    "right": "\"MIN(\"_var_year \")\""
+}

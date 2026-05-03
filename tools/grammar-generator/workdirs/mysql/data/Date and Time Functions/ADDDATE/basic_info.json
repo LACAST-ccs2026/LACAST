@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ADDDATE",
+    "raw_syntax_name": "ADDDATE(date,INTERVAL expr unit)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

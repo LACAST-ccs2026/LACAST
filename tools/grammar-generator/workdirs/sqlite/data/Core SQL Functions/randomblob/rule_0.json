@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "randomblob_blob_evaluator",
+    "right": "\"randomblob(\"_var_numeric \")\""
+}

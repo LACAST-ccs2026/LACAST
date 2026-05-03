@@ -1,0 +1,6 @@
+{
+    "syntax_name": "is_true",
+    "raw_syntax_name": "boolean IS TRUE \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "Comparison Functions and Operators"
+}

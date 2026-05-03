@@ -1,0 +1,4 @@
+cannot OR bit strings of different sizes
+
+cannot XOR bit strings of different sizes
+

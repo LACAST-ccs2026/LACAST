@@ -1,0 +1,6 @@
+{
+    "idx": 25,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_CRC32_integer_evaluator",
+    "right": "\"CRC32(\"year_AGG_evaluator \")\""
+}

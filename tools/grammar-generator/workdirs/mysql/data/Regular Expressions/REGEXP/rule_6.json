@@ -1,0 +1,6 @@
+{
+    "idx": 6,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "REGEXP_integer_evaluator",
+    "right": "text_evaluator_without_agg \"REGEXP\" _var_text"
+}

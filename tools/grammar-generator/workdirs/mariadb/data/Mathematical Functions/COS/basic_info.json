@@ -1,0 +1,6 @@
+{
+    "syntax_name": "COS",
+    "raw_syntax_name": "COS(X)",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

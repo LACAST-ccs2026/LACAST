@@ -1,0 +1,6 @@
+{
+    "idx": 78,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_lteq_boolean_evaluator",
+    "right": "time_AGG_evaluator \"<=\" time_AGG_evaluator"
+}

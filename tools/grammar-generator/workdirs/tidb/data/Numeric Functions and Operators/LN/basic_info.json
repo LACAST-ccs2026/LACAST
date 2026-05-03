@@ -1,0 +1,6 @@
+{
+    "syntax_name": "LN",
+    "raw_syntax_name": "LN(X)",
+    "is_agg": false,
+    "syntax_type": "Numeric Functions and Operators"
+}

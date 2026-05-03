@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "regexp_replace_advanced_evaluator",
+    "right": "\"regexp_replace( 'Test123Test' , '[0-9]' , 'X' , 1 , 2 )\""
+}

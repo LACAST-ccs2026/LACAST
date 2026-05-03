@@ -1,0 +1,6 @@
+{
+    "idx": 54,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_NOTREGEXP_boolean_evaluator",
+    "right": "integer_AGG_evaluator \"NOT REGEXP\" _var_blob"
+}

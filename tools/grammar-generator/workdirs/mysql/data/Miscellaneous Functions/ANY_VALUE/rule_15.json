@@ -1,0 +1,6 @@
+{
+    "idx": 15,
+    "type_eval": "year_evaluator_without_agg",
+    "left": "ANY_VALUE_year_evaluator",
+    "right": "\"ANY_VALUE(\"_var_year \")\""
+}

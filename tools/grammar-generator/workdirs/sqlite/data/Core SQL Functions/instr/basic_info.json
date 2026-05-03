@@ -1,0 +1,6 @@
+{
+    "syntax_name": "instr",
+    "raw_syntax_name": "instr(X,Y)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

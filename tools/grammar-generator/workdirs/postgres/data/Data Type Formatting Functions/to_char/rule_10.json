@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "to_char_text_evaluator",
+    "right": "\"to_char(\"integer_evaluator_without_agg \",\" \"'999D99S'\"\")\""
+}

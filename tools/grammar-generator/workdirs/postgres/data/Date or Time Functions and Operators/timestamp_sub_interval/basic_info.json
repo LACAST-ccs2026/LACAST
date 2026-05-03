@@ -1,0 +1,6 @@
+{
+    "syntax_name": "timestamp_sub_interval",
+    "raw_syntax_name": "timestamp - interval \u2192 timestamp",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

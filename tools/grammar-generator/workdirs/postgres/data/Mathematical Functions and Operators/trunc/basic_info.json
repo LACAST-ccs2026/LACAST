@@ -1,0 +1,6 @@
+{
+    "syntax_name": "trunc",
+    "raw_syntax_name": "trunc ( numeric ) \u2192 numeric",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

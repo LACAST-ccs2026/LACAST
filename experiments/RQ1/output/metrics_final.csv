@@ -1,0 +1,14 @@
+DB,Tool,Correctness_Avg,Unique_Tokens,Total_Unique_Tokens,Generated_SQL_per_sec,Token_Throughput_per_sec
+mariadb,LACAST,98.58,46.59,189,627,199710
+mariadb,PINOLO,100.00,39.55,147,62,15828
+mariadb,SQLancer,99.94,12.60,48,3547,80138
+mysql,LACAST,93.10,64.03,203,594,414000
+mysql,PINOLO,87.10,38.94,146,54,13078
+mysql,SQLancer,100.00,12.81,49,2603,110310
+postgresql,LACAST,98.86,36.27,141,173,34914
+postgresql,SQLancer,39.53,16.94,102,134,10109
+sqlite,LACAST,96.57,58.09,107,197,184475
+sqlite,SQLancer,96.58,19.67,105,1608,109035
+tidb,LACAST,99.01,50.97,227,301,138036
+tidb,PINOLO,80.65,35.88,140,50,10500
+tidb,SQLancer,99.88,14.72,137,834,37245

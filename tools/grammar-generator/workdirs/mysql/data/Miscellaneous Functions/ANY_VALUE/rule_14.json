@@ -1,0 +1,6 @@
+{
+    "idx": 14,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "agg_ANY_VALUE_time_evaluator",
+    "right": "\"ANY_VALUE(\"time_AGG_evaluator \")\""
+}

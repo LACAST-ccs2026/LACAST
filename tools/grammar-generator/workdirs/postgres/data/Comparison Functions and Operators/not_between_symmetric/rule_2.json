@@ -1,0 +1,5 @@
+{
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "not_between_symmetric_evaluator",
+    "right": "\"'b' not between symmetric 'a' and 'c'\""
+}

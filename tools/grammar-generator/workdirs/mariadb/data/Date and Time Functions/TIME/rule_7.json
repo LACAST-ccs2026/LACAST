@@ -1,0 +1,5 @@
+{
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_TIME_char_evaluator",
+    "right": "\"TIME(\"time_AGG_evaluator \")\""
+}

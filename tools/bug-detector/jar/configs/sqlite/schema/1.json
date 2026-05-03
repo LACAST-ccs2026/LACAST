@@ -1,0 +1,47 @@
+[
+  {
+    "key": "class_members",
+    "fields": ["id", "name", "age", "gender", "class_name", "score", "salary", "profile_picture"],
+    "types": ["integer", "text", "integer", "text", "text", "real", "numeric", "blob"]
+  },
+  {
+    "key": "class_members1",
+    "fields": ["id", "name1", "age1", "gender1", "class_name1", "grade", "bonus", "image"],
+    "types": ["integer", "text", "integer", "text", "text", "real", "numeric", "blob"]
+  },
+  {
+    "key": "employees",
+    "fields": ["employee_id", "first_name", "last_name", "department", "salary", "bonus", "hire_date", "profile_picture"],
+    "types": ["integer", "text", "text", "text", "numeric", "real", "text", "blob"]
+  },
+  {
+    "key": "products",
+    "fields": ["product_id", "product_name", "category", "price", "quantity", "date_added", "product_image"],
+    "types": ["integer", "text", "text", "numeric", "integer", "text", "blob"]
+  },
+  {
+    "key": "orders",
+    "fields": ["order_id", "customer_name", "product_id", "order_date", "total_amount", "shipping_address", "invoice"],
+    "types": ["integer", "text", "integer", "text", "numeric", "text", "blob"]
+  },
+  {
+    "key": "students",
+    "fields": ["student_id", "student_name", "age", "gender", "grade", "scholarship", "student_photo"],
+    "types": ["integer", "text", "integer", "text", "real", "numeric", "blob"]
+  },
+  {
+    "key": "courses",
+    "fields": ["course_id", "course_name", "instructor_name", "course_credit", "course_fee", "course_materials"],
+    "types": ["integer", "text", "text", "integer", "numeric", "blob"]
+  },
+  {
+    "key": "sales",
+    "fields": ["sale_id", "product_id", "sale_date", "sale_amount", "discount", "receipt"],
+    "types": ["integer", "integer", "text", "numeric", "real", "blob"]
+  },
+  {
+    "key": "transactions",
+    "fields": ["transaction_id", "transaction_date", "amount", "transaction_type", "transaction_receipt"],
+    "types": ["integer", "text", "numeric", "text", "blob"]
+  }
+]

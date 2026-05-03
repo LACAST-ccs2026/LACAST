@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_BIT_AND",
+    "raw_syntax_name": "BIT_AND(expr) [over_clause]",
+    "is_agg": true,
+    "syntax_type": "Aggregate Function Descriptions"
+}

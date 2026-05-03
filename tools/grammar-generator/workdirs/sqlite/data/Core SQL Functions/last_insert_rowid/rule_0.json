@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "last_insert_rowid_integer_evaluator",
+    "right": "\"last_insert_rowid(\" \")\""
+}

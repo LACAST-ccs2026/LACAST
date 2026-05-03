@@ -1,0 +1,7 @@
+{
+    "syntax_name": "REGEXP_LIKE",
+    "raw_syntax_name": "REGEXP_LIKE()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The REGEXP_LIKE(str, pattern) function returns 1 if str matches pattern, 0 otherwise."
+}

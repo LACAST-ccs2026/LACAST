@@ -1,0 +1,6 @@
+{
+  "INT": "integer",
+  "VARCHAR": "text",
+  "REAL": "double",
+  "BOOLEAN": "boolean"
+}

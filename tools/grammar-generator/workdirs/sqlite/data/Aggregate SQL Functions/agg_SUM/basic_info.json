@@ -1,0 +1,6 @@
+{
+    "syntax_name": "agg_SUM",
+    "raw_syntax_name": "sum(X)total(X)",
+    "is_agg": true,
+    "syntax_type": "Aggregate SQL Functions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "lgamma_double_evaluator",
+    "right": "\"lgamma(\"_var_double\")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_RADIANS_double_evaluator",
+    "right": "\"RADIANS(\"char_AGG_evaluator \")\""
+}

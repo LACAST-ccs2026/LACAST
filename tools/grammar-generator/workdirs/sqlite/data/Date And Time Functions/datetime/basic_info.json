@@ -1,0 +1,6 @@
+{
+    "syntax_name": "datetime",
+    "raw_syntax_name": "datetime(_time-value, modifier, modifier, ...)",
+    "is_agg": false,
+    "syntax_type": "Date And Time Functions"
+}

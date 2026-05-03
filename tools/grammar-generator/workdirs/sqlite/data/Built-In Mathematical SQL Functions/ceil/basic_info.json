@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ceil",
+    "raw_syntax_name": "ceil(X)ceiling(X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

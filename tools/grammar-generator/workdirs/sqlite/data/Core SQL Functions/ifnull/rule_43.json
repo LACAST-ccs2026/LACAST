@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_ifnull_integer_evaluator",
+    "right": "\"ifnull(\"integer_AGG_evaluator \",\" numeric_evaluator_without_agg \")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_AGG_evaluator",
+    "left": "var_samp_double_evaluator",
+    "right": "\"var_samp(\"_var_double\")\""
+}

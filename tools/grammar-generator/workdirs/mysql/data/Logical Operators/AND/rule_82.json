@@ -1,0 +1,6 @@
+{
+    "idx": 82,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_AND_integer_evaluator",
+    "right": "_var_time \"AND\" time_AGG_evaluator"
+}

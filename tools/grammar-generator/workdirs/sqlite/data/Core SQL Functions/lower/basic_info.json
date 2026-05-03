@@ -1,0 +1,6 @@
+{
+    "syntax_name": "lower",
+    "raw_syntax_name": "lower(X)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

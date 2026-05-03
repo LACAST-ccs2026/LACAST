@@ -1,0 +1,6 @@
+{
+    "syntax_name": "date_part_timestamp",
+    "raw_syntax_name": "date_part ( text, timestamp ) \u2192 double precision",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

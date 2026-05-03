@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "CONV_char_evaluator",
+    "right": "\"CONV(\"char_evaluator_without_agg \",\" CONV_from_base \",\" CONV_to_base \")\""
+}

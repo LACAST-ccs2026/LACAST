@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "md5_bytea_text_evaluator",
+    "right": "\"md5(\" bytea_evaluator_without_agg \")\""
+}

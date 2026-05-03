@@ -1,0 +1,6 @@
+{
+    "idx": 66,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_ROUND_double_evaluator",
+    "right": "\"ROUND(\"time_AGG_evaluator \")\""
+}

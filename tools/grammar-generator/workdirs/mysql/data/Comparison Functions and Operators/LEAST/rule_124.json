@@ -1,0 +1,6 @@
+{
+    "idx": 124,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "LEAST_time_evaluator",
+    "right": "\"LEAST(\"_var_time \",\" _var_time(\",\" _var_time)* \")\""
+}

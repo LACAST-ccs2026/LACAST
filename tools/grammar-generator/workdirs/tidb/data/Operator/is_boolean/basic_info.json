@@ -1,0 +1,7 @@
+{
+    "syntax_name": "is_boolean",
+    "raw_syntax_name": "IS boolean_value",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Tests whether a value is a specific boolean value. Syntax: expr IS TRUE, expr IS FALSE, or expr IS UNKNOWN. Returns 1 or 0."
+}

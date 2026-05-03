@@ -1,0 +1,6 @@
+{
+    "idx": 9,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "isnull2_boolean_evaluator",
+    "right": "date_evaluator_without_agg \"IS NULL\""
+}

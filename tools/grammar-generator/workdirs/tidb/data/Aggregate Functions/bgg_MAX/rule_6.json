@@ -1,0 +1,6 @@
+{
+    "idx": 6,
+    "type_eval": "time_AGG_evaluator",
+    "left": "MAX_time_evaluator",
+    "right": "\"MAX(\"time_evaluator_without_agg \")\""
+}

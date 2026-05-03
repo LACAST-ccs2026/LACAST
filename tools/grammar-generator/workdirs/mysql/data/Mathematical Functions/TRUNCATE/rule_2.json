@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "TRUNCATE_double_evaluator",
+    "right": "\"TRUNCATE(\"double_evaluator_without_agg \",\" integer_evaluator_without_agg \")\""
+}

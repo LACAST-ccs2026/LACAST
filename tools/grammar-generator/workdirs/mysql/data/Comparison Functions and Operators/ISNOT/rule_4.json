@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "ISNOT_boolean_evaluator",
+    "right": "_var_boolean \"IS NOT\" ISNOT_boolean_value"
+}

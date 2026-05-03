@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_AVG",
+    "raw_syntax_name": "AVG([DISTINCT] expr) [over_clause]",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 18,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_COALESCE_double_evaluator",
+    "right": "\"COALESCE(\"integer_AGG_evaluator \",\" _var_double(\",\" _var_double)* \")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_AGG_evaluator",
+    "left": "JSON_OBJECTAGG_text_evaluator",
+    "right": "\"JSON_OBJECTAGG(\"_var_timestamp \",\" timestamp_evaluator_without_agg \")\""
+}

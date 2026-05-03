@@ -1,0 +1,6 @@
+{
+    "syntax_name": "floor",
+    "raw_syntax_name": "floor(X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

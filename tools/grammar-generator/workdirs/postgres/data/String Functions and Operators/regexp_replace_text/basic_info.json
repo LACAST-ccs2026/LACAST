@@ -1,0 +1,6 @@
+{
+    "syntax_name": "regexp_replace_text",
+    "raw_syntax_name": "regexp_replace ( string text, pattern text, replacement text [, flags text ] ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

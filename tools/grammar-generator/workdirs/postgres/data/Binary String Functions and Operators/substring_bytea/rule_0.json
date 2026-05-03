@@ -1,0 +1,5 @@
+{
+    "type_eval": "bytea_evaluator_without_agg",
+    "left": "substring_bytea_evaluator",
+    "right": "\"substring(\" _var_bytea \" FROM 1 )\""
+}

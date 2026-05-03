@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "COUNT_integer_evaluator",
+    "right": "\"COUNT(\"boolean_evaluator_without_agg \")\""
+}

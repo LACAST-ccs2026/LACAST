@@ -1,0 +1,6 @@
+{
+    "idx": 99,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "ltlt_integer_evaluator",
+    "right": "bit_evaluator_without_agg \"<<\" _var_integer"
+}

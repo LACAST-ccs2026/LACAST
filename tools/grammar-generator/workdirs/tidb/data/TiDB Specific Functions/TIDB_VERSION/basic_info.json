@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_VERSION",
+    "raw_syntax_name": "TIDB_VERSION",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The TIDB_VERSION() function returns the TiDB version string."
+}

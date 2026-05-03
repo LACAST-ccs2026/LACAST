@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_BIT_XOR",
+    "raw_syntax_name": "BIT_XOR(expr) [over_clause]",
+    "is_agg": true,
+    "syntax_type": "Aggregate Function Descriptions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "NULLIF_timestamp_evaluator",
+    "right": "\"NULLIF(\"timestamp_AGG_evaluator \",\" timestamp_evaluator_without_agg\")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_AGG_evaluator",
+    "left": "BIT_OR_integer_evaluator",
+    "right": "\"BIT_OR(\"date_evaluator_without_agg \")\""
+}

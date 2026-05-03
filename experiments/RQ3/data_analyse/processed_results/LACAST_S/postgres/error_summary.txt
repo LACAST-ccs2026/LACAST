@@ -1,0 +1,409 @@
+invalid input syntax for type boolean: "2012-06-15"
+LINE 1: ... ) ) ) AS field1 , sum( c2 ) AS field2 , bool_or( '2012-06-1...
+                                                             ^
+
+syntax error at or near ","
+LINE 1: ...( ( @( c1 ) ) , 1 ) HAVING not( ( LEAST( c3 , c1 (, c3 )*) )...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: SELECT  any_value(( '2013-03-04' stamp) stamp) AS field1 , r...
+                                         ^
+
+operator does not exist: bytea >> integer
+LINE 1: ...orld-test' , '-' , 2 ) AS field2 FROM t0 WHERE c3 >> 1 GROUP...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "8"
+LINE 1: SELECT  GREATEST( '2009-03-10 21:14:54' , c0 8(, ( starts_wi...
+                                                     ^
+
+syntax error at or near "("
+LINE 1: ...ERE format( ( reverse( ( LEAST( c2 , '2017-11-10' (, (  ) )*...
+                                                             ^
+
+syntax error at or near ","
+LINE 1: SELECT DISTINCT format( c3 (, '2010-12-09' )*) AS field1 FRO...
+                                    ^
+
+syntax error at or near "("
+LINE 1: ...LECT  broadcast ( ( GREATEST( ( + c0 ) , 74585619 (, 'r' )*)...
+                                                             ^
+
+function every(integer) does not exist
+LINE 1: ... , bit_xor( ( scale( ( 1 << 2 ) ) ) ) AS field2 , every( ( 5...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "stamp"
+LINE 1: ... FROM t0  GROUP BY "there" IS UNKNOWN, NULLIF( c1 stamp , ( ...
+                                                             ^
+
+function covar_pop(bytea, bytea) does not exist
+LINE 1: SELECT DISTINCT covar_pop( c0 , c0 ) AS field1 , covar_pop( ...
+                                                         ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+argument of WHERE must be type boolean, not type text
+LINE 1: SELECT  min( c3 ) AS field1 FROM t0 WHERE timeofday ( )   OR...
+                                                  ^
+
+syntax error at or near "("
+LINE 1: ...EATEST( 8893524772229500710 , 1129969690257501969 (, c3 )*) ...
+                                                             ^
+
+syntax error at or near ","
+LINE 1: ...) ) ) AS field1 FROM t0  GROUP BY LEAST( c0 , c2 (, ( set_ma...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: ...), atan( ( date_part('day' , -7772226747965475904 stamp) ) )...
+                                                             ^
+
+operator does not exist: text - text
+LINE 1: SELECT  min( ( c1 - c1 ) ) AS field1 , octet_length( c3 ) AS...
+                          ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near ","
+LINE 1: ...EATEST( ( round(0.569527954956146 , 2) ) , "she" (, c0 )*) )...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: ...P BY GREATEST( c1 , ( position('lo' IN 'Hello') ) (, c2 )*) ...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: ...f ghi' , ' ' , 3 ) ) ) AS field1 , any_value(( c0 stamp) sta...
+                                                             ^
+
+syntax error at or near ","
+LINE 1: ... )  ORDER BY ( degrees( ( c3 OR ( LEAST( c1 , c1 (, c3 )*) )...
+                                                             ^
+
+column "can't" does not exist
+LINE 1: ...estamp(2024 , 1 , 1 , 12 , 30 , 0.0) HAVING tanh( "can't" ) ...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: ...) , ( overlay( B'101010' placing B'11' from 3 ) ) (, -348627...
+                                                             ^
+
+function var_samp(text) does not exist
+LINE 1: SELECT  var_samp( c1 ) AS field1 FROM t0     ;
+                ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: text - unknown
+LINE 1: ...485 ) AS field1 FROM t0 WHERE ln( ( ( chr( 65 ) ) - '1 day' ...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "stamp"
+LINE 1: ...') ) ~* 'w' ) ) ) ) AS field1 , any_value(( "i" ) stamp) AS ...
+                                                             ^
+
+operator is not unique: unknown + unknown
+LINE 1: SELECT DISTINCT '07:37:25' + '1 hour' AS field1 , transactio...
+                                   ^
+HINT:  Could not choose a best candidate operator. You might need to add explicit type casts.
+
+syntax error at or near "stamp"
+LINE 1: ..." ) GROUP BY date_subtract( '2024-01-01 12:00:00' stamp with...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: ... GROUP BY md5( '2015-07-13' ) HAVING date_add( c1 stamp , '1...
+                                                             ^
+
+syntax error at or near ","
+LINE 1: ...-01-14 02:12:40' ) AS field2 , GREATEST( c3 , c3 (, ( conver...
+                                                             ^
+
+function btrim(integer, unknown) does not exist
+LINE 1: SELECT  btrim( 1747729252 , 'xyz') AS field1 FROM t0 WHERE l...
+                ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "8"
+LINE 1: ...eld4 , any_value(( ( LEAST( ( sha512( 'hello' ) ) 8 , ( 'p' ...
+                                                             ^
+
+argument of WHERE must be type boolean, not type double precision
+LINE 1: ...'x' from 'xxxHello' ) ) ) AS field1 FROM t0 WHERE acosd( -64...
+                                                             ^
+
+operator does not exist: integer - uuid
+LINE 1: SELECT  min( ( c0 - ( uuidv7() ) ) ) AS field1 FROM t0   HAV...
+                          ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near ","
+LINE 1: ... ) AS field1 , LEAST( ( localtimestamp(5) ) , c2 (, ( cosd( ...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: SELECT  avg( ( date_part('day' , c0 stamp) ) ) AS field1 , s...
+                                            ^
+
+column "t0.c0" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT DISTINCT c0 ISNULL AS field1 , any_value(( c0 ) ) AS ...
+                        ^
+
+syntax error at or near "("
+LINE 1: ...t7bit( ( LEAST( ( ( c3 ) * ( 3086208597 ) ) , 'f' (, ( 10 no...
+                                                             ^
+
+operator does not exist: text = bigint
+LINE 1: ...ue(( c0 ) ) AS field1 FROM t0    ORDER BY sinh( ( NULLIF( c1...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "("
+LINE 1: ...TEST( ( LEAST( '2011-09-11 12:04:44' , '14:41:03' (, 'l' )*)...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: ...Y LEAST( '2014-04-14 22:17:16' , ( to_hex( 16 ) ) (, '07:52:...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: ...01476718533415319 ) AS field2 , min( '2004-09-05' stamp) AS ...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: ...o  ' ) HAVING LEAST( '2007-02-02 10:56:34' , NULL (, ( inet ...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: ...M t0  GROUP BY LEAST( c2 , ( cbrt( '05:25:42' ) ) (, ( norma...
+                                                             ^
+
+function atan(text) does not exist
+LINE 1: ...LECT DISTINCT c2 ISNULL AS field1 , stddev_pop( ( atan( c1 )...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+column "why" does not exist
+LINE 1: SELECT  '09:47:38' & ( bit_length( ( "why" ^ ( 972287074 IS ...
+                                             ^
+
+syntax error at or near "8"
+LINE 1: ...AS field1 , macaddr8_set7bit( ( radians( "so" ) ) 8 ) AS fie...
+                                                             ^
+
+function regr_r2(unknown, date) does not exist
+LINE 1: SELECT  regr_r2( '14:42:43' , ( make_date(2024 , 1 , 1) ) ) ...
+                ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+column "my" does not exist
+LINE 1: SELECT  localtimestamp AS field1 , "my" BETWEEN SYMMETRIC ( ...
+                                           ^
+
+syntax error at or near ","
+LINE 1: ... ) AS field2 FROM t0  GROUP BY GREATEST( c0 , c1 (, "in" )*)...
+                                                             ^
+
+syntax error at or near "8"
+LINE 1: ...' ~ ( atand( ( quote_literal( ( asinh( "your" ) ) 8) ) ) )  ...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: ...3 FROM t0 WHERE substring( ( NULLIF( '2007-05-07' stamp , ( ...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: SELECT  EXTRACT(DAY FROM ( uuidv7() ) stamp) AS field1 , bit...
+                                              ^
+
+invalid input syntax for type double precision: "2018-12-14 20:46:40"
+LINE 1: SELECT  regr_avgx( ( tand( ( atanh( '2018-12-14 20:46:40' ) ...
+                                            ^
+
+column "want" does not exist
+LINE 1: SELECT DISTINCT min( "want" ) AS field1 , NULLIF( ( c0 + '1 ...
+                             ^
+
+syntax error at or near "("
+LINE 1: ...eld1 FROM t0 WHERE num_nonnulls( ( factorial(5) ) (, c3 )*) ...
+                                                             ^
+
+function bool_and(real) does not exist
+LINE 1: SELECT DISTINCT bool_and( c2 ) AS field1 FROM t0  GROUP BY l...
+                        ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "("
+LINE 1: ... c0 , ( GREATEST( c2 , ( 5 + inet '192.168.1.1' ) (, -883165...
+                                                             ^
+
+syntax error at or near ","
+LINE 1: ... ) ) ) AS field1 FROM t0 WHERE GREATEST( c3 , c3 (, ( to_cha...
+                                                             ^
+
+column "got" does not exist
+LINE 1: ...ECT DISTINCT any_value(( ( inet_same_family( c1 , "got" ) ) ...
+                                                             ^
+
+function bool_and(integer) does not exist
+LINE 1: ... ) ) ) AS field1 , any_value(( c2 ) ) AS field2 , bool_and( ...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "("
+LINE 1: ...RDER BY LEAST( '2013-10-28' , 7338661772872502386 (, '16:38:...
+                                                             ^
+
+syntax error at or near "/"
+LINE 1: SELECT  sum( c1 ) AS field1 , c0 AS field2 , /( ( abbrev( c0...
+                                                     ^
+
+column "tell" does not exist
+LINE 1: ... factorial(5) ) ) AS field2 FROM t0   HAVING not( "tell" )  ...
+                                                             ^
+
+function bit_xor(text) does not exist
+LINE 1: SELECT  bit_xor( ( upper( '00:19:16' ) ) ) AS field1 , tanh(...
+                ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+operator does not exist: text << text
+LINE 1: SELECT DISTINCT var_samp( ( c1 << c1 ) ) AS field1 , NULLIF(...
+                                       ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+non-integer constant in ORDER BY
+LINE 1: ...0 , NULL , ( inet '10.0.0.100' - 10 ) )  ORDER BY -663748079...
+                                                             ^
+
+invalid input syntax for type double precision: "2001-03-10"
+LINE 1: ...2250648 ) AS field1 FROM t0 WHERE encode( ( cotd( '2001-03-1...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: ...( ( 'o' NOTNULL ) , ( right( 'PostgreSQL' , 7 ) ) (, "or" )*...
+                                                             ^
+
+function covar_pop(text, text) does not exist
+LINE 1: SELECT DISTINCT covar_pop( c1 , c1 ) AS field1 FROM t0 WHERE...
+                        ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "("
+LINE 1: ...EAST( '2017-09-10 22:03:23' , ( lgamma( 24698 ) ) (, 4463024...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: SELECT DISTINCT LEAST( '06:23:35' , 'n' stamp(, ( statement_...
+                                                ^
+
+syntax error at or near ","
+LINE 1: ...alue(( c3 ) ) AS field2 , LEAST( '10:19:25' , c3 (, c2 )*) A...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: SELECT DISTINCT stddev( ( LEAST( "a" , -12728 (, ( tan( c1 )...
+                                                      ^
+
+syntax error at or near "8"
+LINE 1: ...ld5 FROM t0 WHERE GREATEST( '2012-09-21 12:09:45' 8 , "then"...
+                                                             ^
+
+function scale(bytea) does not exist
+LINE 1: SELECT  any_value(( ( scale( c3 ) ) ) ) AS field1 , any_valu...
+                              ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function trim_scale(real) does not exist
+LINE 1: SELECT DISTINCT (trim_scale( c2 )) AS field1 FROM t0   HAVIN...
+                         ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+function sum(unknown) is not unique
+LINE 1: SELECT  sum( '2016-07-19' ) AS field1 , 5686366472436784298 ...
+                ^
+HINT:  Could not choose a best candidate function. You might need to add explicit type casts.
+
+column "with" does not exist
+LINE 1: ...LECT DISTINCT regr_count( '2018-06-20 20:12:39' , "with" ) A...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: ... FALSE ) , ( sign( ( abbrev( ( uuidv7() ) ) ) ) ) (, ( rpad(...
+                                                             ^
+
+syntax error at or near ","
+LINE 1: ...eil( c3 ) ) IN ( ascii( c1 ) ) ), LEAST( c3 , c2 (, ( set_ma...
+                                                             ^
+
+operator does not exist: bytea - integer
+LINE 1: ...(trim_scale( -6316287610232701813 ))  ORDER BY c3 - -28216 L...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+invalid input syntax for type bigint: "1 hour"
+LINE 1: ...ue(( -13162 ) ) AS field1 , 3026853230894456846 - '1 hour' A...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: SELECT  min( ( concat( ( get_bit( '\x01' , 0 ) ) (, ( NULLIF...
+                                                         ^
+
+syntax error at or near "stamp"
+LINE 1: ...eld1 , max( ( substring( 'Thomas' from '...$' ) ) stamp) AS ...
+                                                             ^
+
+input is out of range
+
+syntax error at or near "8"
+LINE 1: SELECT DISTINCT regr_avgy( ( trunc( c0 8 ) ) , c3 ) AS field...
+                                               ^
+
+syntax error at or near ","
+LINE 1: ...30' , ( GREATEST( '2009-09-09' , ( num_nulls( c0 (, NULL )*)...
+                                                             ^
+
+function bit_or(text) does not exist
+LINE 1: SELECT DISTINCT bit_or( ( md5( NULL ) ) ) AS field1 , conver...
+                        ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "("
+LINE 1: ... ( split_part( 'one;two;three;four' , ';' , 4 ) ) (, 2851847...
+                                                             ^
+
+syntax error at or near "stamp"
+LINE 1: ...2024-01-01' ) , ( date_trunc('day' , '2008-01-05' stamp) ) (...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: ...t0  GROUP BY LEAST( ( to_oct( 255 ) ) , 762010993 (, c0 )*) ...
+                                                             ^
+
+operator does not exist: bytea !~ text
+LINE 1: SELECT DISTINCT regr_syy( ( ( c3 !~ c1 ) - '1 day' ) , 'q' )...
+                                         ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+syntax error at or near "("
+LINE 1: ... BY GREATEST( c3 , ( @( '2014-11-11 18:00:55' ) ) (, 7080139...
+                                                             ^
+
+syntax error at or near "("
+LINE 1: ...7023594219 , ( LEAST( 'k' , ( cos( '00:26:25' ) ) (, ( casef...
+                                                             ^
+
+syntax error at or near "8"
+LINE 1: ...2-08-15 16:46:07' , '')  ORDER BY LEAST( ( + c0 ) 8 , c1 8(,...
+                                                             ^
+
+argument of WHERE must be type boolean, not type time without time zone
+LINE 1: ...6057115968682300738 ) ) ) AS field1 FROM t0 WHERE make_time(...
+                                                             ^
+
+syntax error at or near ","
+LINE 1: ...( NULL ) AS field1 FROM t0 WHERE LEAST( 's' , c2 (, c3 )*)  ...
+                                                             ^
+

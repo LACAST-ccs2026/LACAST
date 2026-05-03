@@ -1,0 +1,6 @@
+{
+    "syntax_name": "RAND",
+    "raw_syntax_name": "RAND([N])",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

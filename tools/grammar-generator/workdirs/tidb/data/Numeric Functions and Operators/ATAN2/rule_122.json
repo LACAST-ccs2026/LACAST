@@ -1,0 +1,6 @@
+{
+    "idx": 122,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_ATAN2_double_evaluator",
+    "right": "\"ATAN2(\"boolean_AGG_evaluator \",\" bit_evaluator_without_agg \")\""
+}

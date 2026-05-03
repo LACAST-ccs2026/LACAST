@@ -1,0 +1,5 @@
+{
+    "type_eval": "real_AGG_evaluator",
+    "left": "TOTAL_real_evaluator",
+    "right": "\"TOTAL(\"_var_real \")\""
+}

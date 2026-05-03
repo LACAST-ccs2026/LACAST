@@ -1,0 +1,6 @@
+{
+    "syntax_name": "QUARTER",
+    "raw_syntax_name": "QUARTER(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "extract_timestamp",
+    "raw_syntax_name": "extract ( field from timestamp ) \u2192 numeric",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

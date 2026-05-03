@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "LOG_double_evaluator",
+    "right": "\"LOG(\"integer_evaluator_without_agg \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 5,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "LOG2_double_evaluator",
+    "right": "\"LOG2(\"char_evaluator_without_agg \")\""
+}

@@ -1,0 +1,7 @@
+{
+  "syntax_name": "assign",
+  "raw_syntax_name": ":=",
+  "is_agg": false,
+  "syntax_type": "Assignment Operators",
+  "syntax_info": "Assignment operator. Causes the user variable on the left hand side of the operator to take on the value to its right. The value on the right hand side may be a literal value, another variable storing a value, or any legal expression that yields a scalar value, including the result of a query (provided that this value is a scalar value)."
+}

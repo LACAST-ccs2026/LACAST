@@ -1,0 +1,6 @@
+{
+    "syntax_name": "NOTREGEXP",
+    "raw_syntax_name": "expr NOT REGEXP pat",
+    "is_agg": false,
+    "syntax_type": "Regular Expressions"
+}

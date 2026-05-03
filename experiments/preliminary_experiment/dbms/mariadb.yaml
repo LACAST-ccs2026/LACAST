@@ -1,0 +1,9 @@
+target_dbms: "mariadb"
+database_name: "lacast"
+schema_path: "schemas/mariadb/2.sql"
+max_connections: 1
+db_config:
+  host: "127.0.0.1"
+  port: "3307"
+  username: "root"
+  password: "123456"

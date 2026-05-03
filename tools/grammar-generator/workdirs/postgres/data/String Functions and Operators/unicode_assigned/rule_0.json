@@ -1,0 +1,5 @@
+{
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "unicode_assigned_evaluator",
+    "right": "\"unicode_assigned(\" _var_character \")\""
+}

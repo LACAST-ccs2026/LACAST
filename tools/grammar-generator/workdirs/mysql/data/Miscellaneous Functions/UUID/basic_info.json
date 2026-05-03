@@ -1,0 +1,6 @@
+{
+    "syntax_name": "UUID",
+    "raw_syntax_name": "UUID()",
+    "is_agg": false,
+    "syntax_type": "Miscellaneous Functions"
+}

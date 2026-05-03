@@ -1,0 +1,5 @@
+{
+    "type_eval": "time_evaluator_without_agg",
+    "left": "agg_ADDTIME_time_evaluator",
+    "right": "\"ADDTIME(\"_var_time \",\" time_AGG_evaluator \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "COUNT_integer_evaluator",
+    "right": "\"COUNT(\"_var_blob \")\""
+}

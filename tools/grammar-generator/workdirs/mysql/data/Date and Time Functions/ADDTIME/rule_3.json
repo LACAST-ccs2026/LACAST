@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "ADDTIME_time_evaluator",
+    "right": "\"ADDTIME(\"time_evaluator_without_agg \",\" time_evaluator_without_agg \")\""
+}

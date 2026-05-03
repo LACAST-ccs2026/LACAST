@@ -1,0 +1,6 @@
+{
+    "syntax_name": "log2",
+    "raw_syntax_name": "log2(X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

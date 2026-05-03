@@ -1,0 +1,12 @@
+1582 (42000): Incorrect parameter count in the call to native function 'atan2'
+1105 (HY000): ON condition doesn't support subqueries yet
+1305 (42000): FUNCTION sqlcraft.soundex does not exist
+1105 (HY000): ON condition doesn't support subqueries yet
+1305 (42000): FUNCTION sqlcraft.soundex does not exist
+1582 (42000): Incorrect parameter count in the call to native function 'atan2'
+1305 (42000): FUNCTION sqlcraft.soundex does not exist
+1105 (HY000): ON condition doesn't support subqueries yet
+1582 (42000): Incorrect parameter count in the call to native function 'atan2'
+1582 (42000): Incorrect parameter count in the call to native function 'atan2'
+1582 (42000): Incorrect parameter count in the call to native function 'atan2'
+1582 (42000): Incorrect parameter count in the call to native function 'atan2'

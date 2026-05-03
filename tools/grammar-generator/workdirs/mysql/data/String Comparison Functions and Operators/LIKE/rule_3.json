@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "LIKE_boolean_evaluator",
+    "right": "text_evaluator_without_agg \"LIKE\" LIKE_const"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "pow",
+    "raw_syntax_name": "pow(X,Y)power(X,Y)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

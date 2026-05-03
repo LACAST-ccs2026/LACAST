@@ -1,0 +1,7 @@
+{
+    "syntax_name": "bgg_approx_count_distinct",
+    "raw_syntax_name": "APPROX_COUNT_DISTINCT(expr, [expr...])",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions",
+    "syntax_info": "This function is similar to COUNT(DISTINCT) in counting the number of distinct values but returns an approximate result. It uses the BJKST algorithm, significantly reducing memory consumption when processing large datasets with a power-law distribution. Moreover, for low-cardinality data, this function provides high accuracy while maintaining efficient CPU utilization. Can accept multiple expressions."
+}

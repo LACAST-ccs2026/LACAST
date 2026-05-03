@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "SECOND_integer_evaluator",
+    "right": "\"SECOND(\"_var_datetime \")\""
+}

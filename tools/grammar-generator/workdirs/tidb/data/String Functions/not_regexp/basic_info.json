@@ -1,0 +1,7 @@
+{
+    "syntax_name": "not_regexp",
+    "raw_syntax_name": "NOT REGEXP",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "Negation of REGEXP. Pattern matching using regular expressions. Returns 1 or 0."
+}

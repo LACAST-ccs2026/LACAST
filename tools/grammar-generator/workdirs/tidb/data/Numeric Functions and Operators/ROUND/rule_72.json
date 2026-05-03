@@ -1,0 +1,6 @@
+{
+    "idx": 72,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_ROUND_double_evaluator",
+    "right": "\"ROUND(\"blob_AGG_evaluator \",\" ROUND_D \")\""
+}

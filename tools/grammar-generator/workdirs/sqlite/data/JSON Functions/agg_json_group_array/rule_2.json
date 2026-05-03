@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_AGG_evaluator",
+    "left": "json_group_array_text_evaluator",
+    "right": "\"json_group_array(\"_var_real \")\""
+}

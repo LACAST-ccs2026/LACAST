@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "FROM_UNIXTIME_datetime_evaluator",
+    "right": "\"FROM_UNIXTIME(\"_var_double\")\""
+}

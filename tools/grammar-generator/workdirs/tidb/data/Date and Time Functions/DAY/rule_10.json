@@ -1,0 +1,6 @@
+{
+    "idx": 10,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_DAY_integer_evaluator",
+    "right": "\"DAY(\"char_AGG_evaluator \")\""
+}

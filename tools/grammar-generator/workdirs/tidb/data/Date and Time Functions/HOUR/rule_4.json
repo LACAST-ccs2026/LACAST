@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "HOUR_integer_evaluator",
+    "right": "\"HOUR(\"timestamp_evaluator_without_agg \")\""
+}

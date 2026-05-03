@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_POW_double_evaluator",
+    "right": "\"POW(\"boolean_AGG_evaluator \",\" double_AGG_evaluator \")\""
+}

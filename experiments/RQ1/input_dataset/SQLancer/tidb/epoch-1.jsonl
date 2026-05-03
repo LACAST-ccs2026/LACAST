@@ -1,0 +1,836 @@
+{"sql": "SELECT t61.c0 FROM  t61 INNER JOIN t0 ON t61.c0 GROUP BY (((('}')>>(t61.c0))) IS NOT NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE ((t0.c1)AND(66660936)) UNION ALL SELECT * FROM t0 WHERE (NOT (((t0.c1)AND(66660936)))) UNION ALL SELECT * FROM t0 WHERE ((((t0.c1)AND(66660936))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 NATURAL RIGHT JOIN t0 WHERE (('\\r') IS NULL) ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0, t1 WHERE t0.c2 GROUP BY '{Z' ORDER BY '';", "result": "success", "error_info": ""}
+{"sql": "SELECT t65.c0 FROM t65, t0 WHERE CAST(t0.c0 AS UNSIGNED) UNION ALL SELECT t65.c0 FROM t65, t0 WHERE (NOT (CAST(t0.c0 AS UNSIGNED))) UNION ALL SELECT t65.c0 FROM t65, t0 WHERE ((CAST(t0.c0 AS UNSIGNED)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t0)*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING (+ (true)) ORDER BY (((CASE t0.c0 WHEN ((t0.c0)AND(t0.c0)) THEN t0.c0 ELSE false END ))!=(t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE t1.c0 UNION ALL SELECT * FROM t1 WHERE (NOT (t1.c0)) UNION ALL SELECT * FROM t1 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t0, t1 WHERE ((t0.c0)<(0.552913217830069)) UNION ALL SELECT t1.c0 FROM t0, t1 WHERE (NOT (((t0.c0)<(0.552913217830069)))) UNION ALL SELECT t1.c0 FROM t0, t1 WHERE ((((t0.c0)<(0.552913217830069))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ AGG_TO_COP()*/t0.c0 FROM t0, t1 GROUP BY t0.c0 ORDER BY 521351924, FROM_BASE64(t0.c0) DESC, (((+ (((t0.c0)>>(false)))))^(t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 353360042 GROUP BY t0.c0 HAVING (- (t0.c0)) ORDER BY (NOT (CAST(t0.c0 AS DATETIME)));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0 WHERE 1451042795 UNION ALL SELECT * FROM t1, t0 WHERE (NOT (1451042795)) UNION ALL SELECT * FROM t1, t0 WHERE ((1451042795) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t29.c0 FROM  t29 LEFT  OUTER JOIN t0 ON ((-1595495229) IS NULL) WHERE (((((('T')NOT REGEXP(t29.c0))) IS NULL))OR(((t0.c0)NOT REGEXP(NULL)))) GROUP BY 'V' ORDER BY 'Nw' ASC, (~ (t29.c0)), t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 ORDER BY t0.c0, NULL, ((((((NULL)LIKE(NULL)))<('-474512469')))^('9')) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0 WHERE t1.c0 UNION ALL SELECT * FROM t1, t0 WHERE (NOT (t1.c0)) UNION ALL SELECT * FROM t1, t0 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c2, v0.c1 FROM v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c1 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t80 WHERE 'N' UNION ALL SELECT * FROM t80 WHERE (NOT ('N')) UNION ALL SELECT * FROM t80 WHERE (('N') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t1, t0)*/t1.c0 FROM t1, t0 WHERE -761685581 GROUP BY DATABASE();", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE (('h[+\u85cd\uc5db{n')|((CASE true WHEN true THEN ((247448010)>=(NULL)) WHEN (('') IS NULL) THEN 1992078170 ELSE CAST(t0.c0 AS DATETIME) END ))) UNION ALL SELECT * FROM t0 WHERE (NOT ((('h[+\u85cd\uc5db{n')|((CASE true WHEN true THEN ((247448010)>=(NULL)) WHEN (('') IS NULL) THEN 1992078170 ELSE CAST(t0.c0 AS DATETIME) END ))))) UNION ALL SELECT * FROM t0 WHERE (((('h[+\u85cd\uc5db{n')|((CASE true WHEN true THEN ((247448010)>=(NULL)) WHEN (('') IS NULL) THEN 1992078170 ELSE CAST(t0.c0 AS DATETIME) END )))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE NULL UNION ALL SELECT * FROM t0 WHERE (NOT (NULL)) UNION ALL SELECT * FROM t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c1, t0.c2 FROM t0 WHERE ((-369915067) IS NOT NULL) UNION ALL SELECT t0.c0, t0.c1, t0.c2 FROM t0 WHERE (NOT (((-369915067) IS NOT NULL))) UNION ALL SELECT t0.c0, t0.c1, t0.c2 FROM t0 WHERE ((((-369915067) IS NOT NULL)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING ((t0.c0) IS NULL) ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c1 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY ((true) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c2, t1.c1, t0.c0 FROM  t1 INNER JOIN t0 ON ((t1.c1) IS NOT NULL) WHERE DEFAULT(t0.c0) UNION ALL SELECT t1.c2, t1.c1, t0.c0 FROM  t1 INNER JOIN t0 ON ((t1.c1) IS NOT NULL) WHERE (NOT (DEFAULT(t0.c0))) UNION ALL SELECT t1.c2, t1.c1, t0.c0 FROM  t1 INNER JOIN t0 ON ((t1.c1) IS NOT NULL) WHERE ((DEFAULT(t0.c0)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_BUILD(t0)*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING ((t0.c0) IS NULL) ORDER BY -1295503801;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 5.92124407E8 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (5.92124407E8)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((5.92124407E8) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIKV[t0, t1])*/t1.c0 FROM t1, t0 GROUP BY 'C\\r' ORDER BY t1.c0 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MPP_1PHASE_AGG()*/t0.c1 FROM t0 GROUP BY 'A' ORDER BY ')' ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY '' ORDER BY true ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t1, t0])*/t1.c0 FROM t1, t0 WHERE ((((NULL)LIKE(CAST(t1.c6 AS DATETIME))))<=('.')) GROUP BY (('')NOT LIKE(1361261317)), (CASE ((0.656598333925593)AND(((t0.c6)OR('z')))) WHEN (~ (((t0.c2) IS NOT NULL))) THEN t0.c1 ELSE t1.c0 END ), ((1194999902)^((((('-1900038328')>=(260079906)))LIKE(CAST(t1.c5 AS BINARY))))) ORDER BY -1046498178;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ SHUFFLE_JOIN(t0, i0)*/t0.c0 FROM t0 WHERE '-' GROUP BY t0.c1, t0.c2, 'ZMb7JNA';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1, v0.c2, t1.c0, v0.c1 FROM t1,  t0 RIGHT JOIN v0 ON 0.5378982105036191;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1, t0 WHERE ((t1.c0)OR(70106900)) GROUP BY 1448385609, CAST('}?9b' AS SIGNED), CAST(-1892137742 AS BINARY) ORDER BY 614676030 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t90.c0 FROM t90;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_AGG()*/t0.c0 FROM t0 GROUP BY BIN(t0.c2), t0.c0, (((CASE '' WHEN (CASE 293571001 WHEN 0.3384864272121153 THEN t0.c2 ELSE 'UL8Ny7' END ) THEN DEFAULT(t0.c1) ELSE '' END )) IS NULL) HAVING ((t0.c0) IS NULL) ORDER BY ((t0.c0) IS NULL) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c2 FROM t0 WHERE -435931339 UNION ALL SELECT t0.c0, t0.c2 FROM t0 WHERE (NOT (-435931339)) UNION ALL SELECT t0.c0, t0.c2 FROM t0 WHERE ((-435931339) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t0 NATURAL LEFT JOIN t1 GROUP BY 0.0488645937697223;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c3 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c3)) UNION ALL SELECT * FROM t0 WHERE ((t0.c3) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_TOJA(false)*/t1.c0 FROM  t1 LEFT  OUTER JOIN t0 ON (CASE NULL WHEN '146169278' THEN '' ELSE NULL END ) WHERE (CASE CAST(0.15180150027377237 AS DATETIME) WHEN -635691628 THEN t1.c0 ELSE ((((t1.c0)AND(t0.c0)))<(t1.c0)) END ) GROUP BY true ORDER BY (BINARY ('fH\\\\Dnu')) DESC, 0.36417950836308144, t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c2 FROM t0 WHERE CAST(((-1282456471) IS NULL) AS DATE) UNION ALL SELECT t0.c0, t0.c2 FROM t0 WHERE (NOT (CAST(((-1282456471) IS NULL) AS DATE))) UNION ALL SELECT t0.c0, t0.c2 FROM t0 WHERE ((CAST(((-1282456471) IS NULL) AS DATE)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t53, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c1, t0.c0, t1.c0, t1.c2 FROM t0, t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((t0.c0)OR('_')) GROUP BY ((t0.c0)AND(((t0.c0) IS NULL))), 1254810143, ((1665052639)!=(t0.c0)), t0.c0, (CASE t0.c0 WHEN t0.c0 THEN (CASE ((true)NOT REGEXP(t0.c0)) WHEN ((t0.c0)<<(t0.c0)) THEN (+ (t0.c0)) WHEN ((1366454216)=(793541007)) THEN true ELSE 0.6268454907539975 END ) ELSE ((CAST(-1677936750 AS DECIMAL)) IS NULL) END );", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY '7';", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING ((((t0.c0) IS NOT NULL)) IS NULL) ORDER BY ((t0.c0)NOT REGEXP(t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0, t0.c0 FROM  v0 CROSS JOIN t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 RIGHT  OUTER JOIN t86 ON CAST(CAST(((1715304979)REGEXP(t0.c0)) AS CHAR) AS BINARY);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_BUILD(t0)*/t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, t0.c0 HAVING t0.c0 ORDER BY ((t0.c0)!=((((CASE t0.c0 WHEN t0.c0 THEN t0.c0 WHEN 1393542387 THEN t0.c0 ELSE t0.c0 END )) IS NULL))) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MERGE_JOIN(t43)*/t43.c0 FROM t43 GROUP BY t43.c0 HAVING -9223372036854775808 UNION ALL SELECT /*+ MERGE_JOIN(t43)*/t43.c0 FROM t43 GROUP BY t43.c0 HAVING (NOT (-9223372036854775808)) UNION ALL SELECT /*+ MERGE_JOIN(t43)*/t43.c0 FROM t43 GROUP BY t43.c0 HAVING ((-9223372036854775808) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE CAST(t0.c0 AS DATETIME) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (CAST(t0.c0 AS DATETIME))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((CAST(t0.c0 AS DATETIME)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t6.c0 FROM t6;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(t0, t1)*/t0.c0 FROM t0, t1 WHERE (('Z')!=(CAST(((-1883443075)AND(t0.c0)) AS SIGNED))) GROUP BY DEFAULT(t1.c0), ((t1.c1)^(false)), t0.c1 ORDER BY ((t1.c1)<(t0.c0)) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIKV[t0])*/t0.c0 FROM t0 WHERE true GROUP BY t0.c0 HAVING (NOT (SUM('0'))) ORDER BY 0.8869864638033454, 0.28306716528437603, NULL;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ BROADCAST_JOIN(t1, PRIMARY, i96)*/t1.c0 FROM t1 WHERE 600868249 GROUP BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t0, t1)*/t0.c0 FROM t0, t1 WHERE ((t1.c2)OR(((VERSION()) IS NULL))) GROUP BY ((((((t1.c2)OR('')))AND(IS_IPV4_MAPPED(t1.c0))))>>((NOT (((NULL)AND('Z')))))), -76902251, -1124600564 ORDER BY t0.c0 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 WHERE ((t0.c0) IS NOT NULL) GROUP BY CAST(false AS BINARY), ((t0.c0) IS NULL), t0.c0 HAVING t0.c0 UNION ALL SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 WHERE ((t0.c0) IS NOT NULL) GROUP BY CAST(false AS BINARY), ((t0.c0) IS NULL), t0.c0 HAVING (NOT (t0.c0)) UNION ALL SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 WHERE ((t0.c0) IS NOT NULL) GROUP BY CAST(false AS BINARY), ((t0.c0) IS NULL), t0.c0 HAVING ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t6.c0 FROM t6 WHERE t6.c0 GROUP BY t6.c0 HAVING MAX(CAST(CAST(SUBSTRING(904732725, t6.c0) AS UNSIGNED) AS CHAR)) UNION ALL SELECT t6.c0 FROM t6 WHERE t6.c0 GROUP BY t6.c0 HAVING (NOT (MAX(CAST(CAST(SUBSTRING(904732725, t6.c0) AS UNSIGNED) AS CHAR)))) UNION ALL SELECT t6.c0 FROM t6 WHERE t6.c0 GROUP BY t6.c0 HAVING ((MAX(CAST(CAST(SUBSTRING(904732725, t6.c0) AS UNSIGNED) AS CHAR))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t35.c0 FROM t35 WHERE 0.6776272667408401 GROUP BY ((((t35.c0)NOT REGEXP(t35.c0)))<<(t35.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t0 STRAIGHT_JOIN t1 ON t0.c2 WHERE 1920770811 GROUP BY t0.c0 HAVING (NOT (0.5334923838930543)) ORDER BY (((((('-')<=>(-1548391749)))<=>(t0.c0)))AND(t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT t61.c0 FROM t61 WHERE t61.c0 UNION ALL SELECT t61.c0 FROM t61 WHERE (NOT (t61.c0)) UNION ALL SELECT t61.c0 FROM t61 WHERE ((t61.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 STRAIGHT_JOIN t0 ON ((CAST(CAST(t1.c1 AS CHAR) AS BINARY)) IS NULL) WHERE t1.c2 UNION ALL SELECT * FROM  t1 STRAIGHT_JOIN t0 ON ((CAST(CAST(t1.c1 AS CHAR) AS BINARY)) IS NULL) WHERE (NOT (t1.c2)) UNION ALL SELECT * FROM  t1 STRAIGHT_JOIN t0 ON ((CAST(CAST(t1.c1 AS CHAR) AS BINARY)) IS NULL) WHERE ((t1.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t53.c0, v0.c0, t0.c0, v0.c1, v0.c2 FROM t0, t53, v0 WHERE t53.c0 UNION ALL SELECT t53.c0, v0.c0, t0.c0, v0.c1, v0.c2 FROM t0, t53, v0 WHERE (NOT (t53.c0)) UNION ALL SELECT t53.c0, v0.c0, t0.c0, v0.c1, v0.c2 FROM t0, t53, v0 WHERE ((t53.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MERGE_JOIN(t0)*/t0.c0 FROM t0 GROUP BY t0.c0, 0.41091386778605854, ((t0.c0)<=(false)) HAVING (NOT ('_,\\'_w')) ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE LOG(t0.c0) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (LOG(t0.c0))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((LOG(t0.c0)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ STREAM_AGG()*/t0.c0 FROM t0 GROUP BY (CASE (+ (((t0.c0)>>('-')))) WHEN true THEN -1472382823 WHEN DEFAULT(t0.c0) THEN ((t0.c0)!=(t0.c0)) ELSE ((-569110772) IS NULL) END ) ORDER BY 1809330692, 'u', NULL;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 WHERE v0.c3 GROUP BY (CASE 0.6087875525390092 WHEN v0.c1 THEN v0.c1 WHEN '0' THEN ((v0.c4)OR(((v0.c1)OR('')))) ELSE v0.c0 END ), ((v0.c0)>>('*.')), CAST(((611751515) IS NULL) AS TIME) ORDER BY v0.c1, '-701256489' DESC, ((v0.c4)^(v0.c2)) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0 WHERE '0' UNION ALL SELECT * FROM v0 WHERE (NOT ('0')) UNION ALL SELECT * FROM v0 WHERE (('0') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ BROADCAST_JOIN(t0, c1)*/t0.c0 FROM t0 WHERE false GROUP BY LOG10(((DEFAULT(t0.c1)) IS NOT NULL)) ORDER BY 'p' DESC, t0.c2, -738339380 DESC, t0.c2, ((((DEFAULT(t0.c1))<=(NULL))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 GROUP BY 'e*';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE 0.5103730932765239 UNION ALL SELECT * FROM t0 WHERE (NOT (0.5103730932765239)) UNION ALL SELECT * FROM t0 WHERE ((0.5103730932765239) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t0.c0 FROM t0 WHERE ELT((('^rIr\\n')NOT REGEXP(t0.c0)), (CASE (BINARY (((t0.c0)<<(-1841737985)))) WHEN t0.c0 THEN t0.c0 WHEN 0.7555767399837581 THEN t0.c0 ELSE ((t0.c0)NOT REGEXP(t0.c0)) END )) GROUP BY 0.6250014376836579, t0.c0, t0.c0 HAVING (('{T}\ua20a') IS NULL) ORDER BY ((CAST('<' AS SIGNED))<(t0.c0)), true, (('')NOT REGEXP((CASE -394526825 WHEN t0.c0 THEN t0.c0 WHEN 1757421710 THEN t0.c0 ELSE t0.c0 END ))) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0, t1 WHERE '198177084' GROUP BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE -1658911404 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (-1658911404)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((-1658911404) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 CROSS JOIN t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE 1839417044 UNION ALL SELECT * FROM t0 WHERE (NOT (1839417044)) UNION ALL SELECT * FROM t0 WHERE ((1839417044) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1 FROM t0 WHERE (('-')<<(t0.c2)) UNION ALL SELECT t0.c1 FROM t0 WHERE (NOT ((('-')<<(t0.c2)))) UNION ALL SELECT t0.c1 FROM t0 WHERE (((('-')<<(t0.c2))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_JOIN(t0, t1)*/t0.c0 FROM t0, t1 WHERE ((t0.c0)<=>('8')) GROUP BY t0.c0 HAVING ((COUNT(((t0.c0) IS NULL))) IS NULL) ORDER BY (NOT (t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT t66.c0 FROM t66 WHERE '' GROUP BY t66.c0 ORDER BY true ASC, -1680942119 DESC, ((2101387726)<<(CAST(1285090310 AS CHAR))), 'Y SpH|' DESC, 389751629;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, v0.c2, v0.c0 FROM v0, t0 WHERE v0.c0 UNION ALL SELECT t0.c0, v0.c2, v0.c0 FROM v0, t0 WHERE (NOT (v0.c0)) UNION ALL SELECT t0.c0, v0.c2, v0.c0 FROM v0, t0 WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_BUILD(t1)*/t1.c0 FROM t1 GROUP BY ((LOG2(((t1.c0)!=(t1.c0))))AND(-376078071));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(t0)*/t0.c0 FROM t0 GROUP BY 0.0852086642268517;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t86;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 CROSS JOIN t1 WHERE 0.22524151362825107 UNION ALL SELECT * FROM  t0 CROSS JOIN t1 WHERE (NOT (0.22524151362825107)) UNION ALL SELECT * FROM  t0 CROSS JOIN t1 WHERE ((0.22524151362825107) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t0.c0 FROM t0 GROUP BY true, 'I', t0.c0 HAVING ((595622032) IS NULL) ORDER BY ((false) IS NULL) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t1.c0 FROM t1, t0 WHERE true UNION ALL SELECT t0.c0, t1.c0 FROM t1, t0 WHERE (NOT (true)) UNION ALL SELECT t0.c0, t1.c0 FROM t1, t0 WHERE ((true) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c2, t0.c1 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ AGG_TO_COP()*/t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, t0.c0 HAVING COUNT(t0.c0) UNION ALL SELECT /*+ AGG_TO_COP()*/t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, t0.c0 HAVING (NOT (COUNT(t0.c0))) UNION ALL SELECT /*+ AGG_TO_COP()*/t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, t0.c0 HAVING ((COUNT(t0.c0)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ IGNORE_INDEX(t0, i0)*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0, (((CASE (CASE t0.c0 WHEN t0.c0 THEN 0.2812608553476429 ELSE 1859624083 END ) WHEN -1549283170 THEN t0.c0 ELSE NULL END ))&('0.004341949484352181')), 'raNPR>' HAVING (NOT (BIT_AND(t0.c0))) ORDER BY '3\tiZe', (~ ('')), true;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0 ORDER BY -1478401044 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ SHUFFLE_JOIN(t0, PRIMARY)*/t1.c0 FROM  t1 RIGHT JOIN t0 ON t0.c0 WHERE '' GROUP BY '0.3489135317675389';", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ IGNORE_INDEX(t0, PRIMARY)*/t0.c0 FROM t0 WHERE false GROUP BY 736751691, t0.c0, CAST(((t0.c0) IS NULL) AS DATETIME);", "result": "success", "error_info": ""}
+{"sql": "SELECT t61.c0 FROM t61;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t86 WHERE t86.c0 UNION ALL SELECT * FROM t86 WHERE (NOT (t86.c0)) UNION ALL SELECT * FROM t86 WHERE ((t86.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2 FROM t0 WHERE 0.08253815464572845 UNION ALL SELECT t0.c2 FROM t0 WHERE (NOT (0.08253815464572845)) UNION ALL SELECT t0.c2 FROM t0 WHERE ((0.08253815464572845) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (('664803110')!=(-938849450)) GROUP BY -1929149180 ORDER BY t0.c0 ASC, (CASE '()' WHEN '0.6762282646137573' THEN t0.c0 ELSE SYSTEM_USER() END ), t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2 FROM t0 GROUP BY t0.c2 HAVING false UNION ALL SELECT t0.c2 FROM t0 GROUP BY t0.c2 HAVING (NOT (false)) UNION ALL SELECT t0.c2 FROM t0 GROUP BY t0.c2 HAVING ((false) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 LEFT  OUTER JOIN t0 ON CAST(t0.c0 AS UNSIGNED);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_MERGE_JOIN(t0)*/t0.c0 FROM t0 WHERE false GROUP BY (((BINARY (1189185192))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (((((CASE t0.c0 WHEN t0.c0 THEN -777080119 ELSE t0.c0 END ))NOT REGEXP((CASE t0.c0 WHEN 1169513563 THEN t0.c0 WHEN '#\\'a\u7516' THEN -95915467 ELSE t0.c0 END ))))<(t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ((((((CASE t0.c0 WHEN t0.c0 THEN -777080119 ELSE t0.c0 END ))NOT REGEXP((CASE t0.c0 WHEN 1169513563 THEN t0.c0 WHEN '#\\'a\u7516' THEN -95915467 ELSE t0.c0 END ))))<(t0.c0)))) UNION ALL SELECT t0.c0 FROM t0 WHERE (((((((CASE t0.c0 WHEN t0.c0 THEN -777080119 ELSE t0.c0 END ))NOT REGEXP((CASE t0.c0 WHEN 1169513563 THEN t0.c0 WHEN '#\\'a\u7516' THEN -95915467 ELSE t0.c0 END ))))<(t0.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE ((t0.c1) IS NULL) ORDER BY '-1065480366';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE -491993551 UNION ALL SELECT * FROM t0 WHERE (NOT (-491993551)) UNION ALL SELECT * FROM t0 WHERE ((-491993551) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_MERGE_JOIN(t0)*/t0.c0 FROM t0 GROUP BY t0.c0, ((t0.c0)REGEXP(((t0.c0)<<(796580135)))), CAST(true AS BINARY) HAVING CAST(((((1237705178)<=(t0.c0)))NOT REGEXP(BIT_AND(t0.c0))) AS DATE) ORDER BY ((t0.c0)|(false)), t0.c0, CAST(((t0.c0)AND(t0.c0)) AS DATETIME);", "result": "success", "error_info": ""}
+{"sql": "SELECT t35.c0 FROM t35 WHERE 1923973039 UNION ALL SELECT t35.c0 FROM t35 WHERE (NOT (1923973039)) UNION ALL SELECT t35.c0 FROM t35 WHERE ((1923973039) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM  t0 INNER JOIN t1 ON t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE -1948949131 UNION ALL SELECT * FROM t0 WHERE (NOT (-1948949131)) UNION ALL SELECT * FROM t0 WHERE ((-1948949131) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE '0' UNION ALL SELECT * FROM t0 WHERE (NOT ('0')) UNION ALL SELECT * FROM t0 WHERE (('0') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_JOIN(t1)*/t1.c0 FROM t1 GROUP BY t1.c0 HAVING 0.43450621931628197 ORDER BY (('J\u7f30~HG\th4') IS NULL) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0, ((((t0.c0) IS NULL))AND((((CASE t0.c0 WHEN 83510441 THEN false WHEN t0.c0 THEN 1003922507 ELSE t0.c0 END ))NOT LIKE(1912929954)))), ((t0.c0)<=>(LOG2((CASE ((2.072333487E9)NOT LIKE(-4.9261126E7)) WHEN NULL THEN (CASE t0.c0 WHEN '<>|O&8' THEN t0.c0 WHEN '856357023' THEN 1815268901 ELSE t0.c0 END ) WHEN CAST(t0.c0 AS TIME) THEN t0.c0 ELSE 0.6504805391776018 END )))) HAVING 'TRUE' UNION ALL SELECT t0.c0 FROM t0 GROUP BY t0.c0, ((((t0.c0) IS NULL))AND((((CASE t0.c0 WHEN 83510441 THEN false WHEN t0.c0 THEN 1003922507 ELSE t0.c0 END ))NOT LIKE(1912929954)))), ((t0.c0)<=>(LOG2((CASE ((2.072333487E9)NOT LIKE(-4.9261126E7)) WHEN NULL THEN (CASE t0.c0 WHEN '<>|O&8' THEN t0.c0 WHEN '856357023' THEN 1815268901 ELSE t0.c0 END ) WHEN CAST(t0.c0 AS TIME) THEN t0.c0 ELSE 0.6504805391776018 END )))) HAVING (NOT ('TRUE')) UNION ALL SELECT t0.c0 FROM t0 GROUP BY t0.c0, ((((t0.c0) IS NULL))AND((((CASE t0.c0 WHEN 83510441 THEN false WHEN t0.c0 THEN 1003922507 ELSE t0.c0 END ))NOT LIKE(1912929954)))), ((t0.c0)<=>(LOG2((CASE ((2.072333487E9)NOT LIKE(-4.9261126E7)) WHEN NULL THEN (CASE t0.c0 WHEN '<>|O&8' THEN t0.c0 WHEN '856357023' THEN 1815268901 ELSE t0.c0 END ) WHEN CAST(t0.c0 AS TIME) THEN t0.c0 ELSE 0.6504805391776018 END )))) HAVING (('TRUE') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t7.c0 FROM  t7 INNER JOIN t0 ON t0.c0 GROUP BY CAST((CASE ((t0.c0) IS NULL) WHEN -763432305 THEN CAST(t7.c0 AS DATETIME) WHEN (('2')OR(2049909410)) THEN (('')AND(t0.c0)) ELSE t0.c0 END ) AS UNSIGNED);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c1, v0.c0, t0.c0 FROM t53, v0, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t62.c0 FROM t62 WHERE (+ (607648459)) GROUP BY t62.c0 HAVING ((624621374) IS NULL) ORDER BY '-691317600' ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_TOJA(true)*/t0.c0 FROM t0 GROUP BY t0.c1, (('9')<((CASE 1223366070 WHEN t0.c1 THEN 1995804321 ELSE NULL END ))), '-1452319747', ((t0.c0)OR(t0.c1)), ABS('');", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(v0, t1)*/t1.c0 FROM t1, v0 WHERE -1471053704 GROUP BY (- (0.7370192492351705)), ((t1.c0)LIKE(((-788867425) IS NOT NULL))), (CASE t1.c0 WHEN (((~ (-686045634)))!=((('+6h\\rW9>')REGEXP('h[pv')))) THEN (('')NOT REGEXP(((false)|(-1041850549)))) ELSE CEILING(((((0.4259203779587859)AND(t1.c0)))AND(''))) END ) ORDER BY v0.c0 DESC, 1589155387, '-';", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ NO_INDEX_MERGE()*/t1.c0 FROM t1 WHERE t1.c0 GROUP BY '\ub5e4' ORDER BY 0.7500425212046863 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 WHERE t1.c0 GROUP BY t1.c0 HAVING ((MAX(t1.c0)) IS NULL) ORDER BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE CAST(t0.c0 AS TIME) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (CAST(t0.c0 AS TIME))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((CAST(t0.c0 AS TIME)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY '\txs!';", "result": "success", "error_info": ""}
+{"sql": "SELECT t65.c0 FROM t65 GROUP BY true ORDER BY CAST((((- (0.8744844233329552)))=('')) AS SIGNED), -1.777590724E9, CURRENT_USER();", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 RIGHT JOIN t0 ON true WHERE v0.c0 UNION ALL SELECT * FROM  v0 RIGHT JOIN t0 ON true WHERE (NOT (v0.c0)) UNION ALL SELECT * FROM  v0 RIGHT  OUTER JOIN t0 ON true WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY (BINARY (IFNULL(t0.c0, t0.c0)));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 NATURAL LEFT JOIN t0 WHERE (NOT ((((BINARY (-1824968870)))OR(((t1.c2) IS NULL))))) UNION ALL SELECT * FROM  t1 NATURAL LEFT JOIN t0 WHERE (NOT ((NOT ((((BINARY (-1824968870)))OR(((t1.c2) IS NULL))))))) UNION ALL SELECT * FROM  t1 NATURAL LEFT JOIN t0 WHERE (((NOT ((((BINARY (-1824968870)))OR(((t1.c2) IS NULL)))))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY true, t0.c0, t0.c0 HAVING BIT_OR(((-122140486)AND(t0.c0))) ORDER BY ((((0.4292478213126557)>>((CASE t0.c0 WHEN t0.c0 THEN t0.c0 WHEN t0.c0 THEN -324996338 ELSE t0.c0 END ))))OR(t0.c0)) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY '1849488947', ((t0.c0)^(t0.c0)), '' ORDER BY CAST(((t0.c0)<=(-1931810343)) AS TIME) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE t1.c0 UNION ALL SELECT * FROM t1 WHERE (NOT (t1.c0)) UNION ALL SELECT * FROM t1 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0 WHERE CAST(CAST(false AS UNSIGNED) AS CHAR) UNION ALL SELECT * FROM v0 WHERE (NOT (CAST(CAST(false AS UNSIGNED) AS CHAR))) UNION ALL SELECT * FROM v0 WHERE ((CAST(CAST(false AS UNSIGNED) AS CHAR)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t1.c0, t1.c2 FROM t1, t0 WHERE t1.c2 UNION ALL SELECT t0.c0, t1.c0, t1.c2 FROM t1, t0 WHERE (NOT (t1.c2)) UNION ALL SELECT t0.c0, t1.c0, t1.c2 FROM t1, t0 WHERE ((t1.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 WHERE '1e500' GROUP BY v0.c2, ((v0.c0)=('0.7496045275464458')), (CASE false WHEN (NOT (v0.c2)) THEN 1075641189 WHEN ((785026393)AND(v0.c2)) THEN FROM_BASE64((((('i')LIKE(v0.c0))) IS NULL)) ELSE 'bl' END ), '', ((v0.c1) IS NULL) ORDER BY (CASE ((1531671512)AND(CAST('TJJLO1~P' AS TIME))) WHEN 0.07849490801507575 THEN v0.c2 WHEN (((('#>M^Gte')>>(v0.c0)))|(1602000715)) THEN v0.c0 ELSE ((false)AND(993073645)) END ) ASC, (- (CHAR(((641726632)AND(((v0.c1)<<(v0.c1))))))), '' ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0, t0.c2, t1.c1, t0.c1, t1.c2 FROM  t0 LEFT  OUTER JOIN t1 ON (- (t1.c2)) WHERE ((((((t1.c1)NOT LIKE(t0.c1)))OR(t1.c0)))>(((true)NOT LIKE(((t1.c0)NOT LIKE(t0.c2)))))) UNION ALL SELECT t1.c0, t0.c2, t1.c1, t0.c1, t1.c2 FROM  t0 LEFT  OUTER JOIN t1 ON (- (t1.c2)) WHERE (NOT (((((((t1.c1)NOT LIKE(t0.c1)))OR(t1.c0)))>(((true)NOT LIKE(((t1.c0)NOT LIKE(t0.c2)))))))) UNION ALL SELECT t1.c0, t0.c2, t1.c1, t0.c1, t1.c2 FROM  t0 LEFT JOIN t1 ON (- (t1.c2)) WHERE ((((((((t1.c1)NOT LIKE(t0.c1)))OR(t1.c0)))>(((true)NOT LIKE(((t1.c0)NOT LIKE(t0.c2))))))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE 975534841 UNION ALL SELECT * FROM t0 WHERE (NOT (975534841)) UNION ALL SELECT * FROM t0 WHERE ((975534841) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t59.c0 FROM t59 WHERE t59.c0 UNION ALL SELECT t59.c0 FROM t59 WHERE (NOT (t59.c0)) UNION ALL SELECT t59.c0 FROM t59 WHERE ((t59.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (CASE 711565878 WHEN t0.c0 THEN (+ (((1920858533)>>(t0.c0)))) ELSE ((STRCMP(172316523, t0.c0))NOT LIKE(t0.c0)) END ) GROUP BY 0.2019106693792817, (('')NOT LIKE('')), t0.c0 HAVING 0.7285609876437319 UNION ALL SELECT t0.c0 FROM t0 WHERE (CASE 711565878 WHEN t0.c0 THEN (+ (((1920858533)>>(t0.c0)))) ELSE ((STRCMP(172316523, t0.c0))NOT LIKE(t0.c0)) END ) GROUP BY 0.2019106693792817, (('')NOT LIKE('')), t0.c0 HAVING (NOT (0.7285609876437319)) UNION ALL SELECT t0.c0 FROM t0 WHERE (CASE 711565878 WHEN t0.c0 THEN (+ (((1920858533)>>(t0.c0)))) ELSE ((STRCMP(172316523, t0.c0))NOT LIKE(t0.c0)) END ) GROUP BY 0.2019106693792817, (('')NOT LIKE('')), t0.c0 HAVING ((0.7285609876437319) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 RIGHT JOIN t0 ON (('I^\uba3biv|[') IS NOT NULL) WHERE (('E')<(t0.c0)) UNION ALL SELECT * FROM  v0 RIGHT JOIN t0 ON (('I^\uba3biv|[') IS NOT NULL) WHERE (NOT ((('E')<(t0.c0)))) UNION ALL SELECT * FROM  v0 RIGHT  OUTER JOIN t0 ON (('I^\uba3biv|[') IS NOT NULL) WHERE (((('E')<(t0.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 WHERE CHARACTER_LENGTH(v0.c0) UNION ALL SELECT v0.c0 FROM v0 WHERE (NOT (CHARACTER_LENGTH(v0.c0))) UNION ALL SELECT v0.c0 FROM v0 WHERE ((CHARACTER_LENGTH(v0.c0)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, v0.c0 FROM  v0 LEFT  OUTER JOIN t0 ON ((((v0.c0)AND((CASE '\u4330' WHEN 0.7520862087671625 THEN t0.c0 ELSE t0.c0 END ))))&(CHAR(v0.c0)));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE NULL UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (NULL)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ AGG_TO_COP()*/t1.c1 FROM t1 GROUP BY t1.c2;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((t0.c0)NOT LIKE(CAST(t0.c0 AS SIGNED))) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (((t0.c0)NOT LIKE(CAST(t0.c0 AS SIGNED))))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((((t0.c0)NOT LIKE(CAST(t0.c0 AS SIGNED)))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1, t0.c2 FROM  t0 INNER JOIN v0 ON ((t0.c1)>(v0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ SHUFFLE_JOIN(t0, i0)*/t0.c0 FROM t0 WHERE (('gk3^sk4\u4db3')AND(-2115475447)) GROUP BY 'eG', t0.c0, ATAN(((0.325754227446153)<(t0.c0))) HAVING (NOT ('6')) ORDER BY CAST(t0.c0 AS TIME) DESC, '.' DESC, ((t0.c0) IS NOT NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING '_fq' ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 RIGHT JOIN t0 ON NULL;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0, t0 WHERE t0.c0 UNION ALL SELECT * FROM v0, t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM v0, t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c1, v0.c2, t0.c0, v0.c0 FROM t0, v0, t53 WHERE false UNION ALL SELECT v0.c1, v0.c2, t0.c0, v0.c0 FROM t0, v0, t53 WHERE (NOT (false)) UNION ALL SELECT v0.c1, v0.c2, t0.c0, v0.c0 FROM t0, v0, t53 WHERE ((false) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE NULL GROUP BY (CASE ((t0.c0)!=(NULL)) WHEN (((('Yj')>=(t0.c0)))NOT LIKE(((t0.c0)<=(t0.c0)))) THEN ((-1534247837)NOT LIKE(0.9393568010691657)) WHEN (('7')NOT REGEXP(((t0.c0)&(NULL)))) THEN ((t0.c0)AND('\\\\')) ELSE t0.c0 END );", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t47 WHERE t47.c0 UNION ALL SELECT * FROM t47 WHERE (NOT (t47.c0)) UNION ALL SELECT * FROM t47 WHERE ((t47.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE '\ue911' UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ('\ue911')) UNION ALL SELECT t0.c0 FROM t0 WHERE (('\ue911') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(t6)*/t6.c0 FROM t6 GROUP BY 1432616358, ((true)<<('464069397')), '0.3647694077259701';", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_INDEX_MERGE(t0, i51)*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING (('PQ/9jj')!=(t0.c0)) ORDER BY ((((t0.c0)>>(t0.c0)))AND(((0.4986042219667487)!=('0')))) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, v0.c0 FROM v0, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t43 WHERE (- (((LOG10(t43.c0))REGEXP('I/')))) UNION ALL SELECT * FROM t43 WHERE (NOT ((- (((LOG10(t43.c0))REGEXP('I/')))))) UNION ALL SELECT * FROM t43 WHERE (((- (((LOG10(t43.c0))REGEXP('I/'))))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY ((-888860642)NOT REGEXP(NULL)), (CASE 1014769809 WHEN t0.c0 THEN t0.c0 WHEN 0.1293773284843488 THEN t0.c0 ELSE (('0.9744721425828708')>>(t0.c0)) END ), t0.c0, ((((((-557776003)LIKE(t0.c0)))AND((CASE t0.c0 WHEN t0.c0 THEN t0.c0 ELSE t0.c0 END ))))REGEXP(true)), -2010176320 HAVING COUNT(t0.c0) ORDER BY t0.c0 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ SHUFFLE_JOIN(t0, i0)*/t0.c0 FROM t0 GROUP BY 0.8857158326031009;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE FORMAT(0.96891072162119, t0.c0) GROUP BY ((NULL)NOT REGEXP(t0.c0)), ((((t0.c0)<<((CASE false WHEN 1868409065 THEN '' ELSE t0.c0 END ))))>>(t0.c0)), 1323190208, '\u482e&', false;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, v0.c0 FROM t0, v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_JOIN(t0)*/t0.c0 FROM t0, t1 WHERE t0.c0 GROUP BY t0.c0 HAVING t0.c0 UNION ALL SELECT /*+ INL_JOIN(t0)*/t0.c0 FROM t0, t1 WHERE t0.c0 GROUP BY t0.c0 HAVING (NOT (t0.c0)) UNION ALL SELECT /*+ INL_JOIN(t0)*/t0.c0 FROM t0, t1 WHERE t0.c0 GROUP BY t0.c0 HAVING ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING t0.c0 ORDER BY ((((t0.c0)<=>(((t0.c0)NOT LIKE(t0.c0)))))<=('\t')) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 WHERE v0.c0 UNION ALL SELECT v0.c0 FROM v0 WHERE (NOT (v0.c0)) UNION ALL SELECT v0.c0 FROM v0 WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c1 FROM t0 WHERE (((CASE '-981297625' WHEN 'o\\n' THEN t0.c1 WHEN '' THEN -1533365373 ELSE (('1')!=(-313943264)) END ))OR(t0.c1)) UNION ALL SELECT t0.c2, t0.c1 FROM t0 WHERE (NOT ((((CASE '-981297625' WHEN 'o\\n' THEN t0.c1 WHEN '' THEN -1533365373 ELSE (('1')!=(-313943264)) END ))OR(t0.c1)))) UNION ALL SELECT t0.c2, t0.c1 FROM t0 WHERE (((((CASE '-981297625' WHEN 'o\\n' THEN t0.c1 WHEN '' THEN -1533365373 ELSE (('1')!=(-313943264)) END ))OR(t0.c1))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE t1.c0 UNION ALL SELECT * FROM t1 WHERE (NOT (t1.c0)) UNION ALL SELECT * FROM t1 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 GROUP BY ((t1.c0)REGEXP(t1.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ AGG_TO_COP()*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING t0.c0 ORDER BY t0.c0 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t1.c4, t0.c3, t0.c1 FROM  t0 RIGHT JOIN t1 ON '<YrS' WHERE t1.c0 UNION ALL SELECT t0.c0, t1.c4, t0.c3, t0.c1 FROM  t0 RIGHT  OUTER JOIN t1 ON '<YrS' WHERE (NOT (t1.c0)) UNION ALL SELECT t0.c0, t1.c4, t0.c3, t0.c1 FROM  t0 RIGHT JOIN t1 ON '<YrS' WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE NULL UNION ALL SELECT * FROM t1 WHERE (NOT (NULL)) UNION ALL SELECT * FROM t1 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ IGNORE_INDEX(t1, PRIMARY)*/t0.c0 FROM t0, t1 GROUP BY ((t1.c0) IS NOT NULL), 222941409, 267575293, '1', t0.c0 ORDER BY ((t1.c0)&(CEILING('L')));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY CAST(t0.c0 AS CHAR) ORDER BY '3s|71';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c1 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c1)) UNION ALL SELECT * FROM t0 WHERE ((t0.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 GROUP BY t0.c0, DEFAULT(t0.c0), false;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0, t1.c1, t0.c1, t1.c2, t0.c0 FROM  t0 NATURAL JOIN t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE '' UNION ALL SELECT * FROM t0 WHERE (NOT ('')) UNION ALL SELECT * FROM t0 WHERE (('') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE t1.c1 UNION ALL SELECT * FROM t1 WHERE (NOT (t1.c1)) UNION ALL SELECT * FROM t1 WHERE ((t1.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MPP_1PHASE_AGG()*/t1.c0 FROM t1 WHERE CAST('' AS UNSIGNED) GROUP BY t1.c0 ORDER BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE ((((true)!=(((t0.c0)REGEXP('0.7811353525824237')))))AND(t0.c0)) UNION ALL SELECT * FROM t0 WHERE (NOT (((((true)!=(((t0.c0)REGEXP('0.7811353525824237')))))AND(t0.c0)))) UNION ALL SELECT * FROM t0 WHERE ((((((true)!=(((t0.c0)REGEXP('0.7811353525824237')))))AND(t0.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t0 NATURAL LEFT JOIN t1 WHERE (CASE ELT(-989507415, CAST(t0.c0 AS TIME)) WHEN t0.c0 THEN (CASE (~ (t1.c0)) WHEN 986066199 THEN 1468624639 WHEN 0.643671451376343 THEN t1.c0 ELSE -161537210 END ) WHEN (((('1')AND(t1.c0)))<=>(t0.c0)) THEN t1.c0 ELSE CONNECTION_ID() END ) UNION ALL SELECT t0.c0 FROM  t0 NATURAL LEFT JOIN t1 WHERE (NOT ((CASE ELT(-989507415, CAST(t0.c0 AS TIME)) WHEN t0.c0 THEN (CASE (~ (t1.c0)) WHEN 986066199 THEN 1468624639 WHEN 0.643671451376343 THEN t1.c0 ELSE -161537210 END ) WHEN (((('1')AND(t1.c0)))<=>(t0.c0)) THEN t1.c0 ELSE CONNECTION_ID() END ))) UNION ALL SELECT t0.c0 FROM  t0 NATURAL LEFT JOIN t1 WHERE (((CASE ELT(-989507415, CAST(t0.c0 AS TIME)) WHEN t0.c0 THEN (CASE (~ (t1.c0)) WHEN 986066199 THEN 1468624639 WHEN 0.643671451376343 THEN t1.c0 ELSE -161537210 END ) WHEN (((('1')AND(t1.c0)))<=>(t0.c0)) THEN t1.c0 ELSE CONNECTION_ID() END )) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0, v0.c3, v0.c4, v0.c1, v0.c2 FROM v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ LIMIT_TO_COP()*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY (CASE ((t0.c0) IS NULL) WHEN ((((t0.c0)<<(-1195249886)))AND(t0.c0)) THEN (CASE true WHEN t0.c0 THEN (('504163953')OR(t0.c0)) WHEN t0.c0 THEN ((t0.c0)OR(t0.c0)) ELSE -686897970 END ) WHEN (('\u5101!') IS NULL) THEN (BINARY (t0.c0)) ELSE 56065364 END ), false, t0.c0 ORDER BY t0.c0 ASC, t0.c0, (~ (CAST(t0.c0 AS SIGNED))) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((((PI()) IS NOT NULL)) IS NULL) ORDER BY ((false)LIKE(((t0.c0)<=>(CAST('-' AS DATETIME)))));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE '0.9127338925249975' UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ('0.9127338925249975')) UNION ALL SELECT t0.c0 FROM t0 WHERE (('0.9127338925249975') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t0.c0 FROM t0 GROUP BY 768145079, (CASE t0.c0 WHEN '7' THEN '' ELSE true END ), t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t59, v5 WHERE t0.c0 UNION ALL SELECT * FROM t0, t59, v5 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0, t59, v5 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t0)*/t0.c0 FROM t0 WHERE '' GROUP BY 339777954;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((DEFAULT(t0.c0)) IS NOT NULL) ORDER BY t0.c0, t0.c0, true;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(t1)*/t1.c0 FROM t1 GROUP BY (+ (((1781531211) IS NOT NULL))), '-', ((true)>((CASE false WHEN ((1980312758)OR(11474565)) THEN t1.c2 WHEN t1.c0 THEN -1590091164 ELSE t1.c2 END )));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  v0 CROSS JOIN t0 WHERE ((v0.c1) IS NULL) UNION ALL SELECT t0.c0 FROM  v0 CROSS JOIN t0 WHERE (NOT (((v0.c1) IS NULL))) UNION ALL SELECT t0.c0 FROM  v0 CROSS JOIN t0 WHERE ((((v0.c1) IS NULL)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0, v0 GROUP BY v0.c0, t0.c0, 222948224 ORDER BY v0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((t0.c0)AND(-1920921108)) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (((t0.c0)AND(-1920921108)))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((((t0.c0)AND(-1920921108))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c1, t0.c1, t0.c0, t1.c2, t0.c2 FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_BUILD(t0, t1)*/t1.c0 FROM  t1 NATURAL RIGHT JOIN t0 GROUP BY (((('H')|(((NULL)>=(NULL)))))OR(DEFAULT(t0.c0))) HAVING BIT_AND(((t1.c0)OR('0'))) UNION ALL SELECT /*+ HASH_JOIN_BUILD(t0, t1)*/t1.c0 FROM  t1 NATURAL RIGHT JOIN t0 GROUP BY (((('H')|(((NULL)>=(NULL)))))OR(DEFAULT(t0.c0))) HAVING (NOT (BIT_AND(((t1.c0)OR('0'))))) UNION ALL SELECT /*+ HASH_JOIN_BUILD(t0, t1)*/t1.c0 FROM  t1 NATURAL RIGHT JOIN t0 GROUP BY (((('H')|(((NULL)>=(NULL)))))OR(DEFAULT(t0.c0))) HAVING ((BIT_AND(((t1.c0)OR('0')))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c2, t0.c0, v0.c0, v0.c1 FROM  v0 INNER JOIN t0 ON INET6_NTOA(t0.c0);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 GROUP BY v0.c0, ((v0.c0)>(v0.c0)), -1402201353;", "result": "success", "error_info": ""}
+{"sql": "SELECT t4.c0 FROM t4 WHERE 1.356894052E9 UNION ALL SELECT t4.c0 FROM t4 WHERE (NOT (1.356894052E9)) UNION ALL SELECT t4.c0 FROM t4 WHERE ((1.356894052E9) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c2 FROM t0, v0 WHERE v0.c2 UNION ALL SELECT v0.c2 FROM t0, v0 WHERE (NOT (v0.c2)) UNION ALL SELECT v0.c2 FROM t0, v0 WHERE ((v0.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE true UNION ALL SELECT * FROM t0 WHERE (NOT (true)) UNION ALL SELECT * FROM t0 WHERE ((true) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0, t0, t1 WHERE v0.c2 UNION ALL SELECT * FROM v0, t0, t1 WHERE (NOT (v0.c2)) UNION ALL SELECT * FROM v0, t0, t1 WHERE ((v0.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0, t0 WHERE v0.c2 UNION ALL SELECT * FROM v0, t0 WHERE (NOT (v0.c2)) UNION ALL SELECT * FROM v0, t0 WHERE ((v0.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 1854265774 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (1854265774)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((1854265774) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((t0.c0)NOT LIKE(t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (((t0.c0)NOT LIKE(t0.c0)))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((((t0.c0)NOT LIKE(t0.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, NULL HAVING (NOT (IS_IPV4_MAPPED(t0.c0))) ORDER BY 'ePugJ9' ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c1, v0.c2, t0.c0, v0.c0 FROM v0, t0 WHERE LOG(1790111245) UNION ALL SELECT v0.c1, v0.c2, t0.c0, v0.c0 FROM v0, t0 WHERE (NOT (LOG(1790111245))) UNION ALL SELECT v0.c1, v0.c2, t0.c0, v0.c0 FROM v0, t0 WHERE ((LOG(1790111245)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t0 STRAIGHT_JOIN v0 ON '\u973d' WHERE -218739127 GROUP BY (~ (-1756584121)), CAST('3' AS DATE), t0.c0, v0.c0, (- (NULL)) HAVING (NOT (853393312)) ORDER BY '1', '', v0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE IS_IPV4(1085622099) UNION ALL SELECT * FROM t0 WHERE (NOT (IS_IPV4(1085622099))) UNION ALL SELECT * FROM t0 WHERE ((IS_IPV4(1085622099)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t1, t0)*/t0.c0 FROM t0, t1 GROUP BY NULL ORDER BY t0.c0 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING (NOT (BIT_OR(''))) ORDER BY '9';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t0 NATURAL JOIN t1 WHERE '0.9372368284214877' GROUP BY UPPER('K'), true, t0.c1 ORDER BY 172073899 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_AGG()*/t0.c0 FROM t0 GROUP BY 44720504 ORDER BY -1197959728;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0 WHERE v0.c0 UNION ALL SELECT * FROM v0 WHERE (NOT (v0.c0)) UNION ALL SELECT * FROM v0 WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 INNER JOIN v0 ON -1229902220 WHERE '1Vh+r\u60d8&8+' UNION ALL SELECT * FROM  t1 INNER JOIN v0 ON -1229902220 WHERE (NOT ('1Vh+r\u60d8&8+')) UNION ALL SELECT * FROM  t1 INNER JOIN v0 ON -1229902220 WHERE (('1Vh+r\u60d8&8+') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 CROSS JOIN t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_TOJA(false)*/t1.c0 FROM t1 WHERE t1.c0 GROUP BY -1966995990 ORDER BY ((t1.c0) IS NOT NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ LIMIT_TO_COP()*/t88.c0 FROM t88 WHERE (('w')>(t88.c0)) GROUP BY t88.c0 HAVING (NOT (-1656531464)) ORDER BY CAST(((((t88.c0)<=>(193674046))) IS NOT NULL) AS SIGNED) DESC, 0.1039123024224734 ASC, CAST('0.25967586206188553' AS CHAR);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ BROADCAST_JOIN(t0, PRIMARY, PRIMARY, i88, i88)*/t0.c1 FROM t0 GROUP BY t0.c1 HAVING MIN((NOT (t0.c2))) UNION ALL SELECT /*+ BROADCAST_JOIN(t0, PRIMARY, PRIMARY, i88, i88)*/t0.c1 FROM t0 GROUP BY t0.c1 HAVING (NOT (MIN((NOT (t0.c2))))) UNION ALL SELECT /*+ BROADCAST_JOIN(t0, PRIMARY, PRIMARY, i88, i88)*/t0.c1 FROM t0 GROUP BY t0.c1 HAVING ((MIN((NOT (t0.c2)))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t0)*/t0.c0 FROM t0 GROUP BY (CASE '-' WHEN '0' THEN t0.c0 WHEN 1396858432 THEN ((t0.c0) IS NULL) ELSE t0.c0 END ) ORDER BY 0.37263962239404 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_JOIN(t0)*/t0.c0 FROM t0 GROUP BY 'nE', t0.c0, (((+ (t0.c0)))NOT LIKE(1540741451)) ORDER BY 'Nk';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0, t1 GROUP BY t1.c2 ORDER BY t1.c2;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_INDEX(t0, PRIMARY)*/t0.c0 FROM t0 WHERE '-' GROUP BY t0.c0, HEX((((+ ('(')))|(t0.c0))), 'tE', t0.c0, t0.c0 HAVING ((((AVG(((t0.c0) IS NOT NULL))) IS NOT NULL)) IS NULL) ORDER BY '0', (((~ (t0.c0))) IS NULL) DESC, ((t0.c0)<(821195387));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c1 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE '-772248817' GROUP BY false, (('a')LIKE(t0.c1)), t0.c1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 STRAIGHT_JOIN t0 ON v0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t0 STRAIGHT_JOIN t7 ON (((((CASE t7.c0 WHEN 0.6147308790607948 THEN 'u' ELSE t7.c0 END )) IS NULL))NOT LIKE((NOT (t7.c0))));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t62.c0 FROM t62 WHERE true UNION ALL SELECT t62.c0 FROM t62 WHERE (NOT (true)) UNION ALL SELECT t62.c0 FROM t62 WHERE ((true) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 WHERE -1248842894 GROUP BY ((t1.c0)OR(t1.c0)), '', ((0.6191833241669419)AND(FORMAT(t1.c0, false)));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 WHERE v0.c0 UNION ALL SELECT v0.c0 FROM v0 WHERE (NOT (v0.c0)) UNION ALL SELECT v0.c0 FROM v0 WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE '+[' UNION ALL SELECT * FROM t0 WHERE (NOT ('+[')) UNION ALL SELECT * FROM t0 WHERE (('+[') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE ((t0.c0)LIKE(DATE_FORMAT((CASE t0.c0 WHEN -553927184 THEN (BINARY (0.4311871342663506)) ELSE t0.c1 END ), t0.c1))) UNION ALL SELECT * FROM t0 WHERE (NOT (((t0.c0)LIKE(DATE_FORMAT((CASE t0.c0 WHEN -553927184 THEN (BINARY (0.4311871342663506)) ELSE t0.c1 END ), t0.c1))))) UNION ALL SELECT * FROM t0 WHERE ((((t0.c0)LIKE(DATE_FORMAT((CASE t0.c0 WHEN -553927184 THEN (BINARY (0.4311871342663506)) ELSE t0.c1 END ), t0.c1)))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE NULL UNION ALL SELECT * FROM t0 WHERE (NOT (NULL)) UNION ALL SELECT * FROM t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 NATURAL RIGHT JOIN t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIKV[t0])*/t0.c1 FROM t0 WHERE t0.c1 GROUP BY -1406410379, ((((NULL)NOT LIKE('')))NOT LIKE(t0.c1)), ',' ORDER BY t0.c1;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_MERGE_JOIN(t0)*/t0.c0 FROM t0 WHERE CAST(((t0.c0)>>((NOT (t0.c0)))) AS TIME) GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c0 FROM t0 WHERE '\ua0a4142m^Lq' UNION ALL SELECT t0.c2, t0.c0 FROM t0 WHERE (NOT ('\ua0a4142m^Lq')) UNION ALL SELECT t0.c2, t0.c0 FROM t0 WHERE (('\ua0a4142m^Lq') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_TOJA(false)*/t1.c0 FROM t1 GROUP BY ').\ueec1Z', NULL, SESSION_USER(), DEFAULT(t1.c0), t1.c0 HAVING (NOT (734595319)) ORDER BY ((-1640233788)NOT LIKE(((t1.c0) IS NOT NULL))) DESC, 'a', 'u';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t1, t0])*/t0.c0 FROM  t0 STRAIGHT_JOIN t1 ON t1.c0 WHERE (('K')<=>(((-629440878)AND((NOT (t0.c0)))))) GROUP BY t0.c0 ORDER BY DEFAULT(t0.c0) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 0.9883703518651725 GROUP BY t0.c0, ((((((t0.c0) IS NOT NULL)) IS NOT NULL))REGEXP('1e500')), t0.c0, t0.c0, ((((t0.c0) IS NULL))<('-'));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY '';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE false UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (false)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((false) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_MERGE_JOIN(t0)*/t0.c0 FROM t0 GROUP BY '', (- (958164133)), t0.c0 ORDER BY ((FROM_BASE64((CASE t0.c0 WHEN t0.c0 THEN -141475386 WHEN -177284328 THEN ((t0.c0)NOT LIKE(t0.c0)) ELSE true END ))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c2 FROM t1 WHERE '' UNION ALL SELECT t1.c2 FROM t1 WHERE (NOT ('')) UNION ALL SELECT t1.c2 FROM t1 WHERE (('') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t84,  t0 NATURAL LEFT JOIN v88 WHERE ')%X' UNION ALL SELECT * FROM t84,  t0 NATURAL LEFT JOIN v88 WHERE (NOT (')%X')) UNION ALL SELECT * FROM t84,  t0 NATURAL LEFT JOIN v88 WHERE ((')%X') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE CHARACTER_LENGTH(t0.c0) GROUP BY ((t0.c0)>>('QU&)e}8\ucb7dZ'));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE CAST('y\u1f28' AS DECIMAL) UNION ALL SELECT * FROM t0 WHERE (NOT (CAST('y\u1f28' AS DECIMAL))) UNION ALL SELECT * FROM t0 WHERE ((CAST('y\u1f28' AS DECIMAL)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 WHERE t1.c0 UNION ALL SELECT t1.c0 FROM t1 WHERE (NOT (t1.c0)) UNION ALL SELECT t1.c0 FROM t1 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ STREAM_AGG()*/t1.c0 FROM t1 GROUP BY t1.c0 HAVING ((NULL) IS NULL) ORDER BY ((686141922)=(((((t1.c0)<=('U\u59de?_'))) IS NOT NULL)));", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_AGG()*/t0.c0 FROM t0 GROUP BY t0.c0, true, '5';", "result": "success", "error_info": ""}
+{"sql": "SELECT t43.c0 FROM t43;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0, ((((((NULL)LIKE('')))<=>((('-1e500')&(t0.c0)))))<=(((t0.c0) IS NOT NULL))), (('\u5616)')<=>(t0.c0)) HAVING SUM(891745120) ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE NULL UNION ALL SELECT * FROM t0 WHERE (NOT (NULL)) UNION ALL SELECT * FROM t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((((((t0.c0)>=(t0.c0)))<(0.09605401589377538))) IS NULL) GROUP BY NULL;", "result": "success", "error_info": ""}
+{"sql": "SELECT t61.c0 FROM  t61 RIGHT  OUTER JOIN t0 ON '\\n' GROUP BY 0.22454978603064346 ORDER BY false DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_TOJA(true)*/t0.c0 FROM t0 GROUP BY ((897368310)|(t0.c0)) ORDER BY ((((TO_BASE64((BINARY (t0.c0))))=((CASE 0 WHEN t0.c0 THEN t0.c0 ELSE ')' END ))))&(((((t0.c0)REGEXP(0.31436066205950197)))<=>(t0.c0)))) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c0 FROM t0 WHERE t0.c2 UNION ALL SELECT t0.c2, t0.c0 FROM t0 WHERE (NOT (t0.c2)) UNION ALL SELECT t0.c2, t0.c0 FROM t0 WHERE ((t0.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE PI() UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (PI())) UNION ALL SELECT t0.c0 FROM t0 WHERE ((PI()) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t66 WHERE CAST(CAST(0.925592265007135 AS DATETIME) AS DECIMAL) UNION ALL SELECT * FROM t66 WHERE (NOT (CAST(CAST(0.925592265007135 AS DATETIME) AS DECIMAL))) UNION ALL SELECT * FROM t66 WHERE ((CAST(CAST(0.925592265007135 AS DATETIME) AS DECIMAL)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM  t1 STRAIGHT_JOIN t0 ON t1.c0 GROUP BY t0.c0, t1.c0, ((-109974813)>>(t0.c0)) HAVING ((t1.c0) IS NULL) ORDER BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1 FROM  t0 RIGHT  OUTER JOIN v0 ON 0.4241527317344751 WHERE CAST(BIT_LENGTH(t0.c2) AS BINARY) UNION ALL SELECT t0.c1 FROM  t0 RIGHT JOIN v0 ON 0.4241527317344751 WHERE (NOT (CAST(BIT_LENGTH(t0.c2) AS BINARY))) UNION ALL SELECT t0.c1 FROM  t0 RIGHT JOIN v0 ON 0.4241527317344751 WHERE ((CAST(BIT_LENGTH(t0.c2) AS BINARY)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE (CASE t0.c0 WHEN '1763613043' THEN 1920425851 ELSE t0.c0 END ) UNION ALL SELECT * FROM t0 WHERE (NOT ((CASE t0.c0 WHEN '1763613043' THEN 1920425851 ELSE t0.c0 END ))) UNION ALL SELECT * FROM t0 WHERE (((CASE t0.c0 WHEN '1763613043' THEN 1920425851 ELSE t0.c0 END )) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE CAST(COT(NULL) AS DATETIME) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (CAST(COT(NULL) AS DATETIME))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((CAST(COT(NULL) AS DATETIME)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 WHERE v0.c0 UNION ALL SELECT v0.c0 FROM v0 WHERE (NOT (v0.c0)) UNION ALL SELECT v0.c0 FROM v0 WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t84, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 INNER JOIN v0 ON 2007493294 WHERE ((CAST(-814534086 AS DATE))<=('t*#')) UNION ALL SELECT * FROM  t0 INNER JOIN v0 ON 2007493294 WHERE (NOT (((CAST(-814534086 AS DATE))<=('t*#')))) UNION ALL SELECT * FROM  t0 INNER JOIN v0 ON 2007493294 WHERE ((((CAST(-814534086 AS DATE))<=('t*#'))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((t0.c0)&(((t0.c0)<=(t0.c0)))) GROUP BY t0.c0 ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM  t1 CROSS JOIN v0 GROUP BY NULL ORDER BY '0' DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c1, v0.c2 FROM v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_INDEX_MERGE(t1, t0, v0)*/t1.c0 FROM t1, v0, t0 WHERE t0.c0 GROUP BY (CASE (CASE t0.c0 WHEN NULL THEN '\u1655' ELSE t1.c0 END ) WHEN (CASE '\u8510' WHEN 0.963824292355182 THEN (('&O')REGEXP('(|a? X}M')) ELSE ((t1.c0)|(v0.c0)) END ) THEN ((t1.c0)|(CAST(509229949 AS DATETIME))) ELSE UPPER(t0.c0) END ) ORDER BY -353949783 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0, t1 WHERE '2' GROUP BY NULL, true, t0.c0 ORDER BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY 1488913332 ORDER BY ((INET6_NTOA(t0.c3))LIKE(false));", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ SHUFFLE_JOIN(t0, PRIMARY)*/t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, -1874249095;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE (((- (NULL)))>>(t0.c0)) UNION ALL SELECT * FROM t0 WHERE (NOT ((((- (NULL)))>>(t0.c0)))) UNION ALL SELECT * FROM t0 WHERE (((((- (NULL)))>>(t0.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MERGE_JOIN(t0)*/t0.c0 FROM t0 GROUP BY ((0.42535335310803624)^(false));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MERGE_JOIN(t0)*/t0.c0 FROM t0 WHERE ((TAN(t0.c0))>>(((t0.c0) IS NOT NULL))) GROUP BY CAST(NULL AS BINARY), -1915084390, (+ ('c\\ro'));", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 GROUP BY v0.c0 HAVING 9.58423569E8 UNION ALL SELECT v0.c0 FROM v0 GROUP BY v0.c0 HAVING (NOT (9.58423569E8)) UNION ALL SELECT v0.c0 FROM v0 GROUP BY v0.c0 HAVING ((9.58423569E8) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ BROADCAST_JOIN(t0, PRIMARY)*/t0.c0 FROM t0 GROUP BY (CASE CHAR(((NULL)OR(290288304))) WHEN (((('-220491905')&(-2090238839)))<=>(NULL)) THEN 603888282 ELSE (BINARY (331867215)) END ) ORDER BY -152947585 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ STREAM_AGG()*/t0.c1 FROM  t0 INNER JOIN v0 ON ((SQRT('{&3\ud2ff'))>>(v0.c0)) GROUP BY ((((((t0.c1)=(634898366)))<<('-'))) IS NOT NULL) ORDER BY v0.c0 DESC, true DESC, (CASE 0.7413053468524307 WHEN t0.c1 THEN 2077994040 WHEN ((0.5095176523109078) IS NOT NULL) THEN v0.c0 ELSE t0.c1 END ) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t61 RIGHT JOIN t0 ON t61.c0 WHERE -2116970885 UNION ALL SELECT * FROM  t61 RIGHT JOIN t0 ON t61.c0 WHERE (NOT (-2116970885)) UNION ALL SELECT * FROM  t61 RIGHT  OUTER JOIN t0 ON t61.c0 WHERE ((-2116970885) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM v0, t0 WHERE 2113770561 UNION ALL SELECT t0.c0 FROM v0, t0 WHERE (NOT (2113770561)) UNION ALL SELECT t0.c0 FROM v0, t0 WHERE ((2113770561) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING (NOT (BIT_OR('\\r'))) ORDER BY DEFAULT(t0.c0);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t84 WHERE '(' UNION ALL SELECT * FROM t0, t84 WHERE (NOT ('(')) UNION ALL SELECT * FROM t0, t84 WHERE (('(') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t78.c0 FROM t78 GROUP BY CAST(-164959073 AS DECIMAL) ORDER BY false;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0 GROUP BY -1828646695;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ STREAM_AGG()*/t1.c0 FROM t1 WHERE -502472783 GROUP BY t1.c0 HAVING (NOT ('0')) ORDER BY (+ ('1')), CAST(t1.c0 AS DECIMAL), t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 WHERE '1' GROUP BY v0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 GROUP BY (CASE ((((t1.c0) IS NULL))NOT REGEXP((BINARY ('-1243036821')))) WHEN ((((NULL) IS NULL))&(((728323802) IS NOT NULL))) THEN t1.c0 WHEN 1213021640 THEN ((((t1.c0)NOT REGEXP(t1.c0)))<=>(t1.c0)) ELSE t1.c0 END ), (BINARY (1067093405)), t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE false UNION ALL SELECT * FROM t0 WHERE (NOT (false)) UNION ALL SELECT * FROM t0 WHERE ((false) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((UNHEX(CAST(CAST(t0.c0 AS UNSIGNED) AS BINARY)))REGEXP(85445217)) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (((UNHEX(CAST(CAST(t0.c0 AS UNSIGNED) AS BINARY)))REGEXP(85445217)))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((((UNHEX(CAST(CAST(t0.c0 AS UNSIGNED) AS BINARY)))REGEXP(85445217))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 RIGHT JOIN t0 ON ((t0.c2)AND(((t0.c1)AND(t0.c1))));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t1.c0 FROM  t1 CROSS JOIN t0 WHERE t0.c0 UNION ALL SELECT t0.c0, t1.c0 FROM  t1 CROSS JOIN t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0, t1.c0 FROM  t1 CROSS JOIN t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 RIGHT JOIN v88 ON v88.c1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM  v0 STRAIGHT_JOIN t0 ON 'k# 6o{\ucab5H_' WHERE 'Z' GROUP BY v0.c0, ((false)&(v0.c4)), (('979066036')^(((v0.c0)<<(NULL)))) ORDER BY v0.c4;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(t90, t0)*/t0.c1 FROM  t0 CROSS JOIN t90 WHERE t0.c1 GROUP BY t90.c2;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 LEFT  OUTER JOIN v0 ON NULL WHERE ((((t0.c2) IS NOT NULL))OR(((((v0.c0)>=(934163535)))AND(FLOOR(t0.c1))))) UNION ALL SELECT * FROM  t0 LEFT  OUTER JOIN v0 ON NULL WHERE (NOT (((((t0.c2) IS NOT NULL))OR(((((v0.c0)>=(934163535)))AND(FLOOR(t0.c1))))))) UNION ALL SELECT * FROM  t0 LEFT JOIN v0 ON NULL WHERE ((((((t0.c2) IS NOT NULL))OR(((((v0.c0)>=(934163535)))AND(FLOOR(t0.c1)))))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0, t91 WHERE ((t91.c0)REGEXP(t91.c0)) GROUP BY t0.c0 HAVING 0.4822146405960388 ORDER BY 0.42607191729884397;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, v0.c0 FROM v0, t0, t1 WHERE (('\u638c')AND(t1.c0)) UNION ALL SELECT t0.c0, v0.c0 FROM v0, t0, t1 WHERE (NOT ((('\u638c')AND(t1.c0)))) UNION ALL SELECT t0.c0, v0.c0 FROM v0, t0, t1 WHERE (((('\u638c')AND(t1.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 822146629 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (822146629)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((822146629) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ LIMIT_TO_COP()*/t1.c0 FROM t1 GROUP BY t1.c0 HAVING COUNT('0.03180737205112172') ORDER BY VERSION();", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0, v0)*/t0.c0 FROM  t0 CROSS JOIN v0 WHERE ((((CAST(v0.c0 AS BINARY)) IS NULL))>(-1138214715)) GROUP BY t0.c0 ORDER BY -552788869;", "result": "success", "error_info": ""}
+{"sql": "SELECT t62.c0 FROM t62 WHERE ((((((t62.c0) IS NOT NULL))OR(t62.c0)))!=(SIGN(NULL))) UNION ALL SELECT t62.c0 FROM t62 WHERE (NOT (((((((t62.c0) IS NOT NULL))OR(t62.c0)))!=(SIGN(NULL))))) UNION ALL SELECT t62.c0 FROM t62 WHERE ((((((((t62.c0) IS NOT NULL))OR(t62.c0)))!=(SIGN(NULL)))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t1.c0 FROM  t0 INNER JOIN t1 ON ((NULL)AND(t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE '-847521569' GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c2, t1.c0 FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t29 WHERE (NOT (t29.c0)) UNION ALL SELECT * FROM t29 WHERE (NOT ((NOT (t29.c0)))) UNION ALL SELECT * FROM t29 WHERE (((NOT (t29.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE 'X<' UNION ALL SELECT * FROM t0 WHERE (NOT ('X<')) UNION ALL SELECT * FROM t0 WHERE (('X<') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ BROADCAST_JOIN(t0, c0)*/t1.c0 FROM  t1 INNER JOIN t0 ON t1.c0 GROUP BY (CASE t1.c0 WHEN 'EkM\u085f8u\u6567' THEN TAN((('\u2787')>=(SUBSTRING(361183101, (CASE t0.c0 WHEN t1.c0 THEN t1.c0 ELSE t1.c0 END ))))) WHEN -1182281939 THEN (CASE ((true) IS NULL) WHEN (NOT (false)) THEN t0.c0 ELSE ((t1.c0)<<(-664180210)) END ) ELSE t0.c0 END ) ORDER BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM  t0 RIGHT  OUTER JOIN t1 ON t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t1 WHERE t1.c0 UNION ALL SELECT * FROM t0, t1 WHERE (NOT (t1.c0)) UNION ALL SELECT * FROM t0, t1 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0,  t59 NATURAL RIGHT JOIN v5 WHERE 'Y7' UNION ALL SELECT * FROM t0,  t59 NATURAL RIGHT JOIN v5 WHERE (NOT ('Y7')) UNION ALL SELECT * FROM t0,  t59 NATURAL RIGHT JOIN v5 WHERE (('Y7') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c2, t1.c1, t0.c2, t1.c0 FROM t0, t1 WHERE t1.c0 UNION ALL SELECT t1.c2, t1.c1, t0.c2, t1.c0 FROM t0, t1 WHERE (NOT (t1.c0)) UNION ALL SELECT t1.c2, t1.c1, t0.c2, t1.c0 FROM t0, t1 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((41864708) IS NOT NULL) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (((41864708) IS NOT NULL))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((((41864708) IS NOT NULL)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t0)*/t90.c0 FROM t90, t0 GROUP BY t0.c0 ORDER BY -344254955 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE '-4]b\u0dc1C.Q9' UNION ALL SELECT * FROM t0 WHERE (NOT ('-4]b\u0dc1C.Q9')) UNION ALL SELECT * FROM t0 WHERE (('-4]b\u0dc1C.Q9') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 GROUP BY t0.c0, ((0.47694302929795196) IS NOT NULL), ((-2005857159)<<((~ (0.42787159585416934)))) HAVING 441007675 UNION ALL SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 GROUP BY t0.c0, ((0.47694302929795196) IS NOT NULL), ((-2005857159)<<((~ (0.42787159585416934)))) HAVING (NOT (441007675)) UNION ALL SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 GROUP BY t0.c0, ((0.47694302929795196) IS NOT NULL), ((-2005857159)<<((~ (0.42787159585416934)))) HAVING ((441007675) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c1, t0.c0, v0.c2 FROM v0, t0 WHERE CAST(v0.c1 AS DATE) UNION ALL SELECT v0.c1, t0.c0, v0.c2 FROM v0, t0 WHERE (NOT (CAST(v0.c1 AS DATE))) UNION ALL SELECT v0.c1, t0.c0, v0.c2 FROM v0, t0 WHERE ((CAST(v0.c1 AS DATE)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c1, v0.c0, t0.c0 FROM t0, v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MERGE_JOIN(t0)*/v0.c0 FROM v0, t0 WHERE ((false)OR(((COT(((v0.c2) IS NOT NULL)))!=('\uffae')))) GROUP BY true HAVING v0.c1 UNION ALL SELECT /*+ MERGE_JOIN(t0)*/v0.c0 FROM v0, t0 WHERE ((false)OR(((COT(((v0.c2) IS NOT NULL)))!=('\uffae')))) GROUP BY true HAVING (NOT (v0.c1)) UNION ALL SELECT /*+ MERGE_JOIN(t0)*/v0.c0 FROM v0, t0 WHERE ((false)OR(((COT(((v0.c2) IS NOT NULL)))!=('\uffae')))) GROUP BY true HAVING ((v0.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY -755998025 ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 CROSS JOIN t29;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (~ (((t0.c0)|(0.2573457468802294)))) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ((~ (((t0.c0)|(0.2573457468802294)))))) UNION ALL SELECT t0.c0 FROM t0 WHERE (((~ (((t0.c0)|(0.2573457468802294))))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MPP_1PHASE_AGG()*/t1.c1 FROM t1 GROUP BY (CASE t1.c1 WHEN t1.c1 THEN (~ (t1.c1)) ELSE t1.c1 END ) ORDER BY (('<{w(Y-') IS NULL) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (~ ('')) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ((~ ('')))) UNION ALL SELECT t0.c0 FROM t0 WHERE (((~ (''))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t1.c0 FROM  t0 LEFT JOIN t1 ON t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0,  t0 LEFT  OUTER JOIN t1 ON '';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t80 WHERE SUBSTRING_INDEX(((((t80.c0) IS NULL))AND(CAST(((t80.c0)OR('_i')) AS UNSIGNED))), t80.c0, ((168009130)^('#Ag\u84edAA{\t'))) UNION ALL SELECT * FROM t80 WHERE (NOT (SUBSTRING_INDEX(((((t80.c0) IS NULL))AND(CAST(((t80.c0)OR('_i')) AS UNSIGNED))), t80.c0, ((168009130)^('#Ag\u84edAA{\t'))))) UNION ALL SELECT * FROM t80 WHERE ((SUBSTRING_INDEX(((((t80.c0) IS NULL))AND(CAST(((t80.c0)OR('_i')) AS UNSIGNED))), t80.c0, ((168009130)^('#Ag\u84edAA{\t')))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 LEFT JOIN t0 ON 1.02248829E8 WHERE -1945920550 ORDER BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY '0', t0.c0, (('-885915941')NOT REGEXP(t0.c0)) HAVING BIT_AND(-487515652) ORDER BY -1010386592 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0, t57;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c1, t0.c2 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE '2,' UNION ALL SELECT * FROM t0 WHERE (NOT ('2,')) UNION ALL SELECT * FROM t0 WHERE (('2,') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY 2110837980;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0, t0.c0 FROM  t1 RIGHT  OUTER JOIN t0 ON CONCAT(t0.c0);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c1, t1.c2 FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c2, t0.c1 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY CAST('-' AS DECIMAL), t0.c0, -2050998362;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 NATURAL LEFT JOIN t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 WHERE IS_IPV4(((t1.c0)!=(t1.c0))) GROUP BY t1.c0, ((t1.c0) IS NOT NULL), t1.c0 ORDER BY ((t1.c0)>(t1.c0)), -1480407474 ASC, t1.c0, -1028956417, t1.c0 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t1, t0])*/t1.c0 FROM t1, t0 GROUP BY t0.c0, t0.c0, t1.c0 HAVING ((COUNT((CASE CAST(t1.c0 AS BINARY) WHEN CAST((('!')LIKE(t0.c0)) AS CHAR) THEN t1.c0 ELSE 1729316365 END ))) IS NULL) ORDER BY -1.110839974E9;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c1 FROM t0 WHERE 1.033651489E9 UNION ALL SELECT t0.c0, t0.c1 FROM t0 WHERE (NOT (1.033651489E9)) UNION ALL SELECT t0.c0, t0.c1 FROM t0 WHERE ((1.033651489E9) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t1)*/t1.c0 FROM t1 GROUP BY t1.c0 HAVING '\u6840' UNION ALL SELECT /*+ HASH_JOIN_PROBE(t1)*/t1.c0 FROM t1 GROUP BY t1.c0 HAVING (NOT ('\u6840')) UNION ALL SELECT /*+ HASH_JOIN_PROBE(t1)*/t1.c0 FROM t1 GROUP BY t1.c0 HAVING (('\u6840') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY -1751220753 ORDER BY '' DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0, t0;", "result": "success", "error_info": ""}
+{"sql": "REPLACE INTO t0(c2, c1) VALUES (-543085132, -1229818766); -- 1ms;", "result": "error", "error_info": "1264 (22003): Out of range value for column 'c2' at row 1"}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING t0.c0 UNION ALL SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING (NOT (t0.c0)) UNION ALL SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t1.c0 FROM  t1 INNER JOIN t0 ON NULL;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE 0.826533397785957 UNION ALL SELECT * FROM t0 WHERE (NOT (0.826533397785957)) UNION ALL SELECT * FROM t0 WHERE ((0.826533397785957) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ AGG_TO_COP()*/t0.c0 FROM t0 WHERE 0.20018034899795822 GROUP BY '4';", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c2, t1.c3, t1.c1 FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, v0.c0, t0.c0 FROM v0, t0 WHERE NULL UNION ALL SELECT t0.c2, v0.c0, t0.c0 FROM v0, t0 WHERE (NOT (NULL)) UNION ALL SELECT t0.c2, v0.c0, t0.c0 FROM v0, t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 WHERE (('%')NOT LIKE(0.5425072430179377)) GROUP BY ((t1.c0)NOT REGEXP((CASE 0.7424261777618898 WHEN t1.c1 THEN 1629742726 ELSE CAST(t1.c2 AS TIME) END )));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE IF(t0.c0, ((t0.c0)NOT LIKE((BINARY (((-824760447)REGEXP(t0.c0)))))), 0.7028048176899028) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (IF(t0.c0, ((t0.c0)NOT LIKE((BINARY (((-824760447)REGEXP(t0.c0)))))), 0.7028048176899028))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((IF(t0.c0, ((t0.c0)NOT LIKE((BINARY (((-824760447)REGEXP(t0.c0)))))), 0.7028048176899028)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING t0.c0 ORDER BY t0.c0 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE t1.c0 UNION ALL SELECT * FROM t1 WHERE (NOT (t1.c0)) UNION ALL SELECT * FROM t1 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0, v0 WHERE CAST(t0.c0 AS DECIMAL) GROUP BY (('G\\nK~') IS NULL), v0.c0, t0.c1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE '' UNION ALL SELECT * FROM t0 WHERE (NOT ('')) UNION ALL SELECT * FROM t0 WHERE (('') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0 GROUP BY true;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c1, t0.c2, t0.c0, t0.c1, t1.c0 FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ STREAM_AGG()*/t0.c0 FROM t0 WHERE -1893951306 GROUP BY t0.c0, (BINARY ((CASE ((t0.c0)|(t0.c0)) WHEN ((NULL)<=(t0.c0)) THEN ((t0.c0)<=>('ES\u4221\\'k*w')) ELSE t0.c0 END ))), -423422477 HAVING COUNT((CASE t0.c0 WHEN (~ (0.08442534946319769)) THEN t0.c0 WHEN t0.c0 THEN t0.c0 ELSE t0.c0 END )) ORDER BY DEFAULT(t0.c0);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0, t0 WHERE v0.c0 UNION ALL SELECT * FROM v0, t0 WHERE (NOT (v0.c0)) UNION ALL SELECT * FROM v0, t0 WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1 FROM t0 WHERE FIND_IN_SET(((t0.c1)OR(t0.c0)), 0.3956882581959519) UNION ALL SELECT t0.c1 FROM t0 WHERE (NOT (FIND_IN_SET(((t0.c1)OR(t0.c0)), 0.3956882581959519))) UNION ALL SELECT t0.c1 FROM t0 WHERE ((FIND_IN_SET(((t0.c1)OR(t0.c0)), 0.3956882581959519)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0 WHERE -1847444978 UNION ALL SELECT * FROM t1, t0 WHERE (NOT (-1847444978)) UNION ALL SELECT * FROM t1, t0 WHERE ((-1847444978) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_TOJA(true)*/t0.c0 FROM t0 GROUP BY '\\n', 1782768018, t0.c0 ORDER BY t0.c0, t0.c0 DESC, TIDB_VERSION() DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(v5)*/t59.c0 FROM t59, t0, v5 WHERE CAST(true AS DECIMAL) GROUP BY IS_IPV4_COMPAT((~ (v5.c1)));", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ STREAM_AGG()*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING ((CEILING(((t0.c0)AND(t0.c0)))) IS NULL) ORDER BY t0.c0, -1997650400, -734761430;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1, t0.c4, t1.c1, t1.c0, t0.c2, t1.c4, t0.c0, t0.c3 FROM  t1 NATURAL LEFT JOIN t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0, t1 WHERE t1.c2 GROUP BY t0.c1 ORDER BY ((ELT(((t0.c1)^(CAST(t1.c1 AS DATETIME))), ((t0.c1)OR((('3')LIKE(false)))), ((t0.c1) IS NOT NULL), 1163896238))OR('Z\u6a4b'));", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ LIMIT_TO_COP()*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING NULL UNION ALL SELECT /*+ LIMIT_TO_COP()*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING (NOT (NULL)) UNION ALL SELECT /*+ LIMIT_TO_COP()*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY 351243703 ORDER BY NULL, ((0.603496452550268)OR((BINARY (true)))) ASC, '|';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE -1042714149 UNION ALL SELECT * FROM t0 WHERE (NOT (-1042714149)) UNION ALL SELECT * FROM t0 WHERE ((-1042714149) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t86.c0 FROM t86 WHERE '' GROUP BY '', ((NULL)<=('7%Ls')), CAST(t86.c0 AS TIME);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0, t0 WHERE ((v0.c0)&(0.7353719677808828)) UNION ALL SELECT v0.c0 FROM v0, t0 WHERE (NOT (((v0.c0)&(0.7353719677808828)))) UNION ALL SELECT v0.c0 FROM v0, t0 WHERE ((((v0.c0)&(0.7353719677808828))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE NULL UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (NULL)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c1 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE -1.443860969E9 GROUP BY CAST(((CAST(t0.c0 AS DATETIME))>=('w')) AS UNSIGNED), ((DATE_FORMAT(t0.c1, t0.c0))OR(CAST(((-409888380)<(-1747430919)) AS DECIMAL))), (NOT ((((NOT (-185159795)))AND(t0.c2))));", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ STREAM_AGG()*/t0.c0 FROM t0 GROUP BY -1555990471;", "result": "success", "error_info": ""}
+{"sql": "SELECT t57.c0, t0.c0 FROM  t57 RIGHT JOIN t0 ON t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((0.39661707139538105) IS NULL) ORDER BY (CASE t0.c0 WHEN '\\ns' THEN -649814466 ELSE t0.c0 END );", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE 1247903889 UNION ALL SELECT * FROM t0 WHERE (NOT (1247903889)) UNION ALL SELECT * FROM t0 WHERE ((1247903889) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING t0.c0 ORDER BY ((((t0.c0)&((+ (t0.c0)))))NOT LIKE(((-600939153)NOT REGEXP(NULL)))), t0.c0, CAST(t0.c0 AS BINARY);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY (- (-2101885997)) ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t65 NATURAL JOIN t0 WHERE '' UNION ALL SELECT * FROM  t65 NATURAL JOIN t0 WHERE (NOT ('')) UNION ALL SELECT * FROM  t65 NATURAL JOIN t0 WHERE (('') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE '' UNION ALL SELECT * FROM t0 WHERE (NOT ('')) UNION ALL SELECT * FROM t0 WHERE (('') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c1 FROM t1 WHERE t1.c1 UNION ALL SELECT t1.c1 FROM t1 WHERE (NOT (t1.c1)) UNION ALL SELECT t1.c1 FROM t1 WHERE ((t1.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 WHERE CAST('0' AS CHAR) GROUP BY NULL ORDER BY true ASC, ((NULL)AND(t1.c0)) ASC, ((t1.c0)>((BINARY (-611330518))));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((t0.c2)AND((- (372674726)))) GROUP BY CHAR((NOT ((((('%H\u3998+zs')AND(0.3595459947704759)))>(t0.c2))))), CAST(t0.c0 AS DATE), t0.c3 HAVING (('64') IS NULL) ORDER BY ((((-1608365556)&(t0.c4)))<(((TIDB_VERSION())NOT LIKE(((t0.c0)NOT LIKE(t0.c3)))))) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 WHERE (CASE t0.c0 WHEN t0.c0 THEN COALESCE(t0.c0, 1.232045452E9, HEX(((t0.c0)<=((CASE -244038296 WHEN t0.c0 THEN 1652670883 WHEN true THEN t0.c0 ELSE t0.c0 END ))))) ELSE (CASE '0' WHEN BIN(((true) IS NULL)) THEN t0.c0 ELSE '62722266' END ) END ) GROUP BY ((t0.c0)OR(t0.c0)) ORDER BY ')w\\r';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM v0, t0, t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t90.c0 FROM t90;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_TOJA(false)*/t0.c0 FROM t0 WHERE NULL GROUP BY '-' ORDER BY -1683749029 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t47.c0, v0.c0 FROM v0, t47 WHERE -200325401 UNION ALL SELECT t47.c0, v0.c0 FROM v0, t47 WHERE (NOT (-200325401)) UNION ALL SELECT t47.c0, v0.c0 FROM v0, t47 WHERE ((-200325401) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 CROSS JOIN t56 WHERE ((t56.c0)<(((t56.c0)<<(-1857845372)))) UNION ALL SELECT * FROM  t0 CROSS JOIN t56 WHERE (NOT (((t56.c0)<(((t56.c0)<<(-1857845372)))))) UNION ALL SELECT * FROM  t0 CROSS JOIN t56 WHERE ((((t56.c0)<(((t56.c0)<<(-1857845372))))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t35;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0 WHERE t1.c0 UNION ALL SELECT * FROM t1, t0 WHERE (NOT (t1.c0)) UNION ALL SELECT * FROM t1, t0 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0, '0', t0.c0 HAVING t0.c0 ORDER BY t0.c0 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(v0, t0)*/t0.c0 FROM t0, v0 GROUP BY SQRT(0.14805816397722793);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1, t0 GROUP BY (CASE ((CAST('N' AS TIME))<=>((~ (t0.c0)))) WHEN '' THEN ((((t1.c0)&('')))REGEXP(t0.c0)) WHEN (('/<')^((CASE 'c3' WHEN t1.c0 THEN '~' ELSE t0.c0 END ))) THEN (NOT (t0.c0)) ELSE t1.c0 END ), (CASE t1.c0 WHEN (CASE 'h' WHEN t0.c0 THEN 0.942959297096516 WHEN 'p' THEN t0.c0 ELSE ((t0.c0)REGEXP(0.38159226927685463)) END ) THEN (((CASE false WHEN t1.c0 THEN t0.c0 ELSE NULL END )) IS NOT NULL) WHEN ((((-1325698704)LIKE(true)))<=(t1.c0)) THEN ((IS_IPV4_COMPAT(0.6965031796270256))>=((('')^(0.5591571467106025)))) ELSE t1.c0 END ), ((((t1.c0)OR(((t0.c0)NOT REGEXP(t1.c0)))))NOT REGEXP(t1.c0));", "result": "error", "error_info": "1139 (42000): Got error '[expression:1139]Got error 'error parsing regexp: missing argument to repetition operator: `' from regexp' from regexp"}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(v0, t0)*/v0.c0 FROM  v0 RIGHT JOIN t0 ON 1197372447 GROUP BY t0.c0, ((v0.c0)OR((~ (((-1862452248)&('')))))), ((v0.c3)|(-876127529));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ')' UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (')')) UNION ALL SELECT t0.c0 FROM t0 WHERE ((')') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 NATURAL RIGHT JOIN t91 WHERE (CASE t91.c0 WHEN '\\r?' THEN t91.c0 ELSE (CASE ((-1186523684)&(t0.c0)) WHEN (+ (false)) THEN false WHEN -1027999017 THEN false ELSE true END ) END ) UNION ALL SELECT * FROM  t0 NATURAL RIGHT JOIN t91 WHERE (NOT ((CASE t91.c0 WHEN '\\r?' THEN t91.c0 ELSE (CASE ((-1186523684)&(t0.c0)) WHEN (+ (false)) THEN false WHEN -1027999017 THEN false ELSE true END ) END ))) UNION ALL SELECT * FROM  t0 NATURAL RIGHT JOIN t91 WHERE (((CASE t91.c0 WHEN '\\r?' THEN t91.c0 ELSE (CASE ((-1186523684)&(t0.c0)) WHEN (+ (false)) THEN false WHEN -1027999017 THEN false ELSE true END ) END )) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c0, t0.c1 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE CAST(t0.c0 AS UNSIGNED) UNION ALL SELECT * FROM t0 WHERE (NOT (CAST(t0.c0 AS UNSIGNED))) UNION ALL SELECT * FROM t0 WHERE ((CAST(t0.c0 AS UNSIGNED)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY SIN((CASE (BINARY (SIGN(-1.332839552E9))) WHEN 0.8393417883692343 THEN ((((-1868141967)>>(t0.c0)))REGEXP(t0.c0)) WHEN ((-493316522)AND(CAST(t0.c0 AS DATE))) THEN 'S' ELSE ((false)OR(CAST(t0.c0 AS BINARY))) END )), t0.c0, 1.464671918E9 ORDER BY ((t0.c0)!=(t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c2, v0.c0, v0.c1 FROM v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0, t1.c0 FROM t1, v0, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c1, t0.c0 FROM  t0 LEFT JOIN t1 ON ((733004770)<=(t0.c2)) WHERE t0.c0 UNION ALL SELECT t1.c1, t0.c0 FROM  t0 LEFT JOIN t1 ON ((733004770)<=(t0.c2)) WHERE (NOT (t0.c0)) UNION ALL SELECT t1.c1, t0.c0 FROM  t0 LEFT  OUTER JOIN t1 ON ((733004770)<=(t0.c2)) WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 STRAIGHT_JOIN v0 ON VERSION() WHERE t0.c0 UNION ALL SELECT * FROM  t0 STRAIGHT_JOIN v0 ON VERSION() WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM  t0 STRAIGHT_JOIN v0 ON VERSION() WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0, t0.c0 FROM  t0 STRAIGHT_JOIN v0 ON ((NULL) IS NULL) WHERE ((v0.c0)OR(v0.c0)) UNION ALL SELECT v0.c0, t0.c0 FROM  t0 STRAIGHT_JOIN v0 ON ((NULL) IS NULL) WHERE (NOT (((v0.c0)OR(v0.c0)))) UNION ALL SELECT v0.c0, t0.c0 FROM  t0 STRAIGHT_JOIN v0 ON ((NULL) IS NULL) WHERE ((((v0.c0)OR(v0.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c1 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t4 WHERE NULL UNION ALL SELECT * FROM t4 WHERE (NOT (NULL)) UNION ALL SELECT * FROM t4 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_BUILD(t1)*/t1.c0 FROM  t1 CROSS JOIN t0 GROUP BY t1.c0, -1.649193711E9, 0.6169222821400553 ORDER BY t0.c0, true ASC, 1062846123 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c1, v0.c0, t90.c0, v0.c2, t90.c2, t90.c1 FROM  v0 CROSS JOIN t90;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_INDEX_MERGE(t0)*/t0.c0 FROM t0 WHERE CAST(true AS TIME) GROUP BY t0.c0 ORDER BY CAST(0.04593509020066322 AS SIGNED) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0, t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1 FROM t0 GROUP BY '';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t29 WHERE t0.c0 UNION ALL SELECT * FROM t0, t29 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0, t29 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c2, t0.c1, t1.c1, t0.c2, t1.c0, t0.c0 FROM t0, t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2 FROM t0 WHERE '1' UNION ALL SELECT t0.c2 FROM t0 WHERE (NOT ('1')) UNION ALL SELECT t0.c2 FROM t0 WHERE (('1') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_MERGE_JOIN(t1)*/t1.c0 FROM t1 GROUP BY ((593775492)OR(-1994680188)), 'M,BI,{m>4', (~ ('n')) ORDER BY t1.c0 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIKV[t0])*/t0.c0 FROM t0 WHERE 1109749668 GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 GROUP BY ((((-957873534) IS NULL))NOT REGEXP(1771685997)), '< ', v0.c0 HAVING 1.476575133E9 ORDER BY v0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2 FROM t0 WHERE (CASE ((t0.c2)&(false)) WHEN -1488362722 THEN t0.c2 WHEN t0.c2 THEN ((0.1832447427999505)LIKE(t0.c2)) ELSE t0.c2 END ) UNION ALL SELECT t0.c2 FROM t0 WHERE (NOT ((CASE ((t0.c2)&(false)) WHEN -1488362722 THEN t0.c2 WHEN t0.c2 THEN ((0.1832447427999505)LIKE(t0.c2)) ELSE t0.c2 END ))) UNION ALL SELECT t0.c2 FROM t0 WHERE (((CASE ((t0.c2)&(false)) WHEN -1488362722 THEN t0.c2 WHEN t0.c2 THEN ((0.1832447427999505)LIKE(t0.c2)) ELSE t0.c2 END )) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t80.c0 FROM t80 WHERE t80.c0 UNION ALL SELECT t80.c0 FROM t80 WHERE (NOT (t80.c0)) UNION ALL SELECT t80.c0 FROM t80 WHERE ((t80.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c1, t0.c0, t0.c1, t1.c2, t1.c0 FROM t1, t0 WHERE ((true)<=(((true)&((~ (0.6338945191270137)))))) UNION ALL SELECT t1.c1, t0.c0, t0.c1, t1.c2, t1.c0 FROM t1, t0 WHERE (NOT (((true)<=(((true)&((~ (0.6338945191270137)))))))) UNION ALL SELECT t1.c1, t0.c0, t0.c1, t1.c2, t1.c0 FROM t1, t0 WHERE ((((true)<=(((true)&((~ (0.6338945191270137))))))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM t0, v0 WHERE (('>')LIKE((CASE v0.c0 WHEN -777245835 THEN ((false)LIKE(NULL)) ELSE 1475276804 END ))) UNION ALL SELECT v0.c0 FROM t0, v0 WHERE (NOT ((('>')LIKE((CASE v0.c0 WHEN -777245835 THEN ((false)LIKE(NULL)) ELSE 1475276804 END ))))) UNION ALL SELECT v0.c0 FROM t0, v0 WHERE (((('>')LIKE((CASE v0.c0 WHEN -777245835 THEN ((false)LIKE(NULL)) ELSE 1475276804 END )))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE (~ (-1.142524201E9)) UNION ALL SELECT * FROM t0 WHERE (NOT ((~ (-1.142524201E9)))) UNION ALL SELECT * FROM t0 WHERE (((~ (-1.142524201E9))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE ACOS(0.032092550124359964) UNION ALL SELECT * FROM t1 WHERE (NOT (ACOS(0.032092550124359964))) UNION ALL SELECT * FROM t1 WHERE ((ACOS(0.032092550124359964)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t0 CROSS JOIN t1 WHERE t1.c0 GROUP BY DEFAULT(t0.c0);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE CAST('-' AS DECIMAL) UNION ALL SELECT * FROM t0 WHERE (NOT (CAST('-' AS DECIMAL))) UNION ALL SELECT * FROM t0 WHERE ((CAST('-' AS DECIMAL)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY '\\\\?((GVN', t0.c2, t0.c0, (('T\u0276J+ZVP\ue09c')^('[')), t0.c2 HAVING (NOT (t0.c0)) ORDER BY true;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 NATURAL LEFT JOIN t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (((CASE CAST(t0.c0 AS SIGNED) WHEN (CASE t0.c0 WHEN t0.c0 THEN 2120888527 WHEN t0.c0 THEN t0.c0 ELSE 624378502 END ) THEN t0.c0 WHEN -232160188 THEN ((false) IS NULL) ELSE ((t0.c0)AND(-747932535)) END ))<=>(((t0.c0)OR(NULL)))) GROUP BY t0.c0, ((false)AND('Y')), NULL, (CASE -1328541239 WHEN ((t0.c0)<<(((t0.c0)<<(false)))) THEN -2087057725 WHEN (CASE t0.c0 WHEN ((NULL)LIKE(t0.c0)) THEN t0.c0 ELSE t0.c0 END ) THEN (CASE t0.c0 WHEN CAST(-1670965627 AS BINARY) THEN ((830781055)>>(-284770756)) ELSE DEFAULT(t0.c0) END ) ELSE CAST((+ ('F')) AS TIME) END ), t0.c0 HAVING (CASE NULL WHEN true THEN DEFAULT(t0.c0) WHEN AVG(((((DEFAULT(t0.c0)) IS NULL))OR(false))) THEN (- (((t0.c0)OR('LR')))) ELSE CAST(t0.c0 AS DATETIME) END ) UNION ALL SELECT t0.c0 FROM t0 WHERE (((CASE CAST(t0.c0 AS SIGNED) WHEN (CASE t0.c0 WHEN t0.c0 THEN 2120888527 WHEN t0.c0 THEN t0.c0 ELSE 624378502 END ) THEN t0.c0 WHEN -232160188 THEN ((false) IS NULL) ELSE ((t0.c0)AND(-747932535)) END ))<=>(((t0.c0)OR(NULL)))) GROUP BY t0.c0, ((false)AND('Y')), NULL, (CASE -1328541239 WHEN ((t0.c0)<<(((t0.c0)<<(false)))) THEN -2087057725 WHEN (CASE t0.c0 WHEN ((NULL)LIKE(t0.c0)) THEN t0.c0 ELSE t0.c0 END ) THEN (CASE t0.c0 WHEN CAST(-1670965627 AS BINARY) THEN ((830781055)>>(-284770756)) ELSE DEFAULT(t0.c0) END ) ELSE CAST((+ ('F')) AS TIME) END ), t0.c0 HAVING (NOT ((CASE NULL WHEN true THEN DEFAULT(t0.c0) WHEN AVG(((((DEFAULT(t0.c0)) IS NULL))OR(false))) THEN (- (((t0.c0)OR('LR')))) ELSE CAST(t0.c0 AS DATETIME) END ))) UNION ALL SELECT t0.c0 FROM t0 WHERE (((CASE CAST(t0.c0 AS SIGNED) WHEN (CASE t0.c0 WHEN t0.c0 THEN 2120888527 WHEN t0.c0 THEN t0.c0 ELSE 624378502 END ) THEN t0.c0 WHEN -232160188 THEN ((false) IS NULL) ELSE ((t0.c0)AND(-747932535)) END ))<=>(((t0.c0)OR(NULL)))) GROUP BY t0.c0, ((false)AND('Y')), NULL, (CASE -1328541239 WHEN ((t0.c0)<<(((t0.c0)<<(false)))) THEN -2087057725 WHEN (CASE t0.c0 WHEN ((NULL)LIKE(t0.c0)) THEN t0.c0 ELSE t0.c0 END ) THEN (CASE t0.c0 WHEN CAST(-1670965627 AS BINARY) THEN ((830781055)>>(-284770756)) ELSE DEFAULT(t0.c0) END ) ELSE CAST((+ ('F')) AS TIME) END ), t0.c0 HAVING (((CASE NULL WHEN true THEN DEFAULT(t0.c0) WHEN AVG(((((DEFAULT(t0.c0)) IS NULL))OR(false))) THEN (- (((t0.c0)OR('LR')))) ELSE CAST(t0.c0 AS DATETIME) END )) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0, v0])*/t0.c0 FROM  t0 LEFT  OUTER JOIN v0 ON ((((false)>(v0.c0)))|(763484023)) WHERE -144242584 GROUP BY ((t0.c0)OR(t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE true GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY CAST(t0.c2 AS DATE) ORDER BY (((- (t0.c2)))<=(t0.c2)) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE -1195039404 UNION ALL SELECT * FROM t0 WHERE (NOT (-1195039404)) UNION ALL SELECT * FROM t0 WHERE ((-1195039404) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ BROADCAST_JOIN(t0, i0, PRIMARY, PRIMARY)*/t0.c0 FROM t0 GROUP BY (CASE ((((0.1348472577309775)LIKE(NULL)))<=('785352781')) WHEN t0.c0 THEN CAST((+ (t0.c0)) AS TIME) ELSE (((('!')<(NULL)))^(1936506571)) END );", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ AGG_TO_COP()*/v0.c0 FROM  v0 STRAIGHT_JOIN t0 ON 0.08730882731113176 GROUP BY v0.c0, CAST(-1846757486 AS DECIMAL), -473783991;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_AGG()*/t0.c0 FROM  t0 STRAIGHT_JOIN t1 ON ((NULL)OR(t1.c0)) WHERE NULL GROUP BY t0.c0 ORDER BY t1.c0 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE 'H' UNION ALL SELECT * FROM t0 WHERE (NOT ('H')) UNION ALL SELECT * FROM t0 WHERE (('H') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE -304506838 UNION ALL SELECT * FROM t0 WHERE (NOT (-304506838)) UNION ALL SELECT * FROM t0 WHERE ((-304506838) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM  t1 LEFT  OUTER JOIN t0 ON TO_BASE64((CASE (((CASE t0.c0 WHEN t0.c0 THEN t1.c0 ELSE NULL END ))LIKE('')) WHEN CAST(((NULL)!=(NULL)) AS DATE) THEN '-' WHEN -200286908 THEN '0.941888436293307' ELSE FORMAT('1830337745', t0.c0) END )) WHERE 934080380 UNION ALL SELECT t1.c0 FROM  t1 LEFT JOIN t0 ON TO_BASE64((CASE (((CASE t0.c0 WHEN t0.c0 THEN t1.c0 ELSE NULL END ))LIKE('')) WHEN CAST(((NULL)!=(NULL)) AS DATE) THEN '-' WHEN -200286908 THEN '0.941888436293307' ELSE FORMAT('1830337745', t0.c0) END )) WHERE (NOT (934080380)) UNION ALL SELECT t1.c0 FROM  t1 LEFT  OUTER JOIN t0 ON TO_BASE64((CASE (((CASE t0.c0 WHEN t0.c0 THEN t1.c0 ELSE NULL END ))LIKE('')) WHEN CAST(((NULL)!=(NULL)) AS DATE) THEN '-' WHEN -200286908 THEN '0.941888436293307' ELSE FORMAT('1830337745', t0.c0) END )) WHERE ((934080380) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0, t0.c1, v0.c2, t0.c2, v0.c1 FROM t0, v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE CAST(t0.c0 AS SIGNED) UNION ALL SELECT * FROM t0 WHERE (NOT (CAST(t0.c0 AS SIGNED))) UNION ALL SELECT * FROM t0 WHERE ((CAST(t0.c0 AS SIGNED)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM  t1 STRAIGHT_JOIN t0 ON (+ (RIGHT(t1.c0, -1847212180))) WHERE (CASE ((t1.c2) IS NULL) WHEN (((('')<<(t1.c2))) IS NULL) THEN '&w}' WHEN 1098708184 THEN ((EXP((CASE ')' WHEN 'ozYV^XU' THEN t1.c2 ELSE t1.c0 END )))|(t0.c0)) ELSE t0.c0 END ) GROUP BY ((t1.c2)AND(t0.c0)) ORDER BY ((t0.c0)=(((((-924742176)|('buvVed\\'E')))^(-445982128)))) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0, v0.c1, v0.c2 FROM v0, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(v0)*/v0.c0 FROM v0 WHERE 1213830071 GROUP BY -1870032922, v0.c1, (((BINARY ('')))NOT LIKE(((v0.c1)|(v0.c2)))) ORDER BY (((((('Y<AD(~|')NOT REGEXP(v0.c1))) IS NOT NULL)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 RIGHT  OUTER JOIN t0 ON t1.c1 WHERE 1126461020 UNION ALL SELECT * FROM  t1 RIGHT  OUTER JOIN t0 ON t1.c1 WHERE (NOT (1126461020)) UNION ALL SELECT * FROM  t1 RIGHT JOIN t0 ON t1.c1 WHERE ((1126461020) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_TOJA(true)*/v0.c0 FROM v0 WHERE (NOT (v0.c0)) GROUP BY -1895340344, ((v0.c0)REGEXP(0.40945852744229594)), v0.c0 HAVING 0.6937496429592905 UNION ALL SELECT /*+ USE_TOJA(true)*/v0.c0 FROM v0 WHERE (NOT (v0.c0)) GROUP BY -1895340344, ((v0.c0)REGEXP(0.40945852744229594)), v0.c0 HAVING (NOT (0.6937496429592905)) UNION ALL SELECT /*+ USE_TOJA(true)*/v0.c0 FROM v0 WHERE (NOT (v0.c0)) GROUP BY -1895340344, ((v0.c0)REGEXP(0.40945852744229594)), v0.c0 HAVING ((0.6937496429592905) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_AGG()*/t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, ((t0.c0)OR(t0.c0)) HAVING ((t0.c0) IS NULL) ORDER BY 'q' DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t1.c0 FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t0 LEFT JOIN t1 ON t0.c0 WHERE (- (-1703976932)) GROUP BY (CASE t1.c0 WHEN ((((t1.c0) IS NOT NULL))OR(t0.c0)) THEN (+ ((- (-1895773129)))) ELSE (~ (((229646606)=(t1.c0)))) END ), (- (((66013916)AND(NULL)))), ((((t1.c0)AND(DEFAULT(t1.c0))))<(t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ AGG_TO_COP()*/t84.c0 FROM t84 GROUP BY t84.c0 ORDER BY t84.c0 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM t0, v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, v0 WHERE v0.c0 UNION ALL SELECT * FROM t0, v0 WHERE (NOT (v0.c0)) UNION ALL SELECT * FROM t0, v0 WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c2;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ BROADCAST_JOIN(t0, i0)*/t0.c0 FROM t0 GROUP BY '\ufde0]r\u6bf3_', t0.c0, t0.c0, t0.c0, t0.c0 ORDER BY t0.c0 ASC, '' ASC, t0.c0 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE '0.42602189192561524' UNION ALL SELECT * FROM t0 WHERE (NOT ('0.42602189192561524')) UNION ALL SELECT * FROM t0 WHERE (('0.42602189192561524') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM v0 WHERE ((1640892962)OR(CAST(false AS DECIMAL))) UNION ALL SELECT * FROM v0 WHERE (NOT (((1640892962)OR(CAST(false AS DECIMAL))))) UNION ALL SELECT * FROM v0 WHERE ((((1640892962)OR(CAST(false AS DECIMAL)))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 0.2477741090348735 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (0.2477741090348735)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((0.2477741090348735) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((t0.c0)AND(-1197006987)) GROUP BY t0.c0 HAVING (NOT (((BIT_OR(((CAST(t0.c0 AS DATETIME))^('a'))))NOT LIKE((- ((~ (-660692319)))))))) ORDER BY 0.5611264766951347 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE t1.c2 UNION ALL SELECT * FROM t1 WHERE (NOT (t1.c2)) UNION ALL SELECT * FROM t1 WHERE ((t1.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, -1.510845635E9, CAST('' AS DATE), t0.c0 HAVING ((t0.c0)|('')) UNION ALL SELECT t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, -1.510845635E9, CAST('' AS DATE), t0.c0 HAVING (NOT (((t0.c0)|('')))) UNION ALL SELECT t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, -1.510845635E9, CAST('' AS DATE), t0.c0 HAVING ((((t0.c0)|(''))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0, (((BINARY (CAST('j^' AS UNSIGNED))))<=('')), true;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0 WHERE ((t0.c0) IS NULL) GROUP BY ((((471099714)>>((('X')=(1455491373))))) IS NULL), t0.c0, t0.c0 HAVING AVG(0.6269959009289803) UNION ALL SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0 WHERE ((t0.c0) IS NULL) GROUP BY ((((471099714)>>((('X')=(1455491373))))) IS NULL), t0.c0, t0.c0 HAVING (NOT (AVG(0.6269959009289803))) UNION ALL SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0 WHERE ((t0.c0) IS NULL) GROUP BY ((((471099714)>>((('X')=(1455491373))))) IS NULL), t0.c0, t0.c0 HAVING ((AVG(0.6269959009289803)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY '2!kAO', t0.c0, 'y\ufe3bg}' HAVING ((COUNT(true)) IS NULL) ORDER BY (BINARY (t0.c0)) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c3, t0.c2, t0.c4, t0.c0 FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIKV[t56, t0])*/t56.c0 FROM  t56 RIGHT  OUTER JOIN t0 ON 903730522 WHERE '0.9773340897971282' GROUP BY t56.c0 HAVING NULL UNION ALL SELECT /*+ READ_FROM_STORAGE(TIKV[t56, t0])*/t56.c0 FROM  t56 RIGHT  OUTER JOIN t0 ON 903730522 WHERE '0.9773340897971282' GROUP BY t56.c0 HAVING (NOT (NULL)) UNION ALL SELECT /*+ READ_FROM_STORAGE(TIKV[t56, t0])*/t56.c0 FROM  t56 RIGHT JOIN t0 ON 903730522 WHERE '0.9773340897971282' GROUP BY t56.c0 HAVING ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t1 STRAIGHT_JOIN t0 ON -1898351467 WHERE 1.247924023E9 UNION ALL SELECT t0.c0 FROM  t1 STRAIGHT_JOIN t0 ON -1898351467 WHERE (NOT (1.247924023E9)) UNION ALL SELECT t0.c0 FROM  t1 STRAIGHT_JOIN t0 ON -1898351467 WHERE ((1.247924023E9) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE ((t1.c0) IS NOT NULL) UNION ALL SELECT * FROM t1 WHERE (NOT (((t1.c0) IS NOT NULL))) UNION ALL SELECT * FROM t1 WHERE ((((t1.c0) IS NOT NULL)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t47.c0 FROM t47;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_INDEX_MERGE(t0)*/t0.c0 FROM t0 WHERE CAST(t0.c0 AS DATETIME) GROUP BY ((((t0.c0)>(CAST('203098811' AS UNSIGNED))))<=(t0.c0)) ORDER BY 1920561714;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE NULL UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (NULL)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t47.c0 FROM t47 GROUP BY '', t47.c0, true HAVING true UNION ALL SELECT t47.c0 FROM t47 GROUP BY '', t47.c0, true HAVING (NOT (true)) UNION ALL SELECT t47.c0 FROM t47 GROUP BY '', t47.c0, true HAVING ((true) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 LEFT JOIN t0 ON t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t90 WHERE t90.c1 UNION ALL SELECT * FROM t0, t90 WHERE (NOT (t90.c1)) UNION ALL SELECT * FROM t0, t90 WHERE ((t90.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 946153599 GROUP BY ((382012229)OR((((('')<=>(-706473459)))NOT LIKE((CASE 0.6710209658040514 WHEN NULL THEN 'B]n' ELSE t0.c0 END )))));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 LEFT JOIN t53 ON -1055242228;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE -56744292 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (-56744292)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((-56744292) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0 HAVING ((COUNT((('\tn2\u7470|JSH')<=(((t0.c0)REGEXP(TRIM(((-1821188402) IS NOT NULL)))))))) IS NULL) ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0 HAVING ((MAX(CAST((((CASE -1318426819 WHEN t0.c0 THEN t0.c0 WHEN -776584587 THEN t0.c0 ELSE NULL END ))<(SESSION_USER())) AS DATE))) IS NULL) ORDER BY CONCAT_WS(t0.c0, NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t62.c0 FROM t62;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_BUILD(v0)*/v0.c0 FROM v0 WHERE ((v0.c3) IS NULL) GROUP BY ((v0.c4) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE '%\\'*^' UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ('%\\'*^')) UNION ALL SELECT t0.c0 FROM t0 WHERE (('%\\'*^') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t62;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c2 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c2)) UNION ALL SELECT * FROM t0 WHERE ((t0.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 GROUP BY (~ (v0.c2)) ORDER BY -9223372036854775808 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c1, t0.c2 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE (NOT (0.35112505925846693)) ORDER BY (CASE 1650008104 WHEN NULL THEN 0.9666671759816091 WHEN ((-2090526171)NOT LIKE(t1.c0)) THEN 0.017410709041748462 ELSE 'B' END ) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 WHERE 354019064 UNION ALL SELECT v0.c0 FROM v0 WHERE (NOT (354019064)) UNION ALL SELECT v0.c0 FROM v0 WHERE ((354019064) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 GROUP BY t1.c0 HAVING MAX(-986224511) ORDER BY t1.c0 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 WHERE t1.c0 GROUP BY (+ (t1.c0)) HAVING ((MIN(-1.481118357E9)) IS NULL) ORDER BY t1.c0 DESC, ATAN('u)G\ua81fy\\\\J%U') ASC, (BINARY (((1850163880)OR(CAST(0.29393736217496313 AS BINARY))))) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 WHERE (NOT (false)) GROUP BY t1.c0 HAVING HEX(518300877) UNION ALL SELECT t1.c0 FROM t1 WHERE (NOT (false)) GROUP BY t1.c0 HAVING (NOT (HEX(518300877))) UNION ALL SELECT t1.c0 FROM t1 WHERE (NOT (false)) GROUP BY t1.c0 HAVING ((HEX(518300877)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE 0.7423735744590787 UNION ALL SELECT * FROM t0 WHERE (NOT (0.7423735744590787)) UNION ALL SELECT * FROM t0 WHERE ((0.7423735744590787) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t0)*/t0.c1 FROM t0 GROUP BY t0.c1 HAVING '' UNION ALL SELECT /*+ HASH_JOIN_PROBE(t0)*/t0.c1 FROM t0 GROUP BY t0.c1 HAVING (NOT ('')) UNION ALL SELECT /*+ HASH_JOIN_PROBE(t0)*/t0.c1 FROM t0 GROUP BY t0.c1 HAVING (('') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE NULL UNION ALL SELECT * FROM t0 WHERE (NOT (NULL)) UNION ALL SELECT * FROM t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING (NOT (NULL)) ORDER BY t0.c0, (((CASE ((t0.c0)LIKE(t0.c0)) WHEN (('1765102333')!=(-1255169524)) THEN t0.c0 WHEN t0.c0 THEN NULL ELSE t0.c0 END ))>=(t0.c0)) ASC, t0.c0 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c3 GROUP BY ((t0.c0)>>(1631680645)), t0.c2, INET6_NTOA(((((false) IS NULL))>>(((t0.c2)!=((BINARY (NULL)))))));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 INNER JOIN t0 ON v0.c0 WHERE v0.c0 UNION ALL SELECT * FROM  v0 INNER JOIN t0 ON v0.c0 WHERE (NOT (v0.c0)) UNION ALL SELECT * FROM  v0 INNER JOIN t0 ON v0.c0 WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c1, t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c2, t0.c1, t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c2, t0.c1, t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MERGE_JOIN(t0)*/t0.c0 FROM t0 GROUP BY 0.5825418756997349, t0.c0, (CASE (((- (NULL))) IS NULL) WHEN (+ (true)) THEN (('-')OR(NULL)) ELSE -750580537 END ) ORDER BY 0.5477795824845986, t0.c0, '';", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 GROUP BY t1.c0 ORDER BY -1743335106 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t90;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_JOIN(t0, v0)*/t0.c0 FROM  t0 RIGHT JOIN v0 ON t0.c6 WHERE ((t0.c0)&(-538985930)) GROUP BY t0.c1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 STRAIGHT_JOIN t0 ON v0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1, t0.c2, t0.c0 FROM t0 WHERE t0.c1 UNION ALL SELECT t0.c1, t0.c2, t0.c0 FROM t0 WHERE (NOT (t0.c1)) UNION ALL SELECT t0.c1, t0.c2, t0.c0 FROM t0 WHERE ((t0.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 502928479 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (502928479)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((502928479) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1 FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t0)*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING ((COUNT(0.7630409440538146)) IS NULL) ORDER BY 'P' DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0 HAVING AVG(((((false) IS NULL))OR(t0.c0))) UNION ALL SELECT t0.c0 FROM t0 GROUP BY t0.c0 HAVING (NOT (AVG(((((false) IS NULL))OR(t0.c0))))) UNION ALL SELECT t0.c0 FROM t0 GROUP BY t0.c0 HAVING ((AVG(((((false) IS NULL))OR(t0.c0)))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE CAST(1534286962 AS SIGNED) UNION ALL SELECT * FROM t1 WHERE (NOT (CAST(1534286962 AS SIGNED))) UNION ALL SELECT * FROM t1 WHERE ((CAST(1534286962 AS SIGNED)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(t0)*/t0.c0 FROM t0 GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((t0.c0)OR(t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (((t0.c0)OR(t0.c0)))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((((t0.c0)OR(t0.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ BROADCAST_JOIN(t88, PRIMARY)*/t88.c0 FROM t88 WHERE 0.9293529838307925 GROUP BY t88.c0 HAVING (NOT (DATABASE())) ORDER BY -995741452;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c1 FROM t0 WHERE -2023543823 UNION ALL SELECT t0.c0, t0.c1 FROM t0 WHERE (NOT (-2023543823)) UNION ALL SELECT t0.c0, t0.c1 FROM t0 WHERE ((-2023543823) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING (CASE COS(t0.c0) WHEN t0.c0 THEN '' WHEN ((t0.c0)&(t0.c0)) THEN 1552904879 ELSE ((BIT_AND(t0.c0))OR('\tOGd\u5a6emF}')) END ) UNION ALL SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING (NOT ((CASE COS(t0.c0) WHEN t0.c0 THEN '' WHEN ((t0.c0)&(t0.c0)) THEN 1552904879 ELSE ((BIT_AND(t0.c0))OR('\tOGd\u5a6emF}')) END ))) UNION ALL SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 HAVING (((CASE COS(t0.c0) WHEN t0.c0 THEN '' WHEN ((t0.c0)&(t0.c0)) THEN 1552904879 ELSE ((BIT_AND(t0.c0))OR('\tOGd\u5a6emF}')) END )) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY '}N\uc627ZV4Oz', 35313624, ((t0.c0)&(-1243084155)) ORDER BY NULL DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t47.c0 FROM  t47 NATURAL RIGHT JOIN t0 GROUP BY CONCAT((CASE '~Y' WHEN (((+ (-2078817878)))AND(t47.c0)) THEN t47.c0 WHEN -1931326223 THEN -1823601593 ELSE CAST(t47.c0 AS CHAR) END )) HAVING '1' ORDER BY 0.914888815534636;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(t1)*/t1.c0 FROM t1 WHERE (('*k\u5e943')OR(657427227)) GROUP BY (~ (-443772933)) ORDER BY '-R' ASC, 881722370 ASC, true;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((-1569818235) IS NOT NULL) GROUP BY (((CASE t0.c0 WHEN '\tktjL' THEN t0.c0 WHEN t0.c0 THEN ((t0.c0)^(-844921531)) ELSE ((t0.c0)>('*')) END ))REGEXP(((((-59850107)NOT REGEXP(t0.c0)))NOT REGEXP(1229340334)))), false, ((t0.c0)REGEXP((- ('0.3217009238648617')))), 1423147003, (((CASE 0.04973332797964247 WHEN ((t0.c0)=(NULL)) THEN -630049913 WHEN t0.c0 THEN ((t0.c0)REGEXP(t0.c0)) ELSE NULL END )) IS NULL) ORDER BY 'E]hwA{\u8f64#';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t1 WHERE ((t1.c0)>>(((-1770720751)NOT REGEXP(((NULL)>>(t1.c1)))))) UNION ALL SELECT * FROM t0, t1 WHERE (NOT (((t1.c0)>>(((-1770720751)NOT REGEXP(((NULL)>>(t1.c1)))))))) UNION ALL SELECT * FROM t0, t1 WHERE ((((t1.c0)>>(((-1770720751)NOT REGEXP(((NULL)>>(t1.c1))))))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c6, t0.c5, t0.c1, t0.c4, t0.c3, t0.c0 FROM t0 WHERE false UNION ALL SELECT t0.c2, t0.c6, t0.c5, t0.c1, t0.c4, t0.c3, t0.c0 FROM t0 WHERE (NOT (false)) UNION ALL SELECT t0.c2, t0.c6, t0.c5, t0.c1, t0.c4, t0.c3, t0.c0 FROM t0 WHERE ((false) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM  t0 NATURAL RIGHT JOIN v0 WHERE true GROUP BY ((t0.c1) IS NULL) ORDER BY 'H', t0.c0, -765952602 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t66.c0, t66.c2 FROM t66 WHERE t66.c3 UNION ALL SELECT t66.c0, t66.c2 FROM t66 WHERE (NOT (t66.c3)) UNION ALL SELECT t66.c0, t66.c2 FROM t66 WHERE ((t66.c3) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 INNER JOIN t1 ON t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 1365974020 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (1365974020)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((1365974020) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE IS_IPV6(t0.c0) UNION ALL SELECT * FROM t0 WHERE (NOT (IS_IPV6(t0.c0))) UNION ALL SELECT * FROM t0 WHERE ((IS_IPV6(t0.c0)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ NO_INDEX_MERGE()*/v0.c0 FROM  v0 INNER JOIN t47 ON ((((((v0.c0)OR('i')))&('')))REGEXP(t47.c0)) WHERE t47.c0 GROUP BY v0.c0 ORDER BY '2cwo';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE ((false) IS NOT NULL) UNION ALL SELECT * FROM t0 WHERE (NOT (((false) IS NOT NULL))) UNION ALL SELECT * FROM t0 WHERE ((((false) IS NOT NULL)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_AGG()*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 ORDER BY ((-70552953) IS NOT NULL) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c1 FROM t0 WHERE t0.c2 UNION ALL SELECT t0.c2, t0.c1 FROM t0 WHERE (NOT (t0.c2)) UNION ALL SELECT t0.c2, t0.c1 FROM t0 WHERE ((t0.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t43.c0 FROM t43 WHERE 1172196951 GROUP BY '2076143119' ORDER BY ((t43.c0)!=(t43.c0)) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY true HAVING (NOT ((('A')LIKE(AVG(((t0.c0)<=('-'))))))) ORDER BY (BINARY (t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM  t1 INNER JOIN t0 ON ((((DEFAULT(t1.c0))<(DEFAULT(t1.c0)))) IS NOT NULL) WHERE TO_BASE64('447120506') GROUP BY DEFAULT(t0.c0), t0.c0, t0.c0 ORDER BY (CASE ((false)!=(((t0.c0)AND(97625947)))) WHEN t0.c0 THEN t0.c0 WHEN 0.5648236496700183 THEN t1.c0 ELSE '0' END ), t0.c0 DESC, '2073706656';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0 WHERE t1.c1 UNION ALL SELECT * FROM t1, t0 WHERE (NOT (t1.c1)) UNION ALL SELECT * FROM t1, t0 WHERE ((t1.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c1 FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE NULL UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (NULL)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE '.' UNION ALL SELECT * FROM t0 WHERE (NOT ('.')) UNION ALL SELECT * FROM t0 WHERE (('.') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_JOIN(v0, t0)*/v0.c0 FROM  v0 STRAIGHT_JOIN t0 ON t0.c1 GROUP BY t0.c2 ORDER BY ((((752231824) IS NULL))REGEXP(t0.c1));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 GROUP BY t0.c0 ORDER BY (- (t0.c0)) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE (CASE t1.c0 WHEN t1.c0 THEN ((t1.c0)<<(-1762285689)) ELSE ((((-1079660734)OR('y')))REGEXP(((t1.c0)AND(t1.c0)))) END ) UNION ALL SELECT * FROM t1 WHERE (NOT ((CASE t1.c0 WHEN t1.c0 THEN ((t1.c0)<<(-1762285689)) ELSE ((((-1079660734)OR('y')))REGEXP(((t1.c0)AND(t1.c0)))) END ))) UNION ALL SELECT * FROM t1 WHERE (((CASE t1.c0 WHEN t1.c0 THEN ((t1.c0)<<(-1762285689)) ELSE ((((-1079660734)OR('y')))REGEXP(((t1.c0)AND(t1.c0)))) END )) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY '28996551';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 'T' GROUP BY (+ (-174954635));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE false UNION ALL SELECT * FROM t0 WHERE (NOT (false)) UNION ALL SELECT * FROM t0 WHERE ((false) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (CASE t0.c0 WHEN t0.c0 THEN '&(\ue820L' ELSE 'R\u6d5d' END ) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ((CASE t0.c0 WHEN t0.c0 THEN '&(\ue820L' ELSE 'R\u6d5d' END ))) UNION ALL SELECT t0.c0 FROM t0 WHERE (((CASE t0.c0 WHEN t0.c0 THEN '&(\ue820L' ELSE 'R\u6d5d' END )) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1, t0 GROUP BY t0.c0, ((t0.c0)AND(t0.c0)), t0.c0, ((((t1.c0)LIKE(t1.c0)))NOT LIKE(t0.c0)), -1280692279;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1, t0.c2, t0.c0 FROM t0 WHERE t0.c2 UNION ALL SELECT t0.c1, t0.c2, t0.c0 FROM t0 WHERE (NOT (t0.c2)) UNION ALL SELECT t0.c1, t0.c2, t0.c0 FROM t0 WHERE ((t0.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 STRAIGHT_JOIN t0 ON t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c0 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t1.c0 FROM t1, t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0 WHERE t1.c2 UNION ALL SELECT * FROM t1, t0 WHERE (NOT (t1.c2)) UNION ALL SELECT * FROM t1, t0 WHERE ((t1.c2) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c3 FROM t0 WHERE CAST(t0.c3 AS SIGNED) UNION ALL SELECT t0.c2, t0.c3 FROM t0 WHERE (NOT (CAST(t0.c3 AS SIGNED))) UNION ALL SELECT t0.c2, t0.c3 FROM t0 WHERE ((CAST(t0.c3 AS SIGNED)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ AGG_TO_COP()*/t0.c0 FROM t0 GROUP BY t0.c0, DEFAULT(t0.c0), t0.c0 HAVING t0.c0 ORDER BY -1178111919, ((-1036926166)AND(((-1663464854)OR(((-607330131)<=>(t0.c0)))))), ((((t0.c0)|(IS_IPV4(DEFAULT(t0.c0)))))^('\u5d20H5D'));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE '-286173497' UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ('-286173497')) UNION ALL SELECT t0.c0 FROM t0 WHERE (('-286173497') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_BUILD(t0)*/t0.c0 FROM t0 WHERE ((t0.c0)REGEXP('\u2520\\\\\tdZb')) GROUP BY DATE_FORMAT(t0.c0, (~ (t0.c0))), t0.c0, (~ (((((739980900) IS NULL))<=>(ROUND(LN(NULL)))))), ((CAST(t0.c0 AS DATETIME))NOT REGEXP(t0.c0)), t0.c0 HAVING (NOT (MAX((('rzn&BrbY')>(t0.c0))))) ORDER BY '' ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((t0.c0)>(((CAST(1873962373 AS SIGNED))<=>('-')))) GROUP BY ((t0.c0)<=(NULL));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY ((t0.c0)REGEXP(t0.c0));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 INNER JOIN t0 ON t0.c0 WHERE (NOT (t0.c0)) ORDER BY ((((1091215192) IS NOT NULL))NOT LIKE((((CASE t1.c0 WHEN t1.c0 THEN 1091215192 ELSE '' END ))|(t1.c0))));", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_BUILD(t0)*/t0.c0 FROM t0 GROUP BY t0.c0 HAVING ((SUM(t0.c0)) IS NULL) ORDER BY 0.015163234619148591;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0, t0.c0, t0.c0 HAVING ((1805813900) IS NULL) ORDER BY '\u5616)]|\\r+' ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ AGG_TO_COP()*/t29.c0 FROM t29, t0 WHERE ((((t29.c0)REGEXP(false)))&(((t0.c0)AND((CASE t0.c0 WHEN t29.c0 THEN '-649588241' ELSE t0.c0 END ))))) GROUP BY ((t0.c0) IS NOT NULL), t29.c0, t0.c0 HAVING -622977791 UNION ALL SELECT /*+ AGG_TO_COP()*/t29.c0 FROM t29, t0 WHERE ((((t29.c0)REGEXP(false)))&(((t0.c0)AND((CASE t0.c0 WHEN t29.c0 THEN '-649588241' ELSE t0.c0 END ))))) GROUP BY ((t0.c0) IS NOT NULL), t29.c0, t0.c0 HAVING (NOT (-622977791)) UNION ALL SELECT /*+ AGG_TO_COP()*/t29.c0 FROM t29, t0 WHERE ((((t29.c0)REGEXP(false)))&(((t0.c0)AND((CASE t0.c0 WHEN t29.c0 THEN '-649588241' ELSE t0.c0 END ))))) GROUP BY ((t0.c0) IS NOT NULL), t29.c0, t0.c0 HAVING ((-622977791) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE 'YXV3Z\u7f3c[' UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ('YXV3Z\u7f3c[')) UNION ALL SELECT t0.c0 FROM t0 WHERE (('YXV3Z\u7f3c[') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c2 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1, t0 WHERE ((-1461523540)AND(t1.c0)) GROUP BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c1 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c1)) UNION ALL SELECT * FROM t0 WHERE ((t0.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0 ORDER BY '?bz rrv^';", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_AGG()*/t0.c0 FROM t0 GROUP BY (- ((('-726364900')NOT REGEXP((NOT (NULL)))))), true, '\u9d9a\u9061g\u9870' HAVING (NOT (-331223821)) ORDER BY t0.c0, t0.c0, t0.c0 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c1 FROM t0 WHERE t0.c1 UNION ALL SELECT t0.c1 FROM t0 WHERE (NOT (t0.c1)) UNION ALL SELECT t0.c1 FROM t0 WHERE ((t0.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE -1349460089 UNION ALL SELECT * FROM t0 WHERE (NOT (-1349460089)) UNION ALL SELECT * FROM t0 WHERE ((-1349460089) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0, t1 WHERE 0.38353011372570767 UNION ALL SELECT t0.c0 FROM t0, t1 WHERE (NOT (0.38353011372570767)) UNION ALL SELECT t0.c0 FROM t0, t1 WHERE ((0.38353011372570767) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE (('K\u5504')>=(((t0.c0)NOT LIKE('0')))) UNION ALL SELECT * FROM t0 WHERE (NOT ((('K\u5504')>=(((t0.c0)NOT LIKE('0')))))) UNION ALL SELECT * FROM t0 WHERE (((('K\u5504')>=(((t0.c0)NOT LIKE('0'))))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 STRAIGHT_JOIN t0 ON t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_JOIN(t0)*/t0.c0 FROM t0 WHERE '0' GROUP BY t0.c0 HAVING (NOT (BIT_AND(t0.c0))) ORDER BY ((((t0.c0)OR((('3')<<(320113880))))) IS NULL), '|Vk\uace04n)y' DESC, ((((t0.c0) IS NOT NULL)) IS NOT NULL) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ USE_INDEX_MERGE(t0, i0)*/t0.c0 FROM t0 GROUP BY true;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0, t0 GROUP BY '-1518428149' ORDER BY CAST(true AS DATETIME);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY (((CASE IS_IPV4_MAPPED(t0.c0) WHEN -1315695738 THEN ((t0.c0)NOT REGEXP(t0.c0)) WHEN CEILING(BIT_COUNT(t0.c0)) THEN 253658330 ELSE ((false)>>(t0.c0)) END ))NOT LIKE('')), t0.c0, NULL ORDER BY ((t0.c0)&((CASE t0.c0 WHEN ((NULL)OR(t0.c0)) THEN t0.c0 WHEN ((-749813070) IS NOT NULL) THEN 0.8333427392573389 ELSE (- (t0.c0)) END ))) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 GROUP BY -406102979;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 STRAIGHT_JOIN v0 ON v0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY (CASE ((-528920204)!=(t0.c0)) WHEN t0.c0 THEN t0.c0 ELSE LN('0') END ), ((t0.c0)>=(((-89344721)&(((-1278611692)AND('\ua136')))))), (CASE ABS(NULL) WHEN -1023958554 THEN NULL ELSE ((NULL)<(t0.c0)) END ) ORDER BY t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_PROBE(v0, t1)*/t1.c0 FROM t1, t0, v0 WHERE t0.c0 GROUP BY t1.c2;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN(t0)*/t0.c0 FROM t0 WHERE t0.c0 GROUP BY DEFAULT(t0.c0);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_HASH_JOIN(t1)*/t1.c0 FROM t1 GROUP BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 CROSS JOIN v0 WHERE FLOOR(-9810935) UNION ALL SELECT * FROM  t0 CROSS JOIN v0 WHERE (NOT (FLOOR(-9810935))) UNION ALL SELECT * FROM  t0 CROSS JOIN v0 WHERE ((FLOOR(-9810935)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t0.c1, t0.c2 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY 1807016410;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t0.c0 FROM t0 WHERE 'U3|\ua090.\uc5f6^~#' GROUP BY true;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 WHERE v0.c0 UNION ALL SELECT v0.c0 FROM v0 WHERE (NOT (v0.c0)) UNION ALL SELECT v0.c0 FROM v0 WHERE ((v0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t47.c0 FROM t47 WHERE (CASE (((NOT (1092394248)))<(0.5947120652648225)) WHEN t47.c0 THEN (+ (true)) ELSE (- (t47.c0)) END ) UNION ALL SELECT t47.c0 FROM t47 WHERE (NOT ((CASE (((NOT (1092394248)))<(0.5947120652648225)) WHEN t47.c0 THEN (+ (true)) ELSE (- (t47.c0)) END ))) UNION ALL SELECT t47.c0 FROM t47 WHERE (((CASE (((NOT (1092394248)))<(0.5947120652648225)) WHEN t47.c0 THEN (+ (true)) ELSE (- (t47.c0)) END )) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t53;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c0 FROM t1 WHERE t1.c0 UNION ALL SELECT t1.c0 FROM t1 WHERE (NOT (t1.c0)) UNION ALL SELECT t1.c0 FROM t1 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE ((1887162702)<=(t0.c0)) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (((1887162702)<=(t0.c0)))) UNION ALL SELECT t0.c0 FROM t0 WHERE ((((1887162702)<=(t0.c0))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY ((SUBSTRING_INDEX(COT(((t0.c0) IS NOT NULL)), -1535345195, -1.552185963E9)) IS NOT NULL), (NOT (1815562403)), t0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t0 NATURAL JOIN v0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  t1 CROSS JOIN t0 WHERE t0.c1 UNION ALL SELECT * FROM  t1 CROSS JOIN t0 WHERE (NOT (t0.c1)) UNION ALL SELECT * FROM  t1 CROSS JOIN t0 WHERE ((t0.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t47.c0 FROM t47 WHERE t47.c0 GROUP BY 0.9568078592433026, INET_NTOA(t47.c0), t47.c0 HAVING (((CASE t47.c0 WHEN t47.c0 THEN SUM(t47.c0) WHEN ((1.966475971E9)OR((+ (t47.c0)))) THEN ((t47.c0)AND((- (-1202016689)))) ELSE 'SgWv3Q' END )) IS NULL) ORDER BY 'Q' DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_JOIN_BUILD(t61)*/t61.c0 FROM t61 WHERE t61.c0 GROUP BY t61.c0 HAVING COUNT(t61.c0) ORDER BY t61.c0 ASC, CEILING(1847663538) ASC, t61.c0 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY true HAVING (NOT ((+ (405531671)))) ORDER BY t0.c0, t0.c0 ASC, 0.3142443066673116 ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c4, t0.c3 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE false UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (false)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((false) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_JOIN(t0)*/t0.c0 FROM t0 WHERE 0.23728314862125166 GROUP BY ((t0.c0)<=(CEIL(t0.c0)));", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0, t1 GROUP BY t0.c0 HAVING -931133742 UNION ALL SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0, t1 GROUP BY t0.c0 HAVING (NOT (-931133742)) UNION ALL SELECT /*+ NO_INDEX_MERGE()*/t0.c0 FROM t0, t1 GROUP BY t0.c0 HAVING ((-931133742) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1 WHERE t1.c0 UNION ALL SELECT * FROM t1 WHERE (NOT (t1.c0)) UNION ALL SELECT * FROM t1 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ HASH_AGG()*/t0.c0 FROM t0, t1, v0 GROUP BY CAST(ROUND('') AS CHAR), 'X\\'', 'CEd\u4a11';", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MPP_1PHASE_AGG()*/v0.c0 FROM v0 GROUP BY v0.c0, '', v0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (- (((t0.c0)AND(4284588)))) GROUP BY UCASE('P\ua49c'), t0.c0, (((CASE t0.c0 WHEN ((-680919207)=(t0.c0)) THEN ((true)<<('9')) ELSE t0.c0 END ))<<(((t0.c0)AND(CAST(NULL AS CHAR))))) ORDER BY false, '/j' ASC, -1009429078;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 GROUP BY v0.c1, ((0.9817608082283664)OR(-540669747)), v0.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ READ_FROM_STORAGE(TIFLASH[t0])*/t0.c0 FROM t0 GROUP BY RIGHT(true, (('<NN%0') IS NULL)), t0.c0, -112577793, 0.26686642228068336, ((t0.c0) IS NULL) ORDER BY (+ (t0.c0)), false ASC, '0.7871590668329655';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t0.c0, t37.c0 FROM t0, t37;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_MERGE_JOIN(t0)*/t0.c0 FROM t0 GROUP BY 0.09149996685752815, t0.c0, 0.3101592058917554 HAVING SUM(CAST((((NOT (-768642113))) IS NULL) AS DATE)) UNION ALL SELECT /*+ INL_MERGE_JOIN(t0)*/t0.c0 FROM t0 GROUP BY 0.09149996685752815, t0.c0, 0.3101592058917554 HAVING (NOT (SUM(CAST((((NOT (-768642113))) IS NULL) AS DATE)))) UNION ALL SELECT /*+ INL_MERGE_JOIN(t0)*/t0.c0 FROM t0 GROUP BY 0.09149996685752815, t0.c0, 0.3101592058917554 HAVING ((SUM(CAST((((NOT (-768642113))) IS NULL) AS DATE))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t88 WHERE '.' UNION ALL SELECT * FROM t88 WHERE (NOT ('.')) UNION ALL SELECT * FROM t88 WHERE (('.') IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (('7')AND((((('o\uf2d3\t^')<<(1377795862)))>=(t0.c0)))) GROUP BY t0.c0, t0.c0, 541205570 ORDER BY CAST((BINARY (t0.c0)) AS DECIMAL) DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE NULL UNION ALL SELECT * FROM t0 WHERE (NOT (NULL)) UNION ALL SELECT * FROM t0 WHERE ((NULL) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MPP_2PHASE_AGG()*/t1.c0 FROM t1 GROUP BY t1.c0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY (+ (((((-983327257) IS NULL))^(t0.c0)))), t0.c0, t0.c0 HAVING AVG(t0.c0) UNION ALL SELECT t0.c0 FROM t0 GROUP BY (+ (((((-983327257) IS NULL))^(t0.c0)))), t0.c0, t0.c0 HAVING (NOT (AVG(t0.c0))) UNION ALL SELECT t0.c0 FROM t0 GROUP BY (+ (((((-983327257) IS NULL))^(t0.c0)))), t0.c0, t0.c0 HAVING ((AVG(t0.c0)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, v0, t1 WHERE (((NOT ('[(')))REGEXP(v0.c1)) UNION ALL SELECT * FROM t0, v0, t1 WHERE (NOT ((((NOT ('[(')))REGEXP(v0.c1)))) UNION ALL SELECT * FROM t0, v0, t1 WHERE (((((NOT ('[(')))REGEXP(v0.c1))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t1, t0 WHERE t1.c0 UNION ALL SELECT * FROM t1, t0 WHERE (NOT (t1.c0)) UNION ALL SELECT * FROM t1, t0 WHERE ((t1.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MPP_1PHASE_AGG()*/t0.c0 FROM t0 GROUP BY 95882064, FIELD(t0.c0, SUBSTRING(((t0.c2)&(CAST(t0.c2 AS TIME))), t0.c1)), '-728128601';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c1 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c1)) UNION ALL SELECT * FROM t0 WHERE ((t0.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE t0.c0 UNION ALL SELECT * FROM t0 WHERE (NOT (t0.c0)) UNION ALL SELECT * FROM t0 WHERE ((t0.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c2, t1.c1, t0.c0 FROM  t1 INNER JOIN t0 ON NULL;", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c1, v0.c2, t0.c0, v0.c0 FROM  v0 RIGHT JOIN t0 ON ((((92089722)&(false)))OR(v0.c2));", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c1, t0.c2, t0.c0, v0.c0 FROM t1,  v0 INNER JOIN t0 ON true WHERE 129323091 UNION ALL SELECT v0.c1, t0.c2, t0.c0, v0.c0 FROM t1,  v0 INNER JOIN t0 ON true WHERE (NOT (129323091)) UNION ALL SELECT v0.c1, t0.c2, t0.c0, v0.c0 FROM t1,  v0 INNER JOIN t0 ON true WHERE ((129323091) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE (NOT (CAST(((-687068615)<=(t0.c0)) AS DATETIME))) UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT ((NOT (CAST(((-687068615)<=(t0.c0)) AS DATETIME))))) UNION ALL SELECT t0.c0 FROM t0 WHERE (((NOT (CAST(((-687068615)<=(t0.c0)) AS DATETIME)))) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT v0.c0 FROM v0 GROUP BY v0.c0 HAVING (NOT (1713410094)) ORDER BY true, CAST(v0.c0 AS BINARY) DESC, -336792082;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ INL_MERGE_JOIN(t0)*/t0.c0 FROM t0 WHERE false GROUP BY '';", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 WHERE t0.c1 UNION ALL SELECT t0.c0 FROM t0 WHERE (NOT (t0.c1)) UNION ALL SELECT t0.c0 FROM t0 WHERE ((t0.c1) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0;", "result": "success", "error_info": ""}
+{"sql": "SELECT t1.c2 FROM  t0 LEFT JOIN t1 ON '';", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0, t43;", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM  v0 NATURAL LEFT JOIN t0 WHERE INET_ATON('s,qu!s<') UNION ALL SELECT * FROM  v0 NATURAL LEFT JOIN t0 WHERE (NOT (INET_ATON('s,qu!s<'))) UNION ALL SELECT * FROM  v0 NATURAL LEFT JOIN t0 WHERE ((INET_ATON('s,qu!s<')) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0, t33.c0 FROM  t33 RIGHT  OUTER JOIN t0 ON t0.c0 WHERE ((0.054809097088434844)OR(NULL)) ORDER BY t33.c0 DESC;", "result": "success", "error_info": ""}
+{"sql": "SELECT t0.c0 FROM t0 GROUP BY t0.c0, -725557254, '0' ORDER BY (~ (t0.c0)) ASC;", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ MPP_2PHASE_AGG()*/t0.c1 FROM t0 WHERE 1183810916 GROUP BY ((t0.c1)>(t0.c2));", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t80 WHERE t80.c0 UNION ALL SELECT * FROM t80 WHERE (NOT (t80.c0)) UNION ALL SELECT * FROM t80 WHERE ((t80.c0) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT * FROM t0 WHERE CAST(NULL AS SIGNED) UNION ALL SELECT * FROM t0 WHERE (NOT (CAST(NULL AS SIGNED))) UNION ALL SELECT * FROM t0 WHERE ((CAST(NULL AS SIGNED)) IS NULL);", "result": "success", "error_info": ""}
+{"sql": "SELECT /*+ STREAM_AGG()*/t35.c0 FROM t35 GROUP BY EXP(INET6_ATON(t35.c0));", "result": "success", "error_info": ""}

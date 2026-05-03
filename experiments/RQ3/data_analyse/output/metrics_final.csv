@@ -1,0 +1,16 @@
+DB,Tool,Correctness_Avg,Unique_Tokens
+mysql,LACAST_S,26.00,17.92
+mysql,LACAST_I,11.00,28.64
+mysql,LACAST,93.10,64.03
+mariadb,LACAST_S,38.00,21.47
+mariadb,LACAST_I,71.00,39.11
+mariadb,LACAST,98.58,46.59
+sqlite,LACAST_S,22.00,17.41
+sqlite,LACAST_I,53.00,39.23
+sqlite,LACAST,96.57,58.09
+tidb,LACAST_S,55.00,19.91
+tidb,LACAST_I,58.00,33.48
+tidb,LACAST,99.01,50.97
+postgres,LACAST_S,3.00,14.00
+postgres,LACAST_I,52.00,27.58
+postgres,LACAST,98.86,36.27

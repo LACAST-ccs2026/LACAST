@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_evaluator_without_agg",
+    "left": "agg_LAST_DAY_date_evaluator",
+    "right": "\"LAST_DAY(\"text_AGG_evaluator \")\""
+}

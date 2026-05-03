@@ -1,0 +1,6 @@
+{
+    "syntax_name": "set_bit_bytea",
+    "raw_syntax_name": "set_bit ( bytes bytea, n bigint, newvalue integer ) \u2192 bytea",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

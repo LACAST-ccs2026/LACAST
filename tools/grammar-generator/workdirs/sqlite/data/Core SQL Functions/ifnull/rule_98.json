@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "ifnull_blob_evaluator",
+    "right": "\"ifnull(\"_var_blob \",\" _var_text \")\""
+}

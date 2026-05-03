@@ -1,0 +1,7 @@
+{
+    "syntax_name": "ASCII",
+    "raw_syntax_name": "ASCII()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The ASCII(str) function returns the ASCII value of the leftmost character in the given argument. Returns NULL if argument is NULL."
+}

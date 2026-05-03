@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "CEIL_double_evaluator",
+    "right": "\"CEIL(\"_var_double \")\""
+}

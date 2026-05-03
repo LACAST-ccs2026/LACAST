@@ -1,0 +1,6 @@
+{
+    "syntax_name": "FROM_DAYS",
+    "raw_syntax_name": "FROM_DAYS(N)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

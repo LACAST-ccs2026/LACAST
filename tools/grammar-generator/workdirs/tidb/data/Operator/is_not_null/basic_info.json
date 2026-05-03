@@ -1,0 +1,7 @@
+{
+    "syntax_name": "is_not_null",
+    "raw_syntax_name": "IS NOT NULL",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Tests whether a value is not NULL. Returns 1 if the value is not NULL, 0 if it is NULL."
+}

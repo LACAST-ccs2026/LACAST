@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "btrim_text_evaluator",
+    "right": "\"btrim(\"_var_character \",\" \"' '\"\")\""
+}

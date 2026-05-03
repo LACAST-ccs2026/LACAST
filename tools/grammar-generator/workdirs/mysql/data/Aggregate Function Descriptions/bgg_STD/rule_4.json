@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "double_AGG_evaluator",
+    "left": "STD_double_evaluator",
+    "right": "\"STD(\"_var_bit \")\""
+}

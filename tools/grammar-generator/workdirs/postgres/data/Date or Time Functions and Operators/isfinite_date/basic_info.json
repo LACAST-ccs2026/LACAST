@@ -1,0 +1,6 @@
+{
+    "syntax_name": "isfinite_date",
+    "raw_syntax_name": "isfinite ( date ) \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

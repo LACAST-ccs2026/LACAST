@@ -1,0 +1,6 @@
+{
+    "syntax_name": "USER",
+    "raw_syntax_name": "USER()",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

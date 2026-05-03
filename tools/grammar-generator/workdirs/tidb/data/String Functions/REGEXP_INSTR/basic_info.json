@@ -1,0 +1,7 @@
+{
+    "syntax_name": "REGEXP_INSTR",
+    "raw_syntax_name": "REGEXP_INSTR()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The REGEXP_INSTR(str, pattern) function returns the position of the first match of pattern in str."
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "not_in",
+    "raw_syntax_name": "expr NOT IN (value,...)",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Checks whether a value is not within a set of values. Returns 1 if the value is not in the list, 0 otherwise. Syntax: expr NOT IN (value1, value2, ...)"
+}

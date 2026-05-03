@@ -1,0 +1,5 @@
+{
+    "type_eval": "time_evaluator_without_agg",
+    "left": "CURRENT_TIME_time_evaluator",
+    "right": "\"CURRENT_TIME(\"CURRENT_TIME_fsp \")\""
+}

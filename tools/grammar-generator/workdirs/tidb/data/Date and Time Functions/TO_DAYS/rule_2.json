@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "TO_DAYS_integer_evaluator",
+    "right": "\"TO_DAYS(\"_var_year \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "date_trunc",
+    "raw_syntax_name": "date_trunc ( text, interval ) \u2192 interval",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

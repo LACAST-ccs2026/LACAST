@@ -1,0 +1,6 @@
+{
+  "idx": 2,
+  "type_eval": "double_AGG_evaluator",
+  "left": "bgg_approx_percentile_double_evaluator",
+  "right": "\"APPROX_PERCENTILE(\" _var_double \",\" \"50\" \")\""
+}

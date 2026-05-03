@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "ISNOT_integer_evaluator",
+    "right": "numeric_evaluator_without_agg \"IS NOT\" numeric_evaluator_without_agg"
+}

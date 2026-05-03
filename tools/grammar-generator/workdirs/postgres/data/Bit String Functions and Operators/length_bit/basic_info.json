@@ -1,0 +1,6 @@
+{
+    "syntax_name": "length_bit",
+    "raw_syntax_name": "length ( bit ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Bit String Functions and Operators"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "printf_text_evaluator",
+    "right": "\"printf(\"text_evaluator_without_agg \",\" integer_evaluator_without_agg(\",\" integer_evaluator_without_agg)* \")\""
+}

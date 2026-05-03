@@ -1,0 +1,6 @@
+{
+    "idx": 79,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_DIV_integer_evaluator",
+    "right": "integer_evaluator_without_agg \"DIV\" boolean_AGG_evaluator"
+}

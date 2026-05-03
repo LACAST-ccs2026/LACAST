@@ -1,0 +1,5 @@
+{
+    "type_eval": "bit_evaluator_without_agg",
+    "left": "bit_and_bit_bit_evaluator",
+    "right": "\"B'1010'\" \"&\" \"B'1010'\""
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_DECODE_SQL_DIGESTS",
+    "raw_syntax_name": "TIDB_DECODE_SQL_DIGESTS",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "TIDB_DECODE_SQL_DIGESTS(digests) decodes SQL digests into SQL statements."
+}

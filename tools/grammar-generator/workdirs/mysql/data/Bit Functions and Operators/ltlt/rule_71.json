@@ -1,0 +1,6 @@
+{
+    "idx": 71,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "ltlt_text_evaluator",
+    "right": "_var_text \"<<\" _var_bit"
+}

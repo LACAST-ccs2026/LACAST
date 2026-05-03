@@ -1,0 +1,6 @@
+{
+    "syntax_name": "UUID_SHORT",
+    "raw_syntax_name": "UUID_SHORT()",
+    "is_agg": false,
+    "syntax_type": "Miscellaneous Functions"
+}

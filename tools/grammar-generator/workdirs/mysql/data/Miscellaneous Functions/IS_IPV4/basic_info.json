@@ -1,0 +1,6 @@
+{
+    "syntax_name": "IS_IPV4",
+    "raw_syntax_name": "IS_IPV4(expr)",
+    "is_agg": false,
+    "syntax_type": "Miscellaneous Functions"
+}

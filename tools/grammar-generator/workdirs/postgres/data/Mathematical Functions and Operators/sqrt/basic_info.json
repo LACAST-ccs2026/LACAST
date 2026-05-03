@@ -1,0 +1,6 @@
+{
+    "syntax_name": "sqrt",
+    "raw_syntax_name": "sqrt ( numeric ) \u2192 numeric",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

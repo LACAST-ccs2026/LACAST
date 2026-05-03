@@ -1,0 +1,7 @@
+{
+  "syntax_name": "is_null",
+  "raw_syntax_name": "IS NULL",
+  "is_agg": false,
+  "syntax_type": "Operator",
+  "syntax_info": "IS NULL Tests whether a value is NULL. mysql> SELECT 1 IS NULL, 0 IS NULL, NULL IS NULL; -> 0, 0, 1"
+}

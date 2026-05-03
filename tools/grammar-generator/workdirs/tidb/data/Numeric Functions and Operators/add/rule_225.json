@@ -1,0 +1,6 @@
+{
+    "idx": 225,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_add_double_evaluator",
+    "right": "_var_text \"+\" bit_AGG_evaluator"
+}

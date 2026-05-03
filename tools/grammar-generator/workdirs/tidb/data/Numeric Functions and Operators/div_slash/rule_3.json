@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "div_slash_double_evaluator",
+    "right": "_var_double \"/\" _var_integer"
+}

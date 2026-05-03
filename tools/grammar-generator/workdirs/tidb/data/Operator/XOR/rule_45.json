@@ -1,0 +1,6 @@
+{
+    "idx": 45,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_XOR_integer_evaluator",
+    "right": "_var_double \"XOR\" double_AGG_evaluator"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "boolean_AGG_evaluator",
+    "left": "MAX_boolean_evaluator",
+    "right": "\"MAX(\"boolean_evaluator_without_agg \")\""
+}

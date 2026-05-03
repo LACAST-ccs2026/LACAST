@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_regr_syy",
+    "raw_syntax_name": "regr_syy ( Y double precision, X double precision ) \u2192 double precision",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

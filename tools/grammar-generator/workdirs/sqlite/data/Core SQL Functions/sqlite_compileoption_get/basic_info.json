@@ -1,0 +1,6 @@
+{
+    "syntax_name": "sqlite_compileoption_get",
+    "raw_syntax_name": "sqlite_compileoption_get(N)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

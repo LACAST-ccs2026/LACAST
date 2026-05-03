@@ -1,0 +1,6 @@
+{
+    "idx": 117,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_gtgt_blob_evaluator",
+    "right": "blob_AGG_evaluator \">>\" double_evaluator_without_agg"
+}

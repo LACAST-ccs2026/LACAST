@@ -1,0 +1,6 @@
+{
+    "syntax_name": "UTC_DATE",
+    "raw_syntax_name": "UTC_DATE",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

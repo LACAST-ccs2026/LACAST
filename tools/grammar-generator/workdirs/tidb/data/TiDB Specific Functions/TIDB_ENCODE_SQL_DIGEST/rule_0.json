@@ -1,0 +1,1 @@
+{"idx": 0, "type_eval": "char_evaluator_without_agg", "left": "TIDB_ENCODE_SQL_DIGEST_char_evaluator", "right": "\"TIDB_ENCODE_SQL_DIGEST(\" _var_char \")\""}

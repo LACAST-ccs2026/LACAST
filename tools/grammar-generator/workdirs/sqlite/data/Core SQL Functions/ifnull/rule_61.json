@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "ifnull_text_evaluator",
+    "right": "\"ifnull(\"text_evaluator_without_agg \",\" _var_real \")\""
+}

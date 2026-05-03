@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_AGG_evaluator",
+    "left": "any_value_timestamp_evaluator",
+    "right": "\"any_value((\"_var_timestamp\")::timestamp)\""
+}

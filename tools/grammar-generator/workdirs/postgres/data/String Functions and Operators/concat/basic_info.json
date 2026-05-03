@@ -1,0 +1,6 @@
+{
+    "syntax_name": "concat",
+    "raw_syntax_name": "concat ( val1 \"any\" [, val2 \"any\" [, ...] ] ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

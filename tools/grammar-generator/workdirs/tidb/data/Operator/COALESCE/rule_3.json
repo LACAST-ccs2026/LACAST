@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "COALESCE_integer_evaluator",
+    "right": "\"COALESCE(\"_var_integer \")\""
+}

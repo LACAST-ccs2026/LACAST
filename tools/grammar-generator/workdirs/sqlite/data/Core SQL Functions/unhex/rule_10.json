@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_unhex_blob_evaluator",
+    "right": "\"unhex(\"text_AGG_evaluator \")\""
+}

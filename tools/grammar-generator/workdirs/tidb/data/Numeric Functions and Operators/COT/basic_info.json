@@ -1,0 +1,6 @@
+{
+    "syntax_name": "COT",
+    "raw_syntax_name": "COT(X)",
+    "is_agg": false,
+    "syntax_type": "Numeric Functions and Operators"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "uuid_extract_timestamp_timestamp_evaluator",
+    "right": "\"uuid_extract_timestamp(\" _var_uuid \")\""
+}

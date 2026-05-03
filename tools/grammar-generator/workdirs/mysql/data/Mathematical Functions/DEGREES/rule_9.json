@@ -1,0 +1,6 @@
+{
+    "idx": 9,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "DEGREES_double_evaluator",
+    "right": "\"DEGREES(\"char_evaluator_without_agg \")\""
+}

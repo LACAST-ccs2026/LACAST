@@ -1,0 +1,7 @@
+{
+    "syntax_name": "OCTET_LENGTH",
+    "raw_syntax_name": "OCTET_LENGTH()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The OCTET_LENGTH() function returns the length of a string in bytes. Synonym for LENGTH()."
+}

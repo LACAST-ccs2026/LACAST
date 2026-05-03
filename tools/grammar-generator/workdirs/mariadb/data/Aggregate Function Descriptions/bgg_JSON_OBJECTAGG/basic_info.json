@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_JSON_OBJECTAGG",
+    "raw_syntax_name": "JSON_OBJECTAGG(key, value) [over_clause]",
+    "is_agg": true,
+    "syntax_type": "Aggregate Function Descriptions"
+}

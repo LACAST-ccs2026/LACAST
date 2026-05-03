@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "reverse_text_func_evaluator",
+    "right": "\"reverse(\" _var_character \")\""
+}

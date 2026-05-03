@@ -1,0 +1,6 @@
+{
+    "idx": 23,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_complement_integer_evaluator",
+    "right": "\"~(\"year_AGG_evaluator \")\""
+}

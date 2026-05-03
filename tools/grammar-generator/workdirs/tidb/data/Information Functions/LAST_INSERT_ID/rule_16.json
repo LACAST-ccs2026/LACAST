@@ -1,0 +1,6 @@
+{
+    "idx": 16,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_LAST_INSERT_ID_integer_evaluator",
+    "right": "\"LAST_INSERT_ID(\"bit_AGG_evaluator \")\""
+}

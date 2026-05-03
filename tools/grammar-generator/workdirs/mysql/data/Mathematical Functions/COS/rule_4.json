@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "COS_double_evaluator",
+    "right": "\"COS(\"_var_bit \")\""
+}

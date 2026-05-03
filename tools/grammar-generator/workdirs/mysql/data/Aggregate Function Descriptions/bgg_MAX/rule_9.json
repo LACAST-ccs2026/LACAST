@@ -1,0 +1,6 @@
+{
+    "idx": 9,
+    "type_eval": "char_AGG_evaluator",
+    "left": "MAX_char_evaluator",
+    "right": "\"MAX(\"_var_char \")\""
+}

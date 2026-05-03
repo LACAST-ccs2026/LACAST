@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "unixepoch_integer_evaluator",
+    "right": "\"unixepoch(\"_var_real \")\""
+}

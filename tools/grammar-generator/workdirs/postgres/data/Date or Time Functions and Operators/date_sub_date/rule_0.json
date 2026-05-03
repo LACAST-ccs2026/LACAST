@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "date_sub_date_integer_evaluator",
+    "right": "\"DATE '2024-01-15' - DATE '2024-01-01'\""
+}

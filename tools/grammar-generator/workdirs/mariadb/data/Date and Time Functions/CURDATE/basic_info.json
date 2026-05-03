@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CURDATE",
+    "raw_syntax_name": "CURDATE()",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

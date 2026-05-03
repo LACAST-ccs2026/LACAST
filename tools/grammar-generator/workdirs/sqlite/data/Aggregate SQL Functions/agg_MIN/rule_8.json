@@ -1,0 +1,5 @@
+{
+    "type_eval": "numeric_AGG_evaluator",
+    "left": "MIN_numeric_evaluator",
+    "right": "\"MIN(\"_var_numeric \")\""
+}

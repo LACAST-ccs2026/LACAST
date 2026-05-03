@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "normalize_text_evaluator",
+    "right": "\"normalize('Caf\u00e9', NFC)\""
+}

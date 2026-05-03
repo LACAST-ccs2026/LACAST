@@ -1,0 +1,6 @@
+{
+    "syntax_name": "log",
+    "raw_syntax_name": "log(X)log10(X)log(B,X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

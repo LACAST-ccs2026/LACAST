@@ -1,0 +1,15 @@
+[
+  {
+    "key": "t0",
+    "fields": [
+      "c0",
+      "c1",
+      "c2"
+    ],
+    "types": [
+      "BINARY",
+      "REAL",
+      "INT"
+    ]
+  }
+]

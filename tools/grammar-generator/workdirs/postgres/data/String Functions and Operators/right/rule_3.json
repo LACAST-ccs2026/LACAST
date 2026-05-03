@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "right_text_evaluator",
+    "right": "\"right( 'PostgreSQL' , 7 )\""
+}

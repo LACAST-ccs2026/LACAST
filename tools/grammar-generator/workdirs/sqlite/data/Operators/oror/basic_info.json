@@ -1,0 +1,6 @@
+{
+    "syntax_name": "oror",
+    "raw_syntax_name": "||",
+    "is_agg": false,
+    "syntax_type": "Operators"
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "UNHEX",
+    "raw_syntax_name": "UNHEX()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The UNHEX(str) function converts a hexadecimal string to bytes. Returns NULL if argument is NULL."
+}

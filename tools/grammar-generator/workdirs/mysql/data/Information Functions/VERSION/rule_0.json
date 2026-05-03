@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "VERSION_text_evaluator",
+    "right": "\"VERSION(\" \")\""
+}

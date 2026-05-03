@@ -1,0 +1,6 @@
+{
+    "idx": 24,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "COALESCE_datetime_evaluator",
+    "right": "\"COALESCE(\"_var_date \",\" datetime_evaluator_without_agg(\",\" datetime_evaluator_without_agg)* \",\" _var_timestamp(\",\" _var_timestamp)* \")\""
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "WEIGHT_STRING",
+    "raw_syntax_name": "WEIGHT_STRING()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The WEIGHT_STRING(str) function returns the weight string for a character string."
+}

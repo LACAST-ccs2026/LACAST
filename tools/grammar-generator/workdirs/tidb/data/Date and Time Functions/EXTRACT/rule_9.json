@@ -1,0 +1,6 @@
+{
+    "idx": 9,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "EXTRACT_integer_evaluator",
+    "right": "\"EXTRACT(\"EXTRACT_unit\" FROM \"year_evaluator_without_agg\")\""
+}

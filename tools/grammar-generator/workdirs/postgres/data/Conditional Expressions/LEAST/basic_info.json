@@ -1,0 +1,6 @@
+{
+    "syntax_name": "LEAST",
+    "raw_syntax_name": "LEAST(value1, value2, ...)",
+    "is_agg": false,
+    "syntax_type": "Conditional Expressions"
+}

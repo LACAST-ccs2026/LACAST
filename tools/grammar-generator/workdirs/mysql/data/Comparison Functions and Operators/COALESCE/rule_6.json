@@ -1,0 +1,6 @@
+{
+    "idx": 6,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "COALESCE_boolean_evaluator",
+    "right": "\"COALESCE(\"_var_boolean \")\""
+}

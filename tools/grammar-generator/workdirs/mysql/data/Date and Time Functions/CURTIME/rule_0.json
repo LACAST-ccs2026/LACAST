@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "CURTIME_time_evaluator",
+    "right": "\"CURTIME()\""
+}

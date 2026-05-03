@@ -1,0 +1,1 @@
+{"idx": 1, "type_eval": "datetime_evaluator_without_agg", "left": "TIDB_BOUNDED_STALENESS_datetime_evaluator", "right": "\"TIDB_BOUNDED_STALENESS(\" datetime_evaluator_without_agg \",\" datetime_evaluator_without_agg \")\""}

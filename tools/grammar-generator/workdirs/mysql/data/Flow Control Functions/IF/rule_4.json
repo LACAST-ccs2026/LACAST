@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "IF_integer_evaluator",
+    "right": "\"IF(\"boolean_evaluator_without_agg \",\" _var_integer \",\" _var_integer \")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "ROUND_double_evaluator",
+    "right": "\"ROUND(\"char_evaluator_without_agg \",\" ROUND_D \")\""
+}

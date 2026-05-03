@@ -1,0 +1,6 @@
+{
+    "idx": 120,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_DIV_integer_evaluator",
+    "right": "bit_AGG_evaluator \"DIV\" _var_boolean"
+}

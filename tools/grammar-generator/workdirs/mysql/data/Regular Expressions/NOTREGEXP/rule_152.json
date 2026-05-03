@@ -1,0 +1,6 @@
+{
+    "idx": 152,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_NOTREGEXP_boolean_evaluator",
+    "right": "text_evaluator_without_agg \"NOT REGEXP\" text_AGG_evaluator"
+}

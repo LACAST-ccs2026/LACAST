@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_AGG_evaluator",
+    "left": "max_date_evaluator",
+    "right": "\"max(\"date_evaluator_without_agg\")\""
+}

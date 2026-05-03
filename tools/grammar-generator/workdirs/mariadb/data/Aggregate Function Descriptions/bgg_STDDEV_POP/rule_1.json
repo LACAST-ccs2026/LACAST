@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_AGG_evaluator",
+    "left": "STDDEV_POP_double_evaluator",
+    "right": "\"STDDEV_POP(\"bit_evaluator_without_agg \")\""
+}

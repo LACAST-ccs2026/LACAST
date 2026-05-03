@@ -1,0 +1,44 @@
+3686 (HY000): Index out of bounds in regular expression search.
+1690 (22003): BIGINT UNSIGNED value is out of range in '(42 - uuid_short())'
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+3158 (22032): JSON documents may not contain NULL member names.
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+3995 (HY000): Character set 'utf8mb4_0900_ai_ci' cannot be used in conjunction with 'binary' in call to regexp_like.
+3158 (22032): JSON documents may not contain NULL member names.
+3158 (22032): JSON documents may not contain NULL member names.
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+1525 (HY000): Incorrect DATETIME value: 'A'
+3513 (HY000): Binary operands of bitwise operators must be of equal length
+1690 (22003): DOUBLE value is out of range in 'exp(`sqlcraft`.`tom34`.`c0`)'
+1690 (22003): DOUBLE value is out of range in 'cot(`sqlcraft`.`tom8`.`c1`)'
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+3686 (HY000): Index out of bounds in regular expression search.
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+3513 (HY000): Binary operands of bitwise operators must be of equal length
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+3513 (HY000): Binary operands of bitwise operators must be of equal length
+3995 (HY000): Character set 'utf8mb4_0900_ai_ci' cannot be used in conjunction with 'binary' in call to regexp_like.
+29 (HY000): File './sqlcraft/t2.MYD' not found (OS errno 24 - Too many open files)
+3995 (HY000): Character set 'utf8mb4_0900_ai_ci' cannot be used in conjunction with 'binary' in call to regexp_like.
+3513 (HY000): Binary operands of bitwise operators must be of equal length
+1690 (22003): DOUBLE value is out of range in 'cot(degrees(roles_graphml()))'
+3995 (HY000): Character set 'utf8mb3_general_ci' cannot be used in conjunction with 'binary' in call to regexp_like.
+3995 (HY000): Character set 'utf8mb4_0900_ai_ci' cannot be used in conjunction with 'binary' in call to regexp_like.
+3995 (HY000): Character set 'utf8mb4_0900_ai_ci' cannot be used in conjunction with 'binary' in call to regexp_like.
+1690 (22003): DOUBLE value is out of range in 'cot(acos(1))'
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+1052 (23000): Column 'c0' in having clause is ambiguous
+1690 (22003): DOUBLE value is out of range in 'exp(`sqlcraft`.`tom0`.`c0`)'
+1690 (22003): DOUBLE value is out of range in 'exp(`sqlcraft`.`tom9`.`c1`)'
+1690 (22003): DOUBLE value is out of range in 'exp(`sqlcraft`.`tom9`.`c1`)'
+3995 (HY000): Character set 'utf8mb4_0900_ai_ci' cannot be used in conjunction with 'binary' in call to regexp_like.
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.
+3995 (HY000): Character set 'utf8mb4_0900_ai_ci' cannot be used in conjunction with 'binary' in call to regexp_like.
+3995 (HY000): Character set 'utf8mb4_0900_ai_ci' cannot be used in conjunction with 'binary' in call to regexp_like.
+1525 (HY000): Incorrect DATETIME value: 'A'
+1052 (23000): Column 'c1' in having clause is ambiguous
+1690 (22003): DOUBLE value is out of range in 'cot(if((ifnull('A',atan((0x2a * 3.14159),abs(0x2a))) not between ('2025-12-31' + interval 1 hour) and (0x68656c6c6f << 1)),timestampdiff(SECOND,'2025-12-31 14:30:00','2025-12-31 14:30:00'),42))'
+1690 (22003): DOUBLE value is out of range in 'cot(unix_timestamp(conv(time_to_sec('2025-12-31 14:30:00'),32,-(16))))'
+3995 (HY000): Character set 'binary' cannot be used in conjunction with 'utf8mb4_0900_ai_ci' in call to regexp_like.

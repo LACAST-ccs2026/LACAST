@@ -1,0 +1,1 @@
+{"idx": 0, "type_eval": "char_evaluator_without_agg", "left": "SUBSTRING_INDEX_char_evaluator", "right": "\"SUBSTRING_INDEX(\" _var_char \",\" _var_char \",\" _var_integer \")\""}

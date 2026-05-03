@@ -1,0 +1,6 @@
+{
+    "idx": 47,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_gt_boolean_evaluator",
+    "right": "bit_evaluator_without_agg \">\" bit_AGG_evaluator"
+}

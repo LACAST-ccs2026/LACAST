@@ -1,0 +1,6 @@
+{
+    "idx": 12,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "REGEXP_LIKE_integer_evaluator",
+    "right": "\"REGEXP_LIKE(\"_var_blob\", \"_var_char\", \"REGEXP_LIKE_match_type\")\""
+}

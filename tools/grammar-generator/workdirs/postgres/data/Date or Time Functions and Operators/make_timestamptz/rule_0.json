@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "make_timestamptz_timestamp_evaluator",
+    "right": "\"make_timestamptz(\"\"2024\" \",\" \"1\" \",\" \"1\" \",\" \"12\" \",\" \"30\" \",\" \"0.0\"\")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "gtgt_integer_evaluator",
+    "right": "_var_boolean \">>\" _var_double"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ROUND",
+    "raw_syntax_name": "ROUND()",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

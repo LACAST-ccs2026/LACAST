@@ -1,0 +1,5 @@
+{
+    "type_eval": "inet_evaluator_without_agg",
+    "left": "bigint_add_inet_evaluator",
+    "right": "\"5 + inet '192.168.1.1'\""
+}

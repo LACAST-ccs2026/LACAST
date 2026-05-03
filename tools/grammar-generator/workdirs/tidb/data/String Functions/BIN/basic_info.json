@@ -1,0 +1,7 @@
+{
+    "syntax_name": "BIN",
+    "raw_syntax_name": "BIN()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The BIN() function converts the given argument into a string representation of its binary value. Returns NULL if argument is NULL."
+}

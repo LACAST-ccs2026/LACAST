@@ -1,0 +1,6 @@
+{
+    "idx": 16,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "lteqgt_boolean_evaluator",
+    "right": "date_evaluator_without_agg \"<=>\" date_evaluator_without_agg"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "convert_from_func",
+    "raw_syntax_name": "convert_from ( bytes bytea, src_encoding name ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

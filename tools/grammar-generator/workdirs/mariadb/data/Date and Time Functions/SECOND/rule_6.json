@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_SECOND_integer_evaluator",
+    "right": "\"SECOND(\"time_AGG_evaluator \")\""
+}

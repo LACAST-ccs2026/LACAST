@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "PERIOD_ADD_integer_evaluator",
+    "right": "\"PERIOD_ADD(\"PERIOD_ADD_period\",\"_var_integer\")\""
+}

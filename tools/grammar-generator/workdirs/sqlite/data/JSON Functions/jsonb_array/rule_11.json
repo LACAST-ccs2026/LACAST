@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_jsonb_array_blob_evaluator",
+    "right": "\"jsonb_array(\"numeric_AGG_evaluator \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 13,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_SIGN_integer_evaluator",
+    "right": "\"SIGN(\"double_AGG_evaluator \")\""
+}

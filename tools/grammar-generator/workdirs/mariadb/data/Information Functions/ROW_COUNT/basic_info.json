@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ROW_COUNT",
+    "raw_syntax_name": "ROW_COUNT()",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

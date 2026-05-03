@@ -1,0 +1,6 @@
+{
+    "syntax_name": "json_remove",
+    "raw_syntax_name": "json_remove(_json_, _path_, ...)",
+    "is_agg": false,
+    "syntax_type": "JSON Functions"
+}

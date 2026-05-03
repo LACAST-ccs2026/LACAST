@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_COUNT",
+    "raw_syntax_name": "COUNT(DISTINCT expr,[expr...])",
+    "is_agg": true,
+    "syntax_type": "Aggregate Function Descriptions"
+}

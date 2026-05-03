@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_AGG_evaluator",
+    "left": "jsonb_group_object_blob_evaluator",
+    "right": "\"jsonb_group_object(\"text_evaluator_without_agg \",\" real_evaluator_without_agg \")\""
+}

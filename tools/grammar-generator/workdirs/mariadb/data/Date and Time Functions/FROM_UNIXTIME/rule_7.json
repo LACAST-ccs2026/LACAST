@@ -1,0 +1,5 @@
+{
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_FROM_UNIXTIME_char_evaluator",
+    "right": "\"FROM_UNIXTIME(\"double_AGG_evaluator\", \"FROM_UNIXTIME_format\")\""
+}

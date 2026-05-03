@@ -1,0 +1,7 @@
+{
+    "syntax_name": "LCASE",
+    "raw_syntax_name": "LCASE()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The LCASE(str) function is a synonym for LOWER(str). Returns the lowercase of the given argument. Returns NULL if argument is NULL."
+}

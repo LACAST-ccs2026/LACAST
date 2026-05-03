@@ -1,0 +1,6 @@
+{
+    "idx": 16,
+    "type_eval": "blob_AGG_evaluator",
+    "left": "GROUP_CONCAT_blob_evaluator",
+    "right": "\"GROUP_CONCAT(\"_var_blob \")\""
+}

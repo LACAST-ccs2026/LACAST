@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "XOR_integer_evaluator",
+    "right": "blob_evaluator_without_agg \"XOR\" blob_evaluator_without_agg"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "trim_text_evaluator",
+    "right": "\"trim(\"_var_real \")\""
+}

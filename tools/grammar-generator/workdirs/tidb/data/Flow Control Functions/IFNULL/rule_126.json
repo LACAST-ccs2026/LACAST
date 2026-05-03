@@ -1,0 +1,6 @@
+{
+    "idx": 126,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "agg_IFNULL_time_evaluator",
+    "right": "\"IFNULL(\"time_AGG_evaluator \",\" _var_time \")\""
+}

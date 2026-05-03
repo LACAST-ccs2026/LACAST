@@ -1,0 +1,7 @@
+{
+    "syntax_name": "SUBSTRING_INDEX",
+    "raw_syntax_name": "SUBSTRING_INDEX()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The SUBSTRING_INDEX(str, delim, count) function returns a substring before/after count occurrences of delim."
+}

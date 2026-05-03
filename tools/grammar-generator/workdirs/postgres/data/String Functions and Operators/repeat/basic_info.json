@@ -1,0 +1,6 @@
+{
+    "syntax_name": "repeat",
+    "raw_syntax_name": "repeat ( string text, number integer ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

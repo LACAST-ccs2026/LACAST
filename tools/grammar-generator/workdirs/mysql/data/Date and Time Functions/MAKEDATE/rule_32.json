@@ -1,0 +1,6 @@
+{
+    "idx": 32,
+    "type_eval": "date_evaluator_without_agg",
+    "left": "agg_MAKEDATE_date_evaluator",
+    "right": "\"MAKEDATE(\"year_AGG_evaluator \",\" year_evaluator_without_agg \")\""
+}

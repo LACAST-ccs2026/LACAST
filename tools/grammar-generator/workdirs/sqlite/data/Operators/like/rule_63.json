@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "like_integer_evaluator",
+    "right": "\"like(\"integer_evaluator_without_agg \",\" integer_evaluator_without_agg \")\""
+}

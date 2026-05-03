@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_BIN_char_evaluator",
+    "right": "\"BIN(\" integer_AGG_evaluator \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "decode",
+    "raw_syntax_name": "decode ( string text, format text ) \u2192 bytea",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

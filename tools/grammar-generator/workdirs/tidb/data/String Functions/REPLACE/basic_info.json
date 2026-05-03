@@ -1,0 +1,7 @@
+{
+    "syntax_name": "REPLACE",
+    "raw_syntax_name": "REPLACE()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The REPLACE(str, from_str, to_str) function replaces all occurrences of from_str with to_str in str. Returns NULL if any argument is NULL."
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 7,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "POW_double_evaluator",
+    "right": "\"POW(\"double_evaluator_without_agg \",\" boolean_evaluator_without_agg \")\""
+}

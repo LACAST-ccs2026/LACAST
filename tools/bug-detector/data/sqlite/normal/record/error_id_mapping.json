@@ -1,0 +1,22 @@
+{
+    "malformed JSON": {
+        "id": "bdfce4f7-1a11-4161-b717-302d465e51a3",
+        "count": 22
+    },
+    "JSON cannot hold BLOB values": {
+        "id": "cd9d3d83-ff03-4c98-99de-314b93ae4276",
+        "count": 41
+    },
+    "string or blob too big": {
+        "id": "4b1a4e4b-50ca-40d0-9d79-bb36842282b7",
+        "count": 19
+    },
+    "json_set() needs an odd number of arguments": {
+        "id": "33fefe70-5f5e-4a7f-9337-20bb9f5eb4d1",
+        "count": 1
+    },
+    "wrong number of arguments to function concat_ws()": {
+        "id": "95aa0bde-6cfb-4d8f-b351-370a802d106a",
+        "count": 1
+    }
+}

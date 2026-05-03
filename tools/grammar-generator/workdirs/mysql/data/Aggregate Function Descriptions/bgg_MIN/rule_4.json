@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "MIN_integer_evaluator",
+    "right": "\"MIN(\"_var_integer \")\""
+}

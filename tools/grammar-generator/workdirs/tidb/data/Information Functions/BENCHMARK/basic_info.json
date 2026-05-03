@@ -1,0 +1,7 @@
+{
+    "syntax_name": "BENCHMARK",
+    "raw_syntax_name": "BENCHMARK()",
+    "is_agg": false,
+    "syntax_type": "Information Functions",
+    "syntax_info": "BENCHMARK(count, expr) executes the expression expr repeatedly count times. It always returns 0."
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "coalesce",
+    "raw_syntax_name": "coalesce(X,Y,...)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

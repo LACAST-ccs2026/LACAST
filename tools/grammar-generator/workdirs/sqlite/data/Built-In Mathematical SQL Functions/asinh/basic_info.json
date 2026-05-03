@@ -1,0 +1,6 @@
+{
+    "syntax_name": "asinh",
+    "raw_syntax_name": "asinh(X)",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "mod_numeric_op_integer_evaluator",
+    "right": "_var_integer \"%\" _var_integer"
+}

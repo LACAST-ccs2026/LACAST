@@ -1,0 +1,6 @@
+{
+    "syntax_name": "NULLIF",
+    "raw_syntax_name": "NULLIF(value1, value2)",
+    "is_agg": false,
+    "syntax_type": "Conditional Expressions"
+}

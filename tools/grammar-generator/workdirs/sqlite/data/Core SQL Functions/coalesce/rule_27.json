@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "coalesce_blob_evaluator",
+    "right": "\"coalesce(\"_var_blob \",\" _var_blob(\",\" _var_blob)* \")\""
+}

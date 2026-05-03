@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_instr_integer_evaluator",
+    "right": "\"instr(\"_var_text \",\" text_AGG_evaluator \")\""
+}

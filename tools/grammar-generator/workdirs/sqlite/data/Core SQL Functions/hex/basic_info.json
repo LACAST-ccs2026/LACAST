@@ -1,0 +1,6 @@
+{
+    "syntax_name": "hex",
+    "raw_syntax_name": "hex(X)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

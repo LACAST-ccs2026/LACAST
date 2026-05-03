@@ -1,0 +1,5 @@
+{
+    "type_eval": "timestamp_AGG_evaluator",
+    "left": "max_timestamp_evaluator",
+    "right": "\"max(\"_var_timestamp\")\""
+}

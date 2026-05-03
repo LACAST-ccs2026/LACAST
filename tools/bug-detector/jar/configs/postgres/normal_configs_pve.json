@@ -1,0 +1,16 @@
+{
+  "typesJsonPath": "./jar/configs/postgres/datatypes/types.json",
+  "typesDir": "./jar/configs/postgres/datatypes",
+  "grammarPath": "./jar/configs/postgres/grammars/grammar.g4",
+  "recordRulePath": "./jar/configs/postgres/grammars/recordRules.log",
+  "schemaPath": "./data/postgres/normal/current_schema/converted_schema.json",
+  "startName": "query",
+  "depth": 2,
+  "GB_UNIFIED_RULE": 1,
+  "AGG_ONLY_IN_GB":1,
+  "HAVING_USE_SELECT": 0,
+  "HAVING_USE_FROM": 1,
+  "HAVING_USE_GROUPBY": 1,
+  "orderByProjectionRule":1,
+  "OUTER_REF_ENABLED": 0
+}

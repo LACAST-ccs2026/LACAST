@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "FIND_IN_SET_integer_evaluator",
+    "right": "\"FIND_IN_SET(\" char_evaluator_without_agg \",\" _var_char \")\""
+}

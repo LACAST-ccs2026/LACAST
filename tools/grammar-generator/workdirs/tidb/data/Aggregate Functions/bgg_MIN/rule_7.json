@@ -1,0 +1,6 @@
+{
+    "idx": 7,
+    "type_eval": "boolean_AGG_evaluator",
+    "left": "MIN_boolean_evaluator",
+    "right": "\"MIN(\"_var_boolean \")\""
+}

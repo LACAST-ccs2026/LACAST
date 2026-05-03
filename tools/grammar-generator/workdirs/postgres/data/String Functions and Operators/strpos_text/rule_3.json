@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "strpos_text_evaluator",
+    "right": "\"strpos(\" character_evaluator_without_agg \",\" character_evaluator_without_agg \")\""
+}

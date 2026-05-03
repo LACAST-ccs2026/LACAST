@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "BIT_LENGTH_integer_evaluator",
+    "right": "\"BIT_LENGTH(\" _var_text \")\""
+}

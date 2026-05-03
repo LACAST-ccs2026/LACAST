@@ -1,0 +1,29 @@
+{
+    "time_modifier": [
+        "\"'now'\"",
+        "\"'unixepoch'\"",
+        "\"'localtime'\"",
+        "\"'utc'\"",
+        "\"'subsec'\"",
+        "\"'start of day'\"",
+        "\"'start of month'\"",
+        "\"'start of year'\"",
+        "\"'start of hour'\"",
+        "\"'start of minute'\"",
+        "\"'weekday 0'\"",
+        "\"'weekday 1'\"",
+        "\"'weekday 2'\"",
+        "\"'weekday 3'\"",
+        "\"'weekday 4'\"",
+        "\"'weekday 5'\"",
+        "\"'weekday 6'\"",
+        "\"'10 days'\"",
+        "\"'-1 day'\"",
+        "\"'2 hours'\"",
+        "\"'30 minutes'\"",
+        "\"'5 seconds'\"",
+        "\"'1 month'\"",
+        "\"'1 year'\"",
+        "\"'1.5 seconds'\""
+    ]
+}

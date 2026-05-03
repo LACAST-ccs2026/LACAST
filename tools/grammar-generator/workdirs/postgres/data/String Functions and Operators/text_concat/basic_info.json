@@ -1,0 +1,6 @@
+{
+    "syntax_name": "text_concat",
+    "raw_syntax_name": "text || text \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

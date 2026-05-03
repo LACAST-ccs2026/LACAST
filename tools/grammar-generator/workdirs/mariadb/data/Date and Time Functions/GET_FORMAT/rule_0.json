@@ -1,0 +1,5 @@
+{
+    "type_eval": "char_evaluator_without_agg",
+    "left": "GET_FORMAT_char_evaluator",
+    "right": "\"GET_FORMAT(\"GET_FORMAT_date_or_time_type\", \"GET_FORMAT_format\")\""
+}

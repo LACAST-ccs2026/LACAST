@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "date_text_evaluator",
+    "right": "\"date(\"_var_numeric \",\" date_modifier(\",\" date_modifier)* \")\""
+}

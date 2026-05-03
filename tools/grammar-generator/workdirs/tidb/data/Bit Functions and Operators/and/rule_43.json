@@ -1,0 +1,6 @@
+{
+    "idx": 43,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "and_integer_evaluator",
+    "right": "time_evaluator_without_agg \"&\" _var_time"
+}

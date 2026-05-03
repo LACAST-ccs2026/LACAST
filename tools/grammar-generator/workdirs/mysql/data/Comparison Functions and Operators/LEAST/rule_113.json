@@ -1,0 +1,6 @@
+{
+    "idx": 113,
+    "type_eval": "date_evaluator_without_agg",
+    "left": "LEAST_date_evaluator",
+    "right": "\"LEAST(\"_var_date \",\" date_evaluator_without_agg(\",\" date_evaluator_without_agg)* \")\""
+}

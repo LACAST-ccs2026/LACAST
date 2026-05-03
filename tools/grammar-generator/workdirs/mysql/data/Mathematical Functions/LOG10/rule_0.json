@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_LOG10_double_evaluator",
+    "right": "\"LOG10(\"integer_AGG_evaluator \")\""
+}

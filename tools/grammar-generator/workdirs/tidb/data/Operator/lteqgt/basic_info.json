@@ -1,0 +1,6 @@
+{
+    "syntax_name": "lteqgt",
+    "raw_syntax_name": "<=>",
+    "is_agg": false,
+    "syntax_type": "Operator"
+}

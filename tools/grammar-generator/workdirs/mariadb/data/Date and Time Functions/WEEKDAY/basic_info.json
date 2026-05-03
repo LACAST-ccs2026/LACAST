@@ -1,0 +1,6 @@
+{
+    "syntax_name": "WEEKDAY",
+    "raw_syntax_name": "WEEKDAY(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

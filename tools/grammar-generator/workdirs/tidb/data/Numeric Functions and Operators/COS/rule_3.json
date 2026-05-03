@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "COS_double_evaluator",
+    "right": "\"COS(\"double_evaluator_without_agg \")\""
+}

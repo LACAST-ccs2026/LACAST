@@ -1,0 +1,6 @@
+{
+    "syntax_name": "substring_similar",
+    "raw_syntax_name": "substring ( string text SIMILAR pattern text ESCAPE escape text ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

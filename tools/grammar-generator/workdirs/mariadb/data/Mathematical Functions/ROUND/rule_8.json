@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "ROUND_integer_evaluator",
+    "right": "\"ROUND(\"_var_integer \",\" ROUND_decimals \")\""
+}

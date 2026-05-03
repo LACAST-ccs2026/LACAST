@@ -1,0 +1,5 @@
+{
+    "type_eval": "macaddr8_evaluator_without_agg",
+    "left": "macaddr8_set7bit_evaluator",
+    "right": "\"macaddr8_set7bit(\" _var_macaddr8 \")\""
+}

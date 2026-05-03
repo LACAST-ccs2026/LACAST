@@ -1,0 +1,6 @@
+{
+    "syntax_name": "MINUTE",
+    "raw_syntax_name": "MINUTE(time)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

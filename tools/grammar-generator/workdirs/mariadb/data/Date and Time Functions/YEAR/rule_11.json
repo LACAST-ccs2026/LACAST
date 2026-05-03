@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_YEAR_integer_evaluator",
+    "right": "\"YEAR(\"text_AGG_evaluator \")\""
+}

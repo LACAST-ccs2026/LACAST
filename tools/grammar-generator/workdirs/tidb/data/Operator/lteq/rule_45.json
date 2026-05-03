@@ -1,0 +1,6 @@
+{
+    "idx": 45,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "lteq_boolean_evaluator",
+    "right": "blob_evaluator_without_agg \"<=\" blob_evaluator_without_agg"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CURRENT_TIMESTAMP",
+    "raw_syntax_name": "CURRENT_TIMESTAMP",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

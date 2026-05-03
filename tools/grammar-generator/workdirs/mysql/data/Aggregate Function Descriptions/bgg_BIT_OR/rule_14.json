@@ -1,0 +1,6 @@
+{
+    "idx": 14,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "BIT_OR_integer_evaluator",
+    "right": "\"BIT_OR(\"_var_time \")\""
+}

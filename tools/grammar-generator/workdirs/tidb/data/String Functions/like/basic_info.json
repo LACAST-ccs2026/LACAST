@@ -1,0 +1,7 @@
+{
+    "syntax_name": "like",
+    "raw_syntax_name": "LIKE",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The LIKE operator is used for simple string matching. The expression expr LIKE pat [ESCAPE 'escape_char'] returns 1 (TRUE) or 0 (FALSE). If either expr or pat is NULL, the result is NULL. Wildcards: % matches any number of characters, _ matches exactly one character."
+}

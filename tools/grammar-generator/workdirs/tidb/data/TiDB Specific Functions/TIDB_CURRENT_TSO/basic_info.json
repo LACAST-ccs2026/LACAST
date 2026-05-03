@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_CURRENT_TSO",
+    "raw_syntax_name": "TIDB_CURRENT_TSO",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The TIDB_CURRENT_TSO() function returns the current TSO timestamp."
+}

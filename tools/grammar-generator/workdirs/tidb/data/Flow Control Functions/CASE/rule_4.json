@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "date_evaluator_without_agg",
+    "left": "CASE_date_evaluator",
+    "right": "\"CASE WHEN\" boolean_evaluator_without_agg \"THEN\" _var_date \"ELSE\" date_evaluator_without_agg \"END\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_ASCII_integer_evaluator",
+    "right": "\"ASCII(\" char_AGG_evaluator \")\""
+}

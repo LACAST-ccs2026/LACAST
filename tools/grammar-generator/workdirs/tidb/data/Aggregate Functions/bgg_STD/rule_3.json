@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "double_AGG_evaluator",
+    "left": "STD_double_evaluator",
+    "right": "\"STD(\"boolean_evaluator_without_agg \")\""
+}

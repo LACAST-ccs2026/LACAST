@@ -1,0 +1,6 @@
+{
+    "idx": 30,
+    "type_eval": "time_evaluator_without_agg",
+    "left": "COALESCE_time_evaluator",
+    "right": "\"COALESCE(\"_var_time \")\""
+}

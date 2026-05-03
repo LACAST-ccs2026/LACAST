@@ -1,0 +1,6 @@
+{
+    "syntax_name": "MAKEDATE",
+    "raw_syntax_name": "MAKEDATE(year,dayofyear)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "VITESS_HASH",
+    "raw_syntax_name": "VITESS_HASH",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The VITESS_HASH() function returns a Vitess hash value."
+}

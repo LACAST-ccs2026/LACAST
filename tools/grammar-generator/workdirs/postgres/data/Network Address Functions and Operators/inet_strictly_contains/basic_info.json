@@ -1,0 +1,6 @@
+{
+    "syntax_name": "inet_strictly_contains",
+    "raw_syntax_name": "inet >> inet \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "Network Address Functions and Operators"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 7,
+    "type_eval": "bit_evaluator_without_agg",
+    "left": "agg_ABS_bit_evaluator",
+    "right": "\"ABS(\"bit_AGG_evaluator \")\""
+}

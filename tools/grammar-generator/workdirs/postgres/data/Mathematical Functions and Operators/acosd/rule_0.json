@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "acosd_double_evaluator",
+    "right": "\"acosd(\" _var_double \")\""
+}

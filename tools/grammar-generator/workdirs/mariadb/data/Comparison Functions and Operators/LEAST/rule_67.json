@@ -1,0 +1,5 @@
+{
+    "type_eval": "year_evaluator_without_agg",
+    "left": "agg_LEAST_year_evaluator",
+    "right": "\"LEAST(\"year_AGG_evaluator \",\" _var_year(\",\" _var_year)* \")\""
+}

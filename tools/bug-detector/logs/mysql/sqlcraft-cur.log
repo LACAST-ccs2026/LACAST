@@ -1,0 +1,33 @@
+-- Time: 2026/05/03 17:36:32
+-- Database: sqlcraft
+-- Database version: 8.4.8
+-- seed value: 1777800992047
+DROP DATABASE IF EXISTS sqlcraft;
+CREATE DATABASE sqlcraft;
+USE sqlcraft;
+CREATE TABLE IF NOT EXISTS t0(c0 DOUBLE , c1 DECIMAL  NULL  UNIQUE) ; -- 8ms;
+CREATE TABLE t1 LIKE t0; -- 12ms;
+select TABLE_NAME, ENGINE from information_schema.TABLES where table_schema = 'sqlcraft'; -- 1ms;
+SET GLOBAL autocommit = 1; -- 0ms;
+CREATE INDEX i0 ON t0((LEAST(t0.c1, CAST(1820946081 AS SIGNED)))) VISIBLE ALGORITHM= DEFAULT; -- 8ms;
+ALTER TABLE t1 STATS_AUTO_RECALC 0, STATS_PERSISTENT DEFAULT, PACK_KEYS 0, DROP c1, CHECKSUM 1, COMPRESSION 'NONE', DELAY_KEY_WRITE 0; -- 11ms;
+SET GLOBAL completion_type = 1; -- 1ms;
+ANALYZE NO_WRITE_TO_BINLOG TABLE t0 DROP HISTOGRAM ON c0; -- 1ms;
+select TABLE_NAME, ENGINE from information_schema.TABLES where table_schema = 'sqlcraft'; -- 1ms;
+select TABLE_NAME, ENGINE from information_schema.TABLES where table_schema = 'sqlcraft'; -- 0ms;
+REPLACE DELAYED INTO t0(c1, c0) VALUES(1.820946081E9, 1.820946081E9); -- 2ms;
+CREATE UNIQUE INDEX i1 ON t0((( EXISTS (SELECT 1 wHERE FALSE)) NOT IN ( EXISTS (SELECT 1 wHERE FALSE)))) INVISIBLE; -- 8ms;
+CREATE UNIQUE INDEX i1 ON t0(c0) INVISIBLE ALGORITHM= INPLACE; -- 10ms;
+REPLACE INTO t1(c0) VALUES(NULL); -- 1ms;
+select TABLE_NAME, ENGINE from information_schema.TABLES where table_schema = 'sqlcraft'; -- 0ms;
+select TABLE_NAME, ENGINE from information_schema.TABLES where table_schema = 'sqlcraft'; -- 1ms;
+REPLACE INTO t1(c0) VALUES("1820946081"); -- 1ms;
+select TABLE_NAME, ENGINE from information_schema.TABLES where table_schema = 'sqlcraft'; -- 0ms;
+CREATE UNIQUE INDEX i96 ON t1(c0) INVISIBLE; -- 9ms;
+select TABLE_NAME, ENGINE from information_schema.TABLES where table_schema = 'sqlcraft'; -- 1ms;
+CHECKSUM TABLE t1, t0; -- 1ms;
+REPLACE INTO t1(c0) VALUES(1820946081); -- 2ms;
+select TABLE_NAME, ENGINE from information_schema.TABLES where table_schema = 'sqlcraft'; -- 1ms;
+CHECK TABLE t0, t1 QUICK FOR UPGRADE EXTENDED MEDIUM FAST CHANGED; -- 4ms;
+ALTER TABLE t0 ALGORITHM COPY, STATS_AUTO_RECALC 1, DELAY_KEY_WRITE 0, RENAME AS t2; -- 20ms;
+SET GLOBAL schema_definition_cache = 191386; -- 1ms;

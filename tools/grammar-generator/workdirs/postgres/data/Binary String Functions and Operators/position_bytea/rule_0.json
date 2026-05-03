@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "position_bytea_evaluator",
+    "right": "\"position(\" _var_bytea \" IN \" _var_bytea \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "agg_GROUP_CONCAT",
+    "raw_syntax_name": "group_concat(X)group_concat(X,Y)string_agg(X,Y)",
+    "is_agg": true,
+    "syntax_type": "Aggregate SQL Functions"
+}

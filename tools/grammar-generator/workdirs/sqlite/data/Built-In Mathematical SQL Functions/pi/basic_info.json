@@ -1,0 +1,6 @@
+{
+    "syntax_name": "pi",
+    "raw_syntax_name": "pi()",
+    "is_agg": false,
+    "syntax_type": "Built-In Mathematical SQL Functions"
+}

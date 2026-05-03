@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "NOT_boolean_evaluator",
+    "right": "\"NOT(\"_var_char \")\""
+}

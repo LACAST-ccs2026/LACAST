@@ -1,0 +1,6 @@
+{
+    "syntax_name": "current_timestamp_with_precision",
+    "raw_syntax_name": "current_timestamp ( integer ) \u2192 timestamp with time zone",
+    "is_agg": false,
+    "syntax_type": "Date or Time Functions and Operators"
+}

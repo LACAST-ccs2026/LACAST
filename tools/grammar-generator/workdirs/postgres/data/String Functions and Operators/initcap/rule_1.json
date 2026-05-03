@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "initcap_text_evaluator",
+    "right": "\"initcap(\"character_AGG_evaluator\")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 16,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "ISNULL_integer_evaluator",
+    "right": "\"ISNULL(\"boolean_evaluator_without_agg \")\""
+}

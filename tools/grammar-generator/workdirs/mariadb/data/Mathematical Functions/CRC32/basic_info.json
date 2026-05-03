@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CRC32",
+    "raw_syntax_name": "CRC32(expr)",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions"
+}

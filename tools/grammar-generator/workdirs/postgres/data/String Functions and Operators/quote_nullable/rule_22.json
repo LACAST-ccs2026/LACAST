@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "quote_nullable_text_evaluator",
+    "right": "\"quote_nullable(\"integer_AGG_evaluator\")\""
+}

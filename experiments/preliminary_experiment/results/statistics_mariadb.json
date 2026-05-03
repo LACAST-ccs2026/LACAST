@@ -1,0 +1,10 @@
+{
+    "total_queries": 463,
+    "successful_queries": 435,
+    "accuracy": "93.95%",
+    "avg_generation_speed": "0.1085 queries/second",
+    "avg_prompt_tokens": 247.0,
+    "avg_completion_tokens": 397.4060475161987,
+    "total_prompt_tokens": 114361,
+    "total_completion_tokens": 183999
+}

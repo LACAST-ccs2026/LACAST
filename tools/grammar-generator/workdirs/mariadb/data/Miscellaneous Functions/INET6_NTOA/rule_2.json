@@ -1,0 +1,5 @@
+{
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_INET6_NTOA_char_evaluator",
+    "right": "\"INET6_NTOA(\"blob_AGG_evaluator \")\""
+}

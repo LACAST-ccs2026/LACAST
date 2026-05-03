@@ -1,0 +1,6 @@
+{
+    "idx": 73,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_AND_integer_evaluator",
+    "right": "text_evaluator_without_agg \"AND\" text_AGG_evaluator"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 17,
+    "type_eval": "time_AGG_evaluator",
+    "left": "MIN_time_evaluator",
+    "right": "\"MIN(\"time_evaluator_without_agg \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "total_changes",
+    "raw_syntax_name": "total_changes()",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

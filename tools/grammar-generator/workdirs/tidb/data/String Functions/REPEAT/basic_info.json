@@ -1,0 +1,7 @@
+{
+    "syntax_name": "REPEAT",
+    "raw_syntax_name": "REPEAT()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The REPEAT(str, count) function repeats the string str count times. Returns empty string if count is 0, NULL if any argument is NULL."
+}

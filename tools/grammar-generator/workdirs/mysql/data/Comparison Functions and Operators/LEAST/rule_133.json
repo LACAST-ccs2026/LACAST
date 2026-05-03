@@ -1,0 +1,6 @@
+{
+    "idx": 133,
+    "type_eval": "year_evaluator_without_agg",
+    "left": "LEAST_year_evaluator",
+    "right": "\"LEAST(\"_var_year \",\" year_evaluator_without_agg(\",\" year_evaluator_without_agg)* \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "agg_MAX",
+    "raw_syntax_name": "max(X)",
+    "is_agg": true,
+    "syntax_type": "Aggregate SQL Functions"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 75,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "IFNULL_char_evaluator",
+    "right": "\"IFNULL(\"char_evaluator_without_agg \",\" date_evaluator_without_agg \")\""
+}

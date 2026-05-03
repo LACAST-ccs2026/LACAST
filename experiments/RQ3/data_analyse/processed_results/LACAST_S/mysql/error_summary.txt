@@ -1,0 +1,74 @@
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, -6375084359951360106 )* ) GROUP BY ROUND( c1 , 18 ), IFNULL( '12:17:40' , c0 ' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, 4516359703698815089 )* ) GROUP BY VERSION( ) HAVING CASE WHEN ( SQRT( c1 ) ) ' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time , 2494640579 ) AS field1 FROM t0 WHERE DAY( c2 ) GROUP BY ~( c0 ), '2005-06' at line 1
+1140 (42000): In aggregated query without GROUP BY, expression #1 of SELECT list contains nonaggregated column 'sqlcraft.t0.c0'; this is incompatible with sql_mode=only_full_group_by
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time), IF( ( TRUNCATE( '08:58:04' , '2006-08-20 23:12:07' ) ) , NULL , ( SUBDATE' at line 1
+1054 (42S22): Unknown column 'c1' in 'having clause'
+1055 (42000): Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c3' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, c2 )* ), ( LEAST( c1 , c0 (, c3 )* ) ) >= ( YEAR( ( HEX( ( IFNULL( ( LN( c2 )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time ) AS field1 , CURRENT_TIMESTAMP( ) AS field2 , CONV( "do" , 11 , -26 ) AS f' at line 1
+1055 (42000): Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c2' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, c1 )* ) AS field2 , COT( ( COALESCE( c0 ) ) ) AS field3 , TIMEDIFF( 's' , c3 ' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, c2 )* )  HAVING LN( c3 )  LIMIT 250' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, NULL )* )   ORDER BY ( ANY_VALUE( c1 ) ) DIV ( COALESCE( -3477659800512111015' at line 1
+1055 (42000): Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c3' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1054 (42S22): Unknown column 'c2' in 'having clause'
+1140 (42000): In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'sqlcraft.t0.c0'; this is incompatible with sql_mode=only_full_group_by
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time <=> 3324 ) <> '00:28:12', COALESCE( c1 )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', c1 )* ) ) ) AS field3 FROM t0 WHERE 5990698693626787097 < c0 GROUP BY CONV( 74' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, '2005-04-02' )* )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, 'l' )* ) AS field1 FROM t0 WHERE COALESCE( '22:29:52' ) GROUP BY ACOS( c2 ), ' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ( WEEKOFYEAR( '03:19:09' ) ) )* ) ) ) AS field2 , SUM( c2 ) AS field3 FROM t0 ' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, c0 )* )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', c2 )* ) ) ), DEGREES( c1 ) HAVING CASE WHEN -8893 THEN c3 ELSE ( FLOOR( c1 ) )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, 'g' time)* ) ) ) AS field1 , STDDEV( ( SYSTEM_USER( ) ) ) AS field2 , TO_SECO' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, ( LEAST( c0 , ( IF( c3 , c3 , ( GET_FORMAT(DATE, 'INTERNAL') ) ) ) (, -2647 )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, ( ABS( c3 ) ) )* ) ) ) ) >= c1 ) ) AS field2 , STDDEV_SAMP( ( TIMEDIFF( '2001' at line 1
+1054 (42S22): Unknown column 'c1' in 'having clause'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', c3 )* ) ) )' at line 1
+1055 (42000): Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c0' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1055 (42000): Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c2' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1055 (42000): Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c2' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1054 (42S22): Unknown column 'c2' in 'having clause'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, ( ABS( 2677853740013117273 ) ) )* ) AS field1 FROM t0 WHERE LEAST( ( QUARTER(' at line 1
+1054 (42S22): Unknown column 'c1' in 'having clause'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, c3 )* ) GROUP BY IS_IPV4_COMPAT( c1 ), c3 / -7971824643491880673 HAVING COALE' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', c0 )* ) AS field1 FROM t0 WHERE '2004-11-03' DIV ( IFNULL( ( ANY_VALUE( c3 ) )' at line 1
+1055 (42000): Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c3' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time , INTERVAL 1 MONTH) AS field2 , STDDEV_POP( NULL ) AS field3 , MAX( ( ADDTI' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ( IFNULL( c3 , c1 ) ) )* ) HAVING FROM_UNIXTIME( c3 )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, ( MONTHNAME( c1 ) ) )* )  LIMIT 225' at line 1
+1054 (42S22): Unknown column 'c2' in 'having clause'
+1054 (42S22): Unknown column 'c2' in 'having clause'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time(, c3 time)* , 3267178535697327464 (, ( IFNULL( ( -2882425400543767139 = c2 ' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time ) ) ) ) AS field1 FROM t0' at line 1
+1055 (42000): Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c0' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, ( IF( ( 7720550618932670445 + c0 ) , ( 'e' >> 7325 ) , c0 ) ) )* ) ) ) ) )' at line 1
+1054 (42S22): Unknown column 'c0' in 'having clause'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time , INTERVAL 1 DAY) GROUP BY CEIL( ( ROLES_GRAPHML( ) ) ), YEARWEEK( c0 ) HAV' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time , INTERVAL 1 MONTH) ) , ( RAND( c3 ) ) ) AS field2 , MAX( '2010-09-25 09:22' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, c2 )* )' at line 1
+1054 (42S22): Unknown column 'c1' in 'having clause'
+3065 (HY000): Expression #1 of ORDER BY clause is not in SELECT list, references column 'sqlcraft.t0.c2' which is not in SELECT list; this is incompatible with DISTINCT
+1583 (42000): Incorrect parameters in the call to native function 'add_time'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ( FLOOR( c3 ) ) )* ) ) ) ) ) )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, ( c1 >> 3634191697 ) )* ) AS field1 FROM t0 WHERE LEAST( c2 , c1 (, ( c0 ^ c3' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, c0 )* ) ORDER BY ( TIMESTAMP( ( YEARWEEK( c3 , 1 ) ) , c1 ) ) << c3 LIMIT 119' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', '20:56:52' )* ) ) ) AS field2 , COUNT( ( ASIN( c2 ) ) ) AS field3 FROM t0 WHER' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, 'u' )* ) LIMIT 60' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time ) ) % '10:31:24' ), POWER( '2005-07-23 03:55:31' , '2005-12-25' ) HAVING UT' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time , ( INET6_NTOA( c3 ) ) time ) AS field2 FROM t0  GROUP BY LEAST( 6300110967' at line 1
+1055 (42000): Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c2' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ( c0 DIV c3 ) )* ) HAVING DATE_ADD( c2 , INTERVAL 1 MINUTE) ORDER BY -32140 >>' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, ( IF( NULL , ( LEAST( 1032471708425467688 , c1 (, 3122919593734641710 )* ) ) ' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time , INTERVAL 1 MONTH) ) ) , '%h:%i:%s' ) AS field1 FROM t0  GROUP BY LEAST( (' at line 1
+1054 (42S22): Unknown column 'c2' in 'having clause'
+1054 (42S22): Unknown column 'c0' in 'having clause'
+1054 (42S22): Unknown column 'c0' in 'having clause'
+1054 (42S22): Unknown column 'c2' in 'having clause'
+1054 (42S22): Unknown column 'c2' in 'having clause'
+1055 (42000): Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'sqlcraft.t0.c2' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, ( 172249458 > c0 ) )* ) ) ) AS field1 , IFNULL( c0 , c3 ) AS field2 , LEAST( ' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(, c3 )* ) ) ) ) GROUP BY COALESCE( "in" ) HAVING RAND( c1 )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time , '2017-08-23' ) ) ) ORDER BY ADDTIME( ( RAND( c3 ) ) , c3 ), c2 & '2007-07' at line 1

@@ -1,0 +1,6 @@
+{
+    "idx": 14,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "mod_integer_evaluator",
+    "right": "bit_evaluator_without_agg \"%\" integer_evaluator_without_agg"
+}

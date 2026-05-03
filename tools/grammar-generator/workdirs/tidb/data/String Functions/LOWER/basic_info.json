@@ -1,0 +1,7 @@
+{
+    "syntax_name": "LOWER",
+    "raw_syntax_name": "LOWER()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The LOWER(str) function converts all characters in str to lowercase. Returns NULL if argument is NULL."
+}

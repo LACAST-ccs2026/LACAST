@@ -1,0 +1,6 @@
+{
+    "idx": 21,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_LEAST_integer_evaluator",
+    "right": "\"LEAST(\"_var_bit \",\" integer_AGG_evaluator(\",\" integer_AGG_evaluator)* \")\""
+}

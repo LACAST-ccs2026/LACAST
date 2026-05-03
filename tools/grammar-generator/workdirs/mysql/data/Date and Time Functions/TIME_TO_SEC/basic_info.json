@@ -1,0 +1,6 @@
+{
+    "syntax_name": "TIME_TO_SEC",
+    "raw_syntax_name": "TIME_TO_SEC(time)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

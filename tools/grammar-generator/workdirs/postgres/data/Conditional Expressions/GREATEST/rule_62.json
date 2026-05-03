@@ -1,0 +1,5 @@
+{
+    "type_eval": "inet_evaluator_without_agg",
+    "left": "GREATEST_inet_evaluator",
+    "right": "\"GREATEST(\"_var_inet \",\" _var_inet(\",\" _var_inet)*\")\""
+}

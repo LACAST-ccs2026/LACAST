@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_ISNOTDISTINCTFROM_integer_evaluator",
+    "right": "_var_integer \"IS NOT DISTINCT FROM\" blob_AGG_evaluator"
+}

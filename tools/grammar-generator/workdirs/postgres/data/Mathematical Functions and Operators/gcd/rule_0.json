@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "gcd_integer_evaluator",
+    "right": "\"gcd(\"_var_integer \",\" _var_integer\")\""
+}

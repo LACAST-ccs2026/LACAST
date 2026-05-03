@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "IS_boolean_evaluator",
+    "right": "_var_date \"IS\" IS_boolean_value"
+}

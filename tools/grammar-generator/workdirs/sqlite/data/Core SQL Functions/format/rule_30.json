@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "format_text_evaluator",
+    "right": "\"format(\"_var_text \",\" _var_integer(\",\" _var_integer)* \")\""
+}

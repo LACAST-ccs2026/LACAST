@@ -1,0 +1,6 @@
+{
+    "syntax_name": "right",
+    "raw_syntax_name": "right ( string text, n integer ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

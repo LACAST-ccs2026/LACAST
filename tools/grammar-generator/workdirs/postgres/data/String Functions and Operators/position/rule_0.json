@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "position_integer_evaluator",
+    "right": "\"position(\" _var_text \" IN \" _var_text \")\""
+}

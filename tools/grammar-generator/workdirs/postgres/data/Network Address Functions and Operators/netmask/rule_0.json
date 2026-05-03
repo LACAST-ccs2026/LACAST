@@ -1,0 +1,5 @@
+{
+    "type_eval": "inet_evaluator_without_agg",
+    "left": "netmask_inet_evaluator",
+    "right": "\"netmask(\" _var_inet \")\""
+}

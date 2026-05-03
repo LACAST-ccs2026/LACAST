@@ -1,0 +1,9 @@
+target_dbms: "postgres"
+database_name: "lacast"
+schema_path: "dbms/postgres/postgres.txt"
+max_connections: 1
+db_config:
+  host: "127.0.0.1"
+  port: "5432"
+  username: "postgres"
+  password: "123456"

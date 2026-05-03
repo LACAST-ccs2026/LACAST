@@ -1,0 +1,6 @@
+{
+    "syntax_name": "trim_from",
+    "raw_syntax_name": "trim ( [ LEADING | TRAILING | BOTH ] [ FROM ] string text [, characters text ] ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

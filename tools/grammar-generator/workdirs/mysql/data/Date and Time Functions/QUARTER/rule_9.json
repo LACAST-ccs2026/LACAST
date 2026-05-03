@@ -1,0 +1,6 @@
+{
+    "idx": 9,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_QUARTER_integer_evaluator",
+    "right": "\"QUARTER(\"year_AGG_evaluator \")\""
+}

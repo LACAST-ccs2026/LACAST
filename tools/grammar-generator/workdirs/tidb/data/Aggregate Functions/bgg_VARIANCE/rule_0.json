@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "double_AGG_evaluator",
+    "left": "VARIANCE_double_evaluator",
+    "right": "\"VARIANCE(\"_var_boolean \")\""
+}

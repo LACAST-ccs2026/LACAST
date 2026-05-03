@@ -1,0 +1,6 @@
+{
+    "syntax_name": "SIGN",
+    "raw_syntax_name": "SIGN(X)",
+    "is_agg": false,
+    "syntax_type": "Numeric Functions and Operators"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 42,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "COALESCE_text_evaluator",
+    "right": "\"COALESCE(\"_var_char \",\" text_evaluator_without_agg(\",\" text_evaluator_without_agg)* \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "CURRENT_ROLE",
+    "raw_syntax_name": "CURRENT_ROLE()",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

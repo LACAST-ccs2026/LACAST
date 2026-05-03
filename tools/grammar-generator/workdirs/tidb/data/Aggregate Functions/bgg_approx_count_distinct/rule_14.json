@@ -1,0 +1,6 @@
+{
+  "idx": 14,
+  "type_eval": "integer_AGG_evaluator",
+  "left": "bgg_approx_count_distinct_integer_evaluator",
+  "right": "\"APPROX_COUNT_DISTINCT(\" _var_integer \",\" _var_integer \")\""
+}

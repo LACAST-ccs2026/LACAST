@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "replace_text_evaluator",
+    "right": "\"replace(\"real_evaluator_without_agg \",\" text_evaluator_without_agg \",\" _var_text \")\""
+}

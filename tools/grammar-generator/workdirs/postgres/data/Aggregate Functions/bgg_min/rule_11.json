@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_AGG_evaluator",
+    "left": "min_date_evaluator",
+    "right": "\"min(\"_var_date\")\""
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_AGG_evaluator",
+    "left": "covar_pop_double_evaluator",
+    "right": "\"covar_pop(\"double_evaluator_without_agg \",\" _var_double\")\""
+}

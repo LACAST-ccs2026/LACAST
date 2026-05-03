@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "IS_IPV4_boolean_evaluator",
+    "right": "\"IS_IPV4(\"_var_text \")\""
+}

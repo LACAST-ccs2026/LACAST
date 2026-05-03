@@ -1,0 +1,6 @@
+{
+    "idx": 7,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_ANY_VALUE_boolean_evaluator",
+    "right": "\"ANY_VALUE(\"boolean_AGG_evaluator \")\""
+}

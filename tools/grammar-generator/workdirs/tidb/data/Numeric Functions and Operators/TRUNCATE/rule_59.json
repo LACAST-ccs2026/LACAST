@@ -1,0 +1,6 @@
+{
+    "idx": 59,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "TRUNCATE_integer_evaluator",
+    "right": "\"TRUNCATE(\"_var_boolean \",\" boolean_evaluator_without_agg \")\""
+}

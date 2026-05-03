@@ -1,0 +1,9 @@
+target_dbms: "mariadb"
+database_name: "sqlcraft"
+schema_path: "D:\\PythonProjects\\SQLCraft\\RuleGenerator2\\tools\\configs\\sqlcraft\\mariadb\\schema\\2.sql"
+max_connections: 1
+db_config:
+  host: "127.0.0.1"
+  port: "3307"
+  username: "root"
+  password: "123456"

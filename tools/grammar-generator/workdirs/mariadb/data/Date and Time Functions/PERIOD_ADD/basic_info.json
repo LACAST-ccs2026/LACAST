@@ -1,0 +1,6 @@
+{
+    "syntax_name": "PERIOD_ADD",
+    "raw_syntax_name": "PERIOD_ADD(P,N)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

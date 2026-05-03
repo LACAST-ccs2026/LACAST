@@ -1,0 +1,6 @@
+{
+    "syntax_name": "WEEKOFYEAR",
+    "raw_syntax_name": "WEEKOFYEAR(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

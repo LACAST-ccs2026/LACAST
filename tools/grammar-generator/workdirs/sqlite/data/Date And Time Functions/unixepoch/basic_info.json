@@ -1,0 +1,6 @@
+{
+    "syntax_name": "unixepoch",
+    "raw_syntax_name": "unixepoch",
+    "is_agg": false,
+    "syntax_type": "Date And Time Functions"
+}

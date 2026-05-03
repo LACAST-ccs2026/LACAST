@@ -1,0 +1,7 @@
+{
+    "syntax_name": "RIGHT",
+    "raw_syntax_name": "RIGHT()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The RIGHT(str, len) function returns the rightmost len characters from str."
+}

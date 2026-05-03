@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "between_integer_evaluator",
+    "right": "_var_char \"BETWEEN\" _var_char \"AND\" _var_char"
+}

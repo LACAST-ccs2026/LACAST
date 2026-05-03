@@ -1,0 +1,2 @@
+1139 (42000): Regex error 'missing closing parenthesis at offset 9'
+1139 (42000): Regex error 'missing terminating ] for character class at offset 9'

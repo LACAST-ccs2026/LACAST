@@ -1,0 +1,7 @@
+{
+    "syntax_name": "CHARACTER_LENGTH",
+    "raw_syntax_name": "CHARACTER_LENGTH()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The CHARACTER_LENGTH() function is a synonym for CHAR_LENGTH(). Returns the number of characters in a string. Returns NULL if argument is NULL."
+}

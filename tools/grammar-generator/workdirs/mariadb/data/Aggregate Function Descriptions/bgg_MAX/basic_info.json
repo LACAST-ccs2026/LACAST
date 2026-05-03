@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_MAX",
+    "raw_syntax_name": "MAX([DISTINCT] expr) [over_clause]",
+    "is_agg": true,
+    "syntax_type": "Aggregate Function Descriptions"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "translate",
+    "raw_syntax_name": "translate ( string text, from text, to text ) \u2192 text",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

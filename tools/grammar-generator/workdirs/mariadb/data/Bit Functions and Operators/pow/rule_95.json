@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "pow_integer_evaluator",
+    "right": "datetime_evaluator_without_agg \"^\" datetime_evaluator_without_agg"
+}

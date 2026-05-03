@@ -1,0 +1,8 @@
+1690 (22003): BIGINT UNSIGNED value is out of range in '(<cache>(week('2012-02-06',3)) + ~(hex(`sqlcraft`.`table_3_utf8_undef`.`col_double_key_signed`)))'
+1690 (22003): BIGINT value is out of range in '(~(0.7837856866018377) - -(`f8`))'
+1690 (22003): BIGINT UNSIGNED value is out of range in '((`sqlcraft`.`table_7_utf8_undef`.`col_float_key_unsigned` ^ <cache>(ceiling(-(540615291767474338)))) * <cache>(time_to_sec('17:25:55')))'
+1690 (22003): BIGINT value is out of range in '(`sqlcraft`.`table_7_utf8_undef`.`col_double_key_signed` - ~(`sqlcraft`.`table_7_utf8_undef`.`col_double_key_signed`))'
+1690 (22003): BIGINT UNSIGNED value is out of range in '(cast(`sqlcraft`.`table_7_utf8_undef`.`col_float_key_signed` as char charset binary) DIV `sqlcraft`.`table_7_utf8_undef`.`col_bigint_undef_unsigned`)'
+1690 (22003): BIGINT UNSIGNED value is out of range in '((substr('2002',1) ^ abs(71392198259503818)) * ~(coercibility(`sqlcraft`.`table_3_utf8_undef`.`col_float_undef_signed`)))'
+1690 (22003): BIGINT value is out of range in '(<cache>(collation(`f8`)) - ~(rtrim(`f5`)))'
+1690 (22003): BIGINT UNSIGNED value is out of range in '(`sqlcraft`.`table_7_utf8_undef`.`col_double_undef_signed` DIV `sqlcraft`.`table_7_utf8_undef`.`col_double_key_unsigned`)'

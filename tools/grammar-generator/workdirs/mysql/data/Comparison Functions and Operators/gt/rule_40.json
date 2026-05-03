@@ -1,0 +1,6 @@
+{
+    "idx": 40,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "gt_boolean_evaluator",
+    "right": "integer_evaluator_without_agg \">\" _var_double"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "LOCALTIME",
+    "raw_syntax_name": "LOCALTIME",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

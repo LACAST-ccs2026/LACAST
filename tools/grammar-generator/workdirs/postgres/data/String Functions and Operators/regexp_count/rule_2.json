@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "regexp_count_evaluator",
+    "right": "\"regexp_count( 'Test123Test' , '[0-9]' )\""
+}

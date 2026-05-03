@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "datetime_evaluator_without_agg",
+    "left": "UTC_TIMESTAMP_datetime_evaluator",
+    "right": "\"UTC_TIMESTAMP(\"UTC_TIMESTAMP_fsp \")\""
+}

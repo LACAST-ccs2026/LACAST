@@ -1,0 +1,6 @@
+{
+    "syntax_name": "cosd",
+    "raw_syntax_name": "cosd ( double precision ) \u2192 double precision",
+    "is_agg": false,
+    "syntax_type": "Mathematical Functions and Operators"
+}

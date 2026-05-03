@@ -1,0 +1,5 @@
+{
+    "type_eval": "character_AGG_evaluator",
+    "left": "max_character_evaluator",
+    "right": "\"max(\"character_evaluator_without_agg\")\""
+}

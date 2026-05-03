@@ -1,0 +1,6 @@
+{
+    "idx": 14,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "WEEK_integer_evaluator",
+    "right": "\"WEEK(\"_var_year \",\" WEEK_mode \")\""
+}

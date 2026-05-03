@@ -1,0 +1,5 @@
+{
+    "type_eval": "uuid_evaluator_without_agg",
+    "left": "NULLIF_uuid_evaluator",
+    "right": "\"NULLIF(\"_var_uuid \",\" uuid_evaluator_without_agg\")\""
+}

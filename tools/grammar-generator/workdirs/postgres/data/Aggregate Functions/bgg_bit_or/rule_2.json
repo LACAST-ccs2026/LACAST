@@ -1,0 +1,5 @@
+{
+    "type_eval": "bit_AGG_evaluator",
+    "left": "bit_or_bit_evaluator",
+    "right": "\"bit_or(\"bit_evaluator_without_agg\")\""
+}

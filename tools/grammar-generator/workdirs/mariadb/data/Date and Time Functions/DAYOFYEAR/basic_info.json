@@ -1,0 +1,6 @@
+{
+    "syntax_name": "DAYOFYEAR",
+    "raw_syntax_name": "DAYOFYEAR(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

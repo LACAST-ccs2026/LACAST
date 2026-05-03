@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "COALESCE_text_evaluator",
+    "right": "\"COALESCE(\"_var_char \",\" _var_text(\",\" _var_text)* \")\""
+}

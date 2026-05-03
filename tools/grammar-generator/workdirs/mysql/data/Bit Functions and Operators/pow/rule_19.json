@@ -1,0 +1,6 @@
+{
+    "idx": 19,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_pow_blob_evaluator",
+    "right": "_var_char \"^\" text_AGG_evaluator"
+}

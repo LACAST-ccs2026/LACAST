@@ -1,0 +1,6 @@
+{
+    "idx": 1,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "IFNULL_integer_evaluator",
+    "right": "\"IFNULL(\"_var_integer \",\" integer_evaluator_without_agg \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 139,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_eq_boolean_evaluator",
+    "right": "blob_evaluator_without_agg \"=\" blob_AGG_evaluator"
+}

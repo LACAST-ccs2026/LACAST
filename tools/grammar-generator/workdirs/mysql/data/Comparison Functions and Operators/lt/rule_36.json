@@ -1,0 +1,6 @@
+{
+    "idx": 36,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "lt_boolean_evaluator",
+    "right": "date_evaluator_without_agg \"<\" _var_date"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 13,
+    "type_eval": "text_AGG_evaluator",
+    "left": "JSON_ARRAYAGG_text_evaluator",
+    "right": "\"JSON_ARRAYAGG(\"time_evaluator_without_agg \")\""
+}

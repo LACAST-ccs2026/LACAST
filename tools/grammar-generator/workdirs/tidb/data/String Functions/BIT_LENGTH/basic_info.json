@@ -1,0 +1,7 @@
+{
+    "syntax_name": "BIT_LENGTH",
+    "raw_syntax_name": "BIT_LENGTH()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The BIT_LENGTH() function returns the length of a given argument in bits. Returns NULL if argument is NULL."
+}

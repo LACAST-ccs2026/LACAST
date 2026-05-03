@@ -1,0 +1,6 @@
+{
+    "syntax_name": "ifnull",
+    "raw_syntax_name": "ifnull(X,Y)",
+    "is_agg": false,
+    "syntax_type": "Core SQL Functions"
+}

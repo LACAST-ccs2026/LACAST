@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_count",
+    "raw_syntax_name": "count ( * ) \u2192 bigint",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

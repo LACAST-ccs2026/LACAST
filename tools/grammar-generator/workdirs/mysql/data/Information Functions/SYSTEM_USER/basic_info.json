@@ -1,0 +1,6 @@
+{
+    "syntax_name": "SYSTEM_USER",
+    "raw_syntax_name": "SYSTEM_USER()",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

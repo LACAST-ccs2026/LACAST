@@ -1,0 +1,6 @@
+{
+    "idx": 90,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "div_integer_evaluator",
+    "right": "_var_integer \"/\" _var_integer"
+}

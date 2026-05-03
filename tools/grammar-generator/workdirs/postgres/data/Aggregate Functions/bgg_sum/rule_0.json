@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_AGG_evaluator",
+    "left": "sum_integer_evaluator",
+    "right": "\"sum(\"integer_evaluator_without_agg\")\""
+}

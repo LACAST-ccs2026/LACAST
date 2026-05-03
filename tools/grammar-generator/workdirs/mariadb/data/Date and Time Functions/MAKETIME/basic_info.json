@@ -1,0 +1,6 @@
+{
+    "syntax_name": "MAKETIME",
+    "raw_syntax_name": "MAKETIME(hour,minute,second)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

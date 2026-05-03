@@ -1,0 +1,7 @@
+{
+    "syntax_name": "ELT",
+    "raw_syntax_name": "ELT()",
+    "is_agg": false,
+    "syntax_type": "String Functions",
+    "syntax_info": "The ELT() function returns the element at the specified index from the list of strings. Returns NULL if index is out of range or NULL."
+}

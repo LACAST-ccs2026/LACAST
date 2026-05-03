@@ -1,0 +1,7 @@
+{
+    "syntax_name": "pipes_or",
+    "raw_syntax_name": "||",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Logical OR operator. Returns true if either operand is true."
+}

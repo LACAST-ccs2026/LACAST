@@ -1,0 +1,6 @@
+{
+    "idx": 19,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "XOR_integer_evaluator",
+    "right": "_var_text \"XOR\" text_evaluator_without_agg"
+}

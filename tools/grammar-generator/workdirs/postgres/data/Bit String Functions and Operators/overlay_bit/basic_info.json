@@ -1,0 +1,6 @@
+{
+    "syntax_name": "overlay_bit",
+    "raw_syntax_name": "overlay ( bits bit PLACING newsubstring bit FROM start integer [ FOR count integer ] ) \u2192 bit",
+    "is_agg": false,
+    "syntax_type": "Bit String Functions and Operators"
+}

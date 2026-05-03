@@ -1,0 +1,5 @@
+{
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "zeroblob_blob_evaluator",
+    "right": "\"zeroblob(\"_var_numeric \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_POWER_double_evaluator",
+    "right": "\"POWER(\"char_AGG_evaluator \",\" _var_char \")\""
+}

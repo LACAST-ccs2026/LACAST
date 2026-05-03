@@ -1,0 +1,6 @@
+{
+    "syntax_name": "macaddr8_set7bit",
+    "raw_syntax_name": "macaddr8_set7bit ( macaddr8 ) \u2192 macaddr8",
+    "is_agg": false,
+    "syntax_type": "Network Address Functions and Operators"
+}

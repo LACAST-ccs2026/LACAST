@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "text_evaluator_without_agg",
+    "left": "ROLES_GRAPHML_text_evaluator",
+    "right": "\"ROLES_GRAPHML(\" \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "bgg_bool_and",
+    "raw_syntax_name": "bool_and ( boolean ) \u2192 boolean",
+    "is_agg": true,
+    "syntax_type": "Aggregate Functions"
+}

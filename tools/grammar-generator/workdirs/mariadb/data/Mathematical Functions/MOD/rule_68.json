@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_MOD_double_evaluator",
+    "right": "\"MOD(\"bit_evaluator_without_agg \",\" double_AGG_evaluator \")\""
+}

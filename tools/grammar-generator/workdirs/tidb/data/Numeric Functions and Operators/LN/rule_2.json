@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "LN_double_evaluator",
+    "right": "\"LN(\"bit_evaluator_without_agg \")\""
+}

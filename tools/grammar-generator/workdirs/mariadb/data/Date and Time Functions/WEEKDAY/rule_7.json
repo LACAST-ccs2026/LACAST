@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "WEEKDAY_integer_evaluator",
+    "right": "\"WEEKDAY(\"text_evaluator_without_agg \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 3,
+    "type_eval": "bit_AGG_evaluator",
+    "left": "MIN_bit_evaluator",
+    "right": "\"MIN(\"bit_evaluator_without_agg \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 8,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "RADIANS_double_evaluator",
+    "right": "\"RADIANS(\"_var_char \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "TIMESTAMP",
+    "raw_syntax_name": "TIMESTAMP(expr)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

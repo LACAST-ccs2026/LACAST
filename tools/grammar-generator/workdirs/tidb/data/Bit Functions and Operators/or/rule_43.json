@@ -1,0 +1,6 @@
+{
+    "idx": 43,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_or_integer_evaluator",
+    "right": "boolean_AGG_evaluator \"|\" _var_boolean"
+}

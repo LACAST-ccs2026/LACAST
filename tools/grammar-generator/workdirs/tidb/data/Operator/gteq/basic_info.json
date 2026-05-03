@@ -1,0 +1,6 @@
+{
+    "syntax_name": "gteq",
+    "raw_syntax_name": ">=",
+    "is_agg": false,
+    "syntax_type": "Operator"
+}

@@ -1,0 +1,6 @@
+{
+    "syntax_name": "TIMESTAMPDIFF",
+    "raw_syntax_name": "TIMESTAMPDIFF(unit,datetime_expr1,datetime_expr2)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

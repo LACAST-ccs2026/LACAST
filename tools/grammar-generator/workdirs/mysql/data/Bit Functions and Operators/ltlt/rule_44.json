@@ -1,0 +1,6 @@
+{
+    "idx": 44,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "ltlt_char_evaluator",
+    "right": "_var_char \"<<\" boolean_evaluator_without_agg"
+}

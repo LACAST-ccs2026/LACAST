@@ -1,0 +1,6 @@
+{
+    "idx": 10,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "sub_double_evaluator",
+    "right": "integer_evaluator_without_agg \"-\" double_evaluator_without_agg"
+}

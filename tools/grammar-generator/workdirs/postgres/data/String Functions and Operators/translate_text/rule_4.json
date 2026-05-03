@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "translate_text_evaluator",
+    "right": "\"translate(\" character_evaluator_without_agg \",\" character_evaluator_without_agg \",\" _var_character \")\""
+}

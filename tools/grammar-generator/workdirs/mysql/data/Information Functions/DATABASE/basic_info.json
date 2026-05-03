@@ -1,0 +1,6 @@
+{
+    "syntax_name": "DATABASE",
+    "raw_syntax_name": "DATABASE()",
+    "is_agg": false,
+    "syntax_type": "Information Functions"
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "abs_integer_evaluator",
+    "right": "\"abs(\"integer_AGG_evaluator\")\""
+}

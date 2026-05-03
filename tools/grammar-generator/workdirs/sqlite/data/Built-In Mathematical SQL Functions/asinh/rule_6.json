@@ -1,0 +1,5 @@
+{
+    "type_eval": "real_evaluator_without_agg",
+    "left": "agg_asinh_real_evaluator",
+    "right": "\"asinh(\"integer_AGG_evaluator \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 2,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_TIDB_PARSE_TSO_LOGICAL_integer_evaluator",
+    "right": "\"TIDB_PARSE_TSO_LOGICAL(\" integer_AGG_evaluator \")\""
+}

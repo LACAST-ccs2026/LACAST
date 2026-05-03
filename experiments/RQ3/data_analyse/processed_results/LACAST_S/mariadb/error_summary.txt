@@ -1,0 +1,62 @@
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, 3596829069 )* ) LIMIT 36' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( IS_IPV4( ( TAN( c1 ) ) ) ) )* ) ) ) HAVING MAKEDATE( ( HOUR( ( INET_ATON...' at line 1
+1054 (42S22): Unknown column '10081' in 'ORDER BY'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, 'z' time)* ) ) ) ) = -11922 AS field2 FROM t0 WHERE CASE WHEN c0 THEN ( CO...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( SECOND( NULL ) ) )* ) ) ) AS field1 FROM t0 WHERE -2759796659113807241 <...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' ( EXTRACT(MONTH FROM ( LAST_DAY( c2 ) ) ) ) )* ) ORDER BY PERIOD_ADD(202302,...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, '2003-05-07 08:30:16' )* ) ) ) AS field1 , ROUND( c1 ) AS field2 , VARIANC...' at line 1
+1583 (42000): Incorrect parameters in the call to native function 'ADDTIME'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 726074155 )* ) ) ) ) , 'b' , ( FROM_UNIXTIME( 6213 ) ) )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' ( SUBDATE( 1416302507 , '04:51:55' ) ) )* ) GROUP BY c0 >> ( c0 >> c0 ), MOD...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 8930118414081083967 )* )  ORDER BY UTC_TIME(3 ), c3 * 989359100828075348' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( IFNULL( c2 , c3 ) ) )* )' at line 1
+1054 (42S22): Unknown column 'c1' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' ( ( COALESCE( -32019 ) ) << ( c3 = 'c' ) ) )* ) ) ) , c0 )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( SIGN( '2005-10-05' ) ) )* ), UTC_TIME( )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time <=> c0 ) ) AS field1 , STDDEV_SAMP( c3 ) AS field2 , COALESCE( ( RAND( (...' at line 1
+1054 (42S22): Unknown column 'c0' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time IS NOT TRUE )' at line 1
+1054 (42S22): Unknown column 'c2' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' c2 )* ) HAVING TO_SECONDS( c3 time ) ORDER BY DATE( NULL ) LIMIT 28' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, c2 )* ), RAND( )' at line 1
+1583 (42000): Incorrect parameters in the call to native function 'UNIX_TIMESTAMP'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' ( TO_SECONDS( '2017-09-24' ) ) )* ) AS field3 , MAX( ( TAN( c0 ) ) ) AS fiel...' at line 1
+1583 (42000): Incorrect parameters in the call to native function 'WEEKOFYEAR'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time ) ) , 'e' ) AS field2 FROM t0  GROUP BY 6821074591318153566 DIV ( IS_IPV...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '2018-11-21' )* ) ) ) ) ) AS field3 , MAX( '03:40:42' ) AS field4 , SUM( 123...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' ( DAYNAME( 't' ) ) )* ) ) , 282653164 ), LEAST( c3 , c1 (, ( RAND( ) ) )* )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 4290471521 )* ) HAVING c3 ^ ( 1912595495260562836 & c2 ) ORDER BY MOD( ( COA...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time , INTERVAL 1 MINUTE), DAYOFMONTH( c0 )' at line 1
+1054 (42S22): Unknown column 'c2' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, "yes" )* ) AS field2 FROM t0    ORDER BY WEEK( c0 , 4 )' at line 1
+1054 (42S22): Unknown column 'c2' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' ( TRUNCATE( ( 1746709887566965320 >> ( IS_IPV6( 8713226788114170919 ) ) ) , ...' at line 1
+1054 (42S22): Unknown column 'c1' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' c2 )* )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' NULL )* ) HAVING CASE WHEN ( ( SQRT( ( IFNULL( 1834115529178310764 , 'w' ) )...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' ( BIT_COUNT( ( -6933802834126522660 LIKE '%' ) ) ) )* ) ORDER BY CURDATE( )' at line 1
+1054 (42S22): Unknown column 'c0' in 'HAVING'
+1054 (42S22): Unknown column 'c1' in 'HAVING'
+1054 (42S22): Unknown column 'c1' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, "but" )* )  ORDER BY WEEKOFYEAR( ( LEAST( ( ( DAYOFMONTH( c0 ) ) * ( USER(...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time ) ) ) AS field3 FROM t0 WHERE IS_IPV4_COMPAT( ( BINARY( 2242134356421147...' at line 1
+1054 (42S22): Unknown column 'c1' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time , INTERVAL 1 MINUTE) AS field2 , UTC_TIME( ) AS field3 , DEGREES( ( SUBD...' at line 1
+1054 (42S22): Unknown column 'c1' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time ) ORDER BY WEEKDAY( 'o' )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( CONVERT_TZ( ( MOD( '01:26:16' , 3513844287 ) ) , '-04:30' , 'GMT' ) ) )*...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' ( CASE WHEN c3 THEN ( COALESCE( ( NULLIF( c0 , 1181795025 ) ) , c1 (, -5974 ...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time ) AS field1 , VAR_SAMP( '2019-10-02 22:00:18' ) AS field2 , GREATEST( '2...' at line 1
+1054 (42S22): Unknown column 'c2' in 'HAVING'
+1054 (42S22): Unknown column 'c0' in 'HAVING'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' c0 )* )   ORDER BY UNIX_TIMESTAMP( '2013-12-07 11:36:03' ), ABS( c0 )' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time, ( CONVERT( c0 , SIGNED ) ) time) AS field2 FROM t0    ORDER BY FLOOR( '...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( YEARWEEK( ( FROM_UNIXTIME( 't' , '%Y %D %M %h:%i:%s %x') ) ) ) )* ) AS f...' at line 1
+1583 (42000): Incorrect parameters in the call to native function 'ADDTIME'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'time , INTERVAL 1 MINUTE) LIMIT 60' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( TRUNCATE( c2 , ( LEAST( "we" , ( INET6_NTOA( c1 ) ) (, ( DEGREES( 312613...' at line 1
+1583 (42000): Incorrect parameters in the call to native function 'NULLIF'
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( COALESCE( c2 ) ) )* ) ORDER BY 4159670969 NOT LIKE '_', ADDTIME( '2018-0...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( TIME_FORMAT( NULL , '%f' ) ) )* ), COALESCE( ( DATE_FORMAT( c3 , '%W %M ...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, c2 )* ) ) XOR '2004-06-01 15:17:24' ) , -3723 ) AS field2 , ( SYSDATE(2) )...' at line 1
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(, ( ATAN2( ( TO_SECONDS( c3 ) ) , c0 ) ) )* ) AS field2 , SIGN( 3269347676 )...' at line 1

@@ -1,0 +1,6 @@
+{
+    "idx": 27,
+    "type_eval": "boolean_evaluator_without_agg",
+    "left": "agg_not_boolean_evaluator",
+    "right": "\"!(\"blob_AGG_evaluator \")\""
+}

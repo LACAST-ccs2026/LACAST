@@ -1,0 +1,6 @@
+{
+    "idx": 22,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "IS_UUID_integer_evaluator",
+    "right": "\"IS_UUID(\"_var_year \")\""
+}

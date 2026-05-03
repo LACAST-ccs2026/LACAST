@@ -1,0 +1,7 @@
+{
+    "syntax_name": "not_between",
+    "raw_syntax_name": "expr NOT BETWEEN min AND max",
+    "is_agg": false,
+    "syntax_type": "Operator",
+    "syntax_info": "Checks whether a value is not within a range. Syntax: expr NOT BETWEEN min AND max. Returns 1 if expr is not between min and max, 0 otherwise."
+}

@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_evaluator_without_agg",
+    "left": "agg_TAN_double_evaluator",
+    "right": "\"TAN(\"boolean_AGG_evaluator \")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 10,
+    "type_eval": "double_evaluator_without_agg",
+    "left": "ASIN_double_evaluator",
+    "right": "\"ASIN(\"_var_text \")\""
+}

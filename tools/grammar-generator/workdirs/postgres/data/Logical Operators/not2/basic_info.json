@@ -1,0 +1,6 @@
+{
+    "syntax_name": "not2",
+    "raw_syntax_name": "NOT boolean \u2192 boolean",
+    "is_agg": false,
+    "syntax_type": "Logical Operators"
+}

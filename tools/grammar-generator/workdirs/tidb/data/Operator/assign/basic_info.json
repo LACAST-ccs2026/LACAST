@@ -1,0 +1,7 @@
+{
+  "syntax_name": "assign",
+  "raw_syntax_name": ":=",
+  "is_agg": false,
+  "syntax_type": "Operator",
+  "syntax_info": "Assignment operator. Causes the user variable on the left hand side of the operator to take on the value to its right."
+}

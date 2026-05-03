@@ -1,0 +1,6 @@
+{
+    "syntax_name": "strftime",
+    "raw_syntax_name": "strftime(_format, time-value, modifier, modifier, ...)",
+    "is_agg": false,
+    "syntax_type": "Date And Time Functions"
+}

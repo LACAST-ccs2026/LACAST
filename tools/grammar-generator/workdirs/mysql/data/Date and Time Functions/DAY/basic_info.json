@@ -1,0 +1,6 @@
+{
+    "syntax_name": "DAY",
+    "raw_syntax_name": "DAY(date)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

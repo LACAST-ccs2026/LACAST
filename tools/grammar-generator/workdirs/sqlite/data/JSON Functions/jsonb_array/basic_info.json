@@ -1,0 +1,6 @@
+{
+    "syntax_name": "jsonb_array",
+    "raw_syntax_name": "jsonb_array(_value1_, _value2_, ...)",
+    "is_agg": false,
+    "syntax_type": "JSON Functions"
+}

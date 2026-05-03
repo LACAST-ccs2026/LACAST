@@ -1,0 +1,6 @@
+{
+    "syntax_name": "pg_client_encoding",
+    "raw_syntax_name": "pg_client_encoding ( ) \u2192 name",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

@@ -1,0 +1,7 @@
+{
+    "syntax_name": "TIDB_PARSE_TSO",
+    "raw_syntax_name": "TIDB_PARSE_TSO",
+    "is_agg": false,
+    "syntax_type": "TiDB Specific Functions",
+    "syntax_info": "The TIDB_PARSE_TSO(tso) function parses a TSO timestamp."
+}

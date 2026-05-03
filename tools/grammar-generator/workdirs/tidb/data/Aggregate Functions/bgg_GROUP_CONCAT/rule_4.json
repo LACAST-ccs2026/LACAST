@@ -1,0 +1,6 @@
+{
+    "idx": 4,
+    "type_eval": "text_AGG_evaluator",
+    "left": "GROUP_CONCAT_text_evaluator",
+    "right": "\"GROUP_CONCAT(\"_var_boolean \")\""
+}

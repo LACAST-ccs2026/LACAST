@@ -1,0 +1,6 @@
+{
+    "syntax_name": "IFNULL",
+    "raw_syntax_name": "IFNULL(expr1,expr2)",
+    "is_agg": false,
+    "syntax_type": "Flow Control Functions"
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 276,
+    "type_eval": "blob_evaluator_without_agg",
+    "left": "agg_IF_blob_evaluator",
+    "right": "\"IF(\"boolean_AGG_evaluator \",\" _var_blob \",\" _var_blob \")\""
+}

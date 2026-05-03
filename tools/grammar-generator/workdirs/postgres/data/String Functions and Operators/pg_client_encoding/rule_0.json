@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "pg_client_encoding_text_evaluator",
+    "right": "\"pg_client_encoding(\"\")\""
+}

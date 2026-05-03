@@ -1,0 +1,7 @@
+{
+  "INT": "integer",
+  "VARCHAR": "text",
+  "FLOAT": "double",
+  "DOUBLE": "double",
+  "DECIMAL": "double"
+}

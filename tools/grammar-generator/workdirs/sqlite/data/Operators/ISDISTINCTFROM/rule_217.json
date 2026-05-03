@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_ISDISTINCTFROM_integer_evaluator",
+    "right": "numeric_AGG_evaluator \"IS DISTINCT FROM\" blob_AGG_evaluator"
+}

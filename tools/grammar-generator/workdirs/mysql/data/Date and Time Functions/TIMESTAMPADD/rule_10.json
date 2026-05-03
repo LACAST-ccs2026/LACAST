@@ -1,0 +1,6 @@
+{
+    "idx": 10,
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "agg_TIMESTAMPADD_timestamp_evaluator",
+    "right": "\"TIMESTAMPADD(\"TIMESTAMPADD_unit \",\" integer_AGG_evaluator \",\" timestamp_evaluator_without_agg \")\""
+}

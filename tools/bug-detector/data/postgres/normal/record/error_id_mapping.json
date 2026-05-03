@@ -1,0 +1,14 @@
+{
+    "cannot OR bit strings of different sizes\n": {
+        "id": "def66f66-121b-4a2f-9358-4b99e735d473",
+        "count": 1
+    },
+    "cannot XOR bit strings of different sizes\n": {
+        "id": "26145bf9-41b2-421f-ace2-7b5dfd2d5ec6",
+        "count": 1
+    },
+    "cannot AND bit strings of different sizes\n": {
+        "id": "c4c14d25-30e3-4cd8-a1f6-91c922567834",
+        "count": 1
+    }
+}

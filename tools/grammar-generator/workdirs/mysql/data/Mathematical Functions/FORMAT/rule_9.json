@@ -1,0 +1,6 @@
+{
+    "idx": 9,
+    "type_eval": "char_evaluator_without_agg",
+    "left": "agg_FORMAT_char_evaluator",
+    "right": "\"FORMAT(\"char_AGG_evaluator \",\" FORMAT_D \")\""
+}

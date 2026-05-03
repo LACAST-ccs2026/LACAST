@@ -1,0 +1,6 @@
+{
+    "syntax_name": "get_byte",
+    "raw_syntax_name": "get_byte ( bytes bytea, n integer ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "Binary String Functions and Operators"
+}

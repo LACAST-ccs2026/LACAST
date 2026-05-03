@@ -1,0 +1,6 @@
+{
+    "syntax_name": "IF",
+    "raw_syntax_name": "IF(expr1,expr2,expr3)",
+    "is_agg": false,
+    "syntax_type": "Flow Control Functions"
+}

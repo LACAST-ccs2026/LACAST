@@ -1,0 +1,6 @@
+{
+    "idx": 69,
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_TRUNCATE_integer_evaluator",
+    "right": "\"TRUNCATE(\"integer_AGG_evaluator \",\" _var_bit \")\""
+}

@@ -1,0 +1,9 @@
+target_dbms: "tidb"
+database_name: "sqlcraft"
+schema_path: "D:\\PythonProjects\\SQLCraft\\RuleGenerator2\\tools\\configs\\sqlcraft\\tidb\\schema\\2.sql"
+max_connections: 1
+db_config:
+  host: "172.20.163.66"
+  port: "4000"
+  username: "root"
+  password: "123456"

@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "agg_YEARWEEK_integer_evaluator",
+    "right": "\"YEARWEEK(\"year_AGG_evaluator \",\" YEARWEEK_mode \")\""
+}

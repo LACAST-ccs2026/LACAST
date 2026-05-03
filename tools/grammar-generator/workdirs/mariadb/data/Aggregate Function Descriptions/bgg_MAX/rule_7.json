@@ -1,0 +1,5 @@
+{
+    "type_eval": "double_AGG_evaluator",
+    "left": "MAX_double_evaluator",
+    "right": "\"MAX(\"_var_double \")\""
+}

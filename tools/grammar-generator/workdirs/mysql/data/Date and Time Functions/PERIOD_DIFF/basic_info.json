@@ -1,0 +1,6 @@
+{
+    "syntax_name": "PERIOD_DIFF",
+    "raw_syntax_name": "PERIOD_DIFF(P1,P2)",
+    "is_agg": false,
+    "syntax_type": "Date and Time Functions"
+}

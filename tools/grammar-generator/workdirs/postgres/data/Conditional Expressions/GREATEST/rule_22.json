@@ -1,0 +1,5 @@
+{
+    "type_eval": "character_evaluator_without_agg",
+    "left": "GREATEST_character_evaluator",
+    "right": "\"GREATEST(\"character_AGG_evaluator \",\" character_AGG_evaluator(\",\" character_AGG_evaluator)*\")\""
+}

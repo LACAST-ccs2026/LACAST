@@ -1,0 +1,5 @@
+{
+    "type_eval": "integer_evaluator_without_agg",
+    "left": "IF_integer_evaluator",
+    "right": "\"IF(\"_var_boolean \",\" integer_evaluator_without_agg \",\" integer_evaluator_without_agg \")\""
+}

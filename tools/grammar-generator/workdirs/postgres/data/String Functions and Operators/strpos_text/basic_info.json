@@ -1,0 +1,6 @@
+{
+    "syntax_name": "strpos_text",
+    "raw_syntax_name": "strpos ( string text, substring text ) \u2192 integer",
+    "is_agg": false,
+    "syntax_type": "String Functions and Operators"
+}

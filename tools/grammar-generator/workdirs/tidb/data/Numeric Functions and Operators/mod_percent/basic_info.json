@@ -1,0 +1,7 @@
+{
+  "syntax_name": "mod_percent",
+  "raw_syntax_name": "N % M",
+  "is_agg": false,
+  "syntax_type": "Numeric Functions and Operators",
+  "syntax_info": "Modulo operator. Returns the remainder of N divided by M."
+}

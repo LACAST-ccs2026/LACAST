@@ -1,0 +1,5 @@
+{
+    "type_eval": "date_evaluator_without_agg",
+    "left": "agg_DATE_date_evaluator",
+    "right": "\"DATE(\"char_AGG_evaluator \")\""
+}

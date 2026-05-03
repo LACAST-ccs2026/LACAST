@@ -1,0 +1,6 @@
+{
+    "idx": 7,
+    "type_eval": "text_AGG_evaluator",
+    "left": "JSON_ARRAYAGG_text_evaluator",
+    "right": "\"JSON_ARRAYAGG(\"double_evaluator_without_agg \")\""
+}

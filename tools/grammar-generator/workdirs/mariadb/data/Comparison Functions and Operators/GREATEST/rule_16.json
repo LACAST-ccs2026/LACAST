@@ -1,0 +1,5 @@
+{
+    "type_eval": "text_evaluator_without_agg",
+    "left": "GREATEST_text_evaluator",
+    "right": "\"GREATEST(\"char_evaluator_without_agg \",\" _var_text(\",\" _var_text)* \")\""
+}

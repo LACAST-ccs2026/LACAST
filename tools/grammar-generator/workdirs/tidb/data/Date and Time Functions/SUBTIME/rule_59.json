@@ -1,0 +1,6 @@
+{
+    "idx": 59,
+    "type_eval": "timestamp_evaluator_without_agg",
+    "left": "agg_SUBTIME_timestamp_evaluator",
+    "right": "\"SUBTIME(\"_var_timestamp \",\" text_AGG_evaluator \")\""
+}

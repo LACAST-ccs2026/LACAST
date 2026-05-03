@@ -1,0 +1,5 @@
+{
+    "type_eval": "bit_evaluator_without_agg",
+    "left": "NULLIF_bit_evaluator",
+    "right": "\"NULLIF(\"_var_bit \",\" bit_AGG_evaluator\")\""
+}

@@ -1,0 +1,6 @@
+{
+    "idx": 0,
+    "type_eval": "integer_AGG_evaluator",
+    "left": "SUM_integer_evaluator",
+    "right": "\"SUM(\"_var_integer \")\""
+}
